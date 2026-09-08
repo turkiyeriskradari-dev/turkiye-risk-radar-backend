@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T14:52:22.447206+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-08T15:03:41.572088+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "QjMDupxdiGrLK",
@@ -472,16 +472,6 @@
       "latitude": 38.6742,
       "longitude": 40.6463,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "t2STUTiqhYjRB",
-      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-07 18:02:32",
-      "latitude": 38.3498,
-      "longitude": 37.3607,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
