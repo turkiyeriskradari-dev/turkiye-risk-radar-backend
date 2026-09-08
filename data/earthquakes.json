@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T18:26:45.943727+00:00",
-  "record_count": 40,
+  "last_updated": "2026-09-08T18:40:57.529807+00:00",
+  "record_count": 39,
   "data": [
     {
       "id": "42dqkVyE7wHSZ",
@@ -392,16 +392,6 @@
       "latitude": 36.114,
       "longitude": 27.308,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "yFb4BjH58r1YL",
-      "title": "KUCAK-PATNOS (AGRI)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-07 21:31:12",
-      "latitude": 39.0065,
-      "longitude": 42.8695,
-      "location_name": "Bitlis"
     }
   ]
 }
