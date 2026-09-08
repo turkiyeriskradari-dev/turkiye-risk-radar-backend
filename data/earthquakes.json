@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T15:52:25.147616+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-08T16:02:43.249007+00:00",
+  "record_count": 43,
   "data": [
     {
       "id": "QjMDupxdiGrLK",
@@ -432,16 +432,6 @@
       "latitude": 39.2377,
       "longitude": 28.1207,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "PTstUvftDpxrs",
-      "title": "DUDEN-YESILOVA (BURDUR)",
-      "magnitude": 1.2,
-      "depth_km": 14.5,
-      "date_utc": "2026-09-07 19:00:40",
-      "latitude": 37.567,
-      "longitude": 29.5435,
-      "location_name": "Burdur"
     }
   ]
 }
