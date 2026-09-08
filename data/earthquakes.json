@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T19:47:23.176728+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-08T20:02:08.770218+00:00",
+  "record_count": 43,
   "data": [
     {
       "id": "AqfX3Vlp129lm",
@@ -432,16 +432,6 @@
       "latitude": 39.3607,
       "longitude": 39.0962,
       "location_name": "Tunceli"
-    },
-    {
-      "id": "VfcoD0Ri7C8OZ",
-      "title": "TEKEDERESI-PUTURGE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 13.3,
-      "date_utc": "2026-09-07 22:49:54",
-      "latitude": 38.1707,
-      "longitude": 38.5958,
-      "location_name": "Adıyaman"
     }
   ]
 }
