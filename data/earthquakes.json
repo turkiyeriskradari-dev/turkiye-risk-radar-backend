@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T20:49:11.840283+00:00",
+  "last_updated": "2026-09-08T21:01:57.749310+00:00",
   "record_count": 42,
   "data": [
+    {
+      "id": "PGYEzSU7QuDTi",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.7,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-08 23:46:03",
+      "latitude": 38.7545,
+      "longitude": 36.5393,
+      "location_name": "Kayseri"
+    },
     {
       "id": "b7yS4Z1a5VQfW",
       "title": "YESILVADI-SERIK (ANTALYA)",
@@ -411,16 +421,6 @@
       "date_utc": "2026-09-08 00:03:45",
       "latitude": 34.74,
       "longitude": 27.537,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "pawkO_F4jGQ0w",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 3.7,
-      "depth_km": 15.7,
-      "date_utc": "2026-09-07 23:58:53",
-      "latitude": 34.5017,
-      "longitude": 27.1932,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
