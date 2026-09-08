@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T15:03:41.572088+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-08T15:25:54.518957+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "QjMDupxdiGrLK",
@@ -462,16 +462,6 @@
       "latitude": 39.1828,
       "longitude": 28.1935,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "NkaWZIH_4Cwnf",
-      "title": "CEVIRME-GENC (BINGOL)",
-      "magnitude": 1.4,
-      "depth_km": 2.5,
-      "date_utc": "2026-09-07 18:20:40",
-      "latitude": 38.6742,
-      "longitude": 40.6463,
-      "location_name": "Bingöl"
     }
   ]
 }
