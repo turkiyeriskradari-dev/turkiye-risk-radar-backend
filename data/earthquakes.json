@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T13:37:15.545102+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-08T13:51:37.258002+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "PY2roBXrVF0Lw",
@@ -452,16 +452,6 @@
       "latitude": 38.3498,
       "longitude": 37.3607,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "WqchtCn86VkV_",
-      "title": "BAGLARBASI-YALVAC (ISPARTA)",
-      "magnitude": 2,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-07 16:45:53",
-      "latitude": 38.4088,
-      "longitude": 31.1463,
-      "location_name": "Isparta"
     }
   ]
 }
