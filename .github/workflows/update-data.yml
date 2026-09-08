@@ -1,0 +1,52 @@
+name: Veri Guncelleme
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu checkout et
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bagimliliklari yukle
+        run: pip install -r requirements.txt
+
+      - name: Deprem verisini cek
+        run: python scripts/fetch_earthquakes.py
+
+      - name: Orman yangini verisini cek
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
+        run: python scripts/fetch_wildfires.py
+
+      - name: Hava kalitesi verisini cek
+        run: python scripts/fetch_air_quality.py
+        continue-on-error: true
+
+      - name: Meteorolojik uyari verisini cek
+        run: python scripts/fetch_weather_alerts.py
+        continue-on-error: true
+
+      - name: Baraj doluluk verisini cek
+        run: python scripts/fetch_reservoirs.py
+        continue-on-error: true
+
+      - name: Degisiklikleri commit ve push et
+        run: |
+          git config --global user.name "risk-radar-bot"
+          git config --global user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Otomatik veri guncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
