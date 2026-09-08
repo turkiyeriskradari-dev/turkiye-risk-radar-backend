@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T23:02:18.015600+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-08T23:21:12.421078+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "aoqBdpbeko3ub",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1.6,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-09 01:25:48",
+      "latitude": 39.213,
+      "longitude": 29.0327,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "0jjdYrH8HgntY",
+      "title": "ULUKOY-(MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-09 01:13:59",
+      "latitude": 38.159,
+      "longitude": 38.5758,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "cjyi31Cq1Wcyj",
+      "title": "YORUKKARACAOREN-ODUNPAZARI (ESKISEHIR)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-09 01:08:51",
+      "latitude": 39.7783,
+      "longitude": 30.7107,
+      "location_name": "Eskişehir"
+    },
     {
       "id": "MOzGIOqOdaOvs",
       "title": "DUZLEN-(MANISA)",
