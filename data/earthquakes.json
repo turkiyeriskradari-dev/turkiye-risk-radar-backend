@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T21:32:58.547163+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-08T21:47:50.457161+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "cnop5S1PwwXBB",
+      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.7,
+      "depth_km": 1.6,
+      "date_utc": "2026-09-09 00:33:41",
+      "latitude": 38.1072,
+      "longitude": 37.8618,
+      "location_name": "Malatya"
+    },
     {
       "id": "9EqLC2MP3Z_7g",
       "title": "BEHRAMLI-DOGANYOL (MALATYA)",
