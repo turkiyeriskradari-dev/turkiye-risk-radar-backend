@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T19:02:43.243869+00:00",
-  "record_count": 39,
+  "last_updated": "2026-09-08T19:21:36.044157+00:00",
+  "record_count": 41,
   "data": [
+    {
+      "id": "zBKwunFUNTZRA",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 13.3,
+      "date_utc": "2026-09-08 22:12:26",
+      "latitude": 39.23,
+      "longitude": 29.005,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "aFjfsvUwBVLm3",
+      "title": "CESME (IZMIR)",
+      "magnitude": 2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-08 21:41:33",
+      "latitude": 38.3033,
+      "longitude": 26.2793,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "hN0BIJDmQtt6s",
+      "title": "KORUCAK-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.7,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-08 21:16:42",
+      "latitude": 38.0875,
+      "longitude": 38.3703,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "HyigXetKMgOx4",
       "title": "ALTINTAS-CELIKHAN (ADIYAMAN)",
@@ -382,16 +412,6 @@
       "latitude": 38.1707,
       "longitude": 38.5958,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "38HKZQVFSvUFx",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-07 22:15:09",
-      "latitude": 39.2627,
-      "longitude": 28.997,
-      "location_name": "Kütahya"
     }
   ]
 }
