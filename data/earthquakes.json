@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T18:02:29.927791+00:00",
-  "record_count": 42,
+  "last_updated": "2026-09-08T18:26:45.943727+00:00",
+  "record_count": 40,
   "data": [
     {
       "id": "42dqkVyE7wHSZ",
@@ -402,26 +402,6 @@
       "latitude": 39.0065,
       "longitude": 42.8695,
       "location_name": "Bitlis"
-    },
-    {
-      "id": "2x59DOWmgHZrB",
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.1,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-07 21:23:15",
-      "latitude": 39.123,
-      "longitude": 28.335,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "Qvgam5DN0F5xi",
-      "title": "SUGUL-DARENDE (MALATYA)",
-      "magnitude": 2,
-      "depth_km": 6,
-      "date_utc": "2026-09-07 21:09:31",
-      "latitude": 38.4273,
-      "longitude": 37.5003,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
