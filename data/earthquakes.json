@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T21:01:57.749310+00:00",
-  "record_count": 42,
+  "last_updated": "2026-09-08T21:20:56.442216+00:00",
+  "record_count": 44,
   "data": [
+    {
+      "id": "9EqLC2MP3Z_7g",
+      "title": "BEHRAMLI-DOGANYOL (MALATYA)",
+      "magnitude": 1,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-08 23:47:58",
+      "latitude": 38.2805,
+      "longitude": 39.146,
+      "location_name": "Diyarbakır"
+    },
     {
       "id": "PGYEzSU7QuDTi",
       "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
@@ -22,6 +32,26 @@
       "latitude": 37.2082,
       "longitude": 31.1208,
       "location_name": "Antalya"
+    },
+    {
+      "id": "vX5GPyBiBZPYb",
+      "title": "YAYGIN-(MALATYA)",
+      "magnitude": 1,
+      "depth_km": 14.2,
+      "date_utc": "2026-09-08 22:38:07",
+      "latitude": 38.2845,
+      "longitude": 38.5128,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "q1Ae_WKuxtywr",
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 18,
+      "date_utc": "2026-09-08 22:36:29",
+      "latitude": 39.1375,
+      "longitude": 28.2533,
+      "location_name": "Balıkesir"
     },
     {
       "id": "AqfX3Vlp129lm",
@@ -412,16 +442,6 @@
       "latitude": 37.5598,
       "longitude": 35.572,
       "location_name": "Adana"
-    },
-    {
-      "id": "rCFJatcPWkOre",
-      "title": "AKDENIZ",
-      "magnitude": 2.8,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-08 00:03:45",
-      "latitude": 34.74,
-      "longitude": 27.537,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
