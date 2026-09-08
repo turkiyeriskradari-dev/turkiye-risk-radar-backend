@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T15:38:48.643628+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-08T15:52:25.147616+00:00",
+  "record_count": 44,
   "data": [
     {
       "id": "QjMDupxdiGrLK",
@@ -442,16 +442,6 @@
       "latitude": 37.567,
       "longitude": 29.5435,
       "location_name": "Burdur"
-    },
-    {
-      "id": "CgTIEvDW_onWg",
-      "title": "TAVAS (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 2.7,
-      "date_utc": "2026-09-07 18:43:47",
-      "latitude": 37.6053,
-      "longitude": 29.068,
-      "location_name": "Denizli"
     }
   ]
 }
