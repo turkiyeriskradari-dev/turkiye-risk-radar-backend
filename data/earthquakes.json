@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T14:03:01.526058+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-08T14:25:38.961263+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "QjMDupxdiGrLK",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.3,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-08 17:08:32",
+      "latitude": 37.8467,
+      "longitude": 26.9712,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "4aZHmL8Oy58_X",
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 13.8,
+      "date_utc": "2026-09-08 17:05:11",
+      "latitude": 39.1455,
+      "longitude": 28.201,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "a8_EOxsLnmaQH",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 20.3,
+      "date_utc": "2026-09-08 15:34:47",
+      "latitude": 39.091,
+      "longitude": 28.319,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "PY2roBXrVF0Lw",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
