@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T20:35:43.167758+00:00",
-  "record_count": 43,
+  "last_updated": "2026-09-08T20:49:11.840283+00:00",
+  "record_count": 42,
   "data": [
     {
       "id": "b7yS4Z1a5VQfW",
@@ -422,16 +422,6 @@
       "latitude": 34.5017,
       "longitude": 27.1932,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "t2SQ0qwX5_yPe",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 2,
-      "depth_km": 12,
-      "date_utc": "2026-09-07 23:41:25",
-      "latitude": 39.2627,
-      "longitude": 28.9487,
-      "location_name": "Kütahya"
     }
   ]
 }
