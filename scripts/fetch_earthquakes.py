@@ -24,6 +24,11 @@ OUTPUT_FILE = "earthquakes.json"
 TR_BBOX = {"min_lat": 34.0, "max_lat": 43.0, "min_lon": 25.0, "max_lon": 45.0}
 
 
+# API zaman icinde alan adini degistirmis olabilir; bu yuzden tarih icin
+# birden fazla olasi anahtar deneniyor (ilk bulunan kullanilir).
+POSSIBLE_DATE_KEYS = ["date", "date_time", "tarih", "created_at", "time"]
+
+
 def normalize_record(raw):
     """
     Kaynaktan gelen ham kaydi, uygulamamizin standart deprem formatina cevirir.
@@ -35,12 +40,18 @@ def normalize_record(raw):
         coords = geojson.get("coordinates", [None, None])
         lon, lat = coords[0], coords[1]
 
+        date_value = None
+        for key in POSSIBLE_DATE_KEYS:
+            if raw.get(key):
+                date_value = raw.get(key)
+                break
+
         return {
             "id": raw.get("earthquake_id") or raw.get("_id"),
             "title": raw.get("title"),
             "magnitude": raw.get("mag"),
             "depth_km": raw.get("depth"),
-            "date_utc": raw.get("date"),
+            "date_utc": date_value,
             "latitude": lat,
             "longitude": lon,
             "location_name": (raw.get("location_properties", {}) or {})
@@ -67,6 +78,15 @@ def fetch():
         raw_list = payload.get("result", [])
         normalized = [normalize_record(r) for r in raw_list]
         normalized = [r for r in normalized if r and in_turkey_bbox(r)]
+
+        # Teshis: hicbir kayitta tarih bulunamadiysa, ham verinin anahtarlarini
+        # hata loguna yazalim ki gercek alan adini gorebilelim.
+        if normalized and all(r.get("date_utc") is None for r in normalized) and raw_list:
+            sample_keys = list(raw_list[0].keys())
+            save_error_fallback(
+                OUTPUT_FILE, SOURCE_NAME,
+                f"TESHIS: tarih alani bulunamadi. Ham kaydin anahtarlari: {sample_keys}"
+            )
 
         save_json(OUTPUT_FILE, normalized, SOURCE_NAME)
 
