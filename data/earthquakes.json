@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T17:02:12.439485+00:00",
-  "record_count": 43,
+  "last_updated": "2026-09-08T17:23:29.843020+00:00",
+  "record_count": 42,
   "data": [
+    {
+      "id": "42dqkVyE7wHSZ",
+      "title": "BESKARIS-ALTINTAS (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 4.3,
+      "date_utc": "2026-09-08 17:25:57",
+      "latitude": 39.0042,
+      "longitude": 30.2058,
+      "location_name": "Kütahya"
+    },
     {
       "id": "QjMDupxdiGrLK",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -412,26 +422,6 @@
       "latitude": 38.4273,
       "longitude": 37.5003,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "jchPRWLFybhbJ",
-      "title": "TOZLUCA-ASKALE (ERZURUM)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-07 20:17:45",
-      "latitude": 39.7125,
-      "longitude": 40.664,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "tJcph272d6emN",
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 5,
-      "date_utc": "2026-09-07 20:02:54",
-      "latitude": 39.2377,
-      "longitude": 28.1207,
-      "location_name": "Balıkesir"
     }
   ]
 }
