@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T01:02:35.573423+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-09T01:22:46.648674+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "BcExh_pj3nFXE",
+      "title": "KARAKURT-KIRKAGAC (MANISA)",
+      "magnitude": 2.6,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-09 03:30:40",
+      "latitude": 39.1118,
+      "longitude": 27.781,
+      "location_name": "Manisa"
+    },
     {
       "id": "H5ATVstfC7x2E",
       "title": "AKDENIZ",
