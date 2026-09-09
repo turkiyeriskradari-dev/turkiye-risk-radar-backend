@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T16:50:57.451224+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-09T17:02:08.052262+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "4x4ZwFcrJkGMc",
+      "title": "UZUNARK-PASINLER (ERZURUM)",
+      "magnitude": 1.6,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-09 19:40:27",
+      "latitude": 39.8815,
+      "longitude": 41.784,
+      "location_name": "Erzurum"
+    },
     {
       "id": "57HtSmEPUBu30",
       "title": "SINDIRGI (BALIKESIR)",
@@ -12,6 +22,16 @@
       "latitude": 39.2327,
       "longitude": 28.1762,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "mVOnASMtNyJ6U",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 6.8,
+      "date_utc": "2026-09-09 19:18:13",
+      "latitude": 38.9563,
+      "longitude": 26.0212,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "nFW_px_Sxiq7a",
