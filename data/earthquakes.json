@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T13:25:15.859530+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-09T13:37:36.251376+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "iNQHf2u5Oh4g0",
+      "title": "CAMLICA-YATAGAN (MUGLA)",
+      "magnitude": 1.9,
+      "depth_km": 0,
+      "date_utc": "2026-09-09 16:18:19",
+      "latitude": 37.2027,
+      "longitude": 27.9775,
+      "location_name": "Muğla"
+    },
     {
       "id": "DU634lLtUJs6g",
       "title": "KAYADERE-MILAS (MUGLA)",
