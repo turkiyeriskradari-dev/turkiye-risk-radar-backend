@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T20:23:24.259122+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-09T20:35:32.249576+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "ZsEtRkPK03wEd",
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-09 23:02:18",
+      "latitude": 38.0433,
+      "longitude": 37.5867,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "y1QBPHg6ZOMoY",
       "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
