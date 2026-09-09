@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T03:23:17.916148+00:00",
-  "record_count": 43,
+  "last_updated": "2026-09-09T03:36:33.320281+00:00",
+  "record_count": 41,
   "data": [
     {
       "id": "BcExh_pj3nFXE",
@@ -412,26 +412,6 @@
       "latitude": 41.6187,
       "longitude": 43.5782,
       "location_name": "Gürcistan"
-    },
-    {
-      "id": "c9UGfvxmMxY_Z",
-      "title": "SENIR-KECIBORLU (ISPARTA)",
-      "magnitude": 1.4,
-      "depth_km": 14,
-      "date_utc": "2026-09-08 06:29:40",
-      "latitude": 37.79,
-      "longitude": 30.2932,
-      "location_name": "Burdur"
-    },
-    {
-      "id": "Amrdx4om4vIDi",
-      "title": "AVCILARSUYU-ARSUZ (HATAY)",
-      "magnitude": 1.5,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-08 06:23:27",
-      "latitude": 36.3233,
-      "longitude": 35.945,
-      "location_name": "Hatay"
     }
   ]
 }
