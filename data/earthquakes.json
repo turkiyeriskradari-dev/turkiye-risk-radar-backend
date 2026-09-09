@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T05:49:08.019854+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-09T06:02:38.344058+00:00",
+  "record_count": 43,
   "data": [
+    {
+      "id": "6R81uxTTZJMPL",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 2.1,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-09 08:27:52",
+      "latitude": 37.7822,
+      "longitude": 36.0937,
+      "location_name": "Adana"
+    },
     {
       "id": "gPWPVlQEQUIMg",
       "title": "KARACAYIR-KULUNCAK (MALATYA)",
@@ -422,26 +432,6 @@
       "latitude": 40.0785,
       "longitude": 43.3933,
       "location_name": "Iğdır"
-    },
-    {
-      "id": "02b1VYVDtWUUR",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 2.1,
-      "date_utc": "2026-09-08 08:52:42",
-      "latitude": 37.9147,
-      "longitude": 26.9333,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "sTNP696NgAqGq",
-      "title": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-08 08:48:58",
-      "latitude": 38.1233,
-      "longitude": 36.5835,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
