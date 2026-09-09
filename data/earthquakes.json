@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T03:02:26.344350+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-09T03:23:17.916148+00:00",
+  "record_count": 43,
   "data": [
     {
       "id": "BcExh_pj3nFXE",
@@ -432,16 +432,6 @@
       "latitude": 36.3233,
       "longitude": 35.945,
       "location_name": "Hatay"
-    },
-    {
-      "id": "x9DvQYKQ8Lmfq",
-      "title": "CANTIRLI-BEYPAZARI (ANKARA)",
-      "magnitude": 2.2,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-08 06:21:48",
-      "latitude": 40.1535,
-      "longitude": 31.775,
-      "location_name": "Ankara"
     }
   ]
 }
