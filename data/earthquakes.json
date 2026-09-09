@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T13:08:31.720554+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-09T13:25:15.859530+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "DU634lLtUJs6g",
+      "title": "KAYADERE-MILAS (MUGLA)",
+      "magnitude": 2.4,
+      "depth_km": 0,
+      "date_utc": "2026-09-09 16:14:58",
+      "latitude": 37.1872,
+      "longitude": 27.9265,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "xrxGLtzOwMz35",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 17.6,
+      "date_utc": "2026-09-09 15:41:15",
+      "latitude": 39.0828,
+      "longitude": 28.2852,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "zGWYprYKYei4F",
       "title": "ARSLANBEY-PAZARCIK (KAHRAMANMARAS)",
