@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T18:39:49.165395+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-09T18:50:27.142601+00:00",
+  "record_count": 75,
   "data": [
     {
       "id": "sENv3kOqeuq0m",
@@ -22,6 +22,26 @@
       "latitude": 39.6022,
       "longitude": 28.1005,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "tpAnCPkEJujwE",
+      "title": "EGE DENIZI",
+      "magnitude": 1.9,
+      "depth_km": 14.5,
+      "date_utc": "2026-09-09 20:50:02",
+      "latitude": 40.5603,
+      "longitude": 25.6825,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "KQ5SekHciLFrN",
+      "title": "DEREKOY-KORKUTELI (ANTALYA)",
+      "magnitude": 1.7,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-09 20:42:35",
+      "latitude": 37.1045,
+      "longitude": 30.128,
+      "location_name": "Antalya"
     },
     {
       "id": "UMRilIP4TuqWG",
@@ -732,16 +752,6 @@
       "latitude": 39.2355,
       "longitude": 28.122,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "aFjfsvUwBVLm3",
-      "title": "CESME (IZMIR)",
-      "magnitude": 2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-08 21:41:33",
-      "latitude": 38.3033,
-      "longitude": 26.2793,
-      "location_name": "İzmir"
     }
   ]
 }
