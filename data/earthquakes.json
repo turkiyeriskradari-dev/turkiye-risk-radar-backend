@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T09:02:06.743579+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-09T09:19:39.745400+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "MyONoxSrSTdUN",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2.3,
+      "depth_km": 8.9,
+      "date_utc": "2026-09-09 11:56:20",
+      "latitude": 38.996,
+      "longitude": 26.0488,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "05aUIoQ3W2khS",
       "title": "SAHINYURDU-GEMLIK (BURSA)",
