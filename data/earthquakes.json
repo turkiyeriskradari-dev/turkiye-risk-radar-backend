@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-08T23:47:00.345747+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-09T00:03:23.022142+00:00",
+  "record_count": 49,
   "data": [
     {
       "id": "E1nrxcHjlMGYk",
@@ -492,16 +492,6 @@
       "latitude": 36.012,
       "longitude": 27.3297,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "qh83fBLRrL491",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 14.6,
-      "date_utc": "2026-09-08 02:51:17",
-      "latitude": 39.1993,
-      "longitude": 28.1692,
-      "location_name": "Balıkesir"
     }
   ]
 }
