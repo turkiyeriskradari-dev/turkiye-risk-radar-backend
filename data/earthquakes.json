@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T11:49:26.022989+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-09T12:02:33.722486+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "JrkHRdsKLUkmM",
@@ -602,16 +602,6 @@
       "latitude": 39.2322,
       "longitude": 28.9847,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "EQognK3TwEbSU",
-      "title": "ORDEKLI-SARIZ (KAYSERI)",
-      "magnitude": 1.2,
-      "depth_km": 20.9,
-      "date_utc": "2026-09-08 15:00:34",
-      "latitude": 38.3405,
-      "longitude": 36.5263,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
