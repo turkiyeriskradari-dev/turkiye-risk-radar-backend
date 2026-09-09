@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T08:50:49.745274+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-09T09:02:06.743579+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "05aUIoQ3W2khS",
@@ -12,6 +12,16 @@
       "latitude": 40.469,
       "longitude": 29.1987,
       "location_name": "Bursa"
+    },
+    {
+      "id": "nEbFGrnfWjdwI",
+      "title": "DUZAGAC-KOZAN (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-09 11:20:53",
+      "latitude": 37.6093,
+      "longitude": 35.8165,
+      "location_name": "Adana"
     },
     {
       "id": "XRxxCD2zhI75C",
