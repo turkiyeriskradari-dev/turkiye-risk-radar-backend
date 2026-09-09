@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T02:02:27.530748+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-09T02:23:53.155485+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "BcExh_pj3nFXE",
@@ -472,16 +472,6 @@
       "latitude": 38.1602,
       "longitude": 38.3973,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "q6YFP6WTcs2DO",
-      "title": "KARAKOZAN-SELENDI (MANISA)",
-      "magnitude": 1.5,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-08 05:10:42",
-      "latitude": 38.8213,
-      "longitude": 29.0888,
-      "location_name": "Kütahya"
     }
   ]
 }
