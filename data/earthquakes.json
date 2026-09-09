@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T09:50:42.456214+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-09T10:02:30.353865+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "hftj5pJcmLKmI",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-09-09 12:50:02",
+      "latitude": 36.2583,
+      "longitude": 33.7477,
+      "location_name": "Mersin"
+    },
+    {
+      "id": "1Xp90xkyXo0jp",
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "magnitude": 0.9,
+      "depth_km": 0,
+      "date_utc": "2026-09-09 12:42:13",
+      "latitude": 36.2598,
+      "longitude": 33.6878,
+      "location_name": "Mersin"
+    },
     {
       "id": "tGKV8pvA1sGM5",
       "title": "DEMIRLI-KAMAN (KIRSEHIR)",
@@ -542,16 +562,6 @@
       "latitude": 40.2507,
       "longitude": 31.823,
       "location_name": "Ankara"
-    },
-    {
-      "id": "I6ApRPBOjsNmE",
-      "title": "KULA-TUZLUCA (IGDIR)",
-      "magnitude": 2.2,
-      "depth_km": 4.6,
-      "date_utc": "2026-09-08 12:51:48",
-      "latitude": 40.0785,
-      "longitude": 43.3933,
-      "location_name": "Iğdır"
     }
   ]
 }
