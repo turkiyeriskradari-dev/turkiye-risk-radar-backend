@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T07:06:08.945067+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-09T07:24:16.146446+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "eKIb6pr6k2r0_",
+      "title": "KADINCIK-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-09 09:30:47",
+      "latitude": 37.3763,
+      "longitude": 37.1343,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "sEYhhcvup3zrD",
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
