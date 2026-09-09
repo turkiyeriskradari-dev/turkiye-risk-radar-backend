@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T21:02:08.545568+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-09T21:20:59.324839+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "e9jqlidf4C9FV",
+      "title": "AKDENIZ",
+      "magnitude": 2.1,
+      "depth_km": 17.6,
+      "date_utc": "2026-09-10 00:11:22",
+      "latitude": 35.3653,
+      "longitude": 28.578,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "98ZPQ_NJtR_Zd",
+      "title": "EGE DENIZI",
+      "magnitude": 2.8,
+      "depth_km": 104,
+      "date_utc": "2026-09-10 00:03:39",
+      "latitude": 36.3313,
+      "longitude": 26.5478,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "GO3b5Ryjwt39o",
       "title": "DONGEL-(KAHRAMANMARAS)",
