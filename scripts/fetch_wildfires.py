@@ -3,13 +3,13 @@ Orman yangini / sicak nokta verisi: NASA FIRMS (Fire Information for Resource
 Management System) resmi API'si.
 
 KURULUM GEREKLI:
-1. https://firms.modis.gov/api/area/ adresinden ucretsiz bir MAP_KEY alin
-   (NASA Earthdata hesabi ile kayit gerekiyor, tamamen ucretsiz).
+1. https://firms.modaps.eosdis.nasa.gov/api/area/ adresinden ucretsiz bir
+   MAP_KEY alin (NASA Earthdata hesabi ile kayit gerekiyor, tamamen ucretsiz).
 2. Bu anahtari GitHub reposunda "Settings > Secrets and variables > Actions"
    kismina FIRMS_MAP_KEY adiyla ekleyin.
 3. GitHub Actions workflow'u bu secret'i ortam degiskeni olarak scripte gecirir.
 
-Kaynak: https://firms.modis.gov/api/area/csv/{MAP_KEY}/{SENSOR}/{AREA}/{DAY_RANGE}
+Kaynak: https://firms.modaps.eosdis.nasa.gov/api/area/csv/{MAP_KEY}/{SENSOR}/{AREA}/{DAY_RANGE}
 """
 import csv
 import io
@@ -28,7 +28,7 @@ TR_AREA = "25,34,45,43"
 # Son kac gunun verisi cekilsin (FIRMS max 10 gune kadar destekliyor)
 DAY_RANGE = 1
 
-API_URL = f"https://firms.modis.gov/api/area/csv/{MAP_KEY}/VIIRS_SNPP_NRT/{TR_AREA}/{DAY_RANGE}"
+API_URL = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{MAP_KEY}/VIIRS_SNPP_NRT/{TR_AREA}/{DAY_RANGE}"
 
 # Guven skoru bu esigin altindaki noktalari (duman/bulut kaynakli yanlis
 # pozitifleri elemek icin) filtreden geciriyoruz. FIRMS confidence alani
