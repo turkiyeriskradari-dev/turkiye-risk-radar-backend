@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T01:50:10.738290+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-09T02:02:27.530748+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "BcExh_pj3nFXE",
@@ -482,16 +482,6 @@
       "latitude": 38.8213,
       "longitude": 29.0888,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "O3cRrOUPyzsIL",
-      "title": "CEVIZLI-CAMELI (DENIZLI)",
-      "magnitude": 1.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-08 04:59:09",
-      "latitude": 36.9858,
-      "longitude": 29.2907,
-      "location_name": "Denizli"
     }
   ]
 }
