@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T02:23:53.155485+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-09T02:36:06.418260+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "BcExh_pj3nFXE",
@@ -462,16 +462,6 @@
       "latitude": 39.2797,
       "longitude": 25.7103,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "fHbB8mS7mYZB_",
-      "title": "SALKONAK-YESILYURT (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 15.1,
-      "date_utc": "2026-09-08 05:23:37",
-      "latitude": 38.1602,
-      "longitude": 38.3973,
-      "location_name": "Adıyaman"
     }
   ]
 }
