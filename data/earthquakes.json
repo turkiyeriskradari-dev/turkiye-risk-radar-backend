@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T04:02:16.813687+00:00",
-  "record_count": 41,
+  "last_updated": "2026-09-09T04:23:50.514216+00:00",
+  "record_count": 43,
   "data": [
+    {
+      "id": "VgY4nKWKf2UVk",
+      "title": "GURLEYIK-DALAMAN (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-09 04:33:40",
+      "latitude": 36.8993,
+      "longitude": 29.0712,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "xvGKADEl0dQIJ",
+      "title": "BAKIR-KIRKAGAC (MANISA)",
+      "magnitude": 1.1,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-09 04:20:25",
+      "latitude": 39.107,
+      "longitude": 27.7332,
+      "location_name": "Manisa"
+    },
     {
       "id": "BcExh_pj3nFXE",
       "title": "KARAKURT-KIRKAGAC (MANISA)",
