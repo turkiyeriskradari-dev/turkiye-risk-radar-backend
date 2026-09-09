@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T10:24:11.035219+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-09T10:36:51.675406+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "_VOfBc4K30roD",
@@ -32,6 +32,16 @@
       "latitude": 39.2332,
       "longitude": 28.1637,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "005T5KM36zBo3",
+      "title": "TEPEKOY-BALA (ANKARA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-09 12:51:15",
+      "latitude": 39.3547,
+      "longitude": 33.4162,
+      "location_name": "Kırıkkale"
     },
     {
       "id": "hftj5pJcmLKmI",
