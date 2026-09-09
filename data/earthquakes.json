@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T11:02:11.141725+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-09T11:23:31.949877+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "pT6kRogmyFQJD",
@@ -612,16 +612,6 @@
       "latitude": 38.4027,
       "longitude": 37.9743,
       "location_name": "Malatya"
-    },
-    {
-      "id": "Xl0Q3HMOsV6ug",
-      "title": "DOGANYURT-BEYPAZARI (ANKARA)",
-      "magnitude": 2.2,
-      "depth_km": 9.6,
-      "date_utc": "2026-09-08 14:10:04",
-      "latitude": 40.2507,
-      "longitude": 31.823,
-      "location_name": "Ankara"
     }
   ]
 }
