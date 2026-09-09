@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T22:34:09.670835+00:00",
+  "last_updated": "2026-09-09T22:47:38.040760+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "OBwcRyuCp6rsN",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 01:23:21",
+      "latitude": 38.754,
+      "longitude": 36.5592,
+      "location_name": "Kayseri"
+    },
     {
       "id": "e9jqlidf4C9FV",
       "title": "AKDENIZ",
@@ -652,16 +662,6 @@
       "latitude": 39.1772,
       "longitude": 27.7632,
       "location_name": "Manisa"
-    },
-    {
-      "id": "E1nrxcHjlMGYk",
-      "title": "KARAKUZU-ALIAGA (IZMIR)",
-      "magnitude": 1.7,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-09 01:39:26",
-      "latitude": 38.7552,
-      "longitude": 27.1165,
-      "location_name": "İzmir"
     }
   ]
 }
