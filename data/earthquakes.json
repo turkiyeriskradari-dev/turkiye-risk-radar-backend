@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T12:57:38.251500+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-09T13:08:31.720554+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "zGWYprYKYei4F",
+      "title": "ARSLANBEY-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 2.8,
+      "depth_km": 6.7,
+      "date_utc": "2026-09-09 15:38:50",
+      "latitude": 37.354,
+      "longitude": 37.0538,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "X3AkJXf1tAw8a",
       "title": "GUMUSKOL-ULUBEY (USAK)",
