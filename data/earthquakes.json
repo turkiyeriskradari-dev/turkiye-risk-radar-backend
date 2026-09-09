@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T20:02:10.851719+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-09T20:23:24.259122+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "y1QBPHg6ZOMoY",
@@ -692,16 +692,6 @@
       "latitude": 38.7545,
       "longitude": 36.5393,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "b7yS4Z1a5VQfW",
-      "title": "YESILVADI-SERIK (ANTALYA)",
-      "magnitude": 2.5,
-      "depth_km": 107.2,
-      "date_utc": "2026-09-08 23:10:22",
-      "latitude": 37.2082,
-      "longitude": 31.1208,
-      "location_name": "Antalya"
     }
   ]
 }
