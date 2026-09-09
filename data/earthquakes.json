@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T20:35:32.249576+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-09T20:48:22.456164+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "GO3b5Ryjwt39o",
+      "title": "DONGEL-(KAHRAMANMARAS)",
+      "magnitude": 1.9,
+      "depth_km": 9.5,
+      "date_utc": "2026-09-09 23:39:14",
+      "latitude": 37.8645,
+      "longitude": 36.6622,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "fJ_1aqwu_0fTl",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 0.8,
+      "depth_km": 12,
+      "date_utc": "2026-09-09 23:30:27",
+      "latitude": 39.2495,
+      "longitude": 29.0095,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "7VGJQiO0OC7H6",
+      "title": "ELMALI-YEDISU (BINGOL)",
+      "magnitude": 2.4,
+      "depth_km": 4.1,
+      "date_utc": "2026-09-09 23:20:27",
+      "latitude": 39.3772,
+      "longitude": 40.6522,
+      "location_name": "Bingöl"
+    },
     {
       "id": "ZsEtRkPK03wEd",
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
@@ -682,26 +712,6 @@
       "latitude": 38.1072,
       "longitude": 37.8618,
       "location_name": "Malatya"
-    },
-    {
-      "id": "9EqLC2MP3Z_7g",
-      "title": "BEHRAMLI-DOGANYOL (MALATYA)",
-      "magnitude": 1,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-08 23:47:58",
-      "latitude": 38.2805,
-      "longitude": 39.146,
-      "location_name": "Diyarbakır"
-    },
-    {
-      "id": "PGYEzSU7QuDTi",
-      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.7,
-      "depth_km": 6.1,
-      "date_utc": "2026-09-08 23:46:03",
-      "latitude": 38.7545,
-      "longitude": 36.5393,
-      "location_name": "Kayseri"
     }
   ]
 }
