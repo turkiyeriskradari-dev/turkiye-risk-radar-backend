@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T08:36:01.858722+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-09T08:50:49.745274+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "05aUIoQ3W2khS",
@@ -22,6 +22,16 @@
       "latitude": 38.3425,
       "longitude": 37.4432,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "N36OClOpfSogL",
+      "title": "CESME (IZMIR)",
+      "magnitude": 1.9,
+      "depth_km": 9,
+      "date_utc": "2026-09-09 09:59:50",
+      "latitude": 38.3108,
+      "longitude": 26.2917,
+      "location_name": "İzmir"
     },
     {
       "id": "H42NEQhbn7hrG",
