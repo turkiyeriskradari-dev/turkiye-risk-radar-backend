@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T08:24:45.171227+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-09T08:36:01.858722+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "05aUIoQ3W2khS",
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-09 11:23:15",
+      "latitude": 40.469,
+      "longitude": 29.1987,
+      "location_name": "Bursa"
+    },
     {
       "id": "XRxxCD2zhI75C",
       "title": "BESTEPE-ELBISTAN (KAHRAMANMARAS)",
