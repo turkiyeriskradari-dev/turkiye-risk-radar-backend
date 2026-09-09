@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T04:36:49.244223+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-09T04:49:54.916452+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "Rpe_bcASfsEJg",
+      "title": "DUZLEN-(MANISA)",
+      "magnitude": 2,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-09 05:57:14",
+      "latitude": 38.7707,
+      "longitude": 27.1395,
+      "location_name": "İzmir"
+    },
     {
       "id": "X6KJ3dWwfbySw",
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
