@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T04:23:50.514216+00:00",
-  "record_count": 43,
+  "last_updated": "2026-09-09T04:36:49.244223+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "X6KJ3dWwfbySw",
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "magnitude": 2.1,
+      "depth_km": 11.7,
+      "date_utc": "2026-09-09 05:55:28",
+      "latitude": 40.187,
+      "longitude": 31.7548,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "_PU5_qruXjNhS",
+      "title": "ILYASLAR-KIRKAGAC (MANISA)",
+      "magnitude": 1.6,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-09 05:29:46",
+      "latitude": 39.1093,
+      "longitude": 27.7583,
+      "location_name": "Manisa"
+    },
     {
       "id": "VgY4nKWKf2UVk",
       "title": "GURLEYIK-DALAMAN (MUGLA)",
