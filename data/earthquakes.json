@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T17:02:08.052262+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-09T17:22:42.644429+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "z7I6j9D4Y51GN",
+      "title": "ICADIYE-TOMARZA (KAYSERI)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-09 19:53:48",
+      "latitude": 38.5,
+      "longitude": 36.1847,
+      "location_name": "Kayseri"
+    },
     {
       "id": "4x4ZwFcrJkGMc",
       "title": "UZUNARK-PASINLER (ERZURUM)",
