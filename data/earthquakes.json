@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T19:21:23.051312+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-09T19:33:14.161504+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "y1QBPHg6ZOMoY",
+      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-09 21:58:42",
+      "latitude": 39.2453,
+      "longitude": 28.1937,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "CEu7GfbUOE72z",
+      "title": "SINDIRGI (BALIKESIR)",
+      "magnitude": 0.9,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-09 21:53:19",
+      "latitude": 39.229,
+      "longitude": 28.1785,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "sENv3kOqeuq0m",
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -702,16 +722,6 @@
       "latitude": 39.1375,
       "longitude": 28.2533,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "AqfX3Vlp129lm",
-      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.4,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-08 22:22:01",
-      "latitude": 38.7547,
-      "longitude": 36.5325,
-      "location_name": "Kayseri"
     }
   ]
 }
