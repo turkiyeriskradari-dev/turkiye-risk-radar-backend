@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T16:02:24.462267+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-09T16:25:00.256054+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "If0fGsHLmYaKQ",
+      "title": "SOGUCAK-BOZKIR (KONYA)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-09 17:45:15",
+      "latitude": 37.0638,
+      "longitude": 32.236,
+      "location_name": "Konya"
+    },
+    {
+      "id": "lv9W1APvwU4n1",
+      "title": "KUKURTLU-ASKALE (ERZURUM)",
+      "magnitude": 1.8,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-09 17:24:54",
+      "latitude": 39.8435,
+      "longitude": 40.5945,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "76DgBmcQgrrKv",
+      "title": "AKCAOVA-(HATAY)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-09 17:01:19",
+      "latitude": 36.3085,
+      "longitude": 36.2335,
+      "location_name": "Hatay"
+    },
     {
       "id": "wjtsMuIaKtAJR",
       "title": "KIBRIS-TUZLA",
