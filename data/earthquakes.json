@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T10:02:30.353865+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-09T10:24:11.035219+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "_VOfBc4K30roD",
+      "title": "ERBAA (TOKAT)",
+      "magnitude": 1.8,
+      "depth_km": 11.3,
+      "date_utc": "2026-09-09 13:00:16",
+      "latitude": 40.6763,
+      "longitude": 36.5758,
+      "location_name": "Tokat"
+    },
+    {
+      "id": "FiJLfvOptUBAn",
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "magnitude": 3,
+      "depth_km": 13.1,
+      "date_utc": "2026-09-09 12:58:26",
+      "latitude": 36.9833,
+      "longitude": 28.2117,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "pg1P_UN8WDpAE",
+      "title": "SINDIRGI (BALIKESIR)",
+      "magnitude": 2.6,
+      "depth_km": 9.9,
+      "date_utc": "2026-09-09 12:58:08",
+      "latitude": 39.2332,
+      "longitude": 28.1637,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "hftj5pJcmLKmI",
       "title": "AKDERE-SILIFKE (MERSIN)",
