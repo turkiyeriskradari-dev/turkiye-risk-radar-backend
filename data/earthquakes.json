@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T09:25:05.239362+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-09T09:38:54.128455+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "tGKV8pvA1sGM5",
+      "title": "DEMIRLI-KAMAN (KIRSEHIR)",
+      "magnitude": 1.2,
+      "depth_km": 17.2,
+      "date_utc": "2026-09-09 12:13:28",
+      "latitude": 39.3215,
+      "longitude": 33.9813,
+      "location_name": "Kırşehir"
+    },
     {
       "id": "rpgKHHwaWO9y4",
       "title": "AKDENIZ",
@@ -12,6 +22,16 @@
       "latitude": 36.4827,
       "longitude": 28.6285,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "86GJHrrNqqZIr",
+      "title": "SURIYE",
+      "magnitude": 1.9,
+      "depth_km": 26.1,
+      "date_utc": "2026-09-09 12:05:28",
+      "latitude": 36.2577,
+      "longitude": 38.1503,
+      "location_name": "Suriye"
     },
     {
       "id": "MyONoxSrSTdUN",
