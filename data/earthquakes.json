@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T23:33:28.574484+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-09T23:46:44.766939+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "OBwcRyuCp6rsN",
@@ -631,36 +631,6 @@
       "date_utc": "2026-09-09 03:30:40",
       "latitude": 39.1118,
       "longitude": 27.781,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "H5ATVstfC7x2E",
-      "title": "AKDENIZ",
-      "magnitude": 2.8,
-      "depth_km": 7.9,
-      "date_utc": "2026-09-09 02:41:32",
-      "latitude": 36.4925,
-      "longitude": 28.6318,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "WkppT824FJKc9",
-      "title": "ALVAR-KULUNCAK (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 7,
-      "date_utc": "2026-09-09 02:40:21",
-      "latitude": 38.9177,
-      "longitude": 37.6347,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "mZXTo6zfTH2Gq",
-      "title": "KUCUKYAYA-KIRKAGAC (MANISA)",
-      "magnitude": 1.4,
-      "depth_km": 6,
-      "date_utc": "2026-09-09 02:36:14",
-      "latitude": 39.1772,
-      "longitude": 27.7632,
       "location_name": "Manisa"
     }
   ]
