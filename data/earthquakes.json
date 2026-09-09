@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T16:37:45.643978+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-09T16:50:57.451224+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "57HtSmEPUBu30",
+      "title": "SINDIRGI (BALIKESIR)",
+      "magnitude": 3.5,
+      "depth_km": 9.1,
+      "date_utc": "2026-09-09 19:39:15",
+      "latitude": 39.2327,
+      "longitude": 28.1762,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "nFW_px_Sxiq7a",
+      "title": "GURSU-CAMELI (DENIZLI)",
+      "magnitude": 1.6,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-09 18:59:06",
+      "latitude": 36.9415,
+      "longitude": 29.3198,
+      "location_name": "Muğla"
+    },
     {
       "id": "ZxPEu0c_N26Zf",
       "title": "ALICERI-AKCADAG (MALATYA)",
