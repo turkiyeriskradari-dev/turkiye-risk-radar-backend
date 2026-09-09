@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T04:49:54.916452+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-09T05:02:25.676293+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "gPWPVlQEQUIMg",
+      "title": "KARACAYIR-KULUNCAK (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-09 07:08:07",
+      "latitude": 38.8648,
+      "longitude": 37.7703,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "eU9SBKkS6Sfl9",
+      "title": "KISLAK-ALADAG (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-09 06:18:46",
+      "latitude": 37.5698,
+      "longitude": 35.5607,
+      "location_name": "Adana"
+    },
     {
       "id": "Rpe_bcASfsEJg",
       "title": "DUZLEN-(MANISA)",
@@ -431,36 +451,6 @@
       "date_utc": "2026-09-08 08:09:09",
       "latitude": 41.5987,
       "longitude": 43.5927,
-      "location_name": "Gürcistan"
-    },
-    {
-      "id": "VyTkYUydv1NrM",
-      "title": "CEVIZDERE-(ELAZIG)",
-      "magnitude": 1.8,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-08 07:59:31",
-      "latitude": 38.513,
-      "longitude": 39.3617,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "8aVg_3O58TK0z",
-      "title": "GURCISTAN",
-      "magnitude": 2.3,
-      "depth_km": 6.6,
-      "date_utc": "2026-09-08 07:55:35",
-      "latitude": 41.5802,
-      "longitude": 43.5713,
-      "location_name": "Gürcistan"
-    },
-    {
-      "id": "xcFW2dDXK_O00",
-      "title": "GURCISTAN",
-      "magnitude": 3.9,
-      "depth_km": 6,
-      "date_utc": "2026-09-08 07:52:15",
-      "latitude": 41.6187,
-      "longitude": 43.5782,
       "location_name": "Gürcistan"
     }
   ]
