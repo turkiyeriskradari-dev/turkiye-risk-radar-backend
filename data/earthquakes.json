@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T14:02:12.341704+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-09T14:23:37.441863+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "wjtsMuIaKtAJR",
+      "title": "KIBRIS-TUZLA",
+      "magnitude": 2.1,
+      "depth_km": 50.1,
+      "date_utc": "2026-09-09 16:50:54",
+      "latitude": 35.194,
+      "longitude": 33.8147,
+      "location_name": "Kıbrıs"
+    },
     {
       "id": "iNQHf2u5Oh4g0",
       "title": "CAMLICA-YATAGAN (MUGLA)",
@@ -632,26 +642,6 @@
       "latitude": 39.0042,
       "longitude": 30.2058,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "QjMDupxdiGrLK",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 7.9,
-      "date_utc": "2026-09-08 17:08:32",
-      "latitude": 37.8467,
-      "longitude": 26.9712,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "4aZHmL8Oy58_X",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 13.8,
-      "date_utc": "2026-09-08 17:05:11",
-      "latitude": 39.1455,
-      "longitude": 28.201,
-      "location_name": "Balıkesir"
     }
   ]
 }
