@@ -1,7 +1,7 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-09-09T13:37:36.808685+00:00",
-  "record_count": 253,
+  "last_updated": "2026-09-09T13:51:05.418789+00:00",
+  "record_count": 262,
   "data": [
     {
       "latitude": 38.91158,
@@ -2530,6 +2530,96 @@
       "confidence": "n",
       "acquired_date": "2026-09-09",
       "acquired_time": "1032",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 37.14461,
+      "longitude": 30.74956,
+      "brightness": 353.39,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 37.14482,
+      "longitude": 30.74784,
+      "brightness": 351.99,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 37.15151,
+      "longitude": 30.75129,
+      "brightness": 351.2,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 37.15173,
+      "longitude": 30.74946,
+      "brightness": 344.88,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 38.0864,
+      "longitude": 30.00051,
+      "brightness": 348.54,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 38.09379,
+      "longitude": 29.74932,
+      "brightness": 367.0,
+      "confidence": "h",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 38.16805,
+      "longitude": 29.93263,
+      "brightness": 333.81,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1210",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 39.38688,
+      "longitude": 30.89582,
+      "brightness": 335.15,
+      "confidence": "n",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1212",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 40.94321,
+      "longitude": 26.51933,
+      "brightness": 367.0,
+      "confidence": "h",
+      "acquired_date": "2026-09-09",
+      "acquired_time": "1212",
       "satellite": "N",
       "daynight": "D"
     }
