@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T14:23:37.441863+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-09T14:37:44.995789+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "wjtsMuIaKtAJR",
@@ -632,16 +632,6 @@
       "latitude": 38.27,
       "longitude": 38.2437,
       "location_name": "Malatya"
-    },
-    {
-      "id": "42dqkVyE7wHSZ",
-      "title": "BESKARIS-ALTINTAS (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 4.3,
-      "date_utc": "2026-09-08 17:25:57",
-      "latitude": 39.0042,
-      "longitude": 30.2058,
-      "location_name": "Kütahya"
     }
   ]
 }
