@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T05:02:25.676293+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-09T05:22:56.550493+00:00",
+  "record_count": 44,
   "data": [
     {
       "id": "gPWPVlQEQUIMg",
@@ -442,16 +442,6 @@
       "latitude": 38.1233,
       "longitude": 36.5835,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "nfpizrbVAg9uW",
-      "title": "GURCISTAN",
-      "magnitude": 2.5,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-08 08:09:09",
-      "latitude": 41.5987,
-      "longitude": 43.5927,
-      "location_name": "Gürcistan"
     }
   ]
 }
