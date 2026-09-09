@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T07:36:23.819754+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-09T07:50:37.734149+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "XRxxCD2zhI75C",
@@ -12,6 +12,16 @@
       "latitude": 38.3425,
       "longitude": 37.4432,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "H42NEQhbn7hrG",
+      "title": "GOLOVA-MENDERES (IZMIR)",
+      "magnitude": 0.9,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-09 09:57:50",
+      "latitude": 38.0595,
+      "longitude": 27.2872,
+      "location_name": "İzmir"
     },
     {
       "id": "eKIb6pr6k2r0_",
