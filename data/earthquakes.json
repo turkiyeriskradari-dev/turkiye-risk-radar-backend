@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T09:19:39.745400+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-09T09:25:05.239362+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "rpgKHHwaWO9y4",
+      "title": "AKDENIZ",
+      "magnitude": 3,
+      "depth_km": 16.9,
+      "date_utc": "2026-09-09 12:12:05",
+      "latitude": 36.4827,
+      "longitude": 28.6285,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "MyONoxSrSTdUN",
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
