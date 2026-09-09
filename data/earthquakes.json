@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T19:33:14.161504+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-09T19:46:27.671794+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "y1QBPHg6ZOMoY",
@@ -702,26 +702,6 @@
       "latitude": 37.2082,
       "longitude": 31.1208,
       "location_name": "Antalya"
-    },
-    {
-      "id": "vX5GPyBiBZPYb",
-      "title": "YAYGIN-(MALATYA)",
-      "magnitude": 1,
-      "depth_km": 14.2,
-      "date_utc": "2026-09-08 22:38:07",
-      "latitude": 38.2845,
-      "longitude": 38.5128,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "q1Ae_WKuxtywr",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.1,
-      "depth_km": 18,
-      "date_utc": "2026-09-08 22:36:29",
-      "latitude": 39.1375,
-      "longitude": 28.2533,
-      "location_name": "Balıkesir"
     }
   ]
 }
