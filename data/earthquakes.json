@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-09T00:53:23.520431+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-09T01:02:35.573423+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "H5ATVstfC7x2E",
+      "title": "AKDENIZ",
+      "magnitude": 2.8,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-09 02:41:32",
+      "latitude": 36.4925,
+      "longitude": 28.6318,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "WkppT824FJKc9",
       "title": "ALVAR-KULUNCAK (MALATYA)",
