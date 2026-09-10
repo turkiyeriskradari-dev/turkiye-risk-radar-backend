@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T22:33:49.159942+00:00",
+  "last_updated": "2026-09-10T22:46:52.521193+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "qybNJNi_yA7gd",
+      "title": "AKDENIZ",
+      "magnitude": 2.7,
+      "depth_km": 9.4,
+      "date_utc": "2026-09-11 01:30:53",
+      "latitude": 35.9465,
+      "longitude": 31.1682,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "e3x8WTrtYb3K1",
       "title": "YENIPINAR-HISARCIK (KUTAHYA)",
@@ -681,16 +691,6 @@
       "date_utc": "2026-09-10 02:35:48",
       "latitude": 38.7867,
       "longitude": 36.5415,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "_1cKYWLDgwWhY",
-      "title": "SARIOGLAN (KAYSERI)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-09-10 01:43:57",
-      "latitude": 39.072,
-      "longitude": 36.0048,
       "location_name": "Kayseri"
     }
   ]
