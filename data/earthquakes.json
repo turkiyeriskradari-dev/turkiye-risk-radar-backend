@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T17:33:54.821781+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-10T17:47:54.049760+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "MBSGPYabaeEIt",
@@ -632,16 +632,6 @@
       "latitude": 40.5603,
       "longitude": 25.6825,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "KQ5SekHciLFrN",
-      "title": "DEREKOY-KORKUTELI (ANTALYA)",
-      "magnitude": 1.7,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-09 20:42:35",
-      "latitude": 37.1045,
-      "longitude": 30.128,
-      "location_name": "Antalya"
     }
   ]
 }
