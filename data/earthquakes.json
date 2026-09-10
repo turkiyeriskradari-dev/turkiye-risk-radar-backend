@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T13:50:06.157786+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-10T14:02:08.933381+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "fFbd40ZiRwbMW",
@@ -692,26 +692,6 @@
       "latitude": 39.8435,
       "longitude": 40.5945,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "76DgBmcQgrrKv",
-      "title": "AKCAOVA-(HATAY)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-09 17:01:19",
-      "latitude": 36.3085,
-      "longitude": 36.2335,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "wjtsMuIaKtAJR",
-      "title": "KIBRIS-TUZLA",
-      "magnitude": 2.1,
-      "depth_km": 50.1,
-      "date_utc": "2026-09-09 16:50:54",
-      "latitude": 35.194,
-      "longitude": 33.8147,
-      "location_name": "Kıbrıs"
     }
   ]
 }
