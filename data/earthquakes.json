@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T11:23:07.550035+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-10T11:35:53.478398+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "5FmBWtlmZaDpN",
@@ -692,16 +692,6 @@
       "latitude": 39.2777,
       "longitude": 42.2143,
       "location_name": "Muş"
-    },
-    {
-      "id": "JrkHRdsKLUkmM",
-      "title": "AKCAY-KAGIZMAN (KARS)",
-      "magnitude": 2.3,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-09 14:24:24",
-      "latitude": 40.1157,
-      "longitude": 43.2465,
-      "location_name": "Kars"
     }
   ]
 }
