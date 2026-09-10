@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T14:51:26.599412+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-10T15:02:22.363054+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "XV3mH0Y11ZlPF",
+      "title": "KAGITHANE (ISTANBUL)",
+      "magnitude": 0.9,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-10 17:55:38",
+      "latitude": 41.099,
+      "longitude": 28.9493,
+      "location_name": "İstanbul"
+    },
     {
       "id": "kczrit71kGqE3",
       "title": "SALKONAK-YESILYURT (MALATYA)",
