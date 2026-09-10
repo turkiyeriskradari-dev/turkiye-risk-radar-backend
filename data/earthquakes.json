@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T21:02:07.821190+00:00",
+  "last_updated": "2026-09-10T21:20:15.450552+00:00",
   "record_count": 71,
   "data": [
     {
@@ -32,6 +32,26 @@
       "latitude": 39.074,
       "longitude": 28.6492,
       "location_name": "Manisa"
+    },
+    {
+      "id": "7YS1C0XCOgwbA",
+      "title": "HABIPUSAGI-BASKIL (ELAZIG)",
+      "magnitude": 1.2,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-10 23:21:18",
+      "latitude": 38.4458,
+      "longitude": 38.7893,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "h3y5D9x86tG4Z",
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 10.6,
+      "date_utc": "2026-09-10 23:13:08",
+      "latitude": 39.1395,
+      "longitude": 28.2497,
+      "location_name": "Balıkesir"
     },
     {
       "id": "S8040mqi8duEa",
@@ -691,26 +711,6 @@
       "date_utc": "2026-09-10 01:17:11",
       "latitude": 36.9442,
       "longitude": 27.5165,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "e9jqlidf4C9FV",
-      "title": "AKDENIZ",
-      "magnitude": 2.1,
-      "depth_km": 17.6,
-      "date_utc": "2026-09-10 00:11:22",
-      "latitude": 35.3653,
-      "longitude": 28.578,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "98ZPQ_NJtR_Zd",
-      "title": "EGE DENIZI",
-      "magnitude": 2.8,
-      "depth_km": 104,
-      "date_utc": "2026-09-10 00:03:39",
-      "latitude": 36.3313,
-      "longitude": 26.5478,
       "location_name": "Ege Denizi"
     }
   ]
