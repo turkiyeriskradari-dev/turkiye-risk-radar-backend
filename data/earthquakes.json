@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T23:01:52.222801+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-10T23:19:40.857336+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "uQ1jej1YISOTV",
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-11 02:02:52",
+      "latitude": 38.0732,
+      "longitude": 37.775,
+      "location_name": "Malatya"
+    },
     {
       "id": "qybNJNi_yA7gd",
       "title": "AKDENIZ",
@@ -12,6 +22,16 @@
       "latitude": 35.9465,
       "longitude": 31.1682,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "EfoLQlvtE2cyQ",
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "magnitude": 1.3,
+      "depth_km": 19.4,
+      "date_utc": "2026-09-11 01:29:29",
+      "latitude": 40.4028,
+      "longitude": 26.1697,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "e3x8WTrtYb3K1",
