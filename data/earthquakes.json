@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T00:09:55.528274+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-10T00:13:31.936411+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "fKvBLwZ1VHU8u",
+      "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 2,
+      "depth_km": 3.3,
+      "date_utc": "2026-09-10 02:35:48",
+      "latitude": 38.7867,
+      "longitude": 36.5415,
+      "location_name": "Kayseri"
+    },
     {
       "id": "OBwcRyuCp6rsN",
       "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
