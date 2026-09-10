@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T01:21:46.733762+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T01:34:14.223064+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "kTvzepNDzYZwj",
@@ -672,16 +672,6 @@
       "latitude": 39.1093,
       "longitude": 27.7583,
       "location_name": "Manisa"
-    },
-    {
-      "id": "VgY4nKWKf2UVk",
-      "title": "GURLEYIK-DALAMAN (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-09 04:33:40",
-      "latitude": 36.8993,
-      "longitude": 29.0712,
-      "location_name": "Muğla"
     }
   ]
 }
