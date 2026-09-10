@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T09:50:34.941598+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-10T10:02:05.955637+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "QsUbmL8EGyBEX",
+      "title": "KAYAONU-(ADIYAMAN)",
+      "magnitude": 1.5,
+      "depth_km": 17.4,
+      "date_utc": "2026-09-10 11:40:46",
+      "latitude": 37.7893,
+      "longitude": 38.1932,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "G0wOfE5AHHDKd",
+      "title": "ZAFER-BUCA (IZMIR)",
+      "magnitude": 1.1,
+      "depth_km": 15.1,
+      "date_utc": "2026-09-10 11:40:24",
+      "latitude": 38.3412,
+      "longitude": 27.2225,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "neV2fSQjM0ruR",
+      "title": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
+      "magnitude": 1,
+      "depth_km": 11.1,
+      "date_utc": "2026-09-10 11:26:49",
+      "latitude": 40.0143,
+      "longitude": 28.7095,
+      "location_name": "Bursa"
+    },
     {
       "id": "leHV466xT_B1H",
       "title": "ETIMESGUT (ANKARA)",
@@ -612,46 +642,6 @@
       "latitude": 39.1993,
       "longitude": 28.183,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "_VOfBc4K30roD",
-      "title": "ERBAA (TOKAT)",
-      "magnitude": 1.8,
-      "depth_km": 11.3,
-      "date_utc": "2026-09-09 13:00:16",
-      "latitude": 40.6763,
-      "longitude": 36.5758,
-      "location_name": "Tokat"
-    },
-    {
-      "id": "FiJLfvOptUBAn",
-      "title": "CAMLI-MARMARIS (MUGLA)",
-      "magnitude": 3,
-      "depth_km": 13.1,
-      "date_utc": "2026-09-09 12:58:26",
-      "latitude": 36.9833,
-      "longitude": 28.2117,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "pg1P_UN8WDpAE",
-      "title": "SINDIRGI (BALIKESIR)",
-      "magnitude": 2.6,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-09 12:58:08",
-      "latitude": 39.2332,
-      "longitude": 28.1637,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "005T5KM36zBo3",
-      "title": "TEPEKOY-BALA (ANKARA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-09 12:51:15",
-      "latitude": 39.3547,
-      "longitude": 33.4162,
-      "location_name": "Kırıkkale"
     }
   ]
 }
