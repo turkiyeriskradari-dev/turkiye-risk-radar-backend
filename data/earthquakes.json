@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T08:51:07.429634+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-10T09:02:01.820299+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "5veJeqDaYo7zi",
+      "title": "KARLIOVA (BINGOL)",
+      "magnitude": 2,
+      "depth_km": 11,
+      "date_utc": "2026-09-10 11:20:41",
+      "latitude": 39.3118,
+      "longitude": 41.0013,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "1YByQmAo2giy8",
+      "title": "PIRNAR-KESAN (EDIRNE)",
+      "magnitude": 1.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-10 11:12:07",
+      "latitude": 40.7137,
+      "longitude": 26.651,
+      "location_name": "Edirne"
+    },
     {
       "id": "0O77mbEN8PwUS",
       "title": "CEKIRDEKLI-BIGADIC (BALIKESIR)",
@@ -662,16 +682,6 @@
       "latitude": 36.2577,
       "longitude": 38.1503,
       "location_name": "Suriye"
-    },
-    {
-      "id": "MyONoxSrSTdUN",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 8.9,
-      "date_utc": "2026-09-09 11:56:20",
-      "latitude": 38.996,
-      "longitude": 26.0488,
-      "location_name": "Ege Denizi"
     }
   ]
 }
