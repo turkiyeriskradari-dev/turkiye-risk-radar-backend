@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T16:34:56.656833+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T16:49:15.638922+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "MBSGPYabaeEIt",
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "magnitude": 2.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 19:27:42",
+      "latitude": 38.0417,
+      "longitude": 37.6068,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ErwDhEpd0NRNx",
       "title": "ARNAVUTKOY (ISTANBUL)",
@@ -662,26 +672,6 @@
       "latitude": 38.5,
       "longitude": 36.1847,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "4x4ZwFcrJkGMc",
-      "title": "UZUNARK-PASINLER (ERZURUM)",
-      "magnitude": 1.6,
-      "depth_km": 7.4,
-      "date_utc": "2026-09-09 19:40:27",
-      "latitude": 39.8815,
-      "longitude": 41.784,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "57HtSmEPUBu30",
-      "title": "SINDIRGI (BALIKESIR)",
-      "magnitude": 3.5,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-09 19:39:15",
-      "latitude": 39.2327,
-      "longitude": 28.1762,
-      "location_name": "Balıkesir"
     }
   ]
 }
