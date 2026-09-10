@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T15:02:22.363054+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-10T15:23:56.162833+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "XV3mH0Y11ZlPF",
@@ -682,26 +682,6 @@
       "latitude": 36.9415,
       "longitude": 29.3198,
       "location_name": "Muğla"
-    },
-    {
-      "id": "ZxPEu0c_N26Zf",
-      "title": "ALICERI-AKCADAG (MALATYA)",
-      "magnitude": 1.6,
-      "depth_km": 6.8,
-      "date_utc": "2026-09-09 18:18:24",
-      "latitude": 38.4682,
-      "longitude": 37.975,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "h2o7JRZIiKwEt",
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 16.8,
-      "date_utc": "2026-09-09 18:08:20",
-      "latitude": 40.5555,
-      "longitude": 25.8545,
-      "location_name": "Ege Denizi"
     }
   ]
 }
