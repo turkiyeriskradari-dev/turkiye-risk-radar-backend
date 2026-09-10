@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T16:49:15.638922+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-10T17:02:20.852164+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "MBSGPYabaeEIt",
@@ -662,16 +662,6 @@
       "latitude": 38.3017,
       "longitude": 37.3208,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "z7I6j9D4Y51GN",
-      "title": "ICADIYE-TOMARZA (KAYSERI)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-09 19:53:48",
-      "latitude": 38.5,
-      "longitude": 36.1847,
-      "location_name": "Kayseri"
     }
   ]
 }
