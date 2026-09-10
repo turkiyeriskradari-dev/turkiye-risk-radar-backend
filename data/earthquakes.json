@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T14:23:17.743997+00:00",
+  "last_updated": "2026-09-10T14:36:47.753648+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "EafPmJ_Gwhz81",
+      "title": "KIZILOMERLI-SUMBAS (OSMANIYE)",
+      "magnitude": 1.9,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-10 16:59:49",
+      "latitude": 37.3988,
+      "longitude": 35.9787,
+      "location_name": "Osmaniye"
+    },
     {
       "id": "fFbd40ZiRwbMW",
       "title": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
@@ -682,16 +692,6 @@
       "latitude": 37.0638,
       "longitude": 32.236,
       "location_name": "Konya"
-    },
-    {
-      "id": "lv9W1APvwU4n1",
-      "title": "KUKURTLU-ASKALE (ERZURUM)",
-      "magnitude": 1.8,
-      "depth_km": 7.4,
-      "date_utc": "2026-09-09 17:24:54",
-      "latitude": 39.8435,
-      "longitude": 40.5945,
-      "location_name": "Erzurum"
     }
   ]
 }
