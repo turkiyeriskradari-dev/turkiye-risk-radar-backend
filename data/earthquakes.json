@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T00:55:00.525260+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T01:02:54.381468+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "kTvzepNDzYZwj",
+      "title": "SELIMIYE-YENISEHIR (BURSA)",
+      "magnitude": 3,
+      "depth_km": 5.5,
+      "date_utc": "2026-09-10 03:20:41",
+      "latitude": 40.3062,
+      "longitude": 29.5008,
+      "location_name": "Bursa"
+    },
     {
       "id": "5px4jOPyomB87",
       "title": "SELIMIYE-YENISEHIR (BURSA)",
