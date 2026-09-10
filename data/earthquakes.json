@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T14:36:47.753648+00:00",
+  "last_updated": "2026-09-10T14:51:26.599412+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "kczrit71kGqE3",
+      "title": "SALKONAK-YESILYURT (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-10 17:08:49",
+      "latitude": 38.1237,
+      "longitude": 38.3523,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "EafPmJ_Gwhz81",
       "title": "KIZILOMERLI-SUMBAS (OSMANIYE)",
@@ -682,16 +692,6 @@
       "latitude": 40.5555,
       "longitude": 25.8545,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "If0fGsHLmYaKQ",
-      "title": "SOGUCAK-BOZKIR (KONYA)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-09 17:45:15",
-      "latitude": 37.0638,
-      "longitude": 32.236,
-      "location_name": "Konya"
     }
   ]
 }
