@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T02:50:00.167650+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-10T03:02:11.563277+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "kTvzepNDzYZwj",
@@ -642,26 +642,6 @@
       "latitude": 37.5698,
       "longitude": 35.5607,
       "location_name": "Adana"
-    },
-    {
-      "id": "Rpe_bcASfsEJg",
-      "title": "DUZLEN-(MANISA)",
-      "magnitude": 2,
-      "depth_km": 4.5,
-      "date_utc": "2026-09-09 05:57:14",
-      "latitude": 38.7707,
-      "longitude": 27.1395,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "X6KJ3dWwfbySw",
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "magnitude": 2.1,
-      "depth_km": 11.7,
-      "date_utc": "2026-09-09 05:55:28",
-      "latitude": 40.187,
-      "longitude": 31.7548,
-      "location_name": "Ankara"
     }
   ]
 }
