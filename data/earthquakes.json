@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T06:29:03.848140+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-10T06:43:58.725169+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "iHWjw0zQzerSX",
+      "title": "HANCERLI-AKCADAG (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 14.2,
+      "date_utc": "2026-09-10 08:46:09",
+      "latitude": 38.3132,
+      "longitude": 37.8687,
+      "location_name": "Malatya"
+    },
     {
       "id": "dwzfXujZ4ZxWl",
       "title": "AKDENIZ",
@@ -682,36 +692,6 @@
       "latitude": 38.0595,
       "longitude": 27.2872,
       "location_name": "İzmir"
-    },
-    {
-      "id": "eKIb6pr6k2r0_",
-      "title": "KADINCIK-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 4.5,
-      "date_utc": "2026-09-09 09:30:47",
-      "latitude": 37.3763,
-      "longitude": 37.1343,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "pg6daKImwEbpa",
-      "title": "EDREMIT KORFEZI (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-09 09:30:06",
-      "latitude": 39.4192,
-      "longitude": 26.7768,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "sEYhhcvup3zrD",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 17.2,
-      "date_utc": "2026-09-09 09:29:46",
-      "latitude": 39.1845,
-      "longitude": 28.1888,
-      "location_name": "Balıkesir"
     }
   ]
 }
