@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T17:02:20.852164+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-10T17:22:05.238231+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "MBSGPYabaeEIt",
@@ -642,26 +642,6 @@
       "latitude": 37.1045,
       "longitude": 30.128,
       "location_name": "Antalya"
-    },
-    {
-      "id": "UMRilIP4TuqWG",
-      "title": "BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-09 20:21:06",
-      "latitude": 38.2983,
-      "longitude": 37.2732,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "6oXuTmqEA5HFI",
-      "title": "GUNDERE-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2.2,
-      "depth_km": 5,
-      "date_utc": "2026-09-09 20:19:38",
-      "latitude": 38.3017,
-      "longitude": 37.3208,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
