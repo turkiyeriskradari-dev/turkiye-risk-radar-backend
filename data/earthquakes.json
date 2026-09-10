@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T20:34:40.447957+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-10T20:48:46.618909+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "pX7oi3PrciM4S",
+      "title": "DARIYERI-DALAMAN (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 23:37:45",
+      "latitude": 36.8692,
+      "longitude": 29.104,
+      "location_name": "Muğla"
+    },
     {
       "id": "S8040mqi8duEa",
       "title": "CARIKSARAYLAR-SARKIKARAAGAC (ISPARTA)",
@@ -22,6 +32,26 @@
       "latitude": 38.2317,
       "longitude": 38.6683,
       "location_name": "Malatya"
+    },
+    {
+      "id": "lNwWjlr2BSRCG",
+      "title": "BEHRAM-AYVACIK (CANAKKALE)",
+      "magnitude": 1.4,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-10 21:57:42",
+      "latitude": 39.5005,
+      "longitude": 26.3357,
+      "location_name": "Çanakkale"
+    },
+    {
+      "id": "nA8Rk7bNv5R17",
+      "title": "EDREMIT KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-10 21:55:43",
+      "latitude": 39.4865,
+      "longitude": 26.396,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "86H2eymeA3VbZ",
@@ -662,16 +692,6 @@
       "latitude": 36.3313,
       "longitude": 26.5478,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "GO3b5Ryjwt39o",
-      "title": "DONGEL-(KAHRAMANMARAS)",
-      "magnitude": 1.9,
-      "depth_km": 9.5,
-      "date_utc": "2026-09-09 23:39:14",
-      "latitude": 37.8645,
-      "longitude": 36.6622,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
