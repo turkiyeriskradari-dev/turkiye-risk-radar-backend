@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T07:50:39.042837+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-10T08:02:11.362648+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "0O77mbEN8PwUS",
+      "title": "CEKIRDEKLI-BIGADIC (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 12.2,
+      "date_utc": "2026-09-10 09:57:17",
+      "latitude": 39.3835,
+      "longitude": 28.0172,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "A05ew26KH82GG",
       "title": "CALTILIDERE-ALIAGA (IZMIR)",
