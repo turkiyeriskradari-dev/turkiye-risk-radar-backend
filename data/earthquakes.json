@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T01:02:54.381468+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-10T01:21:46.733762+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "kTvzepNDzYZwj",
@@ -682,16 +682,6 @@
       "latitude": 36.8993,
       "longitude": 29.0712,
       "location_name": "Muğla"
-    },
-    {
-      "id": "xvGKADEl0dQIJ",
-      "title": "BAKIR-KIRKAGAC (MANISA)",
-      "magnitude": 1.1,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-09 04:20:25",
-      "latitude": 39.107,
-      "longitude": 27.7332,
-      "location_name": "Manisa"
     }
   ]
 }
