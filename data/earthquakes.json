@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T00:28:54.052370+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-10T00:43:33.028700+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "fKvBLwZ1VHU8u",
@@ -14,6 +14,26 @@
       "location_name": "Kayseri"
     },
     {
+      "id": "_1cKYWLDgwWhY",
+      "title": "SARIOGLAN (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 01:43:57",
+      "latitude": 39.072,
+      "longitude": 36.0048,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "L_3tnUg0D6Sfr",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.4,
+      "depth_km": 4.1,
+      "date_utc": "2026-09-10 01:26:59",
+      "latitude": 38.751,
+      "longitude": 36.5467,
+      "location_name": "Kayseri"
+    },
+    {
       "id": "OBwcRyuCp6rsN",
       "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
       "magnitude": 2.5,
@@ -22,6 +42,16 @@
       "latitude": 38.754,
       "longitude": 36.5592,
       "location_name": "Kayseri"
+    },
+    {
+      "id": "tTZ7dRqe1SuTJ",
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 10.4,
+      "date_utc": "2026-09-10 01:20:43",
+      "latitude": 39.2172,
+      "longitude": 28.109,
+      "location_name": "Balıkesir"
     },
     {
       "id": "LB93b81yPasNq",
@@ -641,16 +671,6 @@
       "date_utc": "2026-09-09 04:20:25",
       "latitude": 39.107,
       "longitude": 27.7332,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "BcExh_pj3nFXE",
-      "title": "KARAKURT-KIRKAGAC (MANISA)",
-      "magnitude": 2.6,
-      "depth_km": 3.9,
-      "date_utc": "2026-09-09 03:30:40",
-      "latitude": 39.1118,
-      "longitude": 27.781,
       "location_name": "Manisa"
     }
   ]
