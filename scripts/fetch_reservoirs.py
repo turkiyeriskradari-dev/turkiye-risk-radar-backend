@@ -4,17 +4,11 @@ Baraj doluluk orani verisi.
 ONEMLI NOT - VERI KAYNAGI HAKKINDA:
 Resmi kurumlarin (ISKI, DSI) siteleri robots.txt ile otomatik erisimi
 yasakladigi icin, bunun yerine barajdolulukoranlari.com adli UCUNCU TARAF
-(resmi olmayan, reklam destekli) bir siteyi kullaniyoruz. Bu site kendi
-ifadesine gore "resmi istatistik veri tabanlarindan" veri derliyor ve
-robots.txt ile bot erisimini engellemiyor.
+(resmi olmayan, reklam destekli) bir siteyi kullaniyoruz.
 
 BU VERI RESMI DEGILDIR. Uygulama tarafinda mutlaka "Kaynak: Turkiye
 Barajlar (ucuncu taraf, gayriresmi)" seklinde belirtilmeli, ISKI/DSI
 resmi verisiymis gibi sunulmamalidir.
-
-Ayrica: bu site kucuk/nis bir proje oldugu icin sitenin yapisi
-degisirse (HTML guncellenirse) bu script bozulabilir - fallback
-mekanizmasi (eski veriyi koruma) bu riske karsi onemlidir.
 
 Kaynak: https://barajdolulukoranlari.com/
 """
@@ -37,25 +31,21 @@ HAVZALAR = [
 _HAVZALAR_SORTED = sorted(HAVZALAR, key=len, reverse=True)
 _HAVZA_ALTERNATION = "|".join(re.escape(h) for h in _HAVZALAR_SORTED)
 
-ENTRY_PATTERN = re.compile(
+MAIN_PATTERN = re.compile(
     r'^(?P<name>.+?)'
     r'(?P<havza>' + _HAVZA_ALTERNATION + r')'
     r'\s*Havzası'
     r'(?:\s*·\s*(?P<il>[A-ZÇĞİŞÖÜ]+))?'
-    r'(?P<percent>[\d.,]+)%'
-    r'\s*📅\s*(?P<date>[\d]{1,2}\s\w+\s\d{4})'
-    r'(?:\s*⚡\s*(?P<mw>[\d.,]+)\s*MW)?'
+    r'\s*(?P<percent>[\d.,]+)\s*%'
 )
+DATE_PATTERN = re.compile(r'(\d{1,2}\s+[A-Za-zÇĞİŞÖÜçğıöşü]+\s+\d{4})')
+MW_PATTERN = re.compile(r'([\d.,]+)\s*MW')
 
 
-def parse_entry_text(text):
-    """
-    Bir <a href="/baraj/..."> etiketinin metnini yukaridaki bilinen
-    havza listesiyle esleyerek ayristirir. Eslesme olmazsa None doner
-    (o kayit atlanir, tum script cokmez).
-    """
-    text = " ".join(text.split())  # fazla bosluklari temizle
-    m = ENTRY_PATTERN.match(text)
+def parse_entry_text(raw_text):
+    text = " ".join(raw_text.split())
+
+    m = MAIN_PATTERN.match(text)
     if not m:
         return None
 
@@ -65,10 +55,13 @@ def parse_entry_text(text):
     except (TypeError, ValueError):
         percent = None
 
+    date_match = DATE_PATTERN.search(text)
+    mw_match = MW_PATTERN.search(text)
+
     mw = None
-    if d.get("mw"):
+    if mw_match:
         try:
-            mw = float(d["mw"].replace(",", "."))
+            mw = float(mw_match.group(1).replace(",", "."))
         except ValueError:
             mw = None
 
@@ -77,7 +70,7 @@ def parse_entry_text(text):
         "havza": d["havza"].strip(),
         "province": d["il"].strip() if d.get("il") else None,
         "fill_percentage": percent,
-        "measured_date": d["date"].strip(),
+        "measured_date": date_match.group(1) if date_match else None,
         "hes_capacity_mw": mw,
     }
 
@@ -90,13 +83,16 @@ def fetch():
         resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "lxml")
-
         dam_links = soup.find_all("a", href=re.compile(r"/baraj/[^/]+$"))
 
         records = []
         seen_names = set()
+        raw_texts_sample = []
         for link in dam_links:
-            parsed = parse_entry_text(link.get_text())
+            raw_text = link.get_text()
+            if len(raw_texts_sample) < 5:
+                raw_texts_sample.append(raw_text)
+            parsed = parse_entry_text(raw_text)
             if parsed and parsed["name"] not in seen_names:
                 records.append(parsed)
                 seen_names.add(parsed["name"])
@@ -104,8 +100,8 @@ def fetch():
         if not records:
             save_error_fallback(
                 OUTPUT_FILE, SOURCE_NAME,
-                "Hic kayit ayristirilamadi - site yapisi degismis olabilir, "
-                "ENTRY_PATTERN regex'inin guncellenmesi gerekebilir."
+                f"Hic kayit ayristirilamadi. Bulunan link sayisi: {len(dam_links)}. "
+                f"Ilk 5 ham metin ornegi: {raw_texts_sample}"
             )
             return
 
