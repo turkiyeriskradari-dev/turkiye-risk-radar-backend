@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T11:02:25.720050+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T11:23:07.550035+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "5FmBWtlmZaDpN",
+      "title": "OZTURKMENLI-SILIFKE (MERSIN)",
+      "magnitude": 0.9,
+      "depth_km": 0,
+      "date_utc": "2026-09-10 12:37:09",
+      "latitude": 36.4518,
+      "longitude": 34.0167,
+      "location_name": "Mersin"
+    },
+    {
+      "id": "_pi5voYaKWll8",
+      "title": "TASKAPI-(BURDUR)",
+      "magnitude": 1.5,
+      "depth_km": 12.6,
+      "date_utc": "2026-09-10 12:25:06",
+      "latitude": 37.6482,
+      "longitude": 30.4027,
+      "location_name": "Burdur"
+    },
     {
       "id": "EuylyK2anhCd_",
       "title": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
