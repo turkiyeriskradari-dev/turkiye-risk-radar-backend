@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T11:48:57.597624+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-10T12:02:59.749777+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "nDhN5oQXvKH4S",
+      "title": "ENIZCAKIRI-KOZAN (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-10 14:52:30",
+      "latitude": 37.5672,
+      "longitude": 35.5647,
+      "location_name": "Adana"
+    },
+    {
+      "id": "kobJsYa81G0QG",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.1,
+      "depth_km": 4.3,
+      "date_utc": "2026-09-10 12:52:13",
+      "latitude": 37.967,
+      "longitude": 27.1873,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "5FmBWtlmZaDpN",
       "title": "OZTURKMENLI-SILIFKE (MERSIN)",
