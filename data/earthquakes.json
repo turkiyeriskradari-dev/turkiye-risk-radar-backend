@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T10:24:08.059189+00:00",
+  "last_updated": "2026-09-10T10:36:27.455343+00:00",
   "record_count": 68,
   "data": [
+    {
+      "id": "EuylyK2anhCd_",
+      "title": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 12:04:34",
+      "latitude": 38.1542,
+      "longitude": 36.7502,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "op9UIILYAAKEB",
       "title": "IMAMUSAGI-SILIFKE (MERSIN)",
@@ -672,16 +682,6 @@
       "latitude": 40.1157,
       "longitude": 43.2465,
       "location_name": "Kars"
-    },
-    {
-      "id": "pT6kRogmyFQJD",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 17.3,
-      "date_utc": "2026-09-09 13:35:18",
-      "latitude": 39.1993,
-      "longitude": 28.183,
-      "location_name": "Balıkesir"
     }
   ]
 }
