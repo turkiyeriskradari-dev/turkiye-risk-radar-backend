@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T12:29:00.948603+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T12:44:56.458864+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "nDhN5oQXvKH4S",
@@ -12,6 +12,16 @@
       "latitude": 37.5672,
       "longitude": 35.5647,
       "location_name": "Adana"
+    },
+    {
+      "id": "pehiIa611i286",
+      "title": "MENTESE-HONAZ (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 13.6,
+      "date_utc": "2026-09-10 12:56:17",
+      "latitude": 37.7138,
+      "longitude": 29.3015,
+      "location_name": "Denizli"
     },
     {
       "id": "kobJsYa81G0QG",
@@ -662,26 +672,6 @@
       "latitude": 37.1872,
       "longitude": 27.9265,
       "location_name": "Muğla"
-    },
-    {
-      "id": "xrxGLtzOwMz35",
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 17.6,
-      "date_utc": "2026-09-09 15:41:15",
-      "latitude": 39.0828,
-      "longitude": 28.2852,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "zGWYprYKYei4F",
-      "title": "ARSLANBEY-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 2.8,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-09 15:38:50",
-      "latitude": 37.354,
-      "longitude": 37.0538,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
