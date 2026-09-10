@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T03:36:57.871605+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-10T03:49:59.086973+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "PmBYfTAGbr4z7",
+      "title": "FINDIK-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 6.2,
+      "date_utc": "2026-09-10 04:07:10",
+      "latitude": 38.086,
+      "longitude": 36.7545,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "kTvzepNDzYZwj",
       "title": "SELIMIYE-YENISEHIR (BURSA)",
