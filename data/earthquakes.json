@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T09:23:56.254361+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-10T09:36:40.148223+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "5veJeqDaYo7zi",
@@ -642,16 +642,6 @@
       "latitude": 36.2598,
       "longitude": 33.6878,
       "location_name": "Mersin"
-    },
-    {
-      "id": "bbvU65wtXkz0M",
-      "title": "AKDENIZ",
-      "magnitude": 1.4,
-      "depth_km": 24.1,
-      "date_utc": "2026-09-09 12:27:48",
-      "latitude": 36.53,
-      "longitude": 28.6357,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
