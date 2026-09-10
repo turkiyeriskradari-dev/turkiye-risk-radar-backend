@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T07:36:30.416925+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-10T07:50:39.042837+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "A05ew26KH82GG",
+      "title": "CALTILIDERE-ALIAGA (IZMIR)",
+      "magnitude": 1.7,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-10 09:53:20",
+      "latitude": 38.8475,
+      "longitude": 27.0418,
+      "location_name": "İzmir"
+    },
     {
       "id": "iHWjw0zQzerSX",
       "title": "HANCERLI-AKCADAG (MALATYA)",
