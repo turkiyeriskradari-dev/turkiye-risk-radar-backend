@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T08:02:11.362648+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T08:25:49.919093+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "0O77mbEN8PwUS",
@@ -11,6 +11,16 @@
       "date_utc": "2026-09-10 09:57:17",
       "latitude": 39.3835,
       "longitude": 28.0172,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "ydXRma5gr2Jfp",
+      "title": "KINIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-10 09:53:32",
+      "latitude": 39.0833,
+      "longitude": 28.1993,
       "location_name": "Balıkesir"
     },
     {
@@ -662,26 +672,6 @@
       "latitude": 38.996,
       "longitude": 26.0488,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "05aUIoQ3W2khS",
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-09 11:23:15",
-      "latitude": 40.469,
-      "longitude": 29.1987,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "nEbFGrnfWjdwI",
-      "title": "DUZAGAC-KOZAN (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-09 11:20:53",
-      "latitude": 37.6093,
-      "longitude": 35.8165,
-      "location_name": "Adana"
     }
   ]
 }
