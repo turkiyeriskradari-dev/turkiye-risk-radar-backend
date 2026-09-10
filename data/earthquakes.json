@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T02:23:32.817912+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-10T02:36:07.533761+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "kTvzepNDzYZwj",
@@ -662,16 +662,6 @@
       "latitude": 40.187,
       "longitude": 31.7548,
       "location_name": "Ankara"
-    },
-    {
-      "id": "_PU5_qruXjNhS",
-      "title": "ILYASLAR-KIRKAGAC (MANISA)",
-      "magnitude": 1.6,
-      "depth_km": 4.9,
-      "date_utc": "2026-09-09 05:29:46",
-      "latitude": 39.1093,
-      "longitude": 27.7583,
-      "location_name": "Manisa"
     }
   ]
 }
