@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T21:47:44.447840+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-10T22:01:52.648056+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "L5fKrUTPm5S0M",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.9,
+      "depth_km": 14.2,
+      "date_utc": "2026-09-11 00:48:08",
+      "latitude": 35.5437,
+      "longitude": 26.1658,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "vhGB2LBy2Pra0",
       "title": "YOKUSBASI-BULANIK (MUS)",
