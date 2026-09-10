@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T12:02:59.749777+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-10T12:29:00.948603+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "nDhN5oQXvKH4S",
@@ -682,36 +682,6 @@
       "latitude": 37.354,
       "longitude": 37.0538,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "X3AkJXf1tAw8a",
-      "title": "GUMUSKOL-ULUBEY (USAK)",
-      "magnitude": 1.3,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-09 15:26:00",
-      "latitude": 38.4688,
-      "longitude": 29.1342,
-      "location_name": "Uşak"
-    },
-    {
-      "id": "bqojbHVVTar7T",
-      "title": "EREKLIKOMURCU-IVRINDI (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 9.2,
-      "date_utc": "2026-09-09 15:18:19",
-      "latitude": 39.5882,
-      "longitude": 27.5687,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "yA1YCvlWnHQ7F",
-      "title": "YAZBASI-BULANIK (MUS)",
-      "magnitude": 2.1,
-      "depth_km": 19.5,
-      "date_utc": "2026-09-09 15:10:30",
-      "latitude": 39.2777,
-      "longitude": 42.2143,
-      "location_name": "Muş"
     }
   ]
 }
