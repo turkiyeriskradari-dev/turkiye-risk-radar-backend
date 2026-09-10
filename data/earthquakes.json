@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T22:01:52.648056+00:00",
+  "last_updated": "2026-09-10T22:20:59.122555+00:00",
   "record_count": 72,
   "data": [
+    {
+      "id": "e3x8WTrtYb3K1",
+      "title": "YENIPINAR-HISARCIK (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 01:11:31",
+      "latitude": 39.2023,
+      "longitude": 29.1695,
+      "location_name": "Kütahya"
+    },
     {
       "id": "L5fKrUTPm5S0M",
       "title": "GIRIT ADASI (AKDENIZ)",
@@ -712,16 +722,6 @@
       "latitude": 39.2172,
       "longitude": 28.109,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "LB93b81yPasNq",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 6.8,
-      "date_utc": "2026-09-10 01:17:11",
-      "latitude": 36.9442,
-      "longitude": 27.5165,
-      "location_name": "Ege Denizi"
     }
   ]
 }
