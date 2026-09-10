@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T09:36:40.148223+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-10T09:50:34.941598+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "leHV466xT_B1H",
+      "title": "ETIMESGUT (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 0,
+      "date_utc": "2026-09-10 11:25:33",
+      "latitude": 39.89,
+      "longitude": 32.7153,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "rFtZFNYUfsbRx",
+      "title": "SOMA (MANISA)",
+      "magnitude": 1.2,
+      "depth_km": 4.2,
+      "date_utc": "2026-09-10 11:22:47",
+      "latitude": 39.2007,
+      "longitude": 27.6183,
+      "location_name": "Manisa"
+    },
     {
       "id": "5veJeqDaYo7zi",
       "title": "KARLIOVA (BINGOL)",
@@ -22,6 +42,16 @@
       "latitude": 40.7137,
       "longitude": 26.651,
       "location_name": "Edirne"
+    },
+    {
+      "id": "hft7ZVRK7y1oy",
+      "title": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
+      "magnitude": 1.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 09:59:18",
+      "latitude": 40.0255,
+      "longitude": 28.7572,
+      "location_name": "Bursa"
     },
     {
       "id": "0O77mbEN8PwUS",
@@ -622,26 +652,6 @@
       "latitude": 39.3547,
       "longitude": 33.4162,
       "location_name": "Kırıkkale"
-    },
-    {
-      "id": "hftj5pJcmLKmI",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 1.1,
-      "depth_km": 0,
-      "date_utc": "2026-09-09 12:50:02",
-      "latitude": 36.2583,
-      "longitude": 33.7477,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "1Xp90xkyXo0jp",
-      "title": "ISIKLI-SILIFKE (MERSIN)",
-      "magnitude": 0.9,
-      "depth_km": 0,
-      "date_utc": "2026-09-09 12:42:13",
-      "latitude": 36.2598,
-      "longitude": 33.6878,
-      "location_name": "Mersin"
     }
   ]
 }
