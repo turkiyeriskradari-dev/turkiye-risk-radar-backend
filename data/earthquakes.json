@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T20:21:35.541463+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-10T20:34:40.447957+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "S8040mqi8duEa",
+      "title": "CARIKSARAYLAR-SARKIKARAAGAC (ISPARTA)",
+      "magnitude": 1,
+      "depth_km": 23.5,
+      "date_utc": "2026-09-10 23:04:16",
+      "latitude": 38.1535,
+      "longitude": 31.451,
+      "location_name": "Isparta"
+    },
+    {
+      "id": "wSnHWnSNOo90B",
+      "title": "KOKPINAR-PUTURGE (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 14,
+      "date_utc": "2026-09-10 22:47:36",
+      "latitude": 38.2317,
+      "longitude": 38.6683,
+      "location_name": "Malatya"
+    },
     {
       "id": "86H2eymeA3VbZ",
       "title": "KUCUKOVA-MADEN (ELAZIG)",
@@ -652,16 +672,6 @@
       "latitude": 37.8645,
       "longitude": 36.6622,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "fJ_1aqwu_0fTl",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 0.8,
-      "depth_km": 12,
-      "date_utc": "2026-09-09 23:30:27",
-      "latitude": 39.2495,
-      "longitude": 29.0095,
-      "location_name": "Kütahya"
     }
   ]
 }
