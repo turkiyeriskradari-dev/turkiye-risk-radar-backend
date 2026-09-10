@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T18:51:46.265008+00:00",
+  "last_updated": "2026-09-10T19:01:42.718219+00:00",
   "record_count": 61,
   "data": [
     {
@@ -32,6 +32,26 @@
       "latitude": 41.2078,
       "longitude": 28.742,
       "location_name": "İstanbul"
+    },
+    {
+      "id": "QePZ_ygHeAH0q",
+      "title": "KARAPINAR-HEKIMHAN (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 12.6,
+      "date_utc": "2026-09-10 18:33:55",
+      "latitude": 39.074,
+      "longitude": 37.818,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "gGwXFPAJuYue6",
+      "title": "KARAKOY-NALLIHAN (ANKARA)",
+      "magnitude": 2.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 18:12:16",
+      "latitude": 40.1832,
+      "longitude": 31.6438,
+      "location_name": "Ankara"
     },
     {
       "id": "XV3mH0Y11ZlPF",
@@ -592,26 +612,6 @@
       "latitude": 38.0433,
       "longitude": 37.5867,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "y1QBPHg6ZOMoY",
-      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 8.2,
-      "date_utc": "2026-09-09 21:58:42",
-      "latitude": 39.2453,
-      "longitude": 28.1937,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "CEu7GfbUOE72z",
-      "title": "SINDIRGI (BALIKESIR)",
-      "magnitude": 0.9,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-09 21:53:19",
-      "latitude": 39.229,
-      "longitude": 28.1785,
-      "location_name": "Balıkesir"
     }
   ]
 }
