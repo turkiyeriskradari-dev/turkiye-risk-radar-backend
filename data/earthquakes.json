@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T12:57:12.334831+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-10T13:06:14.834838+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "nDhN5oQXvKH4S",
@@ -12,6 +12,26 @@
       "latitude": 37.5672,
       "longitude": 35.5647,
       "location_name": "Adana"
+    },
+    {
+      "id": "qlVRMSLpfpiH9",
+      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
+      "magnitude": 2.5,
+      "depth_km": 11.5,
+      "date_utc": "2026-09-10 13:53:34",
+      "latitude": 40.682,
+      "longitude": 29.234,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "mEm00wK36Lhol",
+      "title": "FISTIKLI-SURUC (SANLIURFA)",
+      "magnitude": 1.7,
+      "depth_km": 3.4,
+      "date_utc": "2026-09-10 13:33:48",
+      "latitude": 36.9575,
+      "longitude": 38.1945,
+      "location_name": "Şanlıurfa"
     },
     {
       "id": "2f7ybs0f3GwuR",
