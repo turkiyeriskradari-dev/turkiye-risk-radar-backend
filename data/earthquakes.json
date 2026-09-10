@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T03:02:11.563277+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-10T03:23:45.539203+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "kTvzepNDzYZwj",
@@ -632,16 +632,6 @@
       "latitude": 38.8648,
       "longitude": 37.7703,
       "location_name": "Malatya"
-    },
-    {
-      "id": "eU9SBKkS6Sfl9",
-      "title": "KISLAK-ALADAG (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 6.6,
-      "date_utc": "2026-09-09 06:18:46",
-      "latitude": 37.5698,
-      "longitude": 35.5607,
-      "location_name": "Adana"
     }
   ]
 }
