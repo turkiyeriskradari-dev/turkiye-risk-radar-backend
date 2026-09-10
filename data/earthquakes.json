@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T00:43:33.028700+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-10T00:55:00.525260+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "5px4jOPyomB87",
+      "title": "SELIMIYE-YENISEHIR (BURSA)",
+      "magnitude": 3,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-10 03:20:40",
+      "latitude": 40.2908,
+      "longitude": 29.4842,
+      "location_name": "Bursa"
+    },
     {
       "id": "fKvBLwZ1VHU8u",
       "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
