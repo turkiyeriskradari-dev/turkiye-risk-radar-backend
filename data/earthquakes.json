@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-10T19:01:42.718219+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-10T19:19:30.919789+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "sB1154OM4x6Ly",
@@ -14,6 +14,16 @@
       "location_name": "Çanakkale"
     },
     {
+      "id": "ZTTHE8op5XMPL",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 11.1,
+      "date_utc": "2026-09-10 19:54:22",
+      "latitude": 39.2157,
+      "longitude": 28.1703,
+      "location_name": "Balıkesir"
+    },
+    {
       "id": "MBSGPYabaeEIt",
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
       "magnitude": 2.3,
@@ -22,6 +32,26 @@
       "latitude": 38.0417,
       "longitude": 37.6068,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "CSB7HF_iNwPAx",
+      "title": "ECEMIS-LICE (DIYARBAKIR)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-10 19:25:56",
+      "latitude": 38.6015,
+      "longitude": 40.4643,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "5NvpfhhYgxUj0",
+      "title": "KAYAONU-PALU (ELAZIG)",
+      "magnitude": 2.1,
+      "depth_km": 10.6,
+      "date_utc": "2026-09-10 18:53:01",
+      "latitude": 38.557,
+      "longitude": 39.8022,
+      "location_name": "Elazığ"
     },
     {
       "id": "ErwDhEpd0NRNx",
