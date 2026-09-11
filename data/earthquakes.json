@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T03:23:16.549902+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-11T03:36:13.849590+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "3oxa8Hm2RnhHk",
+      "title": "YENIKOY-REFAHIYE (ERZINCAN)",
+      "magnitude": 1.9,
+      "depth_km": 5.7,
+      "date_utc": "2026-09-11 06:24:43",
+      "latitude": 39.9015,
+      "longitude": 39.034,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "Bvu9504o8eAUF",
+      "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+      "magnitude": 1.3,
+      "depth_km": 8,
+      "date_utc": "2026-09-11 06:09:16",
+      "latitude": 40.7685,
+      "longitude": 29.0972,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "ptQ_INbDmFX4a",
       "title": "SAGLIK-CIHANBEYLI (KONYA)",
@@ -732,16 +752,6 @@
       "latitude": 40.1977,
       "longitude": 31.6517,
       "location_name": "Ankara"
-    },
-    {
-      "id": "VD0MPWX_iVZ7S",
-      "title": "KOZLU-(BOLU)",
-      "magnitude": 2.2,
-      "depth_km": 14.5,
-      "date_utc": "2026-09-10 06:33:27",
-      "latitude": 40.823,
-      "longitude": 31.5865,
-      "location_name": "Bolu"
     }
   ]
 }
