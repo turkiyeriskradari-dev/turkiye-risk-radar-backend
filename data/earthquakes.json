@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T03:36:13.849590+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-11T03:49:47.851089+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "3oxa8Hm2RnhHk",
@@ -742,16 +742,6 @@
       "latitude": 36.4868,
       "longitude": 28.6345,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "wgIdkuFoUZAH_",
-      "title": "KARAKOY-NALLIHAN (ANKARA)",
-      "magnitude": 1.8,
-      "depth_km": 13.5,
-      "date_utc": "2026-09-10 06:45:22",
-      "latitude": 40.1977,
-      "longitude": 31.6517,
-      "location_name": "Ankara"
     }
   ]
 }
