@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T11:48:07.657509+00:00",
+  "last_updated": "2026-09-11T12:02:24.247254+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "INNEm7nIBmn1N",
+      "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 2.3,
+      "depth_km": 6.3,
+      "date_utc": "2026-09-11 14:49:54",
+      "latitude": 37.5965,
+      "longitude": 37.2933,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ltmHmz_JYTX2U",
       "title": "KADILI-DOGANSEHIR (MALATYA)",
@@ -702,16 +712,6 @@
       "latitude": 37.3372,
       "longitude": 37.063,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "nDhN5oQXvKH4S",
-      "title": "ENIZCAKIRI-KOZAN (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-10 14:52:30",
-      "latitude": 37.5672,
-      "longitude": 35.5647,
-      "location_name": "Adana"
     }
   ]
 }
