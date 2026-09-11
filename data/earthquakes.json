@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T08:51:24.034991+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-11T09:01:55.617961+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "NZn5d251sUl3_",
@@ -702,26 +702,6 @@
       "latitude": 38.1542,
       "longitude": 36.7502,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "op9UIILYAAKEB",
-      "title": "IMAMUSAGI-SILIFKE (MERSIN)",
-      "magnitude": 1.1,
-      "depth_km": 0,
-      "date_utc": "2026-09-10 11:57:50",
-      "latitude": 36.2727,
-      "longitude": 33.774,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "tqcXxhYC_N2i5",
-      "title": "YUKARIKARACAM-SAVASTEPE (BALIKESIR)",
-      "magnitude": 0.8,
-      "depth_km": 20.5,
-      "date_utc": "2026-09-10 11:53:38",
-      "latitude": 39.3772,
-      "longitude": 27.7688,
-      "location_name": "Balıkesir"
     }
   ]
 }
