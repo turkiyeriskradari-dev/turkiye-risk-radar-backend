@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T03:01:59.623852+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-11T03:23:16.549902+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "ptQ_INbDmFX4a",
+      "title": "SAGLIK-CIHANBEYLI (KONYA)",
+      "magnitude": 1.8,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 05:59:16",
+      "latitude": 38.8023,
+      "longitude": 33.1282,
+      "location_name": "Konya"
+    },
     {
       "id": "IeQzVdzOHtQZV",
       "title": "PINARBASI-CELIKHAN (ADIYAMAN)",
