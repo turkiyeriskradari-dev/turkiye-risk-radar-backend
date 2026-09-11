@@ -58,7 +58,7 @@ _TR_MAP = str.maketrans({
 
 
 def slugify_tr(ad):
-    return ad.lower().translate(_TR_MAP)
+    return ad.translate(_TR_MAP).lower()
 
 
 def get_district_slugs(il_slug):
