@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T17:02:05.234594+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-11T17:21:46.065404+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "NNeVkFIiZCm3b",
@@ -662,26 +662,6 @@
       "latitude": 38.5405,
       "longitude": 39.493,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "sB1154OM4x6Ly",
-      "title": "BEHRAM-AYVACIK (CANAKKALE)",
-      "magnitude": 1.5,
-      "depth_km": 13.7,
-      "date_utc": "2026-09-10 20:16:21",
-      "latitude": 39.4913,
-      "longitude": 26.356,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "WwwDYBhKWHa3f",
-      "title": "CUMHURIYET-YESILYURT (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 7.4,
-      "date_utc": "2026-09-10 20:09:25",
-      "latitude": 38.2507,
-      "longitude": 38.0467,
-      "location_name": "Malatya"
     }
   ]
 }
