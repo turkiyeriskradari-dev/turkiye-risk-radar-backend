@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T08:37:47.247450+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-11T08:51:24.034991+00:00",
+  "record_count": 72,
   "data": [
     {
       "id": "NZn5d251sUl3_",
@@ -722,46 +722,6 @@
       "latitude": 39.3772,
       "longitude": 27.7688,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "ctpA4tnkLANXm",
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "magnitude": 1,
-      "depth_km": 0,
-      "date_utc": "2026-09-10 11:43:56",
-      "latitude": 40.4912,
-      "longitude": 29.2032,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "pUqqGrMDds9u3",
-      "title": "MEZREA-(KARS)",
-      "magnitude": 1.7,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-10 11:43:47",
-      "latitude": 40.6888,
-      "longitude": 43.167,
-      "location_name": "Kars"
-    },
-    {
-      "id": "QsUbmL8EGyBEX",
-      "title": "KAYAONU-(ADIYAMAN)",
-      "magnitude": 1.5,
-      "depth_km": 17.4,
-      "date_utc": "2026-09-10 11:40:46",
-      "latitude": 37.7893,
-      "longitude": 38.1932,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "G0wOfE5AHHDKd",
-      "title": "ZAFER-BUCA (IZMIR)",
-      "magnitude": 1.1,
-      "depth_km": 15.1,
-      "date_utc": "2026-09-10 11:40:24",
-      "latitude": 38.3412,
-      "longitude": 27.2225,
-      "location_name": "İzmir"
     }
   ]
 }
