@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T08:24:58.656977+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-11T08:37:47.247450+00:00",
+  "record_count": 76,
   "data": [
     {
       "id": "NZn5d251sUl3_",
@@ -762,26 +762,6 @@
       "latitude": 38.3412,
       "longitude": 27.2225,
       "location_name": "İzmir"
-    },
-    {
-      "id": "neV2fSQjM0ruR",
-      "title": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
-      "magnitude": 1,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-10 11:26:49",
-      "latitude": 40.0143,
-      "longitude": 28.7095,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "leHV466xT_B1H",
-      "title": "ETIMESGUT (ANKARA)",
-      "magnitude": 1.6,
-      "depth_km": 0,
-      "date_utc": "2026-09-10 11:25:33",
-      "latitude": 39.89,
-      "longitude": 32.7153,
-      "location_name": "Ankara"
     }
   ]
 }
