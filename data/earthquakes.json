@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T09:35:28.618193+00:00",
+  "last_updated": "2026-09-11T09:49:43.550047+00:00",
   "record_count": 70,
   "data": [
+    {
+      "id": "laYLANL1knFSm",
+      "title": "DONGEL-(KAHRAMANMARAS)",
+      "magnitude": 2.6,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-11 12:43:50",
+      "latitude": 37.8702,
+      "longitude": 36.6695,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ZomAUSeDK1wbd",
       "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
@@ -692,16 +702,6 @@
       "latitude": 37.967,
       "longitude": 27.1873,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "5FmBWtlmZaDpN",
-      "title": "OZTURKMENLI-SILIFKE (MERSIN)",
-      "magnitude": 0.9,
-      "depth_km": 0,
-      "date_utc": "2026-09-10 12:37:09",
-      "latitude": 36.4518,
-      "longitude": 34.0167,
-      "location_name": "Mersin"
     }
   ]
 }
