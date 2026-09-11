@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T07:03:27.856886+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-11T07:23:22.462335+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "6XeWOKhyIPVxl",
@@ -52,6 +52,16 @@
       "latitude": 39.6273,
       "longitude": 26.4608,
       "location_name": "Çanakkale"
+    },
+    {
+      "id": "yvMwSYn_BfFG3",
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "magnitude": 0.8,
+      "depth_km": 13.9,
+      "date_utc": "2026-09-11 08:23:07",
+      "latitude": 39.2678,
+      "longitude": 28.964,
+      "location_name": "Kütahya"
     },
     {
       "id": "71O4RAr9T3s5Z",
