@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T20:02:02.625709+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-11T20:22:52.040396+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "oaAVDguUCKc2W",
@@ -692,36 +692,6 @@
       "latitude": 39.074,
       "longitude": 28.6492,
       "location_name": "Manisa"
-    },
-    {
-      "id": "7YS1C0XCOgwbA",
-      "title": "HABIPUSAGI-BASKIL (ELAZIG)",
-      "magnitude": 1.2,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-10 23:21:18",
-      "latitude": 38.4458,
-      "longitude": 38.7893,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "h3y5D9x86tG4Z",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.1,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-10 23:13:08",
-      "latitude": 39.1395,
-      "longitude": 28.2497,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "S8040mqi8duEa",
-      "title": "CARIKSARAYLAR-SARKIKARAAGAC (ISPARTA)",
-      "magnitude": 1,
-      "depth_km": 23.5,
-      "date_utc": "2026-09-10 23:04:16",
-      "latitude": 38.1535,
-      "longitude": 31.451,
-      "location_name": "Isparta"
     }
   ]
 }
