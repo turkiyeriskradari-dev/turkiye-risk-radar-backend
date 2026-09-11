@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T19:02:03.846080+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-11T19:21:08.924745+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "h60c30s2CSQky",
+      "title": "KARACAOREN-(MUGLA)",
+      "magnitude": 2,
+      "depth_km": 11,
+      "date_utc": "2026-09-11 22:02:53",
+      "latitude": 37.2167,
+      "longitude": 28.7627,
+      "location_name": "Muğla"
+    },
     {
       "id": "cyKAmrpELMnVJ",
       "title": "CAMPINAR-CELIKHAN (ADIYAMAN)",
