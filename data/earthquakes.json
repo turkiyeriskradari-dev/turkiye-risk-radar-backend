@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T05:48:45.043488+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-11T06:02:27.459323+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "Si4YDQmDHQpt0",
+      "title": "KIZILAGIL-(BOLU)",
+      "magnitude": 1.6,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-11 08:35:33",
+      "latitude": 40.7807,
+      "longitude": 31.5282,
+      "location_name": "Bolu"
+    },
     {
       "id": "3alEYa5QDdt58",
       "title": "TARTISIK-AYVACIK (CANAKKALE)",
