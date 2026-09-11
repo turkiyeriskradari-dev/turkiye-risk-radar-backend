@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T19:33:15.360317+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-11T19:46:34.378487+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "oaAVDguUCKc2W",
+      "title": "ALHANUSAGI-(MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 13.5,
+      "date_utc": "2026-09-11 22:33:00",
+      "latitude": 38.2783,
+      "longitude": 38.664,
+      "location_name": "Malatya"
+    },
     {
       "id": "h60c30s2CSQky",
       "title": "KARACAOREN-(MUGLA)",
