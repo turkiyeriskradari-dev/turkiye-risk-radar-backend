@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T09:49:43.550047+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-11T10:02:08.747863+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "E8H9ukwxVLZFu",
+      "title": "BOZBURUN-MARMARIS (MUGLA)",
+      "magnitude": 2.6,
+      "depth_km": 71.8,
+      "date_utc": "2026-09-11 12:47:21",
+      "latitude": 36.6983,
+      "longitude": 27.9872,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "Fv63fU3BjAgWB",
+      "title": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
+      "magnitude": 1.7,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-11 12:47:16",
+      "latitude": 38.7665,
+      "longitude": 36.5812,
+      "location_name": "Kayseri"
+    },
     {
       "id": "laYLANL1knFSm",
       "title": "DONGEL-(KAHRAMANMARAS)",
@@ -12,6 +32,16 @@
       "latitude": 37.8702,
       "longitude": 36.6695,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "FXYRLF7h7mJ_9",
+      "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-11 12:40:31",
+      "latitude": 38.7785,
+      "longitude": 36.5018,
+      "location_name": "Kayseri"
     },
     {
       "id": "ZomAUSeDK1wbd",
@@ -682,26 +712,6 @@
       "latitude": 41.1152,
       "longitude": 28.8572,
       "location_name": "İstanbul"
-    },
-    {
-      "id": "pehiIa611i286",
-      "title": "MENTESE-HONAZ (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 13.6,
-      "date_utc": "2026-09-10 12:56:17",
-      "latitude": 37.7138,
-      "longitude": 29.3015,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "kobJsYa81G0QG",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.1,
-      "depth_km": 4.3,
-      "date_utc": "2026-09-10 12:52:13",
-      "latitude": 37.967,
-      "longitude": 27.1873,
-      "location_name": "Ege Denizi"
     }
   ]
 }
