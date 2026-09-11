@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T06:42:17.220229+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-11T06:54:18.721471+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "JWPLge1p5DlZo",
+      "title": "BALLICA-OLTU (ERZURUM)",
+      "magnitude": 2.1,
+      "depth_km": 21.4,
+      "date_utc": "2026-09-11 09:02:14",
+      "latitude": 40.5157,
+      "longitude": 41.865,
+      "location_name": "Erzurum"
+    },
     {
       "id": "Si4YDQmDHQpt0",
       "title": "KIZILAGIL-(BOLU)",
@@ -752,26 +762,6 @@
       "latitude": 39.3835,
       "longitude": 28.0172,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "ydXRma5gr2Jfp",
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-10 09:53:32",
-      "latitude": 39.0833,
-      "longitude": 28.1993,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "A05ew26KH82GG",
-      "title": "CALTILIDERE-ALIAGA (IZMIR)",
-      "magnitude": 1.7,
-      "depth_km": 11.6,
-      "date_utc": "2026-09-10 09:53:20",
-      "latitude": 38.8475,
-      "longitude": 27.0418,
-      "location_name": "İzmir"
     }
   ]
 }
