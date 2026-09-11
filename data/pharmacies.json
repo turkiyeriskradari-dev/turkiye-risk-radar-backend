@@ -1,7 +1,7 @@
 {
   "source": "nobetcieczanen.com - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-09-11T11:25:20.768125+00:00",
-  "record_count": 1034,
+  "last_updated": "2026-09-11T18:24:22.880841+00:00",
+  "record_count": 1200,
   "data": [
     {
       "name": "Keklik Eczanesi",
@@ -2538,13 +2538,6 @@
       "province": "Diyarbakır"
     },
     {
-      "name": "Amed Eczanesi",
-      "phone": "05318921116",
-      "address": "15 TEMMUZ MAH..ERGANİ CAD.DEVLET HASTANESİ KARŞISI NO:127",
-      "district": "DİCLE",
-      "province": "Diyarbakır"
-    },
-    {
       "name": "Akarsu Eczanesi",
       "phone": "04125812123",
       "address": "YENİŞEHİR MAH. SAĞLIK OCAĞI SOK. NO:33",
@@ -3672,6 +3665,1308 @@
       "province": "Mersin"
     },
     {
+      "name": "Burgazada Eczanesi",
+      "phone": "02163812112",
+      "address": "ÇINARLIK SOKAK NO:5/A BURGAZADA",
+      "district": "Adalar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Denız Eczanesi",
+      "phone": "02163815181",
+      "address": "ISKELE CADDESI NO:3/B KINALIADA ISTANBUL",
+      "district": "Adalar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Heybeliada Eczanesi",
+      "phone": "02163518415",
+      "address": "HEYBELİADA MAHALLESİ AYYILDIZ CADDESİ NO:25/D ADALAR",
+      "district": "Adalar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yeni Eczanesi",
+      "phone": "02163823800",
+      "address": "BÜYÜKADA NİZAM MAH.ÇINAR CAD.NO:7/A",
+      "district": "Adalar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Can Eczanesi",
+      "phone": "02126340478",
+      "address": "Hadımköy Mah. Çarşamba Sok. No:6-8A",
+      "district": "Arnavutköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Serhad Eczanesi",
+      "phone": "02125979767",
+      "address": "MERKEZ MAH.SEMİH SOKAK NO:8/10B ARNAVUTKÖY",
+      "district": "Arnavutköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ümit Eczanesi",
+      "phone": "05313759199",
+      "address": "Merkez Mahallesi Eski Edirne Caddesi No: 1175/A",
+      "district": "Arnavutköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ata Farma Eczanesi",
+      "phone": "05423018500",
+      "address": "KAYIŞDAĞI MAH.RACİ CD.NO:4/C",
+      "district": "Ataşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Diyet Plus Eczanesi",
+      "phone": "05412492956",
+      "address": "KÜÇÜKBAKKALKÖY MAH.ŞERİF ALİ CAD. NO:26/B",
+      "district": "Ataşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Watergarden Eczanesi",
+      "phone": "02165047070",
+      "address": "BARBAROS MAH. MOR SÜMBÜL SOK. NO:8J",
+      "district": "Ataşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Badem Eczanesi",
+      "phone": "02124237359",
+      "address": "MUSTAFA KEMAL PAŞA MAH. MAREŞAL CAD. NO:27/A",
+      "district": "Avcılar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Şifa Eczanesi",
+      "phone": "02129650835",
+      "address": "MERKEZ MAH.REŞİTPAŞA CAD.NO:109",
+      "district": "Avcılar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Cansızoğlu Eczanesi",
+      "phone": "02124629330",
+      "address": "Yenigün Mah. Bağcılar Cad.No:191/C",
+      "district": "Bağcılar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Çaykara Eczanesi",
+      "phone": "02124613337",
+      "address": "YAVUZ SELİM MAH. 1015 SOK. NO:9A 9B",
+      "district": "Bağcılar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ezgi Eczanesi",
+      "phone": "02125158918",
+      "address": "FATİH MAHALLESİ PAZAR CADDESİ NO:16/A BAĞCILAR",
+      "district": "Bağcılar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Güneşli Tuğba Eczanesi",
+      "phone": "05334964336",
+      "address": "BAĞLAR MAH. ATATÜRK CAD.NO:44/A",
+      "district": "Bağcılar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Akasya Eczanesi",
+      "phone": "02126559495",
+      "address": "Kocasinan Merkez Mah.Eskiİ Edirne Yolu Cad .72/4A",
+      "district": "Bahçelievler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Eczane Nish Eczanesi",
+      "phone": "02126036040",
+      "address": "Çobançeşme Mah. Sanayi Cad.No:44DN",
+      "district": "Bahçelievler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Pelina Eczanesi",
+      "phone": "02124428145",
+      "address": "Şirinevler Mah. Çavuşpaşa Cad. No:92-94A (ESKİ ADI:PELİN ECZANESİ)",
+      "district": "Bahçelievler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yasemin Eczanesi",
+      "phone": "02126444006",
+      "address": "SOĞANLI MAH. MUSTAFA KEMAL PAŞA CAD. NO:105/A",
+      "district": "Bahçelievler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Bayraktar Eczanesi",
+      "phone": "05075205275",
+      "address": "Şenlikköy Mah. Harman Sk. No: 43/4B",
+      "district": "Bakırköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Okan Eczanesi",
+      "phone": "02125439624",
+      "address": "İncirli Caddesi Hür Sk. No:11/A",
+      "district": "Bakırköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ufuk Eczanesi",
+      "phone": "02126630325",
+      "address": "YEŞİLKÖY MAH. İSTASYON CAD.NO:79/E",
+      "district": "Bakırköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Atakul Eczanesi",
+      "phone": "02124880531",
+      "address": "BAŞAK MAH. YUNUS EMRE CAD. NO:18/1K",
+      "district": "Başakşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Bahçekent Eczanesi",
+      "phone": "05319441502",
+      "address": "Bahçeşehir 2. Kısım Mah. Şehit Asteğmen Furkan Işık Bulvarı Bahçekent E02 Blok No:25B",
+      "district": "Başakşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Leyla Eczanesi",
+      "phone": "02126875606",
+      "address": "Güvercintepe Mah. Ahmet Yesevi Cad. No: 2/2A",
+      "district": "Başakşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Olimpiyat Eczanesi",
+      "phone": "5343229040",
+      "address": "Ziya Gökalp Mah. Doktor Mimar Kadir Topbaş Cad. Hayatpark Olimpiyat Konakları Sitesi B1 Blok Kapı No:9I Dükkan No:22",
+      "district": "Başakşehir",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Aydın Eczanesi",
+      "phone": "02126180051",
+      "address": "YILDIRIM MAH.ALİ FUAT BAŞGİL CAD.NO:22/1 B BAYRAMPAŞA-İSTANBUL",
+      "district": "Bayrampaşa",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ömür Eczanesi",
+      "phone": "02126134565",
+      "address": "ORTA MAH.DEMİRKAPI CAD. ADALET SOK. NO:36/A BAYRAMPAŞA-İSTANBUL",
+      "district": "Bayrampaşa",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Bebek Eczanesi",
+      "phone": "02122650257",
+      "address": "Bebek Mah. Manolya Sk. No:2/A",
+      "district": "Beşiktaş",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Bizim Eczanesi",
+      "phone": "02122592456",
+      "address": "SİNANPAŞA MAH. ORTABAHÇE CAD.NO:29-B",
+      "district": "Beşiktaş",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Öke Eczanesi",
+      "phone": "02122696758",
+      "address": "NİSPETİYE CADDESİ BİNBİR ÇİÇEK SOKAK NO:3/A",
+      "district": "Beşiktaş",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Özge Eczanesi",
+      "phone": "05364638933",
+      "address": "Kavacık Mah. Fatih Sultan Mehmet Cad. No:34/1A",
+      "district": "Beykoz",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yeni Yalıköy Eczanesi",
+      "phone": "02164242330",
+      "address": "Yalıköy Mah. Çayır Cad. No: 58/A",
+      "district": "Beykoz",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Era Eczanesi",
+      "phone": "02123029014",
+      "address": "Adnan Kahveci Mah. Alemdağ Cad. No:2/1/81",
+      "district": "Beylikdüzü",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Farabi Eczanesi",
+      "phone": "02122424207",
+      "address": "KAVAKLI MAH. FARABİ SOK. NO:5 İÇ KAPI NO:6",
+      "district": "Beylikdüzü",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Işıl Eczanesi",
+      "phone": "05327040765",
+      "address": "BÜYÜKŞEHİR MAH. BELEDİYE CAD. NO:22/41",
+      "district": "Beylikdüzü",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Nalan Eczanesi",
+      "phone": "02128553606",
+      "address": "Adnan Kahveci Mah. Yavuz Sultan Selim Bulvarı No:16/2",
+      "district": "Beylikdüzü",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Asmalı Eczanesi",
+      "phone": "02122435165",
+      "address": "Asmalımescit Mah. Meşrutiyet Cad. No:115",
+      "district": "Beyoğlu",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Cihan Eczanesi",
+      "phone": "02122553872",
+      "address": "FETİHTEPE MAH.DEREİCİ SK. NO:226/C",
+      "district": "Beyoğlu",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Oğuz Eczanesi",
+      "phone": "02122383734",
+      "address": "KADIMEHMET MAH. DEĞİRMEN ARKASI SOK. NO:1/A",
+      "district": "Beyoğlu",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Eren Eczanesi",
+      "phone": "02128615300",
+      "address": "Ulus Mah.Atatürk 2 Cad.No:24/B",
+      "district": "Büyükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Sağlık Eczanesi",
+      "phone": "02128832155",
+      "address": "Dizdariye Mah.Kemal Atatürk.Cad.No:2A Bağımsız Bölüm:1 Büyükçekmece / İST.",
+      "district": "Büyükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Erbil Eczanesi",
+      "phone": "02127892011",
+      "address": "FERHATPAŞA MAH. MESCİT SOK. NO:12/B ÇATALCA/ İSTANBUL",
+      "district": "Çatalca",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Altınsoy Eczanesi",
+      "phone": "02167717810",
+      "address": "EKŞİOĞLU MAH. SARAY CAD. İSPİRLİOĞLU APT. NO:101/2B",
+      "district": "Çekmeköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Tezer Eczanesi",
+      "phone": "05331413483",
+      "address": "MİMAR SİNAN MAH. ÇAVUŞBAŞI CAD.NO:30A",
+      "district": "Çekmeköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Metropol Eczanesi",
+      "phone": "02124309099",
+      "address": "BİRLİK MAH.BAHÇELER CD. NO:7/1A",
+      "district": "Esenler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Oğuz Eczanesi",
+      "phone": "02124823348",
+      "address": "Çiftehavuzlar Mah. Eser Sok. No:2/B",
+      "district": "Esenler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ulu Eczanesi",
+      "phone": "02126299639",
+      "address": "TURGUTREİS MH CENGİZTOPEL CD NO:107/B",
+      "district": "Esenler",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Torium Eczanesi",
+      "phone": "05313532140",
+      "address": "Turgut Özal Mah.68.Sk.No:50",
+      "district": "Esenyurt",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Arzu Eczanesi",
+      "phone": "02126272386",
+      "address": "Göktürk Merkez Mah. Telekom Sok. No:1/B",
+      "district": "Eyüpsultan",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Gökhan Eczanesi",
+      "phone": "02126742172",
+      "address": "TOPÇULAR MAH.ŞEHİT KUBİLAY SOK.NO:8/A",
+      "district": "Eyüpsultan",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Saray Eczanesi",
+      "phone": "02122432730",
+      "address": "KARADOLAP MAH. ORTAOKUL SOK. NO:7/C EYÜPSULTAN/İSTANBUL",
+      "district": "Eyüpsultan",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Baran Eczanesi",
+      "phone": "02125855817",
+      "address": "Molla Gürani Mah. Turgut Özal Millet Cad. No:8/A",
+      "district": "Fatih",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Işık Eczanesi",
+      "phone": "02125161775",
+      "address": "Nişanca Mah. Türkeli Cad. No:66/A",
+      "district": "Fatih",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Nihal Eczanesi",
+      "phone": "02125296342",
+      "address": "Kocamustafapaşa Mah. Etyemez Tekke Sok. No:5/A",
+      "district": "Fatih",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Selenyum Eczanesi",
+      "phone": "02125852200",
+      "address": "Aksaray Mah. Gazi Mustafa Kemalpaşa Cad. No:31/A",
+      "district": "Fatih",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ümit Şahin Eczanesi",
+      "phone": "02122488704",
+      "address": "Hobyar Mah. Hamidiye Cad. No:16/E",
+      "district": "Fatih",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yeni Bahadır Eczanesi",
+      "phone": "02125218410",
+      "address": "Hırka-i Şerif Mah. Rüştü Efendi Sk. No:2A-2B",
+      "district": "Fatih",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Kent Eczanesi",
+      "phone": "02125351170",
+      "address": "FEVZİ ÇAKMAK MAH. CENGİZ TOPEL CAD. NO.172",
+      "district": "Gaziosmanpaşa",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Müge Eczanesi",
+      "phone": "05316205909",
+      "address": "YILDIZTABYA MAH. YILDIZTABYA CAD.NO:60/A",
+      "district": "Gaziosmanpaşa",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Natura Eczanesi",
+      "phone": "02124774415",
+      "address": "KARAYOLLARI MAH. 621 SOK. NO:58/1-A",
+      "district": "Gaziosmanpaşa",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Başak Eczanesi",
+      "phone": "02124811774",
+      "address": "TOZKOPARAN MAH.CEVAT AÇIKALIN CAD: NO.10/4",
+      "district": "Güngören",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Alp Koray Eczanesi",
+      "phone": "02164141974",
+      "address": "EĞİTİM MAH. NAHİTBEY SOK. NO:47-49C",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Esin Eczanesi",
+      "phone": "02163403805",
+      "address": "KOŞUYOLU MAH.KOŞUYOLU CAD.NO:24 KADIKÖY",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Hekimoğlu Eczanesi",
+      "phone": "02163858588",
+      "address": "ERENKÖY MAH.TELLİKAVAK SOK.NO:1B KADIKÖY",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Kozyatağı Cem Eczanesi",
+      "phone": "02163620082",
+      "address": "KOZYATAĞI MAHALLESİ BAYAR CADDESİ NO:38B",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Mahur Eczanesi",
+      "phone": "05321680104",
+      "address": "FENERBAHÇE MAH. MAHUR SOK. NO:15/D",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Moda Zırhlıoğlu Eczanesi",
+      "phone": "02163388826",
+      "address": "CAFERAĞA MAH. MODA CAD. NO:115A",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Naz Eczanesi",
+      "phone": "02165668073",
+      "address": "Merdivenköy Mah.Ortabahar Sok.No:22A Kadıköy",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Zeytindalı Eczanesi",
+      "phone": "02165650474",
+      "address": "SAHRAYICEDİT MAH.MÜMİN DERESİ SOK.NO:35B KADIKÖY",
+      "district": "Kadıköy",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Gökçe Eczanesi",
+      "phone": "02122823789",
+      "address": "SULTAN SELİM MAH.ŞAHİNLER CAD.NO:8-10/B",
+      "district": "Kağıthane",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Safa Eczanesi",
+      "phone": "02122318163",
+      "address": "HÜRRİYET MAH. DR.CEMİL BENGÜ CAD.NO:43/B",
+      "district": "Kağıthane",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yiğit Eczanesi",
+      "phone": "02122682786",
+      "address": "ORTABAYIR MAH. TALATPAŞA CAD NO:6/C BACADİBİ SOK.NO:1/A",
+      "district": "Kağıthane",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Avrupa Plus Eczanesi",
+      "phone": "05366680961",
+      "address": "ESENTEPE MAH. İNÖNÜ CAD. NO: 151/A",
+      "district": "Kartal",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ayşegül Eczanesi",
+      "phone": "05055951074",
+      "address": "Cumhuriyet Mahallesi Erzincan Sokak No:30B",
+      "district": "Kartal",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Cadde Eczanesi",
+      "phone": "02164410046",
+      "address": "YAKACIK ÇARŞI MAH. KARTAL CAD. A BLOK NO:68-70/H",
+      "district": "Kartal",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Kartal Plus Eczanesi",
+      "phone": "02162250891",
+      "address": "ORTA MAH. YALNIZ SELVİ CD. NO:21A",
+      "district": "Kartal",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Onur Eczanesi",
+      "phone": "02163052202",
+      "address": "Orhantepe Mah. Bankalar Cad. No:33/A",
+      "district": "Kartal",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Aktuğ Eczanesi",
+      "phone": "02124481224",
+      "address": "ATATÜRK MAH. İKİTELLİ CADDESİ 131/C",
+      "district": "Küçükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Cennet Eczanesi",
+      "phone": "05434325251",
+      "address": "Cennet Mahallesi Hürriyet Caddesi No:46/D",
+      "district": "Küçükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Kevser Eczanesi",
+      "phone": "02125929705",
+      "address": "SULTAN MURAT MAHALLESİ EMSAL SOKAK NO:30/B",
+      "district": "Küçükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Mevsim Eczanesi",
+      "phone": "02127413373",
+      "address": "KANARYA MAH. BÜLBÜL SOK, NO:12/A",
+      "district": "Küçükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Oğulcan Eczanesi",
+      "phone": "02126962659",
+      "address": "HALKALI MERKEZ MAHALLESİ 2. CİHAN SOKAK 6/B KÜÇÜKÇEKMECE İSTANBUL",
+      "district": "Küçükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yeni Hayat Eczanesi",
+      "phone": "02124262063",
+      "address": "KARTALTEPE MAH. 2.NAMIK KEMAL CAD.NO:18A KÜÇÜKÇEKMECE İSTANBUL",
+      "district": "Küçükçekmece",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Aybüke Eczanesi",
+      "phone": "02164212183",
+      "address": "BAŞIBÜYÜK MAH. BAŞIBÜYÜK CAD. NO:16A",
+      "district": "Maltepe",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Özen Küçükyalı Eczanesi",
+      "phone": "02163885074",
+      "address": "İDEALTEPE MAH. MIZRAK SOK. NO:2A",
+      "district": "Maltepe",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Duru Eczanesi",
+      "phone": "05078826737",
+      "address": "Yenişehir Mahallesi Ekin Sokak No: 5/1-A",
+      "district": "Pendik",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Işık Eczanesi",
+      "phone": "2163540070",
+      "address": "DOĞU MAH. ORTANCA CAD. NO:73/C",
+      "district": "Pendik",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Orhangazi Eczanesi",
+      "phone": "2163920022",
+      "address": "ORHANGAZİ MAH. VATAN CAD. KEMAL SOK. NO:19/A",
+      "district": "Pendik",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Emek Eczanesi",
+      "phone": "02166224467",
+      "address": "Emek Mah. Fatih Cad. No: 21/B",
+      "district": "Sancaktepe",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Eylül Eczanesi",
+      "phone": "02163117121",
+      "address": "Abdurrahmangazi Mah. Siper Sok. No:5/A",
+      "district": "Sancaktepe",
+      "province": "İstanbul"
+    },
+    {
+      "name": "İstanbul Eczanesi",
+      "phone": "02166218363",
+      "address": "SARIGAZİ MAH. OSMANGAZİ CAD. NO:32A",
+      "district": "Sancaktepe",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Sardunya Eczanesi",
+      "phone": "02163123122",
+      "address": "Safa Mah. Bahçelievler Cad. No: 11A",
+      "district": "Sancaktepe",
+      "province": "İstanbul"
+    },
+    {
+      "name": "İkizler Eczanesi",
+      "phone": "05344072890",
+      "address": "ZEKERİYAKÖY MAH. KÖYİÇİ CAMİ ARKASI SOK. NO:2",
+      "district": "Sarıyer",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Orçun Eczanesi",
+      "phone": "02122232222",
+      "address": "TARABYA MAHALLESİ ARABAYOLU CADDESİ NO:230/A",
+      "district": "Sarıyer",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yeni Saray Eczanesi",
+      "phone": "02122715245",
+      "address": "MERKEZ MAH. DURSUN FAKİH SOK. NO:2/A",
+      "district": "Sarıyer",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Betül Ketenci Eczanesi",
+      "phone": "02167042808",
+      "address": "HACIKASIM MAH.CUMHURİYET CAD.NO:42/B ŞİLE",
+      "district": "Şile",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Şifa Eczanesi",
+      "phone": "02167218169",
+      "address": "YAKUPLU CADDESİ NO:7 AĞVA",
+      "district": "Şile",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Derman Eczanesi",
+      "phone": "02127271770",
+      "address": "PİRİPAŞA MAH.HACIPERVANE CAD.NO:37/C SİLİVRİ/İST.",
+      "district": "Silivri",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Gamze Eczanesi",
+      "phone": "02129996856",
+      "address": "YENİ MAH. ŞİNASİ GÜNAYDIN SOK. NO:3/B",
+      "district": "Silivri",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yaşam Eczanesi",
+      "phone": "02127316038",
+      "address": "Selimpaşa mah.Halaskargazi cad.No:31/A Silivri/ İstanbul",
+      "district": "Silivri",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Anka Eczanesi",
+      "phone": "02128125262",
+      "address": "Cumhuriyet Mah. Abide-i Hürriyet Cad. No:23B",
+      "district": "Şişli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Bahçe Eczanesi",
+      "phone": "02122963417",
+      "address": "FERİKÖY MAH. KURTULUŞ CAD. NO:108/A",
+      "district": "Şişli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Deniz Pera Eczanesi",
+      "phone": "02122472158",
+      "address": "HALASKARGAZİ MAH. HALASKARGAZİ CAD. NO:18/A",
+      "district": "Şişli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Fulya Eczanesi",
+      "phone": "02122411262",
+      "address": "HARBİYE MAH. TEŞVİKİYE CAD. NO:45A",
+      "district": "Şişli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Fulya Ada Eczanesi",
+      "phone": "02122346321",
+      "address": "TEŞVİKİYE MAH. FERAH SOK. NO:35/B",
+      "district": "Şişli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "İpek Eczanesi",
+      "phone": "02122179998",
+      "address": "Fulya Mah. Likör Yanı Sok. No:1/A",
+      "district": "Şişli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Adil Eczanesi",
+      "phone": "05452862899",
+      "address": "Adil Mah. Yelkenci Sok. No:8A",
+      "district": "Sultanbeyli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ahıskalı Eczanesi",
+      "phone": "05061452896",
+      "address": "Mehmet Akif Mah. Erdoğan Cad. No: 2A",
+      "district": "Sultanbeyli",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Pera Eczanesi",
+      "phone": "05312931813",
+      "address": "Gazi Mahallesi 1425.Sokak No:40A",
+      "district": "Sultangazi",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Seyla Emre Eczanesi",
+      "phone": "05304109662",
+      "address": "Yunus Emre Mah. Kıbrıs Cad. No: 43/1B - 43/1C",
+      "district": "Sultangazi",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ata Eczanesi",
+      "phone": "02164471404",
+      "address": "YAYLA MAH. ŞİNASİ DURAL CAD. NO:29/B",
+      "district": "Tuzla",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Önder Eczanesi",
+      "phone": "05537235474",
+      "address": "MİMAR SİNAN MAH. GÜNGÖRMÜŞ SOK. NO:35/A",
+      "district": "Tuzla",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Akasya Eczanesi",
+      "phone": "05366424080",
+      "address": "ÇAKMAK MAH. İKBAL CAD. NO:34",
+      "district": "Ümraniye",
+      "province": "İstanbul"
+    },
+    {
+      "name": "İstanbul Eczanesi",
+      "phone": "02166300125",
+      "address": "KAZIMKARABEKİR MAH. ADEM YAVUZ CAD. NO:18 A ve No:18/B",
+      "district": "Ümraniye",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Sait Eczanesi",
+      "phone": "02162900666",
+      "address": "Şerifali Mah. Turcan Cad. Münevver Sok. Sarissa İstanbul Sitesi B Blok No:1",
+      "district": "Ümraniye",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ünal Eczanesi",
+      "phone": "02164433291",
+      "address": "YAMANEVLER MAH. KÜÇÜKSU CAD. NO:2/D",
+      "district": "Ümraniye",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Beylerbeyi Büyük Eczanesi",
+      "phone": "02163214647",
+      "address": "BEYLERBEYİ MAH. ABDULLAHAĞA CAD. NO :7/A",
+      "district": "Üsküdar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Ceyda Eczanesi",
+      "phone": "02165607868",
+      "address": "Bulgurlu Mah. Kireçfırını Sok. Dış Kapı No:6E İç Kapı No:30",
+      "district": "Üsküdar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Han Eczanesi",
+      "phone": "05333984947",
+      "address": "Selimiye Mah. Tıbbiye Cad. No:18/A",
+      "district": "Üsküdar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Hayat Eczanesi",
+      "phone": "05071714368",
+      "address": "SELAMİ ALİ MAH. ŞEHİT ASTEĞMEN HALİL ÖGEL SOK. NO:14/A",
+      "district": "Üsküdar",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Sezgin Eczanesi",
+      "phone": "02124744120",
+      "address": "SÜMER MAH. PROF. DR. TURAN GÜNEŞ CAD. NO:57/AA",
+      "district": "Zeytinburnu",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Yeni Hayat Eczanesi",
+      "phone": "02124161212",
+      "address": "GÖKALP MAH. MEHMET ALPAY SOK. NO:53/A",
+      "district": "Zeytinburnu",
+      "province": "İstanbul"
+    },
+    {
+      "name": "Şeyma Mintaş Eczanesi",
+      "phone": "02326172239",
+      "address": "YENİ MAHALLE SAMURLU CADDESİ NO:49/A",
+      "district": "Aliağa",
+      "province": "İzmir"
+    },
+    {
+      "name": "Gülben Eczanesi",
+      "phone": "02323457745",
+      "address": "FEVZİ ÇAKMAK MAH. CENGİZ TOPEL SOK. NO:11/A",
+      "district": "Balçova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Çapuk Eczanesi",
+      "phone": "02325813811",
+      "address": "MİTHATPAŞA MAH. HASTANE CAD. NO:20",
+      "district": "Bayındır",
+      "province": "İzmir"
+    },
+    {
+      "name": "İlgi Eczanesi",
+      "phone": "02323866001",
+      "address": "ADALET MAH. 2132/2 SOK. NO:7/A",
+      "district": "Bayraklı",
+      "province": "İzmir"
+    },
+    {
+      "name": "Kendirci Eczanesi",
+      "phone": "02323454637",
+      "address": "ÇAY MAH. 2091 SOK. NO:17",
+      "district": "Bayraklı",
+      "province": "İzmir"
+    },
+    {
+      "name": "Sarıkaya Eczanesi",
+      "phone": "05325794715",
+      "address": "SOĞUKKUYU MAH. 1847/26 SOK. NO:5/E",
+      "district": "Bayraklı",
+      "province": "İzmir"
+    },
+    {
+      "name": "İstanbul Eczanesi",
+      "phone": "02326322828",
+      "address": "KURTULUŞ MAH.KESTEL CAD.NO:65/15",
+      "district": "Bergama",
+      "province": "İzmir"
+    },
+    {
+      "name": "Gönen Eczanesi",
+      "phone": "02325926868",
+      "address": "ATATÜRK MAH. KAYMAKAM YUSUF DOĞAN CAD.NO:10 BEYDAĞ",
+      "district": "Beydağ",
+      "province": "İzmir"
+    },
+    {
+      "name": "Bornova Akşahin Eczanesi",
+      "phone": "02323730690",
+      "address": "MEVLANA MAH. 1700 SOKAK NO:37/B",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Bornova Güler Eczanesi",
+      "phone": "02323883591",
+      "address": "ATATÜRK MAHALLESİ FEHMİ YİĞİN CADDESİ NO:12/A",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Çiçekli Eczanesi",
+      "phone": "02325049303",
+      "address": "ÇINAR MAH FATİH CAD. NO:1/23F",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Ebru Eczanesi",
+      "phone": "02324671129",
+      "address": "BİRLİK MAH. KEMALPAŞA CAD. NO:235/A",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Emin Eczanesi",
+      "phone": "02323739631",
+      "address": "KAZIMDİRİK MAH. ÜNİVERSİTE CAD. NO:20/A",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Öz Işıl Eczanesi",
+      "phone": "02323742683",
+      "address": "ERGENE MAH.454 SOK. NO:1/B",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Yılmaz Eczanesi",
+      "phone": "02324790022",
+      "address": "KEMAL PAŞA MAH. PINARBAŞI MEYDANI NO:8",
+      "district": "Bornova",
+      "province": "İzmir"
+    },
+    {
+      "name": "Aşıkpaşa Eczanesi",
+      "phone": "02324529310",
+      "address": "YİĞİTLER MAH. MENDERES CAD. NO:234/A",
+      "district": "Buca",
+      "province": "İzmir"
+    },
+    {
+      "name": "Ege Elif Eczanesi",
+      "phone": "02324269509",
+      "address": "KOZAĞAÇ MAH.ÖZMEN CAD.NO:145 BUCA",
+      "district": "Buca",
+      "province": "İzmir"
+    },
+    {
+      "name": "Mirac Eczanesi",
+      "phone": "02322768636",
+      "address": "FIRAT MAH. 287/9 SOK. NO:17/A",
+      "district": "Buca",
+      "province": "İzmir"
+    },
+    {
+      "name": "Mısra Eczanesi",
+      "phone": "02323474682",
+      "address": "BUCA KOOP MAHALLESİ 220/21 SOKAK NO:103/A",
+      "district": "Buca",
+      "province": "İzmir"
+    },
+    {
+      "name": "Seçil Eser Eczanesi",
+      "phone": "02324426835",
+      "address": "ADATEPE MAH. YAVUZ SULTAN SELİM CAD. NO: 218/A BUCA",
+      "district": "Buca",
+      "province": "İzmir"
+    },
+    {
+      "name": "Aslan Eczanesi",
+      "phone": "02323290494",
+      "address": "YENİ MAHALLE MAH. 8764/5 SOKAK NO:22/A",
+      "district": "Çiğli",
+      "province": "İzmir"
+    },
+    {
+      "name": "Eczane Ecem Eczanesi",
+      "phone": "02323291103",
+      "address": "ATAŞEHİR MAH. 8019/21 SOKAK NO:11/B ÇİĞLİ",
+      "district": "Çiğli",
+      "province": "İzmir"
+    },
+    {
+      "name": "Dağdelen Eczanesi",
+      "phone": "02326733046",
+      "address": "ÇANDARLI MAH.HÜRRİYET MEYDANI NO:16",
+      "district": "Dikili",
+      "province": "İzmir"
+    },
+    {
+      "name": "Duygu Eczanesi",
+      "phone": "02326757050",
+      "address": "İSMETPAŞA MAH. 8. SOK NO:21/A",
+      "district": "Dikili",
+      "province": "İzmir"
+    },
+    {
+      "name": "Ayşın Eczanesi",
+      "phone": "02328127071",
+      "address": "ATATÜRK MAH. 99 SOK. NO:28/75",
+      "district": "Foça",
+      "province": "İzmir"
+    },
+    {
+      "name": "Yağmur Eczanesi",
+      "phone": "02328148615",
+      "address": "MUSTAFA KEMAL ATATÜRK MAH. İZMİR CAD. NO:87/D",
+      "district": "Foça",
+      "province": "İzmir"
+    },
+    {
+      "name": "Eylül Eczanesi",
+      "phone": "02322811718",
+      "address": "ATATÜRK MAHALLESİ 1045/1 SOKAK NO:7A",
+      "district": "Gaziemir",
+      "province": "İzmir"
+    },
+    {
+      "name": "Vital Eczanesi",
+      "phone": "02322522250",
+      "address": "IRMAK MAH. HASAN GÜVEN CAD. NO:19/1D",
+      "district": "Gaziemir",
+      "province": "İzmir"
+    },
+    {
+      "name": "Yeni Melike Eczanesi",
+      "phone": "02322811492",
+      "address": "MENDERES MAH. BÜYÜK MENDERES CAD. NO:121/F",
+      "district": "Gaziemir",
+      "province": "İzmir"
+    },
+    {
+      "name": "Eczane Şahan Eczanesi",
+      "phone": "02322348081",
+      "address": "KAHRAMANDERE MAH. ŞEHİT KEMAL CAD.NO:128/A",
+      "district": "Güzelbahçe",
+      "province": "İzmir"
+    },
+    {
+      "name": "Atar Eczanesi",
+      "phone": "02322616263",
+      "address": "BAHÇELİEVLER MAH. 502/2 SOKAK NO:45",
+      "district": "Karabağlar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Burak Eczanesi",
+      "phone": "02322618757",
+      "address": "ESENLİK MAHALLESİ ANT CADDESİ NO:15A",
+      "district": "Karabağlar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Defne Eczanesi",
+      "phone": "02322850230",
+      "address": "ESENYALI MAH.İNÖNÜ CAD.NO.603/A",
+      "district": "Karabağlar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Deniz Eczanesi",
+      "phone": "02322475996",
+      "address": "ADNAN SÜVARİ MAH. POLAT CADDESİ NO:212/A",
+      "district": "Karabağlar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Kilimcitepe Eczanesi",
+      "phone": "02322627289",
+      "address": "ESKİ İZMİR CAD. NO:97/B ÇALIKUŞU MAH.",
+      "district": "Karabağlar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Zelal Eczanesi",
+      "phone": "02322711177",
+      "address": "CENNETÇEŞME MAH. 3996 SOK. NO:22",
+      "district": "Karabağlar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Candan Eczanesi",
+      "phone": "02323661212",
+      "address": "BAHRİYE ÜÇOK MAHALLESİ DOÇ. DR. BAHRİYE ÜÇOK BULVARI NO:21/B",
+      "district": "Karşıyaka",
+      "province": "İzmir"
+    },
+    {
+      "name": "Esen Eczanesi",
+      "phone": "02323647484",
+      "address": "DONANMACI MAH. 1728 SOK. NO:44/B",
+      "district": "Karşıyaka",
+      "province": "İzmir"
+    },
+    {
+      "name": "Kumbasar Eczanesi",
+      "phone": "05058692032",
+      "address": "BOSTANLI MAHALLESİ 1735 SOKAK NO:194/B",
+      "district": "Karşıyaka",
+      "province": "İzmir"
+    },
+    {
+      "name": "Nergiz Eczanesi",
+      "phone": "02323642007",
+      "address": "NERGİZ MAH. 1775/2 SOKAK NO:24/A KARŞIYAKA",
+      "district": "Karşıyaka",
+      "province": "İzmir"
+    },
+    {
+      "name": "Damla Eczanesi",
+      "phone": "02328781473",
+      "address": "MEHMET AKİF ERSOY MAH. ATATÜRK BULVARI NO:9/F",
+      "district": "Kemalpaşa",
+      "province": "İzmir"
+    },
+    {
+      "name": "Sera Eczanesi",
+      "phone": "02326880151",
+      "address": "POYRACIK MAH. BERGAMA CAD. NO: 8/A",
+      "district": "Kınık",
+      "province": "İzmir"
+    },
+    {
+      "name": "Ekin Eczanesi",
+      "phone": "02325723278",
+      "address": "CUMHURİYET MAH. SABİT ARLI CAD. NO:12",
+      "district": "Kiraz",
+      "province": "İzmir"
+    },
+    {
+      "name": "Çarem Eczanesi",
+      "phone": "02324570750",
+      "address": "ZEYBEK MAH.SELİMİYE CAD.NO:34/C",
+      "district": "Konak",
+      "province": "İzmir"
+    },
+    {
+      "name": "Çinkılıç Eczanesi",
+      "phone": "02322642909",
+      "address": "GAZİLER CAD.NO:353/2E",
+      "district": "Konak",
+      "province": "İzmir"
+    },
+    {
+      "name": "Diril Eczanesi",
+      "phone": "02324640181",
+      "address": "MİMAR SİNAN MAH. 1359 SOK. NO:1/A",
+      "district": "Konak",
+      "province": "İzmir"
+    },
+    {
+      "name": "Efesoğlu Eczanesi",
+      "phone": "02322240450",
+      "address": "ÜÇKUYULAR MAH. MİTHATPAŞA CAD. NO:1105/A KONAK",
+      "district": "Konak",
+      "province": "İzmir"
+    },
+    {
+      "name": "Mahal Eczanesi",
+      "phone": "02322462425",
+      "address": "HALKAPINAR MAHALLESİ MÜRSELPAŞA BULVARI NO:172/4A (MAHAL BOMONTİ İZMİR PROJESİ B BLOK)",
+      "district": "Konak",
+      "province": "İzmir"
+    },
+    {
+      "name": "Kırlangıç Eczanesi",
+      "phone": "02325031382",
+      "address": "CÜNEYTBEY MAHALLESİ ARMUTLUK SOK. NO:16-18 E",
+      "district": "Menderes",
+      "province": "İzmir"
+    },
+    {
+      "name": "Can Eczanesi",
+      "phone": "02328329797",
+      "address": "Esatpaşa Mah.Abdi İpekçi Cad.No:9A/15",
+      "district": "Menemen",
+      "province": "İzmir"
+    },
+    {
+      "name": "Nesrin Eczanesi",
+      "phone": "02328381180",
+      "address": "ULUKENT 30 AĞUSTOS MAH. 7122 SOKAK NO:7/A-H",
+      "district": "Menemen",
+      "province": "İzmir"
+    },
+    {
+      "name": "Bilgen Eczanesi",
+      "phone": "02322385580",
+      "address": "ILICA MAH. MİTHATPAŞA CAD. NO:127/A",
+      "district": "Narlıdere",
+      "province": "İzmir"
+    },
+    {
+      "name": "Gizem Eczanesi",
+      "phone": "02325460808",
+      "address": "ZAFER MAH. ORTAÇ SOK. NO:19/A",
+      "district": "Ödemiş",
+      "province": "İzmir"
+    },
+    {
+      "name": "Berkim Eczanesi",
+      "phone": "05330463120",
+      "address": "HIDIRLIK MAH. İNÖNÜ CAD. NO:10",
+      "district": "Seferihisar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Gülce Eczanesi",
+      "phone": "05052205703",
+      "address": "BENGİLER MAH. ÜRKMEZ CAD. NO:107",
+      "district": "Seferihisar",
+      "province": "İzmir"
+    },
+    {
+      "name": "Selçuk Eczanesi",
+      "phone": "02328926576",
+      "address": "ATATÜRK MAH.CENGİZ TOPEL CD.14-A",
+      "district": "Selçuk",
+      "province": "İzmir"
+    },
+    {
+      "name": "İdil Eczanesi",
+      "phone": "02325001600",
+      "address": "HÜRİYET MAH. GÜVEN CAD. NO:42/A B-BLOK",
+      "district": "Tire",
+      "province": "İzmir"
+    },
+    {
+      "name": "Ebru Eczanesi",
+      "phone": "02323365293",
+      "address": "AYRANCILAR MAH. 56/2 SOK. NO:9/A",
+      "district": "Torbalı",
+      "province": "İzmir"
+    },
+    {
+      "name": "Sarı Papatya Eczanesi",
+      "phone": "02328560046",
+      "address": "ALPKENT MAH.CEMALİ TUNCER BULV. NO:21/A",
+      "district": "Torbalı",
+      "province": "İzmir"
+    },
+    {
+      "name": "Bengi Eczanesi",
+      "phone": "02327552332",
+      "address": "GÜVENDİK MAH. MEHMET ALİ AYGÜVEN CAD. NO:140/A",
+      "district": "Urla",
+      "province": "İzmir"
+    },
+    {
+      "name": "Tuna Eczanesi",
+      "phone": "02327541047",
+      "address": "YENİMAHALLE ZAFER CAD. 36",
+      "district": "Urla",
+      "province": "İzmir"
+    },
+    {
+      "name": "Zeytinalanı Eczanesi",
+      "phone": "02327664043",
+      "address": "M. FEVZİ ÇAKMAK MAH. İSMET İNÖNÜ BULV. NO:4/B",
+      "district": "Urla",
+      "province": "İzmir"
+    },
+    {
       "name": "Şifa Eczanesi",
       "phone": "04742612027",
       "address": "İstasyon Mah. Medet Alibeyoğlu Cad. No:23/A",
@@ -4659,27 +5954,6 @@
       "province": "Manisa"
     },
     {
-      "name": "Tuğrul Eczanesi",
-      "phone": "05425830257",
-      "address": "BEYCEĞİZ MAHALLESİ ATATÜRK CADDESİ NO:33/A",
-      "district": "AFŞİN",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Gökşenli Eczanesi",
-      "phone": "03445612228",
-      "address": "YENİ MAHALLE HÜKÜMET CADDESİ NO:47/A-ANDIRIN-K.MARAŞ",
-      "district": "ANDIRIN",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Merkez Eczanesi",
-      "phone": "05076564702",
-      "address": "Fatih Mahallesi Atatürk Caddesi No:46A",
-      "district": "ÇAĞLAYANCERİT",
-      "province": "Kahramanmaraş"
-    },
-    {
       "name": "Gamze Eczanesi",
       "phone": "03442415727",
       "address": "DİVANLI MAHALLESİ MAŞALLAH CADDESİ NO:9/A DULKADİROĞLU-K.MARAŞ",
@@ -4691,34 +5965,6 @@
       "phone": "03444812390",
       "address": "Öztürk Mahallesi Adnan Kahveci Caddesi No:10",
       "district": "EKİNÖZÜ",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Ceyhan Eczanesi",
-      "phone": "03444138585",
-      "address": "KARAELBİSTAN MAHALLESİ İSTİKLAL CADDESİ 8. SOKAK NO:83/A-ELBİSTAN-K.MARAŞ",
-      "district": "ELBİSTAN",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Dilek Eczanesi",
-      "phone": "03444133813",
-      "address": "GÜNEŞLİ MAH.MALATYA CAD.NO:19/A",
-      "district": "ELBİSTAN",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Tuba Eczanesi",
-      "phone": "2233181",
-      "address": "Kayabaşı Mahallesi Cumhuriyet Caddesi No:27/A",
-      "district": "GÖKSUN",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Deva Eczanesi",
-      "phone": "05454934947",
-      "address": "Karaçar Mahallesi Atatürk Bulvarı No:165D",
-      "district": "NURHAK",
       "province": "Kahramanmaraş"
     },
     {
@@ -4761,27 +6007,6 @@
       "phone": "05061071033",
       "address": "Yörükselim Mahallesi 75009. Sokak No:24/A Onikişubat/Kahramanmaraş",
       "district": "Onikişubat",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Kızıler Eczanesi",
-      "phone": "03443114372",
-      "address": "BAĞDIN-I SAĞIR MAHALLESİ 1058 SOKAK NO:20/A",
-      "district": "PAZARCIK",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Sağlık Eczanesi",
-      "phone": "03443312098",
-      "address": "Narlı Cumhuriyet Mahallesi Atatürk Cumhuriyet Bulvarı 15/A Pazarcık-K.MARAŞ",
-      "district": "PAZARCIK",
-      "province": "Kahramanmaraş"
-    },
-    {
-      "name": "Fatih Eczanesi",
-      "phone": "03446182500",
-      "address": "CUMHURİYET MAHALLESİ İSTİKLAL CADDESİ NO:8/E-TÜRKOĞLU-K.MARAŞ",
-      "district": "TÜRKOĞLU",
       "province": "Kahramanmaraş"
     },
     {
@@ -6577,44 +7802,9 @@
       "province": "Zonguldak"
     },
     {
-      "name": "Birinci Eczanesi",
-      "phone": "03726386136",
-      "address": "PERŞEMBE BELDESİ MERKEZ MAHALLESİ KÖKSAL TOPTAN BULVARI 7/A",
-      "district": "ÇAYCUMA",
-      "province": "Zonguldak"
-    },
-    {
       "name": "Gönenç Eczanesi",
       "phone": "03726151034",
       "address": "ÇAY MAH.ATATÜRK BULVARI. NO:10/F",
-      "district": "ÇAYCUMA",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Hisarönü Eczanesi",
-      "phone": "03726231064",
-      "address": "FİLYOS BELDESİ, ÖTEYÜZ MAH.İSMETPAŞA CAD.NO:23/C",
-      "district": "ÇAYCUMA",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Saltukova Eczanesi",
-      "phone": "3726182010",
-      "address": "Saltukova Beldesi Kokaksu Mah. Hürriyet Caddesi No:124/B Çaycuma/Zonguldak",
-      "district": "ÇAYCUMA",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Serhat Eczanesi",
-      "phone": "03726386030",
-      "address": "NEBİOĞLU BELDESİ, YENİPAZAR MAHALLESİ, CUMHURİYET CADDESİ NO:50/B",
-      "district": "ÇAYCUMA",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Tuba Eczanesi",
-      "phone": "03726283330",
-      "address": "KARAPINAR BELDESİ, MERKEZ MAH.MİLLİ EGEMENLİK CAD.4/A",
       "district": "ÇAYCUMA",
       "province": "Zonguldak"
     },
@@ -6623,13 +7813,6 @@
       "phone": "03725562224",
       "address": "YENİ MAH.VEDAT ALİ ÖZKAN CAD. NO:38/A",
       "district": "DEVREK",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Büşra Eczanesi",
-      "phone": "03723230666",
-      "address": "Süleymanbeyler Köyü Hacullu Mahallesi No:3/3",
-      "district": "Ereğli",
       "province": "Zonguldak"
     },
     {
@@ -6643,13 +7826,6 @@
       "name": "Gizem Eczanesi",
       "phone": "03723220038",
       "address": "SARIKORKMAZ MAH. ŞEHİT ER KUDRET ÖZCAN SOK. NO:5/C",
-      "district": "Ereğli",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Hayat Eczanesi",
-      "phone": "03723446054",
-      "address": "ORMANLI BELDESİ SİNİTLİ MAH.ATATÜRK CAD.NO:3/A",
       "district": "Ereğli",
       "province": "Zonguldak"
     },
@@ -6668,13 +7844,6 @@
       "province": "Zonguldak"
     },
     {
-      "name": "Ebru Eczanesi",
-      "phone": "03722641064",
-      "address": "ÇATALAĞZI BELDESİ, MERKEZ MAHALLESİ, ATATÜRK CADDESİ, NO:28/A",
-      "district": "KİLİMLİ",
-      "province": "Zonguldak"
-    },
-    {
       "name": "Bizim Eczanesi",
       "phone": "03722100000",
       "address": "Merkez Mahallesi, Bahriye Üçok Caddesi, No:3/D",
@@ -6685,13 +7854,6 @@
       "name": "Bozkurt Eczanesi",
       "phone": "03722610061",
       "address": "ESENKÖY MAHALLESİ, ABAZ CADDESİ, NO:198/3A",
-      "district": "KOZLU",
-      "province": "Zonguldak"
-    },
-    {
-      "name": "Çağlar Eczanesi",
-      "phone": "03722656770",
-      "address": "FATİH MAH. ŞEHİT GÖKHAN AVCI SOK.NO:2/A",
       "district": "KOZLU",
       "province": "Zonguldak"
     },
@@ -7244,10 +8406,6 @@
   ],
   "meta": {
     "warning": "Bu veri resmi TEB/Eczaci Odasi verisi DEGILDIR, ucuncu taraf bir siteden (nobetcieczanen.com) derlenmistir.",
-    "failed_page_count": 2,
-    "failed_pages_sample": [
-      "İstanbul (ilce listesi alinamadi: 404 Client Error: Not Found for url: https://nobetcieczanen.com/i%CC%87stanbul)",
-      "İzmir (ilce listesi alinamadi: 404 Client Error: Not Found for url: https://nobetcieczanen.com/i%CC%87zmir)"
-    ]
+    "failed_page_count": 0
   }
 }
