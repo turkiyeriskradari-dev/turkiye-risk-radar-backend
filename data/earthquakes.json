@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T10:02:08.747863+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-11T10:23:40.962972+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "E8H9ukwxVLZFu",
@@ -702,16 +702,6 @@
       "latitude": 36.9575,
       "longitude": 38.1945,
       "location_name": "Şanlıurfa"
-    },
-    {
-      "id": "2f7ybs0f3GwuR",
-      "title": "SULTANGAZI (ISTANBUL)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-10 13:09:05",
-      "latitude": 41.1152,
-      "longitude": 28.8572,
-      "location_name": "İstanbul"
     }
   ]
 }
