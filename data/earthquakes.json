@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T09:01:55.617961+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-11T09:23:25.947417+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "ZomAUSeDK1wbd",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.9,
+      "depth_km": 10.1,
+      "date_utc": "2026-09-11 12:12:41",
+      "latitude": 38.7577,
+      "longitude": 36.5327,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "izZVXYGwmi1yB",
+      "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 11:52:00",
+      "latitude": 38.771,
+      "longitude": 36.5167,
+      "location_name": "Kayseri"
+    },
     {
       "id": "NZn5d251sUl3_",
       "title": "CAMSARI-KIRIKHAN (HATAY)",
@@ -692,16 +712,6 @@
       "latitude": 37.6482,
       "longitude": 30.4027,
       "location_name": "Burdur"
-    },
-    {
-      "id": "EuylyK2anhCd_",
-      "title": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-10 12:04:34",
-      "latitude": 38.1542,
-      "longitude": 36.7502,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
