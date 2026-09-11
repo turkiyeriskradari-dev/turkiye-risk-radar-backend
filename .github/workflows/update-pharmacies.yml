@@ -1,0 +1,35 @@
+name: Eczane Verisi Guncelleme (Gunluk)
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-pharmacies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu checkout et
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bagimliliklari yukle
+        run: pip install -r requirements.txt
+
+      - name: Nöbetçi eczane verisini cek
+        run: python scripts/fetch_pharmacies.py
+
+      - name: Degisiklikleri commit ve push et
+        run: |
+          git config --global user.name "risk-radar-bot"
+          git config --global user.email "actions@github.com"
+          git add data/pharmacies.json data/_fetch_errors.log
+          git diff --cached --quiet || git commit -m "Eczane verisi guncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
