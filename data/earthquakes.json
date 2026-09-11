@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T05:02:19.453138+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-11T05:22:05.315440+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "71O4RAr9T3s5Z",
+      "title": "DISKAYA-GURSU (BURSA)",
+      "magnitude": 1.4,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-11 08:01:35",
+      "latitude": 40.2885,
+      "longitude": 29.2477,
+      "location_name": "Bursa"
+    },
+    {
+      "id": "kOJGTw9c15_ua",
+      "title": "EGE DENIZI",
+      "magnitude": 2,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-11 07:52:17",
+      "latitude": 36.6393,
+      "longitude": 25.7898,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "KVLjMM05Ewf6u",
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
