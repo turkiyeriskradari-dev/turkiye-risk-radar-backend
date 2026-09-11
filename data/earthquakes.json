@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T09:23:25.947417+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-11T09:35:28.618193+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "ZomAUSeDK1wbd",
@@ -702,16 +702,6 @@
       "latitude": 36.4518,
       "longitude": 34.0167,
       "location_name": "Mersin"
-    },
-    {
-      "id": "_pi5voYaKWll8",
-      "title": "TASKAPI-(BURDUR)",
-      "magnitude": 1.5,
-      "depth_km": 12.6,
-      "date_utc": "2026-09-10 12:25:06",
-      "latitude": 37.6482,
-      "longitude": 30.4027,
-      "location_name": "Burdur"
     }
   ]
 }
