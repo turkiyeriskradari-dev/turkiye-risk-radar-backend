@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T18:49:35.560037+00:00",
+  "last_updated": "2026-09-11T19:02:03.846080+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "cyKAmrpELMnVJ",
+      "title": "CAMPINAR-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.4,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-11 21:50:59",
+      "latitude": 38.1112,
+      "longitude": 38.2022,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "xY8LLnTMiQooO",
+      "title": "AKCAAGAC-MUTKI (BITLIS)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 21:05:31",
+      "latitude": 38.5655,
+      "longitude": 41.634,
+      "location_name": "Bitlis"
+    },
     {
       "id": "hPrSLMRlMuWmF",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
@@ -692,26 +712,6 @@
       "latitude": 38.2317,
       "longitude": 38.6683,
       "location_name": "Malatya"
-    },
-    {
-      "id": "lNwWjlr2BSRCG",
-      "title": "BEHRAM-AYVACIK (CANAKKALE)",
-      "magnitude": 1.4,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-10 21:57:42",
-      "latitude": 39.5005,
-      "longitude": 26.3357,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "nA8Rk7bNv5R17",
-      "title": "EDREMIT KORFEZI (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 4.5,
-      "date_utc": "2026-09-10 21:55:43",
-      "latitude": 39.4865,
-      "longitude": 26.396,
-      "location_name": "Ege Denizi"
     }
   ]
 }
