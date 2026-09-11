@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T18:02:13.858966+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-11T18:25:22.570866+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "bNAFUZGhFOCGn",
+      "title": "KISLAK-ALADAG (ADANA)",
+      "magnitude": 1.2,
+      "depth_km": 4.7,
+      "date_utc": "2026-09-11 19:23:26",
+      "latitude": 37.5863,
+      "longitude": 35.5605,
+      "location_name": "Adana"
+    },
+    {
+      "id": "quGYTRsumqqt6",
+      "title": "CANKURTARAN-KESKIN (KIRIKKALE)",
+      "magnitude": 1.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 19:21:35",
+      "latitude": 39.7048,
+      "longitude": 33.5038,
+      "location_name": "Kırıkkale"
+    },
+    {
+      "id": "4B4Xn4TpJi4qU",
+      "title": "YAYKIN-AKHISAR (MANISA)",
+      "magnitude": 1.3,
+      "depth_km": 11.3,
+      "date_utc": "2026-09-11 19:11:26",
+      "latitude": 39.144,
+      "longitude": 27.9058,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "_43A1wZvoFqYh",
+      "title": "GURSU-CAMELI (DENIZLI)",
+      "magnitude": 0.9,
+      "depth_km": 3.7,
+      "date_utc": "2026-09-11 18:03:53",
+      "latitude": 36.9275,
+      "longitude": 29.3088,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "d4ooWf05JsA7E",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-11 17:52:40",
+      "latitude": 39.2347,
+      "longitude": 28.1077,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "NNeVkFIiZCm3b",
       "title": "TOKMANAKLI-FEKE (ADANA)",
@@ -652,16 +702,6 @@
       "latitude": 39.4865,
       "longitude": 26.396,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "86H2eymeA3VbZ",
-      "title": "KUCUKOVA-MADEN (ELAZIG)",
-      "magnitude": 1.3,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-10 21:19:01",
-      "latitude": 38.5405,
-      "longitude": 39.493,
-      "location_name": "Elazığ"
     }
   ]
 }
