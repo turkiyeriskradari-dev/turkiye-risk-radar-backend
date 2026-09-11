@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T00:30:18.744413+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-11T00:50:02.735514+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "7o7Y98DHZ9h3U",
+      "title": "SEVKETIYE-LAPSEKI (CANAKKALE)",
+      "magnitude": 0.9,
+      "depth_km": 19.8,
+      "date_utc": "2026-09-11 03:30:50",
+      "latitude": 40.3948,
+      "longitude": 26.862,
+      "location_name": "Çanakkale"
+    },
     {
       "id": "z1cyIhweyDsXO",
       "title": "TASLICA-MARMARIS (MUGLA)",
