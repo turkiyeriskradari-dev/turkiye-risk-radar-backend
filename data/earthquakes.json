@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T15:49:29.229489+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-11T16:02:32.723037+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "NNeVkFIiZCm3b",
@@ -732,26 +732,6 @@
       "latitude": 38.6015,
       "longitude": 40.4643,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "5NvpfhhYgxUj0",
-      "title": "KAYAONU-PALU (ELAZIG)",
-      "magnitude": 2.1,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-10 18:53:01",
-      "latitude": 38.557,
-      "longitude": 39.8022,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "ErwDhEpd0NRNx",
-      "title": "ARNAVUTKOY (ISTANBUL)",
-      "magnitude": 1.1,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-10 18:49:34",
-      "latitude": 41.2078,
-      "longitude": 28.742,
-      "location_name": "İstanbul"
     }
   ]
 }
