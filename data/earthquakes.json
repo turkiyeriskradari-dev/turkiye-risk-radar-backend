@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T12:42:50.729006+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-11T12:54:27.719984+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "VeGZiyFXbhnI2",
+      "title": "EGE DENIZI",
+      "magnitude": 1.7,
+      "depth_km": 2.6,
+      "date_utc": "2026-09-11 15:34:32",
+      "latitude": 36.6248,
+      "longitude": 25.7313,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "vjO8CCZC9y5wF",
       "title": "YESILKOY-ODEMIS (IZMIR)",
