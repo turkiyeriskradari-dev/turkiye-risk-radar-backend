@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T20:34:46.826781+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-11T20:49:19.922020+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "ClPx8QiI47G3g",
+      "title": "SUGUL-DARENDE (MALATYA)",
+      "magnitude": 2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-11 23:24:22",
+      "latitude": 38.43,
+      "longitude": 37.5222,
+      "location_name": "Malatya"
+    },
     {
       "id": "DwBBVRiUaPzHc",
       "title": "EGE DENIZI",
@@ -672,26 +682,6 @@
       "latitude": 35.5437,
       "longitude": 26.1658,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "vhGB2LBy2Pra0",
-      "title": "YOKUSBASI-BULANIK (MUS)",
-      "magnitude": 1.8,
-      "depth_km": 8.9,
-      "date_utc": "2026-09-10 23:46:57",
-      "latitude": 38.9448,
-      "longitude": 42.0173,
-      "location_name": "Muş"
-    },
-    {
-      "id": "pX7oi3PrciM4S",
-      "title": "DARIYERI-DALAMAN (MUGLA)",
-      "magnitude": 1.3,
-      "depth_km": 5,
-      "date_utc": "2026-09-10 23:37:45",
-      "latitude": 36.8692,
-      "longitude": 29.104,
-      "location_name": "Muğla"
     }
   ]
 }
