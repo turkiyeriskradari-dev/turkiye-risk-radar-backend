@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T13:01:57.459724+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-11T13:23:39.452052+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "JdlxarNL7InZZ",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 9.9,
+      "date_utc": "2026-09-11 16:02:48",
+      "latitude": 39.202,
+      "longitude": 28.1678,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "e87xLpxDkEOxx",
       "title": "BALIKESIR",
@@ -162,6 +172,16 @@
       "latitude": 38.7577,
       "longitude": 36.5327,
       "location_name": "Kayseri"
+    },
+    {
+      "id": "F5X2HOQGsLXyY",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-09-11 12:12:11",
+      "latitude": 36.2627,
+      "longitude": 33.7437,
+      "location_name": "Mersin"
     },
     {
       "id": "izZVXYGwmi1yB",
