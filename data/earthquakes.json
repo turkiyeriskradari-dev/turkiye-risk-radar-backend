@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T21:02:08.051237+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-11T21:21:01.347414+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "8X0iBEFtVAMPS",
+      "title": "KARAAGACLI-DIVRIGI (SIVAS)",
+      "magnitude": 2.4,
+      "depth_km": 6.5,
+      "date_utc": "2026-09-12 00:04:29",
+      "latitude": 39.346,
+      "longitude": 37.9438,
+      "location_name": "Sivas"
+    },
     {
       "id": "ClPx8QiI47G3g",
       "title": "SUGUL-DARENDE (MALATYA)",
