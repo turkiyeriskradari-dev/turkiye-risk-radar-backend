@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T07:23:22.462335+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-11T07:35:58.357424+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "brCTeX0HbZrNE",
+      "title": "KAVAKOLUGU-GULNAR (MERSIN)",
+      "magnitude": 1,
+      "depth_km": 0,
+      "date_utc": "2026-09-11 10:10:21",
+      "latitude": 36.3247,
+      "longitude": 33.5067,
+      "location_name": "Mersin"
+    },
     {
       "id": "6XeWOKhyIPVxl",
       "title": "EGE DENIZI",
