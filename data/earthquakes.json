@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T10:49:48.854323+00:00",
+  "last_updated": "2026-09-11T11:02:09.731239+00:00",
   "record_count": 70,
   "data": [
+    {
+      "id": "0arDFsMFSZ3bD",
+      "title": "KOZCAGIZ-(KAHRAMANMARAS)",
+      "magnitude": 2.9,
+      "depth_km": 2,
+      "date_utc": "2026-09-11 13:45:40",
+      "latitude": 37.8757,
+      "longitude": 36.726,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "jmO4wGDtg76_g",
       "title": "KAVAKLIDERE-BORNOVA (IZMIR)",
@@ -22,6 +32,16 @@
       "latitude": 38.4368,
       "longitude": 38.9863,
       "location_name": "Elazığ"
+    },
+    {
+      "id": "me5U2qmZGGHWl",
+      "title": "SAMLI-(BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 12:49:30",
+      "latitude": 39.8022,
+      "longitude": 27.8497,
+      "location_name": "Balıkesir"
     },
     {
       "id": "E8H9ukwxVLZFu",
@@ -682,26 +702,6 @@
       "latitude": 37.5672,
       "longitude": 35.5647,
       "location_name": "Adana"
-    },
-    {
-      "id": "ujXQhCKKLgkBh",
-      "title": "POLAT-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 4,
-      "date_utc": "2026-09-10 13:59:56",
-      "latitude": 38.186,
-      "longitude": 37.8182,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "qlVRMSLpfpiH9",
-      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
-      "magnitude": 2.5,
-      "depth_km": 11.5,
-      "date_utc": "2026-09-10 13:53:34",
-      "latitude": 40.682,
-      "longitude": 29.234,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
