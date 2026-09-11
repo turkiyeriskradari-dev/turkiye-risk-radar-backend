@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T11:02:09.731239+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-11T11:22:20.915338+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "ltmHmz_JYTX2U",
+      "title": "KADILI-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.7,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-11 14:07:39",
+      "latitude": 38.0117,
+      "longitude": 37.7943,
+      "location_name": "Malatya"
+    },
     {
       "id": "0arDFsMFSZ3bD",
       "title": "KOZCAGIZ-(KAHRAMANMARAS)",
