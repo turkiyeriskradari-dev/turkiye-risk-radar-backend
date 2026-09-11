@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T13:49:37.866759+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-11T14:02:16.158716+00:00",
+  "record_count": 79,
   "data": [
     {
       "id": "JdlxarNL7InZZ",
@@ -792,16 +792,6 @@
       "latitude": 38.1237,
       "longitude": 38.3523,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "EafPmJ_Gwhz81",
-      "title": "KIZILOMERLI-SUMBAS (OSMANIYE)",
-      "magnitude": 1.9,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-10 16:59:49",
-      "latitude": 37.3988,
-      "longitude": 35.9787,
-      "location_name": "Osmaniye"
     }
   ]
 }
