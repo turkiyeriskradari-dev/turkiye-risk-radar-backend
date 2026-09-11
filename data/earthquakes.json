@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T20:22:52.040396+00:00",
+  "last_updated": "2026-09-11T20:34:46.826781+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "DwBBVRiUaPzHc",
+      "title": "EGE DENIZI",
+      "magnitude": 1.9,
+      "depth_km": 17.2,
+      "date_utc": "2026-09-11 23:02:48",
+      "latitude": 36.2798,
+      "longitude": 27.6453,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "oaAVDguUCKc2W",
       "title": "ALHANUSAGI-(MALATYA)",
@@ -682,16 +692,6 @@
       "latitude": 36.8692,
       "longitude": 29.104,
       "location_name": "Muğla"
-    },
-    {
-      "id": "_sBpnELoV8GS5",
-      "title": "AKDERE-DEMIRCI (MANISA)",
-      "magnitude": 0.9,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-10 23:30:54",
-      "latitude": 39.074,
-      "longitude": 28.6492,
-      "location_name": "Manisa"
     }
   ]
 }
