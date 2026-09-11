@@ -31,5 +31,7 @@ jobs:
           git config --global user.name "risk-radar-bot"
           git config --global user.email "actions@github.com"
           git add data/pharmacies.json data/_fetch_errors.log
-          git diff --cached --quiet || git commit -m "Eczane verisi guncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet && exit 0
+          git commit -m "Eczane verisi guncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
