@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T21:21:01.347414+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-11T21:32:07.766436+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "w9Zgn0cFy6c37",
+      "title": "GOLCUK-(TOKAT)",
+      "magnitude": 1.3,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-12 00:19:00",
+      "latitude": 40.5253,
+      "longitude": 36.5712,
+      "location_name": "Tokat"
+    },
     {
       "id": "8X0iBEFtVAMPS",
       "title": "KARAAGACLI-DIVRIGI (SIVAS)",
