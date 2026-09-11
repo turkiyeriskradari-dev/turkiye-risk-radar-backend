@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T12:02:24.247254+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-11T12:28:12.731229+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "vjO8CCZC9y5wF",
+      "title": "YESILKOY-ODEMIS (IZMIR)",
+      "magnitude": 1.5,
+      "depth_km": 1.4,
+      "date_utc": "2026-09-11 14:53:36",
+      "latitude": 38.13,
+      "longitude": 28.1853,
+      "location_name": "İzmir"
+    },
     {
       "id": "INNEm7nIBmn1N",
       "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
@@ -32,6 +42,16 @@
       "latitude": 37.8757,
       "longitude": 36.726,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "3KQfOWqYqMX7t",
+      "title": "AKDENIZ",
+      "magnitude": 2.1,
+      "depth_km": 6.7,
+      "date_utc": "2026-09-11 13:37:50",
+      "latitude": 36.1927,
+      "longitude": 31.2378,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
     },
     {
       "id": "jmO4wGDtg76_g",
@@ -122,6 +142,36 @@
       "latitude": 38.771,
       "longitude": 36.5167,
       "location_name": "Kayseri"
+    },
+    {
+      "id": "SA1aMO_MTjeHA",
+      "title": "GUMU-SUTCULER (ISPARTA)",
+      "magnitude": 2.1,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-11 11:49:46",
+      "latitude": 37.4005,
+      "longitude": 30.9542,
+      "location_name": "Isparta"
+    },
+    {
+      "id": "siLbtWhF4K4oe",
+      "title": "KIZILAGIL-(BOLU)",
+      "magnitude": 1.6,
+      "depth_km": 15.8,
+      "date_utc": "2026-09-11 11:34:45",
+      "latitude": 40.7638,
+      "longitude": 31.5322,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "goSihAB35XkPC",
+      "title": "SAVCILI-BUHARKENT (AYDIN)",
+      "magnitude": 1.4,
+      "depth_km": 14.9,
+      "date_utc": "2026-09-11 11:18:42",
+      "latitude": 37.9498,
+      "longitude": 28.766,
+      "location_name": "Aydın"
     },
     {
       "id": "NZn5d251sUl3_",
@@ -702,16 +752,6 @@
       "latitude": 37.3988,
       "longitude": 35.9787,
       "location_name": "Osmaniye"
-    },
-    {
-      "id": "fFbd40ZiRwbMW",
-      "title": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-10 15:04:21",
-      "latitude": 37.3372,
-      "longitude": 37.063,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
