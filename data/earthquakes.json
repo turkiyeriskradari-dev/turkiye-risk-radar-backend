@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T02:02:20.555729+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-11T02:23:00.654766+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "IeQzVdzOHtQZV",
+      "title": "PINARBASI-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.4,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-11 05:01:12",
+      "latitude": 38.0065,
+      "longitude": 38.165,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "PY60MjPMS2LGT",
       "title": "CAKILLI-SINDIRGI (BALIKESIR)",
