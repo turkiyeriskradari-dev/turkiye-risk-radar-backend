@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T14:02:16.158716+00:00",
+  "last_updated": "2026-09-11T14:23:40.017728+00:00",
   "record_count": 79,
   "data": [
+    {
+      "id": "NNeVkFIiZCm3b",
+      "title": "TOKMANAKLI-FEKE (ADANA)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 16:51:13",
+      "latitude": 37.7187,
+      "longitude": 36.054,
+      "location_name": "Adana"
+    },
     {
       "id": "JdlxarNL7InZZ",
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
@@ -782,16 +792,6 @@
       "latitude": 37.1483,
       "longitude": 27.8843,
       "location_name": "Muğla"
-    },
-    {
-      "id": "kczrit71kGqE3",
-      "title": "SALKONAK-YESILYURT (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-10 17:08:49",
-      "latitude": 38.1237,
-      "longitude": 38.3523,
-      "location_name": "Adıyaman"
     }
   ]
 }
