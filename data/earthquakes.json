@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T15:23:06.721659+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-11T15:35:37.957509+00:00",
+  "record_count": 75,
   "data": [
     {
       "id": "NNeVkFIiZCm3b",
@@ -752,16 +752,6 @@
       "latitude": 41.2078,
       "longitude": 28.742,
       "location_name": "İstanbul"
-    },
-    {
-      "id": "QePZ_ygHeAH0q",
-      "title": "KARAPINAR-HEKIMHAN (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 12.6,
-      "date_utc": "2026-09-10 18:33:55",
-      "latitude": 39.074,
-      "longitude": 37.818,
-      "location_name": "Sivas"
     }
   ]
 }
