@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T14:50:34.838104+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-11T15:02:13.454604+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "NNeVkFIiZCm3b",
@@ -772,16 +772,6 @@
       "latitude": 40.1832,
       "longitude": 31.6438,
       "location_name": "Ankara"
-    },
-    {
-      "id": "XV3mH0Y11ZlPF",
-      "title": "KAGITHANE (ISTANBUL)",
-      "magnitude": 0.9,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-10 17:55:38",
-      "latitude": 41.099,
-      "longitude": 28.9493,
-      "location_name": "İstanbul"
     }
   ]
 }
