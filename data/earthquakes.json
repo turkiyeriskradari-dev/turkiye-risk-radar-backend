@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T02:35:42.249949+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-11T02:49:37.661411+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "IeQzVdzOHtQZV",
@@ -732,26 +732,6 @@
       "latitude": 40.823,
       "longitude": 31.5865,
       "location_name": "Bolu"
-    },
-    {
-      "id": "JlhlsQbxmu3j1",
-      "title": "KIZOGLU-(AMASYA)",
-      "magnitude": 1.4,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-10 05:42:24",
-      "latitude": 40.4542,
-      "longitude": 35.8665,
-      "location_name": "Tokat"
-    },
-    {
-      "id": "b3CbNPIlSy_Nm",
-      "title": "TARTISIK-AYVACIK (CANAKKALE)",
-      "magnitude": 2.7,
-      "depth_km": 5.5,
-      "date_utc": "2026-09-10 05:36:09",
-      "latitude": 39.6318,
-      "longitude": 26.457,
-      "location_name": "Çanakkale"
     }
   ]
 }
