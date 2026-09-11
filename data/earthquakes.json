@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T06:54:18.721471+00:00",
+  "last_updated": "2026-09-11T07:03:27.856886+00:00",
   "record_count": 76,
   "data": [
+    {
+      "id": "6XeWOKhyIPVxl",
+      "title": "EGE DENIZI",
+      "magnitude": 2,
+      "depth_km": 8.9,
+      "date_utc": "2026-09-11 09:48:17",
+      "latitude": 39.9082,
+      "longitude": 25.5287,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "Vr_6WXc5TjA_e",
+      "title": "MARMARA DENIZI",
+      "magnitude": 1,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-11 09:07:20",
+      "latitude": 40.4727,
+      "longitude": 26.8522,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "JWPLge1p5DlZo",
       "title": "BALLICA-OLTU (ERZURUM)",
@@ -742,26 +762,6 @@
       "latitude": 40.7137,
       "longitude": 26.651,
       "location_name": "Edirne"
-    },
-    {
-      "id": "hft7ZVRK7y1oy",
-      "title": "ESKIKIZILELMA-MUSTAFAKEMALPASA (BURSA)",
-      "magnitude": 1.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-10 09:59:18",
-      "latitude": 40.0255,
-      "longitude": 28.7572,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "0O77mbEN8PwUS",
-      "title": "CEKIRDEKLI-BIGADIC (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-10 09:57:17",
-      "latitude": 39.3835,
-      "longitude": 28.0172,
-      "location_name": "Balıkesir"
     }
   ]
 }
