@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T05:34:57.649119+00:00",
+  "last_updated": "2026-09-11T05:48:45.043488+00:00",
   "record_count": 76,
   "data": [
+    {
+      "id": "3alEYa5QDdt58",
+      "title": "TARTISIK-AYVACIK (CANAKKALE)",
+      "magnitude": 2.5,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-11 08:31:51",
+      "latitude": 39.6273,
+      "longitude": 26.4608,
+      "location_name": "Çanakkale"
+    },
     {
       "id": "71O4RAr9T3s5Z",
       "title": "DISKAYA-GURSU (BURSA)",
@@ -752,16 +762,6 @@
       "latitude": 38.8475,
       "longitude": 27.0418,
       "location_name": "İzmir"
-    },
-    {
-      "id": "iHWjw0zQzerSX",
-      "title": "HANCERLI-AKCADAG (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 14.2,
-      "date_utc": "2026-09-10 08:46:09",
-      "latitude": 38.3132,
-      "longitude": 37.8687,
-      "location_name": "Malatya"
     }
   ]
 }
