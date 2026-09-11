@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T10:23:40.962972+00:00",
+  "last_updated": "2026-09-11T10:35:58.675473+00:00",
   "record_count": 70,
   "data": [
+    {
+      "id": "jmO4wGDtg76_g",
+      "title": "KAVAKLIDERE-BORNOVA (IZMIR)",
+      "magnitude": 1.4,
+      "depth_km": 4.7,
+      "date_utc": "2026-09-11 13:12:46",
+      "latitude": 38.413,
+      "longitude": 27.3137,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "mAf4wDTjdz5UV",
+      "title": "YARUSAGI-SIVRICE (ELAZIG)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 13:07:36",
+      "latitude": 38.4368,
+      "longitude": 38.9863,
+      "location_name": "Elazığ"
+    },
     {
       "id": "E8H9ukwxVLZFu",
       "title": "BOZBURUN-MARMARIS (MUGLA)",
@@ -682,26 +702,6 @@
       "latitude": 40.682,
       "longitude": 29.234,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "fFu1iVH6xdrRq",
-      "title": "KAYRAK-GULNAR (MERSIN)",
-      "magnitude": 1.5,
-      "depth_km": 0,
-      "date_utc": "2026-09-10 13:34:10",
-      "latitude": 36.3682,
-      "longitude": 33.5247,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "mEm00wK36Lhol",
-      "title": "FISTIKLI-SURUC (SANLIURFA)",
-      "magnitude": 1.7,
-      "depth_km": 3.4,
-      "date_utc": "2026-09-10 13:33:48",
-      "latitude": 36.9575,
-      "longitude": 38.1945,
-      "location_name": "Şanlıurfa"
     }
   ]
 }
