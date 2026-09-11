@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-11T01:02:42.258757+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-11T01:21:42.938200+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "pUZ9L6VMJcxXX",
+      "title": "YUKARIKOY-INEBOLU (KASTAMONU)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-11 03:48:09",
+      "latitude": 41.9602,
+      "longitude": 33.7027,
+      "location_name": "Kastamonu"
+    },
     {
       "id": "7o7Y98DHZ9h3U",
       "title": "SEVKETIYE-LAPSEKI (CANAKKALE)",
@@ -722,26 +732,6 @@
       "latitude": 38.5597,
       "longitude": 26.2518,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "nsfbmt88hl2Rc",
-      "title": "KORKMAZ-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-10 04:07:49",
-      "latitude": 38.0865,
-      "longitude": 36.7793,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "PmBYfTAGbr4z7",
-      "title": "FINDIK-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 6.2,
-      "date_utc": "2026-09-10 04:07:10",
-      "latitude": 38.086,
-      "longitude": 36.7545,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
