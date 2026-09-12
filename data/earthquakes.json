@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T15:32:52.657835+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-12T15:46:24.028339+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "7Q2nKIlmvd9Sy",
+      "title": "CUKUROREN-(BOLU)",
+      "magnitude": 2,
+      "depth_km": 7,
+      "date_utc": "2026-09-12 18:18:15",
+      "latitude": 40.8568,
+      "longitude": 31.6285,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "fuywQo9v11CWc",
+      "title": "OZCANLI-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.3,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-12 18:14:59",
+      "latitude": 38.1142,
+      "longitude": 37.2888,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "QprrmoaHCFhxe",
       "title": "MEVLUTLU-TUZLUKCU (KONYA)",
