@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T11:02:10.257883+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-12T11:20:39.249637+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "Cacap8yzF4Udr",
+      "title": "BOZYAYLA-ILIC (ERZINCAN)",
+      "magnitude": 2.2,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-12 13:58:21",
+      "latitude": 39.5988,
+      "longitude": 38.5483,
+      "location_name": "Erzincan"
+    },
     {
       "id": "qUYUtwY35rJUM",
       "title": "CIKRIKCI-SINDIRGI (BALIKESIR)",
@@ -12,6 +22,36 @@
       "latitude": 39.1908,
       "longitude": 28.3992,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "MTHCvZkfG2rfw",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 2,
+      "depth_km": 10.4,
+      "date_utc": "2026-09-12 12:45:41",
+      "latitude": 39.2488,
+      "longitude": 28.993,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "Wu0brYH6Syxif",
+      "title": "HASANCAVUSLAR-TIRE (IZMIR)",
+      "magnitude": 1.3,
+      "depth_km": 3.7,
+      "date_utc": "2026-09-12 12:23:54",
+      "latitude": 38.0568,
+      "longitude": 27.5252,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "Q6u5S2OdlYtg1",
+      "title": "KOCALI-EZINE (CANAKKALE)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-12 12:20:09",
+      "latitude": 39.7372,
+      "longitude": 26.2507,
+      "location_name": "Çanakkale"
     },
     {
       "id": "BEZeH47LELJZZ",
@@ -502,16 +542,6 @@
       "latitude": 37.5965,
       "longitude": 37.2933,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ltmHmz_JYTX2U",
-      "title": "KADILI-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.7,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-11 14:07:39",
-      "latitude": 38.0117,
-      "longitude": 37.7943,
-      "location_name": "Malatya"
     }
   ]
 }
