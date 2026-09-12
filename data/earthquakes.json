@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T20:22:58.418961+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-12T20:37:43.752267+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "1w3Y209a6uTXa",
@@ -592,16 +592,6 @@
       "latitude": 40.7165,
       "longitude": 25.2002,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "ClPx8QiI47G3g",
-      "title": "SUGUL-DARENDE (MALATYA)",
-      "magnitude": 2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-11 23:24:22",
-      "latitude": 38.43,
-      "longitude": 37.5222,
-      "location_name": "Malatya"
     }
   ]
 }
