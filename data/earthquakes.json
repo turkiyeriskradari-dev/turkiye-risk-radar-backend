@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T19:01:47.763120+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-12T19:18:49.419674+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "1w3Y209a6uTXa",
@@ -622,16 +622,6 @@
       "latitude": 38.2783,
       "longitude": 38.664,
       "location_name": "Malatya"
-    },
-    {
-      "id": "h60c30s2CSQky",
-      "title": "KARACAOREN-(MUGLA)",
-      "magnitude": 2,
-      "depth_km": 11,
-      "date_utc": "2026-09-11 22:02:53",
-      "latitude": 37.2167,
-      "longitude": 28.7627,
-      "location_name": "Muğla"
     }
   ]
 }
