@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T20:37:43.752267+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-12T20:54:45.345966+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "Mjqrqc__d3XWm",
+      "title": "ACIKGUNEY-KIGI (BINGOL)",
+      "magnitude": 1.8,
+      "depth_km": 7.1,
+      "date_utc": "2026-09-12 23:48:02",
+      "latitude": 39.255,
+      "longitude": 40.2283,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "bwJe_XAq4tbv9",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 14.9,
+      "date_utc": "2026-09-12 23:40:04",
+      "latitude": 39.2245,
+      "longitude": 28.9875,
+      "location_name": "Kütahya"
+    },
     {
       "id": "1w3Y209a6uTXa",
       "title": "HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
@@ -582,16 +602,6 @@
       "latitude": 39.346,
       "longitude": 37.9438,
       "location_name": "Sivas"
-    },
-    {
-      "id": "VQidFnoKqS26c",
-      "title": "EGE DENIZI",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-11 23:52:51",
-      "latitude": 40.7165,
-      "longitude": 25.2002,
-      "location_name": "Ege Denizi"
     }
   ]
 }
