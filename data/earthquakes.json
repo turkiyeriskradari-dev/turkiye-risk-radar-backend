@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T12:38:29.523597+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-12T12:50:49.950217+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "nS5erw7C8vfar",
+      "title": "EGE DENIZI",
+      "magnitude": 1.7,
+      "depth_km": 17.9,
+      "date_utc": "2026-09-12 15:21:00",
+      "latitude": 36.639,
+      "longitude": 25.5528,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "C8825b_TNuq6T",
       "title": "FASIL-(BOLU)",
