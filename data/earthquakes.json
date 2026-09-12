@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T10:01:53.760882+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-12T10:21:20.174276+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "SWxu9odPW2Ix3",
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "magnitude": 2.5,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-12 11:36:12",
+      "latitude": 34.5257,
+      "longitude": 25.1603,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "mxSVidhVd4tur",
       "title": "ALACAAT-MUSTAFAKEMALPASA (BURSA)",
@@ -482,26 +492,6 @@
       "latitude": 36.1927,
       "longitude": 31.2378,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "jmO4wGDtg76_g",
-      "title": "KAVAKLIDERE-BORNOVA (IZMIR)",
-      "magnitude": 1.4,
-      "depth_km": 4.7,
-      "date_utc": "2026-09-11 13:12:46",
-      "latitude": 38.413,
-      "longitude": 27.3137,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "mAf4wDTjdz5UV",
-      "title": "YARUSAGI-SIVRICE (ELAZIG)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-11 13:07:36",
-      "latitude": 38.4368,
-      "longitude": 38.9863,
-      "location_name": "Elazığ"
     }
   ]
 }
