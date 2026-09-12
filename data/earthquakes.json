@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T07:02:00.557246+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-12T07:20:15.520563+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "BZYLLQtW2VdnM",
@@ -592,16 +592,6 @@
       "latitude": 38.984,
       "longitude": 42.8538,
       "location_name": "Bitlis"
-    },
-    {
-      "id": "brCTeX0HbZrNE",
-      "title": "KAVAKOLUGU-GULNAR (MERSIN)",
-      "magnitude": 1,
-      "depth_km": 0,
-      "date_utc": "2026-09-11 10:10:21",
-      "latitude": 36.3247,
-      "longitude": 33.5067,
-      "location_name": "Mersin"
     }
   ]
 }
