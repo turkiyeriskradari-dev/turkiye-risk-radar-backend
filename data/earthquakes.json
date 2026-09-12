@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T23:01:59.822562+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-12T23:20:57.947778+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "20MSVgGtMAOS2",
+      "title": "UZUNARK-PASINLER (ERZURUM)",
+      "magnitude": 1.2,
+      "depth_km": 14.9,
+      "date_utc": "2026-09-13 01:41:38",
+      "latitude": 39.9135,
+      "longitude": 41.813,
+      "location_name": "Erzurum"
+    },
     {
       "id": "oZIU7gPeXv3C1",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
