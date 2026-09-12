@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T04:48:48.221004+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-12T05:02:18.851182+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "2eqtm4xcGWX2O",
+      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 10.7,
+      "date_utc": "2026-09-12 07:52:44",
+      "latitude": 37.3032,
+      "longitude": 37.0075,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ta5e7bwRWu8CY",
       "title": "GOVDELI-DOGANSEHIR (MALATYA)",
@@ -632,26 +642,6 @@
       "latitude": 39.2678,
       "longitude": 28.964,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "71O4RAr9T3s5Z",
-      "title": "DISKAYA-GURSU (BURSA)",
-      "magnitude": 1.4,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-11 08:01:35",
-      "latitude": 40.2885,
-      "longitude": 29.2477,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "kOJGTw9c15_ua",
-      "title": "EGE DENIZI",
-      "magnitude": 2,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-11 07:52:17",
-      "latitude": 36.6393,
-      "longitude": 25.7898,
-      "location_name": "Ege Denizi"
     }
   ]
 }
