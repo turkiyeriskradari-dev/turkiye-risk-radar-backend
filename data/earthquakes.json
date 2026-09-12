@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T23:32:01.451600+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-12T23:46:26.320011+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "20MSVgGtMAOS2",
@@ -632,26 +632,6 @@
       "latitude": 37.8647,
       "longitude": 29.4082,
       "location_name": "Denizli"
-    },
-    {
-      "id": "zRcXrfMGBndSS",
-      "title": "AGULLU-KAS (ANTALYA)",
-      "magnitude": 1.6,
-      "depth_km": 21.9,
-      "date_utc": "2026-09-12 02:33:54",
-      "latitude": 36.2268,
-      "longitude": 29.7007,
-      "location_name": "Antalya"
-    },
-    {
-      "id": "_RJJ1TmrCbXEL",
-      "title": "KIBRIS ACIKLARI-GUNEY--(AKDENIZ)",
-      "magnitude": 2.6,
-      "depth_km": 19.1,
-      "date_utc": "2026-09-12 02:32:26",
-      "latitude": 34.1868,
-      "longitude": 33.7092,
-      "location_name": "Kıbrıs Açıkları"
     }
   ]
 }
