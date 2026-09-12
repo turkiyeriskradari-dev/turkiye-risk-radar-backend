@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T00:02:37.272584+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-12T00:28:44.246692+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "HICeH8lIAZ5wz",
+      "title": "KARSIYAKA-PUTURGE (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 5,
+      "date_utc": "2026-09-12 03:02:20",
+      "latitude": 38.2927,
+      "longitude": 38.7815,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "P33aNJWhrTbiD",
+      "title": "YOKUSBASI-HONAZ (DENIZLI)",
+      "magnitude": 0.9,
+      "depth_km": 9.7,
+      "date_utc": "2026-09-12 02:47:26",
+      "latitude": 37.8647,
+      "longitude": 29.4082,
+      "location_name": "Denizli"
+    },
     {
       "id": "zRcXrfMGBndSS",
       "title": "AGULLU-KAS (ANTALYA)",
@@ -642,36 +662,6 @@
       "latitude": 40.3948,
       "longitude": 26.862,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "z1cyIhweyDsXO",
-      "title": "TASLICA-MARMARIS (MUGLA)",
-      "magnitude": 3.1,
-      "depth_km": 78.2,
-      "date_utc": "2026-09-11 03:14:09",
-      "latitude": 36.6025,
-      "longitude": 28.1018,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "L69VBwDvrsmr9",
-      "title": "KARAKOY-TURGUTLU (MANISA)",
-      "magnitude": 1.4,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-11 03:09:54",
-      "latitude": 38.3428,
-      "longitude": 27.8402,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "XYO9fmUu_WcE1",
-      "title": "OLUKLU-YESILYURT (MALATYA)",
-      "magnitude": 2.3,
-      "depth_km": 6.2,
-      "date_utc": "2026-09-11 03:04:24",
-      "latitude": 38.195,
-      "longitude": 38.0753,
-      "location_name": "Malatya"
     }
   ]
 }
