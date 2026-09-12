@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T09:47:08.150616+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-12T10:01:53.760882+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "mxSVidhVd4tur",
@@ -502,36 +502,6 @@
       "latitude": 38.4368,
       "longitude": 38.9863,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "me5U2qmZGGHWl",
-      "title": "SAMLI-(BALIKESIR)",
-      "magnitude": 1.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-11 12:49:30",
-      "latitude": 39.8022,
-      "longitude": 27.8497,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "E8H9ukwxVLZFu",
-      "title": "BOZBURUN-MARMARIS (MUGLA)",
-      "magnitude": 2.6,
-      "depth_km": 71.8,
-      "date_utc": "2026-09-11 12:47:21",
-      "latitude": 36.6983,
-      "longitude": 27.9872,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Fv63fU3BjAgWB",
-      "title": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-      "magnitude": 1.7,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-11 12:47:16",
-      "latitude": 38.7665,
-      "longitude": 36.5812,
-      "location_name": "Kayseri"
     }
   ]
 }
