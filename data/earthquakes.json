@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T14:47:12.122687+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-12T15:01:59.450445+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "Ez8mxPnhT7iW0",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 12.5,
+      "date_utc": "2026-09-12 17:46:45",
+      "latitude": 39.2252,
+      "longitude": 28.124,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "qXy6VuH5dx8oQ",
+      "title": "GURSU-CAMELI (DENIZLI)",
+      "magnitude": 1.8,
+      "depth_km": 4.6,
+      "date_utc": "2026-09-12 17:46:15",
+      "latitude": 36.9357,
+      "longitude": 29.3372,
+      "location_name": "Muğla"
+    },
     {
       "id": "xYtkq_TCHLcTi",
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
@@ -572,16 +592,6 @@
       "latitude": 36.9275,
       "longitude": 29.3088,
       "location_name": "Muğla"
-    },
-    {
-      "id": "d4ooWf05JsA7E",
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-11 17:52:40",
-      "latitude": 39.2347,
-      "longitude": 28.1077,
-      "location_name": "Balıkesir"
     }
   ]
 }
