@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T21:33:01.551673+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-12T21:46:48.245759+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "a0RqH12XoEgNo",
+      "title": "KARACAOREN-(MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 3.4,
+      "date_utc": "2026-09-13 00:39:47",
+      "latitude": 37.2123,
+      "longitude": 28.7618,
+      "location_name": "Muğla"
+    },
     {
       "id": "sr3T5DyIgUrOr",
       "title": "GUNEYKOY-SIVRICE (ELAZIG)",
