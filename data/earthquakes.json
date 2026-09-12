@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T04:01:57.534479+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-12T04:22:18.756620+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "mfDTr10Yorb5S",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.5,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-12 07:07:05",
+      "latitude": 39.2395,
+      "longitude": 28.9583,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "R1zLUba5yUrm4",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.9,
+      "depth_km": 9.9,
+      "date_utc": "2026-09-12 07:03:07",
+      "latitude": 39.1697,
+      "longitude": 28.0942,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "frduI4bY4q7WT",
       "title": "EGE DENIZI",
