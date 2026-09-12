@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T10:21:20.174276+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-12T10:33:12.826763+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "qUYUtwY35rJUM",
+      "title": "CIKRIKCI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-12 12:55:38",
+      "latitude": 39.1908,
+      "longitude": 28.3992,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "SWxu9odPW2Ix3",
       "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
