@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T18:35:06.650077+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-12T18:47:30.675456+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "LzHilkvTfWw6u",
@@ -12,6 +12,16 @@
       "latitude": 38.5905,
       "longitude": 37.7835,
       "location_name": "Malatya"
+    },
+    {
+      "id": "eHE61x8raSW60",
+      "title": "MURSITPINAR-SURUC (SANLIURFA)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-12 19:50:38",
+      "latitude": 36.7142,
+      "longitude": 38.2772,
+      "location_name": "Suriye"
     },
     {
       "id": "wjikTySEL1sJa",
