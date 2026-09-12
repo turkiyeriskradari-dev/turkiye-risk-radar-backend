@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T12:50:49.950217+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-12T13:01:59.218415+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "nS5erw7C8vfar",
@@ -571,16 +571,6 @@
       "date_utc": "2026-09-11 16:02:48",
       "latitude": 39.202,
       "longitude": 28.1678,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "e87xLpxDkEOxx",
-      "title": "BALIKESIR",
-      "magnitude": 1.4,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-11 15:50:51",
-      "latitude": 39.6292,
-      "longitude": 27.8818,
       "location_name": "Balıkesir"
     }
   ]
