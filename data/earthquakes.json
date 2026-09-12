@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T20:54:45.345966+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-12T21:01:58.318788+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "6DzL9wfSjRZy_",
+      "title": "SUREK-SIVRICE (ELAZIG)",
+      "magnitude": 0.8,
+      "depth_km": 19.8,
+      "date_utc": "2026-09-12 23:50:06",
+      "latitude": 38.4537,
+      "longitude": 39.3568,
+      "location_name": "Elazığ"
+    },
     {
       "id": "Mjqrqc__d3XWm",
       "title": "ACIKGUNEY-KIGI (BINGOL)",
