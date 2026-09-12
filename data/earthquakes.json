@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T06:38:58.355942+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-12T06:51:05.952341+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "BZYLLQtW2VdnM",
@@ -602,16 +602,6 @@
       "latitude": 36.3247,
       "longitude": 33.5067,
       "location_name": "Mersin"
-    },
-    {
-      "id": "6XeWOKhyIPVxl",
-      "title": "EGE DENIZI",
-      "magnitude": 2,
-      "depth_km": 8.9,
-      "date_utc": "2026-09-11 09:48:17",
-      "latitude": 39.9082,
-      "longitude": 25.5287,
-      "location_name": "Ege Denizi"
     }
   ]
 }
