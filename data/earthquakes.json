@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T17:20:05.972000+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-12T17:32:12.054651+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "LzHilkvTfWw6u",
+      "title": "KOLUKLER-DARENDE (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-12 20:07:53",
+      "latitude": 38.5905,
+      "longitude": 37.7835,
+      "location_name": "Malatya"
+    },
     {
       "id": "wjikTySEL1sJa",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
