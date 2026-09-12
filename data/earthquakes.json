@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T00:42:25.447109+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-12T00:52:50.819207+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "V0fBjK8LgXu2l",
@@ -652,16 +652,6 @@
       "latitude": 39.1955,
       "longitude": 29.1678,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "pUZ9L6VMJcxXX",
-      "title": "YUKARIKOY-INEBOLU (KASTAMONU)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-11 03:48:09",
-      "latitude": 41.9602,
-      "longitude": 33.7027,
-      "location_name": "Kastamonu"
     }
   ]
 }
