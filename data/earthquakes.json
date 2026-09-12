@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T00:28:44.246692+00:00",
+  "last_updated": "2026-09-12T00:42:25.447109+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "V0fBjK8LgXu2l",
+      "title": "SAZOBA-AKHISAR (MANISA)",
+      "magnitude": 1.5,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-12 03:31:08",
+      "latitude": 38.8007,
+      "longitude": 27.8363,
+      "location_name": "Manisa"
+    },
     {
       "id": "HICeH8lIAZ5wz",
       "title": "KARSIYAKA-PUTURGE (MALATYA)",
@@ -652,16 +662,6 @@
       "latitude": 41.9602,
       "longitude": 33.7027,
       "location_name": "Kastamonu"
-    },
-    {
-      "id": "7o7Y98DHZ9h3U",
-      "title": "SEVKETIYE-LAPSEKI (CANAKKALE)",
-      "magnitude": 0.9,
-      "depth_km": 19.8,
-      "date_utc": "2026-09-11 03:30:50",
-      "latitude": 40.3948,
-      "longitude": 26.862,
-      "location_name": "Çanakkale"
     }
   ]
 }
