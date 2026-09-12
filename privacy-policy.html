@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gizlilik Politikası — Türkiye Risk Radar</title>
+<title>Gizlilik Politikası — Türkiye Risk Radarı</title>
 <style>
   :root {
     --bg: #1A2332;
@@ -92,10 +92,10 @@
 <div class="container">
 
   <h1>Gizlilik Politikası</h1>
-  <p class="updated">Türkiye Risk Radar · Son güncelleme: 12 Eylül 2026</p>
+  <p class="updated">Türkiye Risk Radarı · Son güncelleme: 12 Eylül 2026</p>
 
   <div class="notice">
-    <strong>Önemli:</strong> Türkiye Risk Radar; AFAD, MGM, İSKİ, DSİ, TEB
+    <strong>Önemli:</strong> Türkiye Risk Radarı; AFAD, MGM, İSKİ, DSİ, TEB
     veya başka herhangi bir resmi devlet kurumu ya da meslek odasıyla
     bağlantılı değildir. Halka açık ve üçüncü taraf kaynaklardan derlenen
     verileri tek bir arayüzde sunan bağımsız bir bilgilendirme aracıdır.
@@ -103,7 +103,7 @@
 
   <h2>1. Bu Politika Ne Hakkında</h2>
   <p>
-    Bu Gizlilik Politikası, Türkiye Risk Radar mobil uygulamasını
+    Bu Gizlilik Politikası, Türkiye Risk Radarı mobil uygulamasını
     ("Uygulama") kullandığınızda hangi bilgilerin nasıl işlendiğini
     açıklar. Uygulamayı kullanarak bu politikada açıklanan uygulamaları
     kabul etmiş olursunuz.
@@ -132,31 +132,61 @@
   </ul>
   <p>
     Uygulama; ad, e-posta, telefon numarası gibi kişisel kimlik
-    bilgilerinizi toplamaz, hesap oluşturmanızı istemez ve reklam veya
-    analitik amaçlı üçüncü taraf takip kodu (SDK) içermez.
+    bilgilerinizi toplamaz ve hesap oluşturmanızı istemez. Reklam
+    hizmetleri hakkında bilgi için aşağıdaki "Reklamlar ve Üçüncü Taraf
+    Hizmetler" bölümüne bakınız.
   </p>
 
-  <h2>3. Verilerin Nereden Geldiği</h2>
+  <h2>3. Reklamlar ve Üçüncü Taraf Hizmetler</h2>
+  <p>
+    Uygulama, geliştirme maliyetlerini karşılamak amacıyla
+    <strong>Google AdMob</strong> aracılığıyla reklam gösterebilir.
+    AdMob, reklamları göstermek ve ölçmek için cihazınızdan bazı
+    bilgileri toplayabilir:
+  </p>
+  <ul>
+    <li>Reklam Kimliği (Advertising ID) — reklam kişiselleştirme ve
+      performans ölçümü için kullanılan, sıfırlanabilir bir cihaz
+      tanımlayıcısıdır</li>
+    <li>Yaklaşık konum (IP adresine dayalı, genellikle şehir/bölge
+      düzeyinde) — hassas GPS konumunuz reklam amacıyla
+      <strong>paylaşılmaz</strong></li>
+    <li>Cihaz ve uygulama kullanım bilgileri (cihaz modeli, işletim
+      sistemi sürümü, uygulama içi genel etkileşim istatistikleri)</li>
+  </ul>
+  <p>
+    Bu veriler doğrudan bizim tarafımızdan değil, Google'ın kendi
+    politikaları ve sorumluluğu altında işlenir. Google'ın veri
+    işleme uygulamaları hakkında detaylı bilgiye
+    <a href="https://policies.google.com/privacy" target="_blank">Google Gizlilik Politikası</a>
+    sayfasından ulaşabilirsiniz.
+  </p>
+  <p>
+    <strong>Reklam tercihlerinizi yönetmek için:</strong> Android
+    cihazınızda Ayarlar &gt; Google &gt; Reklamlar menüsünden
+    "Reklam Kişiselleştirmesini Devre Dışı Bırak" seçeneğini
+    kullanarak kişiselleştirilmiş reklamları kapatabilir veya Reklam
+    Kimliğinizi sıfırlayabilirsiniz. Bu ayar, reklam gösterimini
+    tamamen durdurmaz ancak reklamların ilgi alanlarınıza göre
+    kişiselleştirilmesini engeller.
+  </p>
+  <p>
+    Uygulama, 13 yaş altı çocukları hedeflemediği için reklamlar
+    genel (yaşa uygun) kitleye yönelik olarak yapılandırılır.
+  </p>
+
+  <h2>4. Verilerin Nereden Geldiği</h2>
   <p>
     Uygulamada gösterilen deprem, hava durumu, hava kalitesi, baraj ve
-    eczane bilgileri, kendi sunucumuzda (GitHub Actions üzerinde
-    çalışan otomatik bir işlem) düzenli aralıklarla toplanan, halka açık
+    eczane bilgileri, kendi sunucumuzda düzenli aralıklarla toplanan, halka açık
     veya üçüncü taraf kaynaklardan derlenmiş verilerdir. Bu süreçte
     kullanıcıya ait herhangi bir kişisel veri bu kaynaklara
     gönderilmez — veri akışı tek yönlüdür (kaynak → bizim sunucumuz →
     uygulama).
   </p>
-  <table class="source-table">
-    <tr><th>Veri</th><th>Kaynak</th><th>Resmi mi?</th></tr>
-    <tr><td>Deprem</td><td>Kandilli Rasathanesi (topluluk API'si)</td><td>Dolaylı resmi</td></tr>
-    <tr><td>Sıcak nokta / olası yangın</td><td>NASA FIRMS</td><td>Resmi</td></tr>
-    <tr><td>Hava kalitesi</td><td>Open-Meteo (model tabanlı tahmin)</td><td>Resmi API, UHKİA verisi değil</td></tr>
-    <tr><td>Hava durumu riski</td><td>Open-Meteo verisiyle bağımsız hesaplama</td><td>MGM'in resmi uyarısı değildir</td></tr>
-    <tr><td>Baraj doluluk oranı</td><td>Üçüncü taraf site</td><td>Gayriresmi</td></tr>
-    <tr><td>Nöbetçi eczane</td><td>Üçüncü taraf site</td><td>Gayriresmi</td></tr>
-  </table>
+  
 
-  <h2>4. Veri Güvenliği</h2>
+  <h2>5. Veri Güvenliği</h2>
   <p>
     Cihazınızda saklanan yerel veriler, işletim sisteminizin standart
     uygulama korumasına tabidir. Uygulama, kişisel verilerinizi
@@ -164,16 +194,16 @@
     bilgisi sızıntısı riski bulunmamaktadır.
   </p>
 
-  <h2>5. Konum İzninin Yönetimi</h2>
+  <h2>6. Konum İzninin Yönetimi</h2>
   <p>
     Konum iznini istediğiniz zaman cihazınızın Ayarlar &gt; Uygulamalar
-    &gt; Türkiye Risk Radar &gt; İzinler menüsünden kapatabilir veya
+    &gt; Türkiye Risk Radarı &gt; İzinler menüsünden kapatabilir veya
     açabilirsiniz. İzni kapatmanız uygulamanın diğer katmanlarını
     (harita, ayarlar vb.) etkilemez; yalnızca "Yakınımda" özelliğinde
     otomatik il tespiti yerine manuel il seçimi yapmanız gerekir.
   </p>
 
-  <h2>6. Çocukların Gizliliği</h2>
+  <h2>7. Çocukların Gizliliği</h2>
   <p>
     Uygulama, belirli bir yaş grubuna özel içerik sunmaz ve bilerek
     13 yaş altı çocuklardan kişisel veri toplamaz. Uygulamanın doğası
@@ -181,23 +211,23 @@
     yöneliktir.
   </p>
 
-  <h2>7. Bu Politikadaki Değişiklikler</h2>
+  <h2>8. Bu Politikadaki Değişiklikler</h2>
   <p>
     Bu politika, uygulamaya yeni özellikler eklendikçe güncellenebilir.
     Önemli değişiklikler bu sayfada yayınlanacak ve sayfanın en üstündeki
     "Son güncelleme" tarihi buna göre değişecektir.
   </p>
 
-  <h2>8. İletişim</h2>
+  <h2>9. İletişim</h2>
   <p>
     Bu politika veya uygulama hakkında sorularınız için:
-    <a href="mailto:iletisim@turkiyeriskradari.example.com">iletisim@turkiyeriskradari.example.com</a>
-    <br><em>(Bu e-posta adresini kendi gerçek iletişim adresinizle değiştirmeniz gerekir.)</em>
+    <a href="mailto:turkiyeriskradari@gmail.com">turkiyeriskradari@gmail.com</a>
+    <br>
   </p>
 
   <div class="footer-note">
-    Türkiye Risk Radar, hiçbir resmi kurumu temsil etmez. Acil durumlarda
-    lütfen 112'yi arayın ve resmi kaynakları (afad.gov.tr, mgm.gov.tr) takip edin.
+    Türkiye Risk Radarı, hiçbir resmi kurumu temsil etmez. Acil durumlarda
+    lütfen 112'yi arayın ve resmi kaynakları takip edin.
   </div>
 
 </div>
