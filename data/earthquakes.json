@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T02:34:47.848638+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-12T02:48:37.724171+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "frduI4bY4q7WT",
+      "title": "EGE DENIZI",
+      "magnitude": 2.5,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-12 05:31:07",
+      "latitude": 36.6523,
+      "longitude": 25.7238,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "S8DE_phv0Qxq3",
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
