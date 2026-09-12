@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T22:26:17.956445+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-12T22:32:35.624841+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "iAr2KaHo5MFbq",
@@ -632,16 +632,6 @@
       "latitude": 34.1868,
       "longitude": 33.7092,
       "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "CVdBsZbT94b8A",
-      "title": "KARAAGACLI-DIVRIGI (SIVAS)",
-      "magnitude": 1.5,
-      "depth_km": 6.1,
-      "date_utc": "2026-09-12 01:28:34",
-      "latitude": 39.3752,
-      "longitude": 37.9643,
-      "location_name": "Sivas"
     }
   ]
 }
