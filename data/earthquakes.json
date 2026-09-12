@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T05:02:18.851182+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-12T05:20:57.827172+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "n1lfkg_Du73qF",
+      "title": "SOFULAR-CAMELI (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-12 08:04:19",
+      "latitude": 36.9902,
+      "longitude": 29.304,
+      "location_name": "Denizli"
+    },
     {
       "id": "2eqtm4xcGWX2O",
       "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
