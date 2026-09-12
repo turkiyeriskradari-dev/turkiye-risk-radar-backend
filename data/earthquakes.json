@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T06:02:24.721501+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-12T06:26:10.360661+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "BZYLLQtW2VdnM",
+      "title": "YOLCATI-ACIPAYAM (DENIZLI)",
+      "magnitude": 1.3,
+      "depth_km": 14.4,
+      "date_utc": "2026-09-12 08:49:33",
+      "latitude": 37.0713,
+      "longitude": 29.0995,
+      "location_name": "Denizli"
+    },
     {
       "id": "n1lfkg_Du73qF",
       "title": "SOFULAR-CAMELI (DENIZLI)",
@@ -602,26 +612,6 @@
       "latitude": 39.9082,
       "longitude": 25.5287,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Vr_6WXc5TjA_e",
-      "title": "MARMARA DENIZI",
-      "magnitude": 1,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-11 09:07:20",
-      "latitude": 40.4727,
-      "longitude": 26.8522,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "JWPLge1p5DlZo",
-      "title": "BALLICA-OLTU (ERZURUM)",
-      "magnitude": 2.1,
-      "depth_km": 21.4,
-      "date_utc": "2026-09-11 09:02:14",
-      "latitude": 40.5157,
-      "longitude": 41.865,
-      "location_name": "Erzurum"
     }
   ]
 }
