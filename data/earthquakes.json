@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T03:21:54.319597+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-12T03:35:25.855415+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "frduI4bY4q7WT",
@@ -632,16 +632,6 @@
       "latitude": 39.2025,
       "longitude": 28.1257,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "3oxa8Hm2RnhHk",
-      "title": "YENIKOY-REFAHIYE (ERZINCAN)",
-      "magnitude": 1.9,
-      "depth_km": 5.7,
-      "date_utc": "2026-09-11 06:24:43",
-      "latitude": 39.9015,
-      "longitude": 39.034,
-      "location_name": "Erzincan"
     }
   ]
 }
