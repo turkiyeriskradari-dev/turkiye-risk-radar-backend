@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gizlilik Politikası — Türkiye Risk Radar</title>
+<style>
+  :root {
+    --bg: #1A2332;
+    --surface: #22304A;
+    --accent: #2DA9A0;
+    --text: #E8ECF1;
+    --muted: #9AA7B8;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.7;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  h1 {
+    font-size: 1.8rem;
+    margin-bottom: 4px;
+    color: #fff;
+  }
+  .updated {
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-bottom: 32px;
+  }
+  h2 {
+    font-size: 1.2rem;
+    color: var(--accent);
+    margin-top: 40px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid rgba(45, 169, 160, 0.25);
+    padding-bottom: 8px;
+  }
+  p, li {
+    color: var(--text);
+    font-size: 0.98rem;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  li {
+    margin-bottom: 8px;
+  }
+  .notice {
+    background: var(--surface);
+    border-left: 4px solid var(--accent);
+    padding: 16px 20px;
+    border-radius: 6px;
+    margin: 24px 0;
+  }
+  .source-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 0.9rem;
+  }
+  .source-table th, .source-table td {
+    text-align: left;
+    padding: 8px 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .source-table th {
+    color: var(--muted);
+    font-weight: 600;
+  }
+  a {
+    color: var(--accent);
+  }
+  .footer-note {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <h1>Gizlilik Politikası</h1>
+  <p class="updated">Türkiye Risk Radar · Son güncelleme: 12 Eylül 2026</p>
+
+  <div class="notice">
+    <strong>Önemli:</strong> Türkiye Risk Radar; AFAD, MGM, İSKİ, DSİ, TEB
+    veya başka herhangi bir resmi devlet kurumu ya da meslek odasıyla
+    bağlantılı değildir. Halka açık ve üçüncü taraf kaynaklardan derlenen
+    verileri tek bir arayüzde sunan bağımsız bir bilgilendirme aracıdır.
+  </div>
+
+  <h2>1. Bu Politika Ne Hakkında</h2>
+  <p>
+    Bu Gizlilik Politikası, Türkiye Risk Radar mobil uygulamasını
+    ("Uygulama") kullandığınızda hangi bilgilerin nasıl işlendiğini
+    açıklar. Uygulamayı kullanarak bu politikada açıklanan uygulamaları
+    kabul etmiş olursunuz.
+  </p>
+
+  <h2>2. Hangi Verileri Topluyoruz</h2>
+  <p>Uygulama, kullanıcı hesabı oluşturma veya kayıt gerektirmez. Aşağıdaki
+  veriler yalnızca uygulamanın temel işlevlerini sağlamak amacıyla işlenir:</p>
+  <ul>
+    <li>
+      <strong>Konum bilgisi (isteğe bağlı):</strong> "Yakınımda" ve
+      harita özelliklerinin çalışabilmesi için, izin verirseniz cihazınızın
+      GPS konumu kullanılır. Bu konum <strong>yalnızca cihazınızda
+      işlenir</strong>; hangi il/ilçede olduğunuzu belirlemek için kullanılır
+      ve bizim sunucularımıza veya üçüncü taraflara gönderilmez.
+      Konum izni vermeden de uygulamayı, il/ilçeyi manuel seçerek
+      kullanabilirsiniz.
+    </li>
+    <li>
+      <strong>Cihazda saklanan veri:</strong> Uygulama, internet
+      bağlantısı olmadığında da çalışabilmesi için deprem, hava kalitesi,
+      baraj doluluk oranı gibi verilerin bir kopyasını cihazınızın yerel
+      veritabanında (Room) tutar. Bu veri kişisel değildir ve cihazınızdan
+      dışarı çıkmaz.
+    </li>
+  </ul>
+  <p>
+    Uygulama; ad, e-posta, telefon numarası gibi kişisel kimlik
+    bilgilerinizi toplamaz, hesap oluşturmanızı istemez ve reklam veya
+    analitik amaçlı üçüncü taraf takip kodu (SDK) içermez.
+  </p>
+
+  <h2>3. Verilerin Nereden Geldiği</h2>
+  <p>
+    Uygulamada gösterilen deprem, hava durumu, hava kalitesi, baraj ve
+    eczane bilgileri, kendi sunucumuzda (GitHub Actions üzerinde
+    çalışan otomatik bir işlem) düzenli aralıklarla toplanan, halka açık
+    veya üçüncü taraf kaynaklardan derlenmiş verilerdir. Bu süreçte
+    kullanıcıya ait herhangi bir kişisel veri bu kaynaklara
+    gönderilmez — veri akışı tek yönlüdür (kaynak → bizim sunucumuz →
+    uygulama).
+  </p>
+  <table class="source-table">
+    <tr><th>Veri</th><th>Kaynak</th><th>Resmi mi?</th></tr>
+    <tr><td>Deprem</td><td>Kandilli Rasathanesi (topluluk API'si)</td><td>Dolaylı resmi</td></tr>
+    <tr><td>Sıcak nokta / olası yangın</td><td>NASA FIRMS</td><td>Resmi</td></tr>
+    <tr><td>Hava kalitesi</td><td>Open-Meteo (model tabanlı tahmin)</td><td>Resmi API, UHKİA verisi değil</td></tr>
+    <tr><td>Hava durumu riski</td><td>Open-Meteo verisiyle bağımsız hesaplama</td><td>MGM'in resmi uyarısı değildir</td></tr>
+    <tr><td>Baraj doluluk oranı</td><td>Üçüncü taraf site</td><td>Gayriresmi</td></tr>
+    <tr><td>Nöbetçi eczane</td><td>Üçüncü taraf site</td><td>Gayriresmi</td></tr>
+  </table>
+
+  <h2>4. Veri Güvenliği</h2>
+  <p>
+    Cihazınızda saklanan yerel veriler, işletim sisteminizin standart
+    uygulama korumasına tabidir. Uygulama, kişisel verilerinizi
+    içeren bir sunucu veritabanı işletmediği için, kullanıcı hesap
+    bilgisi sızıntısı riski bulunmamaktadır.
+  </p>
+
+  <h2>5. Konum İzninin Yönetimi</h2>
+  <p>
+    Konum iznini istediğiniz zaman cihazınızın Ayarlar &gt; Uygulamalar
+    &gt; Türkiye Risk Radar &gt; İzinler menüsünden kapatabilir veya
+    açabilirsiniz. İzni kapatmanız uygulamanın diğer katmanlarını
+    (harita, ayarlar vb.) etkilemez; yalnızca "Yakınımda" özelliğinde
+    otomatik il tespiti yerine manuel il seçimi yapmanız gerekir.
+  </p>
+
+  <h2>6. Çocukların Gizliliği</h2>
+  <p>
+    Uygulama, belirli bir yaş grubuna özel içerik sunmaz ve bilerek
+    13 yaş altı çocuklardan kişisel veri toplamaz. Uygulamanın doğası
+    gereği (afet/çevre bilgilendirme aracı) genel kullanıcı kitlesine
+    yöneliktir.
+  </p>
+
+  <h2>7. Bu Politikadaki Değişiklikler</h2>
+  <p>
+    Bu politika, uygulamaya yeni özellikler eklendikçe güncellenebilir.
+    Önemli değişiklikler bu sayfada yayınlanacak ve sayfanın en üstündeki
+    "Son güncelleme" tarihi buna göre değişecektir.
+  </p>
+
+  <h2>8. İletişim</h2>
+  <p>
+    Bu politika veya uygulama hakkında sorularınız için:
+    <a href="mailto:iletisim@turkiyeriskradari.example.com">iletisim@turkiyeriskradari.example.com</a>
+    <br><em>(Bu e-posta adresini kendi gerçek iletişim adresinizle değiştirmeniz gerekir.)</em>
+  </p>
+
+  <div class="footer-note">
+    Türkiye Risk Radar, hiçbir resmi kurumu temsil etmez. Acil durumlarda
+    lütfen 112'yi arayın ve resmi kaynakları (afad.gov.tr, mgm.gov.tr) takip edin.
+  </div>
+
+</div>
+</body>
+</html>
