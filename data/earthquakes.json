@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T00:52:50.819207+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-12T01:02:10.455871+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "V0fBjK8LgXu2l",
@@ -642,16 +642,6 @@
       "latitude": 39.199,
       "longitude": 28.0545,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "FXIhsCcAbzYiu",
-      "title": "KURTDERE-HISARCIK (KUTAHYA)",
-      "magnitude": 1.1,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-11 04:00:42",
-      "latitude": 39.1955,
-      "longitude": 29.1678,
-      "location_name": "Kütahya"
     }
   ]
 }
