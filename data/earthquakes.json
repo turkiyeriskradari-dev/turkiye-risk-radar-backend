@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T12:25:50.446633+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-12T12:38:29.523597+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "C8825b_TNuq6T",
+      "title": "FASIL-(BOLU)",
+      "magnitude": 1.6,
+      "depth_km": 15.3,
+      "date_utc": "2026-09-12 15:13:24",
+      "latitude": 40.7807,
+      "longitude": 31.6008,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "uPNXfMmnbRebT",
+      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
+      "magnitude": 2.2,
+      "depth_km": 9.1,
+      "date_utc": "2026-09-12 14:27:46",
+      "latitude": 40.1617,
+      "longitude": 32.969,
+      "location_name": "Ankara"
+    },
     {
       "id": "Cacap8yzF4Udr",
       "title": "BOZYAYLA-ILIC (ERZINCAN)",
@@ -12,6 +32,16 @@
       "latitude": 39.5988,
       "longitude": 38.5483,
       "location_name": "Erzincan"
+    },
+    {
+      "id": "xcr7xrOUjqoKO",
+      "title": "EGE DENIZI",
+      "magnitude": 1.5,
+      "depth_km": 4,
+      "date_utc": "2026-09-12 13:57:06",
+      "latitude": 36.6948,
+      "longitude": 26.0477,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "84DATkQ6OQvI8",
@@ -542,16 +572,6 @@
       "latitude": 39.6292,
       "longitude": 27.8818,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "VeGZiyFXbhnI2",
-      "title": "EGE DENIZI",
-      "magnitude": 1.7,
-      "depth_km": 2.6,
-      "date_utc": "2026-09-11 15:34:32",
-      "latitude": 36.6248,
-      "longitude": 25.7313,
-      "location_name": "Ege Denizi"
     }
   ]
 }
