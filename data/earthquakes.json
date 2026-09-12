@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T09:21:33.321960+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-12T09:33:54.849629+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "QFY2Nxnnuev6L",
+      "title": "YALNIZCABAG-MUT (MERSIN)",
+      "magnitude": 1,
+      "depth_km": 5,
+      "date_utc": "2026-09-12 11:24:13",
+      "latitude": 36.6457,
+      "longitude": 33.1535,
+      "location_name": "Mersin"
+    },
     {
       "id": "sOObfrt4xMJKt",
       "title": "EGE DENIZI",
