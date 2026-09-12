@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T04:22:18.756620+00:00",
+  "last_updated": "2026-09-12T04:34:44.519218+00:00",
   "record_count": 65,
   "data": [
+    {
+      "id": "ta5e7bwRWu8CY",
+      "title": "GOVDELI-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.9,
+      "depth_km": 4.3,
+      "date_utc": "2026-09-12 07:12:24",
+      "latitude": 38.005,
+      "longitude": 37.5897,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "mfDTr10Yorb5S",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -642,16 +652,6 @@
       "latitude": 36.6393,
       "longitude": 25.7898,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "KVLjMM05Ewf6u",
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 14.7,
-      "date_utc": "2026-09-11 07:29:25",
-      "latitude": 39.2025,
-      "longitude": 28.1257,
-      "location_name": "Balıkesir"
     }
   ]
 }
