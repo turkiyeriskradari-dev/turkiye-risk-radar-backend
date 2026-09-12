@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T10:33:12.826763+00:00",
+  "last_updated": "2026-09-12T10:46:19.597447+00:00",
   "record_count": 50,
   "data": [
     {
@@ -12,6 +12,26 @@
       "latitude": 39.1908,
       "longitude": 28.3992,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "SxMkJs_jm3FT6",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 0.9,
+      "depth_km": 0,
+      "date_utc": "2026-09-12 12:01:27",
+      "latitude": 36.2655,
+      "longitude": 33.7405,
+      "location_name": "Mersin"
+    },
+    {
+      "id": "iDrOmvzg3g_LO",
+      "title": "SEKKOY-MILAS (MUGLA)",
+      "magnitude": 1.5,
+      "depth_km": 0,
+      "date_utc": "2026-09-12 11:51:07",
+      "latitude": 37.1155,
+      "longitude": 27.8903,
+      "location_name": "Muğla"
     },
     {
       "id": "SWxu9odPW2Ix3",
@@ -482,26 +502,6 @@
       "latitude": 38.0117,
       "longitude": 37.7943,
       "location_name": "Malatya"
-    },
-    {
-      "id": "0arDFsMFSZ3bD",
-      "title": "KOZCAGIZ-(KAHRAMANMARAS)",
-      "magnitude": 2.9,
-      "depth_km": 2,
-      "date_utc": "2026-09-11 13:45:40",
-      "latitude": 37.8757,
-      "longitude": 36.726,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "3KQfOWqYqMX7t",
-      "title": "AKDENIZ",
-      "magnitude": 2.1,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-11 13:37:50",
-      "latitude": 36.1927,
-      "longitude": 31.2378,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
