@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T11:20:39.249637+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-12T11:32:44.147878+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "Cacap8yzF4Udr",
@@ -32,6 +32,16 @@
       "latitude": 39.2488,
       "longitude": 28.993,
       "location_name": "Kütahya"
+    },
+    {
+      "id": "qxpCOw01IXTnY",
+      "title": "KISIK-MENDERES (IZMIR)",
+      "magnitude": 1.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-12 12:43:00",
+      "latitude": 38.3093,
+      "longitude": 27.181,
+      "location_name": "İzmir"
     },
     {
       "id": "Wu0brYH6Syxif",
