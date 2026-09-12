@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T21:46:48.245759+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-12T22:02:14.147905+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "OMYkmoKSxa_kZ",
+      "title": "BUYUKHUSUN-AYVACIK (CANAKKALE)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-09-13 00:47:08",
+      "latitude": 39.4933,
+      "longitude": 26.3945,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "a0RqH12XoEgNo",
       "title": "KARACAOREN-(MUGLA)",
