@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T12:02:19.232893+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-12T12:25:50.446633+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "Cacap8yzF4Udr",
@@ -12,6 +12,26 @@
       "latitude": 39.5988,
       "longitude": 38.5483,
       "location_name": "Erzincan"
+    },
+    {
+      "id": "84DATkQ6OQvI8",
+      "title": "AKDENIZ",
+      "magnitude": 1.8,
+      "depth_km": 20.1,
+      "date_utc": "2026-09-12 13:05:11",
+      "latitude": 36.0895,
+      "longitude": 31.5698,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "pP8Ooa_6COMor",
+      "title": "ECEMIS-LICE (DIYARBAKIR)",
+      "magnitude": 1.8,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-12 13:01:14",
+      "latitude": 38.6178,
+      "longitude": 40.4552,
+      "location_name": "Bingöl"
     },
     {
       "id": "qUYUtwY35rJUM",
@@ -532,16 +552,6 @@
       "latitude": 36.6248,
       "longitude": 25.7313,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "NffuDhoi9JVk5",
-      "title": "CANUSAGI-SIVRICE (ELAZIG)",
-      "magnitude": 1.4,
-      "depth_km": 16.8,
-      "date_utc": "2026-09-11 15:19:30",
-      "latitude": 38.3707,
-      "longitude": 39.0008,
-      "location_name": "Elazığ"
     }
   ]
 }
