@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T01:47:55.024816+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-12T02:02:18.624314+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "lMzVo5ffKEKQA",
@@ -632,16 +632,6 @@
       "latitude": 38.8023,
       "longitude": 33.1282,
       "location_name": "Konya"
-    },
-    {
-      "id": "IeQzVdzOHtQZV",
-      "title": "PINARBASI-CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.4,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-11 05:01:12",
-      "latitude": 38.0065,
-      "longitude": 38.165,
-      "location_name": "Adıyaman"
     }
   ]
 }
