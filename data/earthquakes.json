@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T01:02:10.455871+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-12T01:19:53.622020+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "lMzVo5ffKEKQA",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 10.1,
+      "date_utc": "2026-09-12 04:07:21",
+      "latitude": 39.1625,
+      "longitude": 28.1197,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "tzC7VT33NNH48",
+      "title": "EGE DENIZI",
+      "magnitude": 2.3,
+      "depth_km": 12.7,
+      "date_utc": "2026-09-12 04:05:36",
+      "latitude": 39.359,
+      "longitude": 25.6333,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "qawOSmNgP3leA",
+      "title": "EGE DENIZI",
+      "magnitude": 1.5,
+      "depth_km": 13.4,
+      "date_utc": "2026-09-12 04:02:04",
+      "latitude": 39.31,
+      "longitude": 25.6635,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "V0fBjK8LgXu2l",
       "title": "SAZOBA-AKHISAR (MANISA)",
@@ -632,16 +662,6 @@
       "latitude": 38.0058,
       "longitude": 32.4803,
       "location_name": "Konya"
-    },
-    {
-      "id": "IOfwCMWBHwGhU",
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-11 04:04:09",
-      "latitude": 39.199,
-      "longitude": 28.0545,
-      "location_name": "Balıkesir"
     }
   ]
 }
