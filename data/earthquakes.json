@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T13:01:59.218415+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-12T13:20:44.049872+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "xYtkq_TCHLcTi",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-12 15:38:52",
+      "latitude": 39.0788,
+      "longitude": 25.9698,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "BkygTVTLEyWdj",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2.1,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-12 15:36:56",
+      "latitude": 39.0212,
+      "longitude": 25.9593,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "nS5erw7C8vfar",
       "title": "EGE DENIZI",
@@ -22,6 +42,16 @@
       "latitude": 40.7807,
       "longitude": 31.6008,
       "location_name": "Bolu"
+    },
+    {
+      "id": "E2y0_UfOYRDUY",
+      "title": "SINDIRGI (BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 13.5,
+      "date_utc": "2026-09-12 15:09:22",
+      "latitude": 39.2427,
+      "longitude": 28.1565,
+      "location_name": "Balıkesir"
     },
     {
       "id": "uPNXfMmnbRebT",
@@ -562,16 +592,6 @@
       "latitude": 37.7187,
       "longitude": 36.054,
       "location_name": "Adana"
-    },
-    {
-      "id": "JdlxarNL7InZZ",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-11 16:02:48",
-      "latitude": 39.202,
-      "longitude": 28.1678,
-      "location_name": "Balıkesir"
     }
   ]
 }
