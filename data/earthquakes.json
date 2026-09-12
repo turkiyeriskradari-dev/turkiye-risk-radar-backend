@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T05:20:57.827172+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-12T05:33:46.557452+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "n1lfkg_Du73qF",
@@ -632,26 +632,6 @@
       "latitude": 40.7807,
       "longitude": 31.5282,
       "location_name": "Bolu"
-    },
-    {
-      "id": "3alEYa5QDdt58",
-      "title": "TARTISIK-AYVACIK (CANAKKALE)",
-      "magnitude": 2.5,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-11 08:31:51",
-      "latitude": 39.6273,
-      "longitude": 26.4608,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "yvMwSYn_BfFG3",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 0.8,
-      "depth_km": 13.9,
-      "date_utc": "2026-09-11 08:23:07",
-      "latitude": 39.2678,
-      "longitude": 28.964,
-      "location_name": "Kütahya"
     }
   ]
 }
