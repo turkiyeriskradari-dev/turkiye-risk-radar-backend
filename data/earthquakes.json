@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T09:02:08.349416+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-12T09:21:33.321960+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "sOObfrt4xMJKt",
+      "title": "EGE DENIZI",
+      "magnitude": 2.2,
+      "depth_km": 109.1,
+      "date_utc": "2026-09-12 10:29:34",
+      "latitude": 35.9335,
+      "longitude": 26.3098,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "2Vo_ELRXavIdv",
       "title": "TASOLUK-KIRIKHAN (HATAY)",
@@ -522,26 +532,6 @@
       "latitude": 38.7785,
       "longitude": 36.5018,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "ZomAUSeDK1wbd",
-      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.9,
-      "depth_km": 10.1,
-      "date_utc": "2026-09-11 12:12:41",
-      "latitude": 38.7577,
-      "longitude": 36.5327,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "F5X2HOQGsLXyY",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 1.1,
-      "depth_km": 0,
-      "date_utc": "2026-09-11 12:12:11",
-      "latitude": 36.2627,
-      "longitude": 33.7437,
-      "location_name": "Mersin"
     }
   ]
 }
