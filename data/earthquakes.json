@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T11:46:21.345930+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-12T12:02:19.232893+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "Cacap8yzF4Udr",
@@ -22,6 +22,16 @@
       "latitude": 39.1908,
       "longitude": 28.3992,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "D2yajNOzoVZmw",
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 15.9,
+      "date_utc": "2026-09-12 12:49:48",
+      "latitude": 39.2587,
+      "longitude": 28.9653,
+      "location_name": "Kütahya"
     },
     {
       "id": "MTHCvZkfG2rfw",
@@ -532,26 +542,6 @@
       "latitude": 38.3707,
       "longitude": 39.0008,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "vjO8CCZC9y5wF",
-      "title": "YESILKOY-ODEMIS (IZMIR)",
-      "magnitude": 1.5,
-      "depth_km": 1.4,
-      "date_utc": "2026-09-11 14:53:36",
-      "latitude": 38.13,
-      "longitude": 28.1853,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "INNEm7nIBmn1N",
-      "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 2.3,
-      "depth_km": 6.3,
-      "date_utc": "2026-09-11 14:49:54",
-      "latitude": 37.5965,
-      "longitude": 37.2933,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
