@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T08:34:30.330173+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-12T08:48:35.150379+00:00",
+  "record_count": 56,
   "data": [
     {
       "id": "2Vo_ELRXavIdv",
@@ -562,16 +562,6 @@
       "latitude": 37.4005,
       "longitude": 30.9542,
       "location_name": "Isparta"
-    },
-    {
-      "id": "siLbtWhF4K4oe",
-      "title": "KIZILAGIL-(BOLU)",
-      "magnitude": 1.6,
-      "depth_km": 15.8,
-      "date_utc": "2026-09-11 11:34:45",
-      "latitude": 40.7638,
-      "longitude": 31.5322,
-      "location_name": "Bolu"
     }
   ]
 }
