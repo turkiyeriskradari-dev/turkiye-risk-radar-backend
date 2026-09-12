@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T09:33:54.849629+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-12T09:47:08.150616+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "mxSVidhVd4tur",
+      "title": "ALACAAT-MUSTAFAKEMALPASA (BURSA)",
+      "magnitude": 1.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-12 11:36:01",
+      "latitude": 39.831,
+      "longitude": 28.6802,
+      "location_name": "Bursa"
+    },
     {
       "id": "QFY2Nxnnuev6L",
       "title": "YALNIZCABAG-MUT (MERSIN)",
@@ -521,26 +531,6 @@
       "date_utc": "2026-09-11 12:47:16",
       "latitude": 38.7665,
       "longitude": 36.5812,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "laYLANL1knFSm",
-      "title": "DONGEL-(KAHRAMANMARAS)",
-      "magnitude": 2.6,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-11 12:43:50",
-      "latitude": 37.8702,
-      "longitude": 36.6695,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "FXYRLF7h7mJ_9",
-      "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.6,
-      "depth_km": 7.9,
-      "date_utc": "2026-09-11 12:40:31",
-      "latitude": 38.7785,
-      "longitude": 36.5018,
       "location_name": "Kayseri"
     }
   ]
