@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T16:46:39.676840+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-12T17:01:47.739800+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "wjikTySEL1sJa",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-12 19:44:34",
+      "latitude": 38.87,
+      "longitude": 26.9488,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "z_epufp4_3z9l",
       "title": "UNSELI-MURADIYE (VAN)",
