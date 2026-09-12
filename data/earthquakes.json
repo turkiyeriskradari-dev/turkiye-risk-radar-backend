@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T02:02:18.624314+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-12T02:23:04.866228+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "S8DE_phv0Qxq3",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-12 05:13:12",
+      "latitude": 39.1908,
+      "longitude": 28.1225,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "Uqe0cDyYl6Guu",
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 9,
+      "date_utc": "2026-09-12 04:58:08",
+      "latitude": 39.2267,
+      "longitude": 28.0948,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "lMzVo5ffKEKQA",
       "title": "ORMANICI-SINDIRGI (BALIKESIR)",
