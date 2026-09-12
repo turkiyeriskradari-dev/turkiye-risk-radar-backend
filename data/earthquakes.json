@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T07:33:01.420938+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-12T07:46:13.949317+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "FoCqiTUwinJVo",
+      "title": "EGE DENIZI",
+      "magnitude": 2.3,
+      "depth_km": 69,
+      "date_utc": "2026-09-12 09:09:56",
+      "latitude": 36.4995,
+      "longitude": 26.7268,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "BZYLLQtW2VdnM",
       "title": "YOLCATI-ACIPAYAM (DENIZLI)",
