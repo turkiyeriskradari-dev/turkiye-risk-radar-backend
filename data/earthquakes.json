@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T15:01:59.450445+00:00",
+  "last_updated": "2026-09-12T15:21:01.637199+00:00",
   "record_count": 59,
   "data": [
+    {
+      "id": "QprrmoaHCFhxe",
+      "title": "MEVLUTLU-TUZLUKCU (KONYA)",
+      "magnitude": 1.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-12 17:57:48",
+      "latitude": 38.6085,
+      "longitude": 31.5495,
+      "location_name": "Afyon"
+    },
     {
       "id": "Ez8mxPnhT7iW0",
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
@@ -582,16 +592,6 @@
       "latitude": 39.144,
       "longitude": 27.9058,
       "location_name": "Manisa"
-    },
-    {
-      "id": "_43A1wZvoFqYh",
-      "title": "GURSU-CAMELI (DENIZLI)",
-      "magnitude": 0.9,
-      "depth_km": 3.7,
-      "date_utc": "2026-09-11 18:03:53",
-      "latitude": 36.9275,
-      "longitude": 29.3088,
-      "location_name": "Muğla"
     }
   ]
 }
