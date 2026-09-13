@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T21:33:13.332033+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-13T21:46:39.820441+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "a3Ej5NncTK_Xa",
@@ -582,16 +582,6 @@
       "latitude": 39.4933,
       "longitude": 26.3945,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "a0RqH12XoEgNo",
-      "title": "KARACAOREN-(MUGLA)",
-      "magnitude": 1.7,
-      "depth_km": 3.4,
-      "date_utc": "2026-09-13 00:39:47",
-      "latitude": 37.2123,
-      "longitude": 28.7618,
-      "location_name": "Muğla"
     }
   ]
 }
