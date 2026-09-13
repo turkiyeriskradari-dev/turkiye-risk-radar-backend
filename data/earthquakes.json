@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T02:22:11.057426+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-13T02:34:38.347616+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "0AZyR2g9ZOLwk",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-13 05:21:48",
+      "latitude": 36.9472,
+      "longitude": 28.1282,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "aFUEkYegTfkWj",
       "title": "EGE DENIZI",
@@ -12,6 +22,16 @@
       "latitude": 39.3348,
       "longitude": 25.696,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "xMPyLgiFCkbVP",
+      "title": "AYDINOCAK-GEVAS (VAN)",
+      "magnitude": 1.4,
+      "depth_km": 4.2,
+      "date_utc": "2026-09-13 04:09:25",
+      "latitude": 38.3988,
+      "longitude": 42.8512,
+      "location_name": "Van"
     },
     {
       "id": "KBMuyj3bEpvbu",
@@ -572,16 +592,6 @@
       "latitude": 39.1697,
       "longitude": 28.0942,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "frduI4bY4q7WT",
-      "title": "EGE DENIZI",
-      "magnitude": 2.5,
-      "depth_km": 11.6,
-      "date_utc": "2026-09-12 05:31:07",
-      "latitude": 36.6523,
-      "longitude": 25.7238,
-      "location_name": "Ege Denizi"
     }
   ]
 }
