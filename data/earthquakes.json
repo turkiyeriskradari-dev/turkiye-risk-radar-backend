@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T01:48:39.066117+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-13T02:02:20.315475+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "KBMuyj3bEpvbu",
@@ -581,16 +581,6 @@
       "date_utc": "2026-09-12 05:13:12",
       "latitude": 39.1908,
       "longitude": 28.1225,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "Uqe0cDyYl6Guu",
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 9,
-      "date_utc": "2026-09-12 04:58:08",
-      "latitude": 39.2267,
-      "longitude": 28.0948,
       "location_name": "Balıkesir"
     }
   ]
