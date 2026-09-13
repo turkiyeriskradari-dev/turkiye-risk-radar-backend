@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T20:46:43.114811+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-13T21:01:55.646159+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "z07ManO9xSuGN",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-13 21:41:37",
+      "latitude": 38.7602,
+      "longitude": 36.564,
+      "location_name": "Kayseri"
+    },
     {
       "id": "pI0tJjA2QzhgW",
       "title": "AKDENIZ",
@@ -582,26 +592,6 @@
       "latitude": 38.5172,
       "longitude": 39.3242,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "6DzL9wfSjRZy_",
-      "title": "SUREK-SIVRICE (ELAZIG)",
-      "magnitude": 0.8,
-      "depth_km": 19.8,
-      "date_utc": "2026-09-12 23:50:06",
-      "latitude": 38.4537,
-      "longitude": 39.3568,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "Mjqrqc__d3XWm",
-      "title": "ACIKGUNEY-KIGI (BINGOL)",
-      "magnitude": 1.8,
-      "depth_km": 7.1,
-      "date_utc": "2026-09-12 23:48:02",
-      "latitude": 39.255,
-      "longitude": 40.2283,
-      "location_name": "Bingöl"
     }
   ]
 }
