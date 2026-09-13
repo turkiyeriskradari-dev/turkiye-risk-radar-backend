@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T22:34:59.159230+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-13T22:47:29.644961+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "vrmFfXzyi3Iee",
+      "title": "KAPIDERE-DOGANSEHIR (MALATYA)",
+      "magnitude": 0.9,
+      "depth_km": 14.7,
+      "date_utc": "2026-09-14 01:26:57",
+      "latitude": 37.9532,
+      "longitude": 37.6023,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "SIHX940GOnFk2",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -562,26 +572,6 @@
       "latitude": 39.1063,
       "longitude": 28.3477,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "20MSVgGtMAOS2",
-      "title": "UZUNARK-PASINLER (ERZURUM)",
-      "magnitude": 1.2,
-      "depth_km": 14.9,
-      "date_utc": "2026-09-13 01:41:38",
-      "latitude": 39.9135,
-      "longitude": 41.813,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "oZIU7gPeXv3C1",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 0.7,
-      "depth_km": 16.4,
-      "date_utc": "2026-09-13 01:35:33",
-      "latitude": 39.2485,
-      "longitude": 28.9948,
-      "location_name": "Kütahya"
     }
   ]
 }
