@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T13:02:04.247446+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-13T13:21:21.852136+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "N3s8kQrmPr1nG",
+      "title": "GOKCEK-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-13 16:14:59",
+      "latitude": 38.4223,
+      "longitude": 37.3012,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "KlNdY7HFKOzBy",
+      "title": "DURULOVA-AKCADAG (MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-13 15:57:11",
+      "latitude": 38.363,
+      "longitude": 37.8157,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "9i6hvGhaS2z4m",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 16.3,
+      "date_utc": "2026-09-13 15:56:16",
+      "latitude": 39.193,
+      "longitude": 28.1405,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "Y8o3xj_kHizJQ",
       "title": "TEKIR-(KAHRAMANMARAS)",
