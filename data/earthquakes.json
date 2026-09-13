@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T14:02:13.575347+00:00",
+  "last_updated": "2026-09-13T14:21:16.148918+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "QjZvy1QFHu90T",
+      "title": "MARMARA DENIZI",
+      "magnitude": 2.3,
+      "depth_km": 16.4,
+      "date_utc": "2026-09-13 16:55:23",
+      "latitude": 40.8145,
+      "longitude": 27.8838,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "Q_TTPAB7d3EAj",
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -562,16 +572,6 @@
       "latitude": 36.9357,
       "longitude": 29.3372,
       "location_name": "Muğla"
-    },
-    {
-      "id": "lfaFEqwdFUsb2",
-      "title": "SALKONAK-YESILYURT (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 26.6,
-      "date_utc": "2026-09-12 17:05:25",
-      "latitude": 38.1372,
-      "longitude": 38.3792,
-      "location_name": "Adıyaman"
     }
   ]
 }
