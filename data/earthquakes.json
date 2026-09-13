@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T16:34:39.330228+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-13T16:48:31.315498+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "9sXhneeji9fhn",
@@ -22,6 +22,26 @@
       "latitude": 35.369,
       "longitude": 27.1692,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "sSjUdEobZlRT1",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 9.4,
+      "date_utc": "2026-09-13 17:36:51",
+      "latitude": 36.9483,
+      "longitude": 28.1072,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "r9C01W81b0BgU",
+      "title": "OLUKLU-YESILYURT (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 20.6,
+      "date_utc": "2026-09-13 17:25:22",
+      "latitude": 38.2013,
+      "longitude": 38.0728,
+      "location_name": "Malatya"
     },
     {
       "id": "VDzt8EFfnpySU",
@@ -562,16 +582,6 @@
       "latitude": 36.7142,
       "longitude": 38.2772,
       "location_name": "Suriye"
-    },
-    {
-      "id": "wjikTySEL1sJa",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.2,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-12 19:44:34",
-      "latitude": 38.87,
-      "longitude": 26.9488,
-      "location_name": "Ege Denizi"
     }
   ]
 }
