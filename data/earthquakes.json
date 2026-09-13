@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T12:39:09.345697+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-13T12:51:06.242693+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "z66b_WLk_rY8Q",
@@ -502,16 +502,6 @@
       "latitude": 38.1372,
       "longitude": 38.3792,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "xYtkq_TCHLcTi",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 2.2,
-      "depth_km": 7.2,
-      "date_utc": "2026-09-12 15:38:52",
-      "latitude": 39.0788,
-      "longitude": 25.9698,
-      "location_name": "Ege Denizi"
     }
   ]
 }
