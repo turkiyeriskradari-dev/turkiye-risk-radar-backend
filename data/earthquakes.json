@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T08:23:07.756839+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-13T08:35:37.653523+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "sOPS2rQqKfObD",
@@ -642,16 +642,6 @@
       "latitude": 39.831,
       "longitude": 28.6802,
       "location_name": "Bursa"
-    },
-    {
-      "id": "QFY2Nxnnuev6L",
-      "title": "YALNIZCABAG-MUT (MERSIN)",
-      "magnitude": 1,
-      "depth_km": 5,
-      "date_utc": "2026-09-12 11:24:13",
-      "latitude": 36.6457,
-      "longitude": 33.1535,
-      "location_name": "Mersin"
     }
   ]
 }
