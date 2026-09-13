@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T06:02:33.935720+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-13T06:30:35.652365+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "nmAVKUNBRxcuD",
@@ -631,26 +631,6 @@
       "date_utc": "2026-09-12 10:29:34",
       "latitude": 35.9335,
       "longitude": 26.3098,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "2Vo_ELRXavIdv",
-      "title": "TASOLUK-KIRIKHAN (HATAY)",
-      "magnitude": 2.3,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-12 09:12:22",
-      "latitude": 36.6442,
-      "longitude": 36.3685,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "FoCqiTUwinJVo",
-      "title": "EGE DENIZI",
-      "magnitude": 2.3,
-      "depth_km": 69,
-      "date_utc": "2026-09-12 09:09:56",
-      "latitude": 36.4995,
-      "longitude": 26.7268,
       "location_name": "Ege Denizi"
     }
   ]
