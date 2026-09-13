@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T23:01:54.220652+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-13T23:20:21.354807+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "DqwYV1TasiwG1",
+      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.4,
+      "depth_km": 9.2,
+      "date_utc": "2026-09-14 01:59:18",
+      "latitude": 39.1205,
+      "longitude": 28.4132,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "vrmFfXzyi3Iee",
       "title": "KAPIDERE-DOGANSEHIR (MALATYA)",
