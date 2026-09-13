@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T10:47:47.438272+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-13T11:01:48.950703+00:00",
+  "record_count": 52,
   "data": [
     {
       "id": "043fTDbZhD1s9",
@@ -522,26 +522,6 @@
       "latitude": 40.1617,
       "longitude": 32.969,
       "location_name": "Ankara"
-    },
-    {
-      "id": "Cacap8yzF4Udr",
-      "title": "BOZYAYLA-ILIC (ERZINCAN)",
-      "magnitude": 2.2,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-12 13:58:21",
-      "latitude": 39.5988,
-      "longitude": 38.5483,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "xcr7xrOUjqoKO",
-      "title": "EGE DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 4,
-      "date_utc": "2026-09-12 13:57:06",
-      "latitude": 36.6948,
-      "longitude": 26.0477,
-      "location_name": "Ege Denizi"
     }
   ]
 }
