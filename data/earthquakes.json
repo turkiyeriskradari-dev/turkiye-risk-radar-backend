@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T05:02:06.865655+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-13T05:20:49.243261+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "GR_qixBwiBw2w",
@@ -641,16 +641,6 @@
       "date_utc": "2026-09-12 08:49:33",
       "latitude": 37.0713,
       "longitude": 29.0995,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "n1lfkg_Du73qF",
-      "title": "SOFULAR-CAMELI (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-12 08:04:19",
-      "latitude": 36.9902,
-      "longitude": 29.304,
       "location_name": "Denizli"
     }
   ]
