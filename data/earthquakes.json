@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T03:35:18.981507+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-13T03:48:21.651564+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "_wQG6mUfmv3QN",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-13 06:30:09",
+      "latitude": 39.2037,
+      "longitude": 28.181,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "sS_Y66dBOkpYt",
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 11,
+      "date_utc": "2026-09-13 06:24:27",
+      "latitude": 39.174,
+      "longitude": 28.1553,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "hTHrSNAtftQZI",
+      "title": "SEYHCAKIR-HISARCIK (KUTAHYA)",
+      "magnitude": 0.7,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-13 06:20:00",
+      "latitude": 39.2707,
+      "longitude": 29.3702,
+      "location_name": "Kütahya"
+    },
     {
       "id": "s7hvk8JdoZn1g",
       "title": "OLUKLU-YESILYURT (MALATYA)",
