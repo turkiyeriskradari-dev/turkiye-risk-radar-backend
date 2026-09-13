@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T05:20:49.243261+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-13T05:33:49.146630+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "TAXIVu62g0zGh",
+      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-13 08:16:13",
+      "latitude": 38.1015,
+      "longitude": 37.0192,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "GR_qixBwiBw2w",
       "title": "ALTINTAS-CELIKHAN (ADIYAMAN)",
