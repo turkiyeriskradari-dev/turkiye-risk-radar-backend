@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-12T23:46:26.320011+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-13T00:02:36.031669+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "20MSVgGtMAOS2",
@@ -612,26 +612,6 @@
       "latitude": 38.8007,
       "longitude": 27.8363,
       "location_name": "Manisa"
-    },
-    {
-      "id": "HICeH8lIAZ5wz",
-      "title": "KARSIYAKA-PUTURGE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-09-12 03:02:20",
-      "latitude": 38.2927,
-      "longitude": 38.7815,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "P33aNJWhrTbiD",
-      "title": "YOKUSBASI-HONAZ (DENIZLI)",
-      "magnitude": 0.9,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-12 02:47:26",
-      "latitude": 37.8647,
-      "longitude": 29.4082,
-      "location_name": "Denizli"
     }
   ]
 }
