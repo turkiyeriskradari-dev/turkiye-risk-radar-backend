@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T11:33:04.837535+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-13T11:46:43.049320+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "NzAMGB_clqQ8_",
+      "title": "KIZILAGIL-(BOLU)",
+      "magnitude": 1.4,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-13 13:47:13",
+      "latitude": 40.8157,
+      "longitude": 31.5477,
+      "location_name": "Bolu"
+    },
     {
       "id": "043fTDbZhD1s9",
       "title": "ULUKOY-NALLIHAN (ANKARA)",
