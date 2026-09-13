@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T11:21:08.553382+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-13T11:33:04.837535+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "043fTDbZhD1s9",
@@ -512,16 +512,6 @@
       "latitude": 39.2427,
       "longitude": 28.1565,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "uPNXfMmnbRebT",
-      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
-      "magnitude": 2.2,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-12 14:27:46",
-      "latitude": 40.1617,
-      "longitude": 32.969,
-      "location_name": "Ankara"
     }
   ]
 }
