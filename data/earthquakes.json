@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T11:46:43.049320+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-13T12:02:26.146188+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "au4L3NOBhFaZS",
+      "title": "AKDENIZ",
+      "magnitude": 2.8,
+      "depth_km": 8.6,
+      "date_utc": "2026-09-13 14:45:55",
+      "latitude": 35.3357,
+      "longitude": 27.197,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "NzAMGB_clqQ8_",
       "title": "KIZILAGIL-(BOLU)",
