@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T12:51:06.242693+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-13T13:02:04.247446+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "Y8o3xj_kHizJQ",
+      "title": "TEKIR-(KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 18.7,
+      "date_utc": "2026-09-13 15:38:25",
+      "latitude": 37.87,
+      "longitude": 36.594,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "z66b_WLk_rY8Q",
       "title": "AKDENIZ",
