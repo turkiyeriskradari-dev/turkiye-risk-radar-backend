@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T05:33:49.146630+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-13T05:46:44.417942+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "nmAVKUNBRxcuD",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.3,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-13 08:27:36",
+      "latitude": 39.1398,
+      "longitude": 28.299,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "TAXIVu62g0zGh",
       "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
