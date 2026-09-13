@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T22:21:23.822148+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-13T22:34:59.159230+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "SIHX940GOnFk2",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 12,
+      "date_utc": "2026-09-14 01:20:29",
+      "latitude": 39.2397,
+      "longitude": 28.9962,
+      "location_name": "Kütahya"
+    },
     {
       "id": "30fNVwygJcjXb",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
