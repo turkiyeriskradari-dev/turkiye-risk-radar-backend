@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T13:21:21.852136+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-13T13:32:53.047806+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "4GnAAdr_s28qd",
+      "title": "GUZELKOY-ISKENDERUN (HATAY)",
+      "magnitude": 2,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-13 16:18:26",
+      "latitude": 36.5902,
+      "longitude": 36.2812,
+      "location_name": "Hatay"
+    },
     {
       "id": "N3s8kQrmPr1nG",
       "title": "GOKCEK-ELBISTAN (KAHRAMANMARAS)",
