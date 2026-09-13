@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T15:21:16.746783+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-13T15:34:01.016221+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "silQ463mNBouH",
+      "title": "KIREYMIR-MERZIFON (AMASYA)",
+      "magnitude": 1.6,
+      "depth_km": 9,
+      "date_utc": "2026-09-13 17:07:18",
+      "latitude": 40.7592,
+      "longitude": 35.4217,
+      "location_name": "Amasya"
+    },
     {
       "id": "3kZDd3HmH4_AU",
       "title": "AKDENIZ",
@@ -512,26 +522,6 @@
       "latitude": 38.87,
       "longitude": 26.9488,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "z_epufp4_3z9l",
-      "title": "UNSELI-MURADIYE (VAN)",
-      "magnitude": 2.1,
-      "depth_km": 23.9,
-      "date_utc": "2026-09-12 18:24:14",
-      "latitude": 39.007,
-      "longitude": 43.5893,
-      "location_name": "Van"
-    },
-    {
-      "id": "Utf3fVLzemODn",
-      "title": "MERMERLI-KEMAH (ERZINCAN)",
-      "magnitude": 1.7,
-      "depth_km": 3.9,
-      "date_utc": "2026-09-12 18:23:40",
-      "latitude": 39.5343,
-      "longitude": 39.1245,
-      "location_name": "Erzincan"
     }
   ]
 }
