@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T13:47:08.745330+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-13T14:02:13.575347+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "Q_TTPAB7d3EAj",
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 2,
+      "depth_km": 11.3,
+      "date_utc": "2026-09-13 16:41:48",
+      "latitude": 39.1887,
+      "longitude": 28.0803,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "4GnAAdr_s28qd",
       "title": "GUZELKOY-ISKENDERUN (HATAY)",
@@ -72,6 +82,16 @@
       "latitude": 38.0667,
       "longitude": 38.3318,
       "location_name": "Adıyaman"
+    },
+    {
+      "id": "nXf6TQ1R3syXD",
+      "title": "AKDENIZ",
+      "magnitude": 2.7,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-13 15:02:25",
+      "latitude": 35.3612,
+      "longitude": 27.1645,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     },
     {
       "id": "au4L3NOBhFaZS",
