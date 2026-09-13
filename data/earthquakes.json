@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T20:34:36.844633+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-13T20:46:43.114811+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "pI0tJjA2QzhgW",
@@ -602,16 +602,6 @@
       "latitude": 39.255,
       "longitude": 40.2283,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "bwJe_XAq4tbv9",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 14.9,
-      "date_utc": "2026-09-12 23:40:04",
-      "latitude": 39.2245,
-      "longitude": 28.9875,
-      "location_name": "Kütahya"
     }
   ]
 }
