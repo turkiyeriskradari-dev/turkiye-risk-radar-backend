@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T02:34:38.347616+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-13T02:48:30.751995+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "DIaRKW3UiTryS",
+      "title": "YAYAKIRILDIK-AKHISAR (MANISA)",
+      "magnitude": 1.2,
+      "depth_km": 3.8,
+      "date_utc": "2026-09-13 05:34:04",
+      "latitude": 38.8717,
+      "longitude": 28.064,
+      "location_name": "Manisa"
+    },
     {
       "id": "0AZyR2g9ZOLwk",
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
