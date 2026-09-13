@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-09-13T17:46:33.843540+00:00",
+  "last_updated": "2026-09-13T18:02:24.678519+00:00",
   "record_count": 81,
   "data": [
     {
@@ -34,7 +34,7 @@
       "province": "Ağrı",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.3,
-      "wind_speed_max_kmh": 8.3,
+      "wind_speed_max_kmh": 8.0,
       "temperature_max_c": 27.2,
       "temperature_min_c": 7.9,
       "alerts": []
@@ -43,7 +43,7 @@
       "province": "Amasya",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 8.9,
+      "wind_speed_max_kmh": 8.7,
       "temperature_max_c": 33.1,
       "temperature_min_c": 15.8,
       "alerts": []
@@ -88,7 +88,7 @@
       "province": "Balıkesir",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 21.7,
+      "wind_speed_max_kmh": 21.0,
       "temperature_max_c": 30.0,
       "temperature_min_c": 15.7,
       "alerts": []
@@ -117,7 +117,7 @@
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 14.1,
       "temperature_max_c": 28.2,
-      "temperature_min_c": 15.1,
+      "temperature_min_c": 15.0,
       "alerts": []
     },
     {
@@ -208,7 +208,7 @@
       "precipitation_mm": 4.6,
       "wind_speed_max_kmh": 14.3,
       "temperature_max_c": 24.4,
-      "temperature_min_c": 15.6,
+      "temperature_min_c": 15.8,
       "alerts": []
     },
     {
@@ -242,7 +242,7 @@
       "province": "Eskişehir",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 23.1,
+      "wind_speed_max_kmh": 23.9,
       "temperature_max_c": 32.6,
       "temperature_min_c": 13.1,
       "alerts": []
@@ -316,7 +316,7 @@
       "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 23.4,
       "temperature_max_c": 24.9,
-      "temperature_min_c": 19.5,
+      "temperature_min_c": 19.7,
       "alerts": []
     },
     {
@@ -341,7 +341,7 @@
       "province": "Kastamonu",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 16.3,
+      "wind_speed_max_kmh": 17.2,
       "temperature_max_c": 32.2,
       "temperature_min_c": 11.7,
       "alerts": []
@@ -386,7 +386,7 @@
       "province": "Konya",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 15.2,
+      "wind_speed_max_kmh": 14.8,
       "temperature_max_c": 32.7,
       "temperature_min_c": 15.7,
       "alerts": []
@@ -404,7 +404,7 @@
       "province": "Malatya",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 12.3,
+      "wind_speed_max_kmh": 12.6,
       "temperature_max_c": 33.2,
       "temperature_min_c": 19.8,
       "alerts": []
@@ -472,7 +472,7 @@
       "province": "Niğde",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 19.0,
+      "wind_speed_max_kmh": 18.7,
       "temperature_max_c": 29.8,
       "temperature_min_c": 17.0,
       "alerts": []
@@ -535,7 +535,7 @@
       "province": "Sivas",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 10.7,
+      "wind_speed_max_kmh": 9.3,
       "temperature_max_c": 29.7,
       "temperature_min_c": 11.3,
       "alerts": []
@@ -546,7 +546,7 @@
       "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 19.2,
       "temperature_max_c": 23.2,
-      "temperature_min_c": 17.7,
+      "temperature_min_c": 17.9,
       "alerts": []
     },
     {
@@ -648,7 +648,7 @@
       "province": "Karaman",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 21.3,
+      "wind_speed_max_kmh": 23.1,
       "temperature_max_c": 31.7,
       "temperature_min_c": 13.9,
       "alerts": []
@@ -657,7 +657,7 @@
       "province": "Kırıkkale",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 16.9,
+      "wind_speed_max_kmh": 16.1,
       "temperature_max_c": 33.5,
       "temperature_min_c": 15.7,
       "alerts": []
@@ -734,7 +734,7 @@
       "province": "Kilis",
       "forecast_date": "2026-09-13",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 16.3,
+      "wind_speed_max_kmh": 16.7,
       "temperature_max_c": 33.4,
       "temperature_min_c": 21.6,
       "alerts": []
