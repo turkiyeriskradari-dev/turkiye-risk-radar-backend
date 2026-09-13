@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T07:21:12.721735+00:00",
+  "last_updated": "2026-09-13T07:34:27.118684+00:00",
   "record_count": 65,
   "data": [
+    {
+      "id": "sOPS2rQqKfObD",
+      "title": "CIVRIL-YAZIHAN (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-13 10:25:14",
+      "latitude": 38.5215,
+      "longitude": 38.0362,
+      "location_name": "Malatya"
+    },
     {
       "id": "bPP_AAZujKYLH",
       "title": "IRIAGAC-YAZIHAN (MALATYA)",
@@ -642,16 +652,6 @@
       "latitude": 36.6457,
       "longitude": 33.1535,
       "location_name": "Mersin"
-    },
-    {
-      "id": "sOObfrt4xMJKt",
-      "title": "EGE DENIZI",
-      "magnitude": 2.2,
-      "depth_km": 109.1,
-      "date_utc": "2026-09-12 10:29:34",
-      "latitude": 35.9335,
-      "longitude": 26.3098,
-      "location_name": "Ege Denizi"
     }
   ]
 }
