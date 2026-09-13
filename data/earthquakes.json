@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T03:01:48.020784+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-13T03:22:38.638906+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "s7hvk8JdoZn1g",
+      "title": "OLUKLU-YESILYURT (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-13 05:42:46",
+      "latitude": 38.2085,
+      "longitude": 38.1255,
+      "location_name": "Malatya"
+    },
     {
       "id": "DIaRKW3UiTryS",
       "title": "YAYAKIRILDIK-AKHISAR (MANISA)",
