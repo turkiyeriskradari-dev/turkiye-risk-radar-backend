@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T16:48:31.315498+00:00",
+  "last_updated": "2026-09-13T17:02:00.263258+00:00",
   "record_count": 58,
   "data": [
     {
@@ -12,6 +12,16 @@
       "latitude": 39.8982,
       "longitude": 41.5527,
       "location_name": "Erzurum"
+    },
+    {
+      "id": "Lnt1tLJJcmFVz",
+      "title": "GURLESEN-SAIMBEYLI (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 7,
+      "date_utc": "2026-09-13 17:56:35",
+      "latitude": 37.9162,
+      "longitude": 36.1178,
+      "location_name": "Adana"
     },
     {
       "id": "oUNkw1vPl6rQV",
@@ -572,16 +582,6 @@
       "latitude": 38.5905,
       "longitude": 37.7835,
       "location_name": "Malatya"
-    },
-    {
-      "id": "eHE61x8raSW60",
-      "title": "MURSITPINAR-SURUC (SANLIURFA)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-12 19:50:38",
-      "latitude": 36.7142,
-      "longitude": 38.2772,
-      "location_name": "Suriye"
     }
   ]
 }
