@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T04:48:00.526413+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-13T05:02:06.865655+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "GR_qixBwiBw2w",
@@ -652,16 +652,6 @@
       "latitude": 36.9902,
       "longitude": 29.304,
       "location_name": "Denizli"
-    },
-    {
-      "id": "2eqtm4xcGWX2O",
-      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 10.7,
-      "date_utc": "2026-09-12 07:52:44",
-      "latitude": 37.3032,
-      "longitude": 37.0075,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
