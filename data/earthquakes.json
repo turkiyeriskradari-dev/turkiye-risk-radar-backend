@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T23:20:21.354807+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-13T23:33:02.858393+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "Lijz5AHcoJKbo",
+      "title": "PAZARSUYU-BULANCAK (GIRESUN)",
+      "magnitude": 2.7,
+      "depth_km": 8.6,
+      "date_utc": "2026-09-14 02:12:38",
+      "latitude": 41.0057,
+      "longitude": 38.191,
+      "location_name": "Karadeniz"
+    },
     {
       "id": "DqwYV1TasiwG1",
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
