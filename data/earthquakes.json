@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T02:02:20.315475+00:00",
+  "last_updated": "2026-09-13T02:22:11.057426+00:00",
   "record_count": 58,
   "data": [
+    {
+      "id": "aFUEkYegTfkWj",
+      "title": "EGE DENIZI",
+      "magnitude": 1.9,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-13 05:03:45",
+      "latitude": 39.3348,
+      "longitude": 25.696,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "KBMuyj3bEpvbu",
       "title": "KOBAKLAR-GORDES (MANISA)",
@@ -572,16 +582,6 @@
       "latitude": 36.6523,
       "longitude": 25.7238,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "S8DE_phv0Qxq3",
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-12 05:13:12",
-      "latitude": 39.1908,
-      "longitude": 28.1225,
-      "location_name": "Balıkesir"
     }
   ]
 }
