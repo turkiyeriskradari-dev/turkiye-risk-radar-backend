@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T08:35:37.653523+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-13T09:32:54.747814+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "sOPS2rQqKfObD",
@@ -572,76 +572,6 @@
       "latitude": 38.3093,
       "longitude": 27.181,
       "location_name": "İzmir"
-    },
-    {
-      "id": "Wu0brYH6Syxif",
-      "title": "HASANCAVUSLAR-TIRE (IZMIR)",
-      "magnitude": 1.3,
-      "depth_km": 3.7,
-      "date_utc": "2026-09-12 12:23:54",
-      "latitude": 38.0568,
-      "longitude": 27.5252,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "Q6u5S2OdlYtg1",
-      "title": "KOCALI-EZINE (CANAKKALE)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-12 12:20:09",
-      "latitude": 39.7372,
-      "longitude": 26.2507,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "BEZeH47LELJZZ",
-      "title": "BOREZ-GORDES (MANISA)",
-      "magnitude": 1.3,
-      "depth_km": 15.5,
-      "date_utc": "2026-09-12 12:14:39",
-      "latitude": 39.0037,
-      "longitude": 28.2575,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "SxMkJs_jm3FT6",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 0.9,
-      "depth_km": 0,
-      "date_utc": "2026-09-12 12:01:27",
-      "latitude": 36.2655,
-      "longitude": 33.7405,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "iDrOmvzg3g_LO",
-      "title": "SEKKOY-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 0,
-      "date_utc": "2026-09-12 11:51:07",
-      "latitude": 37.1155,
-      "longitude": 27.8903,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "SWxu9odPW2Ix3",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 2.5,
-      "depth_km": 11.6,
-      "date_utc": "2026-09-12 11:36:12",
-      "latitude": 34.5257,
-      "longitude": 25.1603,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "mxSVidhVd4tur",
-      "title": "ALACAAT-MUSTAFAKEMALPASA (BURSA)",
-      "magnitude": 1.6,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-12 11:36:01",
-      "latitude": 39.831,
-      "longitude": 28.6802,
-      "location_name": "Bursa"
     }
   ]
 }
