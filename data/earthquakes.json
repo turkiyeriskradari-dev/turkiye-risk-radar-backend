@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T10:25:34.254243+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-13T10:35:29.975692+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "043fTDbZhD1s9",
+      "title": "ULUKOY-NALLIHAN (ANKARA)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-13 12:51:32",
+      "latitude": 40.1497,
+      "longitude": 31.7125,
+      "location_name": "Ankara"
+    },
     {
       "id": "oxWSFNKYMgEN3",
       "title": "MARMARA DENIZI",
