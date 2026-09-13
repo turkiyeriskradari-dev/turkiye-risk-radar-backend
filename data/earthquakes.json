@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T00:02:36.031669+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-13T00:30:17.048532+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "4LWm5m2qZewEz",
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "magnitude": 1,
+      "depth_km": 13.1,
+      "date_utc": "2026-09-13 02:50:37",
+      "latitude": 39.1063,
+      "longitude": 28.3477,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "20MSVgGtMAOS2",
       "title": "UZUNARK-PASINLER (ERZURUM)",
