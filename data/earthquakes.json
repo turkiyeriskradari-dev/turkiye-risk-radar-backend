@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T19:19:35.453983+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-13T19:32:10.439006+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "ko2m1MS_JFkXG",
@@ -12,6 +12,16 @@
       "latitude": 38.1148,
       "longitude": 37.2132,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "F03x9aRuYhuE6",
+      "title": "AKKOCALI-AKHISAR (MANISA)",
+      "magnitude": 1.6,
+      "depth_km": 13.4,
+      "date_utc": "2026-09-13 19:06:41",
+      "latitude": 39.1738,
+      "longitude": 27.9472,
+      "location_name": "Manisa"
     },
     {
       "id": "9sXhneeji9fhn",
