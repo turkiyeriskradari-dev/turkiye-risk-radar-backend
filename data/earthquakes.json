@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T17:02:00.263258+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-13T17:20:42.324795+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "9sXhneeji9fhn",
@@ -572,16 +572,6 @@
       "latitude": 38.9372,
       "longitude": 27.602,
       "location_name": "Manisa"
-    },
-    {
-      "id": "LzHilkvTfWw6u",
-      "title": "KOLUKLER-DARENDE (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-12 20:07:53",
-      "latitude": 38.5905,
-      "longitude": 37.7835,
-      "location_name": "Malatya"
     }
   ]
 }
