@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T07:02:08.726852+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-13T07:21:12.721735+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "bPP_AAZujKYLH",
+      "title": "IRIAGAC-YAZIHAN (MALATYA)",
+      "magnitude": 1.9,
+      "depth_km": 9.9,
+      "date_utc": "2026-09-13 09:58:39",
+      "latitude": 38.5512,
+      "longitude": 37.972,
+      "location_name": "Malatya"
+    },
     {
       "id": "CSW7hKcPlyFuT",
       "title": "YAKINCA-YESILYURT (MALATYA)",
