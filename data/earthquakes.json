@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T14:47:13.540095+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-13T15:02:04.063543+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "QjZvy1QFHu90T",
@@ -542,16 +542,6 @@
       "latitude": 38.1142,
       "longitude": 37.2888,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "QprrmoaHCFhxe",
-      "title": "MEVLUTLU-TUZLUKCU (KONYA)",
-      "magnitude": 1.6,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-12 17:57:48",
-      "latitude": 38.6085,
-      "longitude": 31.5495,
-      "location_name": "Afyon"
     }
   ]
 }
