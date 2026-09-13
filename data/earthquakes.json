@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T18:36:39.954497+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-13T18:49:58.939459+00:00",
+  "record_count": 56,
   "data": [
     {
       "id": "ko2m1MS_JFkXG",
@@ -562,16 +562,6 @@
       "latitude": 39.2245,
       "longitude": 28.9875,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "1w3Y209a6uTXa",
-      "title": "HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 19.6,
-      "date_utc": "2026-09-12 21:46:42",
-      "latitude": 38.0558,
-      "longitude": 36.4963,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
