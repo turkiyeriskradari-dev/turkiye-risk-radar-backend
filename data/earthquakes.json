@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T21:46:39.820441+00:00",
+  "last_updated": "2026-09-13T22:01:59.745318+00:00",
   "record_count": 58,
   "data": [
+    {
+      "id": "30fNVwygJcjXb",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 8.4,
+      "date_utc": "2026-09-14 00:20:37",
+      "latitude": 38.8962,
+      "longitude": 26.9213,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "OgItqxwV4yGfH",
+      "title": "AGAMCAGAM-OTLUKBELI (ERZINCAN)",
+      "magnitude": 2,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-13 23:30:10",
+      "latitude": 40.0108,
+      "longitude": 40.0322,
+      "location_name": "Erzincan"
+    },
     {
       "id": "a3Ej5NncTK_Xa",
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -562,26 +582,6 @@
       "latitude": 39.8803,
       "longitude": 41.7855,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "aBSKCgnLlwnW1",
-      "title": "PASAKOY-AYVACIK (CANAKKALE)",
-      "magnitude": 1.1,
-      "depth_km": 4.2,
-      "date_utc": "2026-09-13 00:48:20",
-      "latitude": 39.5098,
-      "longitude": 26.3197,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "OMYkmoKSxa_kZ",
-      "title": "BUYUKHUSUN-AYVACIK (CANAKKALE)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-09-13 00:47:08",
-      "latitude": 39.4933,
-      "longitude": 26.3945,
-      "location_name": "Ege Denizi"
     }
   ]
 }
