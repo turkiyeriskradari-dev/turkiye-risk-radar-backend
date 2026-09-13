@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T09:32:54.747814+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-13T10:06:16.845434+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "sOPS2rQqKfObD",
@@ -512,66 +512,6 @@
       "latitude": 36.6948,
       "longitude": 26.0477,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "84DATkQ6OQvI8",
-      "title": "AKDENIZ",
-      "magnitude": 1.8,
-      "depth_km": 20.1,
-      "date_utc": "2026-09-12 13:05:11",
-      "latitude": 36.0895,
-      "longitude": 31.5698,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "pP8Ooa_6COMor",
-      "title": "ECEMIS-LICE (DIYARBAKIR)",
-      "magnitude": 1.8,
-      "depth_km": 3.9,
-      "date_utc": "2026-09-12 13:01:14",
-      "latitude": 38.6178,
-      "longitude": 40.4552,
-      "location_name": "Bingöl"
-    },
-    {
-      "id": "qUYUtwY35rJUM",
-      "title": "CIKRIKCI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-12 12:55:38",
-      "latitude": 39.1908,
-      "longitude": 28.3992,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "D2yajNOzoVZmw",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 15.9,
-      "date_utc": "2026-09-12 12:49:48",
-      "latitude": 39.2587,
-      "longitude": 28.9653,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "MTHCvZkfG2rfw",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 2,
-      "depth_km": 10.4,
-      "date_utc": "2026-09-12 12:45:41",
-      "latitude": 39.2488,
-      "longitude": 28.993,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "qxpCOw01IXTnY",
-      "title": "KISIK-MENDERES (IZMIR)",
-      "magnitude": 1.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-12 12:43:00",
-      "latitude": 38.3093,
-      "longitude": 27.181,
-      "location_name": "İzmir"
     }
   ]
 }
