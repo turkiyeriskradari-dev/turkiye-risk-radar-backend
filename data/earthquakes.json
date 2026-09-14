@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T00:02:50.054457+00:00",
+  "last_updated": "2026-09-14T00:30:47.253000+00:00",
   "record_count": 59,
   "data": [
+    {
+      "id": "t8M3ij2GxjXnz",
+      "title": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 5,
+      "date_utc": "2026-09-14 02:55:34",
+      "latitude": 38.0515,
+      "longitude": 36.409,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "Aaok5i_LkAcak",
       "title": "OZEKLI-SUR (DIYARBAKIR)",
@@ -582,16 +592,6 @@
       "latitude": 38.3988,
       "longitude": 42.8512,
       "location_name": "Van"
-    },
-    {
-      "id": "KBMuyj3bEpvbu",
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "magnitude": 1.1,
-      "depth_km": 12,
-      "date_utc": "2026-09-13 03:09:20",
-      "latitude": 39.0697,
-      "longitude": 28.3873,
-      "location_name": "Manisa"
     }
   ]
 }
