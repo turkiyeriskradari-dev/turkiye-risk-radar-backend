@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T18:41:08.459790+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-14T18:53:57.055589+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "o0xy6_vngIo7m",
@@ -552,16 +552,6 @@
       "latitude": 39.1772,
       "longitude": 28.1662,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "z07ManO9xSuGN",
-      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.6,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-13 21:41:37",
-      "latitude": 38.7602,
-      "longitude": 36.564,
-      "location_name": "Kayseri"
     }
   ]
 }
