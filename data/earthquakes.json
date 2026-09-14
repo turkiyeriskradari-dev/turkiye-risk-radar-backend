@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T13:51:49.747370+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-14T14:02:24.623526+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "VCBMuqYUczCLX",
@@ -692,16 +692,6 @@
       "latitude": 35.3815,
       "longitude": 27.1858,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "QjZvy1QFHu90T",
-      "title": "MARMARA DENIZI",
-      "magnitude": 2.3,
-      "depth_km": 16.4,
-      "date_utc": "2026-09-13 16:55:23",
-      "latitude": 40.8145,
-      "longitude": 27.8838,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
