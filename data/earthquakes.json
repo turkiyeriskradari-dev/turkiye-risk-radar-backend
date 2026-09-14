@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T22:23:36.739741+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-14T22:36:52.022293+00:00",
+  "record_count": 56,
   "data": [
     {
       "id": "gIdidDxTHrYAg",
@@ -562,16 +562,6 @@
       "latitude": 39.1205,
       "longitude": 28.4132,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "vrmFfXzyi3Iee",
-      "title": "KAPIDERE-DOGANSEHIR (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 14.7,
-      "date_utc": "2026-09-14 01:26:57",
-      "latitude": 37.9532,
-      "longitude": 37.6023,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
