@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T08:38:24.849393+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-14T08:51:44.053218+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "MZg5mkvVCMlC7",
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-14 11:10:34",
+      "latitude": 34.9167,
+      "longitude": 26.1175,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "6ogl5c4DMuBQh",
       "title": "KATRANDAGI-EMET (KUTAHYA)",
