@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T23:20:53.155247+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-14T23:32:05.760456+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "dMPltDORSC2TY",
+      "title": "YESILYAZI-OVACIK (TUNCELI)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-15 02:16:09",
+      "latitude": 39.3413,
+      "longitude": 39.0885,
+      "location_name": "Tunceli"
+    },
+    {
+      "id": "JkdQ1md9V5J3m",
+      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 14,
+      "date_utc": "2026-09-15 02:13:46",
+      "latitude": 38.3618,
+      "longitude": 37.3185,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "6n33RK8gw01ZW",
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
