@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T18:26:05.924228+00:00",
+  "last_updated": "2026-09-14T18:41:08.459790+00:00",
   "record_count": 56,
   "data": [
+    {
+      "id": "o0xy6_vngIo7m",
+      "title": "SAZKOY-BOZKURT (DENIZLI)",
+      "magnitude": 1.6,
+      "depth_km": 10,
+      "date_utc": "2026-09-14 20:46:16",
+      "latitude": 37.7742,
+      "longitude": 29.669,
+      "location_name": "Denizli"
+    },
     {
       "id": "7SDqAZtaCkPhF",
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -552,16 +562,6 @@
       "latitude": 38.7602,
       "longitude": 36.564,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "pI0tJjA2QzhgW",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 14.2,
-      "date_utc": "2026-09-13 21:26:04",
-      "latitude": 35.3465,
-      "longitude": 31.9623,
-      "location_name": "Kıbrıs Açıkları"
     }
   ]
 }
