@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T02:23:53.722935+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-14T02:35:45.342143+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "hW0d87qtYHhQ9",
@@ -592,16 +592,6 @@
       "latitude": 38.2085,
       "longitude": 38.1255,
       "location_name": "Malatya"
-    },
-    {
-      "id": "DIaRKW3UiTryS",
-      "title": "YAYAKIRILDIK-AKHISAR (MANISA)",
-      "magnitude": 1.2,
-      "depth_km": 3.8,
-      "date_utc": "2026-09-13 05:34:04",
-      "latitude": 38.8717,
-      "longitude": 28.064,
-      "location_name": "Manisa"
     }
   ]
 }
