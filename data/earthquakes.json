@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T04:24:33.559314+00:00",
+  "last_updated": "2026-09-14T04:37:25.656669+00:00",
   "record_count": 63,
   "data": [
     {
@@ -22,6 +22,16 @@
       "latitude": 38.9657,
       "longitude": 41.667,
       "location_name": "Muş"
+    },
+    {
+      "id": "gkLQM5e_MaXCF",
+      "title": "DUMLU-HEKIMHAN (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 11.5,
+      "date_utc": "2026-09-14 06:56:07",
+      "latitude": 38.844,
+      "longitude": 37.9762,
+      "location_name": "Malatya"
     },
     {
       "id": "o5C1BwnBkfvxf",
@@ -622,16 +632,6 @@
       "latitude": 38.1015,
       "longitude": 37.0192,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "GR_qixBwiBw2w",
-      "title": "ALTINTAS-CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.2,
-      "depth_km": 16.3,
-      "date_utc": "2026-09-13 07:32:17",
-      "latitude": 38.1383,
-      "longitude": 38.2513,
-      "location_name": "Malatya"
     }
   ]
 }
