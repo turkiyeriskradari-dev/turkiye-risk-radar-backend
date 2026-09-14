@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T20:22:41.355133+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-14T20:34:58.561169+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "o0xy6_vngIo7m",
@@ -532,16 +532,6 @@
       "latitude": 38.8962,
       "longitude": 26.9213,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "OgItqxwV4yGfH",
-      "title": "AGAMCAGAM-OTLUKBELI (ERZINCAN)",
-      "magnitude": 2,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-13 23:30:10",
-      "latitude": 40.0108,
-      "longitude": 40.0322,
-      "location_name": "Erzincan"
     }
   ]
 }
