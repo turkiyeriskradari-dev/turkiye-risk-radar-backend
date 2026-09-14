@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T21:02:04.554605+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-14T21:22:09.753692+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "x11BTTiIeP3rM",
+      "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 4,
+      "date_utc": "2026-09-14 22:37:57",
+      "latitude": 38.1418,
+      "longitude": 37.5355,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "hqGJRmXNNcqn9",
+      "title": "OSMANKOSELI-HALKAPINAR (KONYA)",
+      "magnitude": 1.9,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-14 22:31:16",
+      "latitude": 37.44,
+      "longitude": 34.349,
+      "location_name": "Konya"
+    },
+    {
+      "id": "5_BLgW7m3Ddch",
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 16.6,
+      "date_utc": "2026-09-14 21:49:23",
+      "latitude": 40.4622,
+      "longitude": 26.3642,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "o0xy6_vngIo7m",
       "title": "SAZKOY-BOZKURT (DENIZLI)",
@@ -522,16 +552,6 @@
       "latitude": 39.2397,
       "longitude": 28.9962,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "30fNVwygJcjXb",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 8.4,
-      "date_utc": "2026-09-14 00:20:37",
-      "latitude": 38.8962,
-      "longitude": 26.9213,
-      "location_name": "Ege Denizi"
     }
   ]
 }
