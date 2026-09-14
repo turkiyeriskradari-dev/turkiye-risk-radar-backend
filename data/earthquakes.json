@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T14:26:17.936009+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-14T14:38:57.852996+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "VCBMuqYUczCLX",
@@ -622,16 +622,6 @@
       "latitude": 35.369,
       "longitude": 27.1692,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "sSjUdEobZlRT1",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 9.4,
-      "date_utc": "2026-09-13 17:36:51",
-      "latitude": 36.9483,
-      "longitude": 28.1072,
-      "location_name": "Ege Denizi"
     }
   ]
 }
