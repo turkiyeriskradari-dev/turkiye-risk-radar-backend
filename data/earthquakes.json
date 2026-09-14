@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T01:22:30.719684+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-14T01:34:34.516918+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "YrU8vqqjcyDAM",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 0.9,
+      "depth_km": 6.8,
+      "date_utc": "2026-09-14 04:20:11",
+      "latitude": 39.2225,
+      "longitude": 28.1637,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "D7ZOS2YKnAAc4",
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
