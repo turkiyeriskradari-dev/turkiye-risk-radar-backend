@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T07:25:01.740391+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-14T07:37:00.444842+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "cjubP9NNYWmHl",
@@ -612,16 +612,6 @@
       "latitude": 39.657,
       "longitude": 26.0467,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "sOPS2rQqKfObD",
-      "title": "CIVRIL-YAZIHAN (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-13 10:25:14",
-      "latitude": 38.5215,
-      "longitude": 38.0362,
-      "location_name": "Malatya"
     }
   ]
 }
