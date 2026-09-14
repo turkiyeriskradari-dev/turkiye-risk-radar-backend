@@ -1,7 +1,7 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-09-14T12:03:00.216428+00:00",
-  "record_count": 39,
+  "last_updated": "2026-09-14T12:30:02.992065+00:00",
+  "record_count": 79,
   "data": [
     {
       "latitude": 39.12733,
@@ -392,6 +392,406 @@
       "acquired_time": "56",
       "satellite": "N",
       "daynight": "N"
+    },
+    {
+      "latitude": 40.32804,
+      "longitude": 44.39364,
+      "brightness": 336.24,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "856",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 40.32917,
+      "longitude": 44.39227,
+      "brightness": 339.35,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "856",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 41.32688,
+      "longitude": 44.83924,
+      "brightness": 339.95,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "856",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.33535,
+      "longitude": 43.82538,
+      "brightness": 351.67,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1034",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.38343,
+      "longitude": 43.97644,
+      "brightness": 348.9,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1034",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.86369,
+      "longitude": 44.02349,
+      "brightness": 349.47,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1034",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.13831,
+      "longitude": 35.68196,
+      "brightness": 335.23,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.91045,
+      "longitude": 43.43161,
+      "brightness": 349.41,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.02231,
+      "longitude": 43.50108,
+      "brightness": 351.53,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.12251,
+      "longitude": 36.81194,
+      "brightness": 342.73,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.1257,
+      "longitude": 36.81255,
+      "brightness": 345.39,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.1259,
+      "longitude": 36.81107,
+      "brightness": 348.69,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.24911,
+      "longitude": 44.43203,
+      "brightness": 350.74,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.36765,
+      "longitude": 36.66344,
+      "brightness": 344.32,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.37104,
+      "longitude": 36.66255,
+      "brightness": 346.63,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.56617,
+      "longitude": 44.28539,
+      "brightness": 349.69,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.67377,
+      "longitude": 43.60474,
+      "brightness": 355.67,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.88312,
+      "longitude": 36.47005,
+      "brightness": 346.53,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.88605,
+      "longitude": 37.01543,
+      "brightness": 348.86,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 35.96148,
+      "longitude": 36.73778,
+      "brightness": 339.46,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.01752,
+      "longitude": 37.27282,
+      "brightness": 342.78,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.11414,
+      "longitude": 43.64096,
+      "brightness": 355.96,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.19224,
+      "longitude": 44.8427,
+      "brightness": 350.36,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.19624,
+      "longitude": 44.84205,
+      "brightness": 349.42,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.19894,
+      "longitude": 41.9197,
+      "brightness": 349.73,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.23285,
+      "longitude": 43.21285,
+      "brightness": 342.18,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.23654,
+      "longitude": 43.21218,
+      "brightness": 348.07,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.23729,
+      "longitude": 41.74329,
+      "brightness": 351.15,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.41939,
+      "longitude": 43.23054,
+      "brightness": 350.4,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.43247,
+      "longitude": 42.29008,
+      "brightness": 348.59,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.43309,
+      "longitude": 42.29509,
+      "brightness": 353.78,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.43602,
+      "longitude": 42.28939,
+      "brightness": 354.01,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.43665,
+      "longitude": 42.2944,
+      "brightness": 354.93,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.70677,
+      "longitude": 42.41348,
+      "brightness": 350.12,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.72075,
+      "longitude": 40.29197,
+      "brightness": 354.62,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.72137,
+      "longitude": 40.2964,
+      "brightness": 353.45,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.72472,
+      "longitude": 40.29567,
+      "brightness": 367.0,
+      "confidence": "h",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.72806,
+      "longitude": 40.29494,
+      "brightness": 340.85,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.87006,
+      "longitude": 43.48861,
+      "brightness": 340.26,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 36.95979,
+      "longitude": 41.94659,
+      "brightness": 350.34,
+      "confidence": "n",
+      "acquired_date": "2026-09-14",
+      "acquired_time": "1036",
+      "satellite": "N",
+      "daynight": "D"
     }
   ],
   "meta": {

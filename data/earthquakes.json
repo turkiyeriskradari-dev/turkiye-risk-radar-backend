@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T12:02:59.835951+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-14T12:30:02.718339+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "v2rDlKQT4Lu2b",
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "magnitude": 2,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-14 14:56:12",
+      "latitude": 38.1197,
+      "longitude": 38.487,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "91nuUj4BZElwx",
       "title": "IZMIR KORFEZI (EGE DENIZI)",
@@ -732,26 +742,6 @@
       "latitude": 37.87,
       "longitude": 36.594,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "z66b_WLk_rY8Q",
-      "title": "AKDENIZ",
-      "magnitude": 2.2,
-      "depth_km": 8.4,
-      "date_utc": "2026-09-13 15:07:22",
-      "latitude": 35.4015,
-      "longitude": 27.0332,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "7uLUT4G3HUDLn",
-      "title": "YESILYAYLA-CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.3,
-      "depth_km": 2.7,
-      "date_utc": "2026-09-13 15:02:53",
-      "latitude": 38.0667,
-      "longitude": 38.3318,
-      "location_name": "Adıyaman"
     }
   ]
 }
