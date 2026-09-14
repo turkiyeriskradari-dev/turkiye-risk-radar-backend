@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T14:53:53.543233+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-14T15:04:37.147327+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "VCBMuqYUczCLX",
@@ -602,16 +602,6 @@
       "latitude": 39.8982,
       "longitude": 41.5527,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "Lnt1tLJJcmFVz",
-      "title": "GURLESEN-SAIMBEYLI (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 7,
-      "date_utc": "2026-09-13 17:56:35",
-      "latitude": 37.9162,
-      "longitude": 36.1178,
-      "location_name": "Adana"
     }
   ]
 }
