@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T10:50:47.355607+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-14T11:02:36.247466+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "91nuUj4BZElwx",
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 2.8,
+      "date_utc": "2026-09-14 13:44:36",
+      "latitude": 38.7025,
+      "longitude": 26.5527,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "l9KTt25I9Okc1",
+      "title": "AYITDERE-BIGA (CANAKKALE)",
+      "magnitude": 1.4,
+      "depth_km": 24.2,
+      "date_utc": "2026-09-14 13:28:22",
+      "latitude": 40.3613,
+      "longitude": 27.0808,
+      "location_name": "Çanakkale"
+    },
+    {
+      "id": "KF0ZrGzswyi8h",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 10,
+      "date_utc": "2026-09-14 13:10:39",
+      "latitude": 36.9458,
+      "longitude": 28.1105,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "2a9WYJSPoSZd8",
       "title": "DEREBOYNU-SIVRICE (ELAZIG)",
