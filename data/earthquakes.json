@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T06:54:13.437648+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-14T07:03:55.354748+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "cjubP9NNYWmHl",
@@ -621,16 +621,6 @@
       "date_utc": "2026-09-13 10:25:14",
       "latitude": 38.5215,
       "longitude": 38.0362,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "bPP_AAZujKYLH",
-      "title": "IRIAGAC-YAZIHAN (MALATYA)",
-      "magnitude": 1.9,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-13 09:58:39",
-      "latitude": 38.5512,
-      "longitude": 37.972,
       "location_name": "Malatya"
     }
   ]
