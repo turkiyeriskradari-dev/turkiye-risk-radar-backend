@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T21:22:09.753692+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-14T21:35:44.317970+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "gIdidDxTHrYAg",
+      "title": "AKCIFT-(VAN)",
+      "magnitude": 2.3,
+      "depth_km": 6,
+      "date_utc": "2026-09-15 00:06:24",
+      "latitude": 38.8478,
+      "longitude": 43.5565,
+      "location_name": "Van"
+    },
+    {
+      "id": "x0HWy_WFBS9Z5",
+      "title": "YERKESIK-(MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-14 23:29:08",
+      "latitude": 37.1365,
+      "longitude": 28.2857,
+      "location_name": "Muğla"
+    },
     {
       "id": "x11BTTiIeP3rM",
       "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
@@ -42,6 +62,16 @@
       "latitude": 37.7742,
       "longitude": 29.669,
       "location_name": "Denizli"
+    },
+    {
+      "id": "cWjJr7jqAZpTQ",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-14 19:09:53",
+      "latitude": 39.2187,
+      "longitude": 28.1682,
+      "location_name": "Balıkesir"
     },
     {
       "id": "7SDqAZtaCkPhF",
