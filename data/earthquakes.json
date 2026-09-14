@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T00:52:54.445942+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-14T01:02:43.518798+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "D7ZOS2YKnAAc4",
+      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 6.2,
+      "date_utc": "2026-09-14 03:42:03",
+      "latitude": 39.5053,
+      "longitude": 25.9468,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "t8M3ij2GxjXnz",
       "title": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
