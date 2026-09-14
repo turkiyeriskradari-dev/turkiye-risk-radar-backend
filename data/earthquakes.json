@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T03:02:16.642524+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-14T03:24:05.918394+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "vH91V9aDeu3pk",
+      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 1.4,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-14 06:10:40",
+      "latitude": 39.4085,
+      "longitude": 25.9858,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "bsnQbGin7aTRc",
+      "title": "GOKGOZ-KOZAN (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-14 06:09:42",
+      "latitude": 37.5902,
+      "longitude": 35.5912,
+      "location_name": "Adana"
+    },
+    {
+      "id": "fWtkeGH4AQDSc",
+      "title": "AKDENIZ",
+      "magnitude": 1.4,
+      "depth_km": 27,
+      "date_utc": "2026-09-14 05:18:53",
+      "latitude": 36.5385,
+      "longitude": 28.5357,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "d972ZKfEUFrvA",
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
@@ -572,16 +602,6 @@
       "latitude": 39.174,
       "longitude": 28.1553,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "hTHrSNAtftQZI",
-      "title": "SEYHCAKIR-HISARCIK (KUTAHYA)",
-      "magnitude": 0.7,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-13 06:20:00",
-      "latitude": 39.2707,
-      "longitude": 29.3702,
-      "location_name": "Kütahya"
     }
   ]
 }
