@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T09:51:57.357984+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-14T10:02:53.127897+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "4UJxMRT35OsK9",
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "magnitude": 0.9,
+      "depth_km": 0,
+      "date_utc": "2026-09-14 12:08:08",
+      "latitude": 36.2735,
+      "longitude": 33.6915,
+      "location_name": "Mersin"
+    },
+    {
+      "id": "flNHp7REmUeud",
+      "title": "DEDELER-GULNAR (MERSIN)",
+      "magnitude": 1.3,
+      "depth_km": 0,
+      "date_utc": "2026-09-14 12:07:50",
+      "latitude": 36.2767,
+      "longitude": 33.6592,
+      "location_name": "Mersin"
+    },
     {
       "id": "Cf1QcQtzkU6fe",
       "title": "BULGARISTAN",
