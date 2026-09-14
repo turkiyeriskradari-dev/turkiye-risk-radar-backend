@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-13T23:46:31.814470+00:00",
+  "last_updated": "2026-09-14T00:02:50.054457+00:00",
   "record_count": 59,
   "data": [
+    {
+      "id": "Aaok5i_LkAcak",
+      "title": "OZEKLI-SUR (DIYARBAKIR)",
+      "magnitude": 1.2,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-14 02:41:11",
+      "latitude": 38.2188,
+      "longitude": 40.3745,
+      "location_name": "Diyarbakır"
+    },
     {
       "id": "Lijz5AHcoJKbo",
       "title": "PAZARSUYU-BULANCAK (GIRESUN)",
@@ -582,16 +592,6 @@
       "latitude": 39.0697,
       "longitude": 28.3873,
       "location_name": "Manisa"
-    },
-    {
-      "id": "4LWm5m2qZewEz",
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "magnitude": 1,
-      "depth_km": 13.1,
-      "date_utc": "2026-09-13 02:50:37",
-      "latitude": 39.1063,
-      "longitude": 28.3477,
-      "location_name": "Balıkesir"
     }
   ]
 }
