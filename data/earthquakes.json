@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T13:39:17.617040+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-14T13:51:49.747370+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "VCBMuqYUczCLX",
@@ -702,16 +702,6 @@
       "latitude": 40.8145,
       "longitude": 27.8838,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "Q_TTPAB7d3EAj",
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 2,
-      "depth_km": 11.3,
-      "date_utc": "2026-09-13 16:41:48",
-      "latitude": 39.1887,
-      "longitude": 28.0803,
-      "location_name": "Balıkesir"
     }
   ]
 }
