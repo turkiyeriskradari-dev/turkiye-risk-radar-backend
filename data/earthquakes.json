@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T10:36:02.618152+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-14T10:50:47.355607+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "2a9WYJSPoSZd8",
+      "title": "DEREBOYNU-SIVRICE (ELAZIG)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-14 12:57:48",
+      "latitude": 38.4455,
+      "longitude": 39.134,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "KeCkXC727UORN",
+      "title": "CAMIALAN-BIGA (CANAKKALE)",
+      "magnitude": 1.7,
+      "depth_km": 11.3,
+      "date_utc": "2026-09-14 12:39:43",
+      "latitude": 40.1575,
+      "longitude": 27.364,
+      "location_name": "Çanakkale"
+    },
     {
       "id": "8WhEwn_6XMPxO",
       "title": "EGE DENIZI",
@@ -702,16 +722,6 @@
       "latitude": 35.3357,
       "longitude": 27.197,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "NzAMGB_clqQ8_",
-      "title": "KIZILAGIL-(BOLU)",
-      "magnitude": 1.4,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-13 13:47:13",
-      "latitude": 40.8157,
-      "longitude": 31.5477,
-      "location_name": "Bolu"
     }
   ]
 }
