@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T17:01:57.652243+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-14T17:21:48.255015+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "7SDqAZtaCkPhF",
@@ -582,16 +582,6 @@
       "latitude": 35.4118,
       "longitude": 27.1393,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "ko2m1MS_JFkXG",
-      "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
-      "magnitude": 2.6,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-13 20:20:37",
-      "latitude": 38.1148,
-      "longitude": 37.2132,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
