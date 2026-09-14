@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T04:37:25.656669+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-14T04:51:08.533433+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "0ZvucG2Q70HC4",
@@ -72,6 +72,16 @@
       "latitude": 41.334,
       "longitude": 41.5385,
       "location_name": "Artvin"
+    },
+    {
+      "id": "fCm9v9B9TqIyT",
+      "title": "BOZLAR-CAGLAYANCERIT (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 49.3,
+      "date_utc": "2026-09-14 06:10:50",
+      "latitude": 37.74,
+      "longitude": 37.3993,
+      "location_name": "Kahramanmaraş"
     },
     {
       "id": "vH91V9aDeu3pk",
