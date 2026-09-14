@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T17:35:31.420753+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-14T17:49:54.746057+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "7SDqAZtaCkPhF",
@@ -571,16 +571,6 @@
       "date_utc": "2026-09-13 21:18:43",
       "latitude": 39.3487,
       "longitude": 25.5947,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "rOxuTtvlEEma5",
-      "title": "AKDENIZ",
-      "magnitude": 2.5,
-      "depth_km": 3.8,
-      "date_utc": "2026-09-13 20:36:00",
-      "latitude": 35.4118,
-      "longitude": 27.1393,
       "location_name": "Ege Denizi"
     }
   ]
