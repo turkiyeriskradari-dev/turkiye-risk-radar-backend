@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T03:24:05.918394+00:00",
+  "last_updated": "2026-09-14T03:37:43.116295+00:00",
   "record_count": 60,
   "data": [
+    {
+      "id": "2zs54OZFARG1u",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 13.7,
+      "date_utc": "2026-09-14 06:17:26",
+      "latitude": 39.2287,
+      "longitude": 28.1193,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "vH91V9aDeu3pk",
       "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -22,6 +32,16 @@
       "latitude": 37.5902,
       "longitude": 35.5912,
       "location_name": "Adana"
+    },
+    {
+      "id": "d1DarQEqXOWat",
+      "title": "GUMUSAKAR-KARAKOCAN (ELAZIG)",
+      "magnitude": 1.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-14 05:28:25",
+      "latitude": 39.1328,
+      "longitude": 40.2077,
+      "location_name": "Elazığ"
     },
     {
       "id": "fWtkeGH4AQDSc",
@@ -582,26 +602,6 @@
       "latitude": 39.2153,
       "longitude": 29.0388,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "_wQG6mUfmv3QN",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 12.8,
-      "date_utc": "2026-09-13 06:30:09",
-      "latitude": 39.2037,
-      "longitude": 28.181,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "sS_Y66dBOkpYt",
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 11,
-      "date_utc": "2026-09-13 06:24:27",
-      "latitude": 39.174,
-      "longitude": 28.1553,
-      "location_name": "Balıkesir"
     }
   ]
 }
