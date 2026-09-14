@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T23:32:05.760456+00:00",
+  "last_updated": "2026-09-14T23:47:35.553912+00:00",
   "record_count": 61,
   "data": [
+    {
+      "id": "GmIe_7drn2tij",
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 11.3,
+      "date_utc": "2026-09-15 02:33:24",
+      "latitude": 39.1878,
+      "longitude": 28.208,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "dMPltDORSC2TY",
       "title": "YESILYAZI-OVACIK (TUNCELI)",
@@ -602,16 +612,6 @@
       "latitude": 38.0515,
       "longitude": 36.409,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "Aaok5i_LkAcak",
-      "title": "OZEKLI-SUR (DIYARBAKIR)",
-      "magnitude": 1.2,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-14 02:41:11",
-      "latitude": 38.2188,
-      "longitude": 40.3745,
-      "location_name": "Diyarbakır"
     }
   ]
 }
