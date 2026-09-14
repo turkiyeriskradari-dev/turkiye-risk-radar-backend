@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T03:37:43.116295+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-14T03:51:07.120803+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "6IkB68_ttHYWY",
+      "title": "ALPA-TAVAS (DENIZLI)",
+      "magnitude": 1.7,
+      "depth_km": 10,
+      "date_utc": "2026-09-14 06:27:03",
+      "latitude": 37.1682,
+      "longitude": 29.0535,
+      "location_name": "Denizli"
+    },
     {
       "id": "2zs54OZFARG1u",
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
@@ -72,6 +82,16 @@
       "latitude": 39.1077,
       "longitude": 28.2328,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "EG3I2Mu9QYeEl",
+      "title": "BEGENDIK-OLUR (ERZURUM)",
+      "magnitude": 1.4,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-14 04:52:07",
+      "latitude": 40.9708,
+      "longitude": 42.2797,
+      "location_name": "Artvin"
     },
     {
       "id": "okw8pzQTi_Ve1",
@@ -592,16 +612,6 @@
       "latitude": 38.3165,
       "longitude": 37.8658,
       "location_name": "Malatya"
-    },
-    {
-      "id": "sKluEfeIjRxeT",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 10.9,
-      "date_utc": "2026-09-13 06:44:56",
-      "latitude": 39.2153,
-      "longitude": 29.0388,
-      "location_name": "Kütahya"
     }
   ]
 }
