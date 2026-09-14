@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T22:49:48.520365+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-14T23:02:05.017061+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "bNsFBI3dkZ1Rj",
@@ -592,16 +592,6 @@
       "latitude": 41.0057,
       "longitude": 38.191,
       "location_name": "Karadeniz"
-    },
-    {
-      "id": "DqwYV1TasiwG1",
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.4,
-      "depth_km": 9.2,
-      "date_utc": "2026-09-14 01:59:18",
-      "latitude": 39.1205,
-      "longitude": 28.4132,
-      "location_name": "Balıkesir"
     }
   ]
 }
