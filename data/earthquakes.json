@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T08:02:19.452868+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-14T08:25:42.220136+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "6ogl5c4DMuBQh",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.1,
+      "depth_km": 14.3,
+      "date_utc": "2026-09-14 10:43:39",
+      "latitude": 39.2382,
+      "longitude": 29.0408,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "EnLjtWXQFeExg",
+      "title": "DALYAN ACIKLARI-MUGLA (AKDENIZ)",
+      "magnitude": 1.6,
+      "depth_km": 18.7,
+      "date_utc": "2026-09-14 10:38:39",
+      "latitude": 36.7202,
+      "longitude": 28.5558,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "bYtRMfXTmJrTF",
+      "title": "DUNDAR-ORHANELI (BURSA)",
+      "magnitude": 1.6,
+      "depth_km": 0,
+      "date_utc": "2026-09-14 10:24:10",
+      "latitude": 39.889,
+      "longitude": 28.842,
+      "location_name": "Bursa"
+    },
     {
       "id": "nrmEgOZhNToR1",
       "title": "KUYULU-YESILYURT (MALATYA)",
@@ -602,26 +632,6 @@
       "latitude": 40.1497,
       "longitude": 31.7125,
       "location_name": "Ankara"
-    },
-    {
-      "id": "oxWSFNKYMgEN3",
-      "title": "MARMARA DENIZI",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-13 11:19:02",
-      "latitude": 40.809,
-      "longitude": 27.8408,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "EINHxy2HmAxAv",
-      "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 8.3,
-      "date_utc": "2026-09-13 11:10:30",
-      "latitude": 39.657,
-      "longitude": 26.0467,
-      "location_name": "Ege Denizi"
     }
   ]
 }
