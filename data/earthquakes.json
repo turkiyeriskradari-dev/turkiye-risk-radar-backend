@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T11:02:36.247466+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-14T11:23:43.331860+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "91nuUj4BZElwx",
@@ -32,6 +32,16 @@
       "latitude": 36.9458,
       "longitude": 28.1105,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "bz0spK4QeGyJf",
+      "title": "KAZOREN-REFAHIYE (ERZINCAN)",
+      "magnitude": 2.1,
+      "depth_km": 11.2,
+      "date_utc": "2026-09-14 13:00:22",
+      "latitude": 40.0465,
+      "longitude": 38.9155,
+      "location_name": "Erzincan"
     },
     {
       "id": "2a9WYJSPoSZd8",
@@ -82,6 +92,16 @@
       "latitude": 36.2767,
       "longitude": 33.6592,
       "location_name": "Mersin"
+    },
+    {
+      "id": "wUfNbW6Ikkrje",
+      "title": "KARAKOCEK-HEKIMHAN (MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-14 12:05:23",
+      "latitude": 38.903,
+      "longitude": 37.9908,
+      "location_name": "Malatya"
     },
     {
       "id": "Cf1QcQtzkU6fe",
