@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T10:02:53.127897+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-14T10:23:59.845756+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "8WhEwn_6XMPxO",
+      "title": "EGE DENIZI",
+      "magnitude": 2.1,
+      "depth_km": 2.8,
+      "date_utc": "2026-09-14 12:14:37",
+      "latitude": 36.7095,
+      "longitude": 25.7057,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "4UJxMRT35OsK9",
       "title": "ISIKLI-SILIFKE (MERSIN)",
@@ -42,6 +52,26 @@
       "latitude": 36.6673,
       "longitude": 25.738,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "F4RL40FzJWPbj",
+      "title": "MENEMEN (IZMIR)",
+      "magnitude": 1.6,
+      "depth_km": 25.1,
+      "date_utc": "2026-09-14 11:29:28",
+      "latitude": 38.6273,
+      "longitude": 27.007,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "1NWcvdWEjeU2O",
+      "title": "HANCERLI-AKCADAG (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 14.2,
+      "date_utc": "2026-09-14 11:19:03",
+      "latitude": 38.2873,
+      "longitude": 37.8768,
+      "location_name": "Malatya"
     },
     {
       "id": "MZg5mkvVCMlC7",
