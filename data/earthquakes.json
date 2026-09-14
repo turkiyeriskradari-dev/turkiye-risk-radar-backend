@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T01:34:34.516918+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-14T01:49:30.444885+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "okw8pzQTi_Ve1",
+      "title": "GUNDUZBEY-YESILYURT (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-14 04:33:40",
+      "latitude": 38.283,
+      "longitude": 38.2678,
+      "location_name": "Malatya"
+    },
     {
       "id": "YrU8vqqjcyDAM",
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
