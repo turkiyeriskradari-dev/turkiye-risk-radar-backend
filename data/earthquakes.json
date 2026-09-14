@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T02:35:45.342143+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-14T02:50:16.768398+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "hW0d87qtYHhQ9",
@@ -582,16 +582,6 @@
       "latitude": 36.6225,
       "longitude": 25.958,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "s7hvk8JdoZn1g",
-      "title": "OLUKLU-YESILYURT (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-13 05:42:46",
-      "latitude": 38.2085,
-      "longitude": 38.1255,
-      "location_name": "Malatya"
     }
   ]
 }
