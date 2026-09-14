@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T09:37:45.821396+00:00",
+  "last_updated": "2026-09-14T09:51:57.357984+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "Cf1QcQtzkU6fe",
+      "title": "BULGARISTAN",
+      "magnitude": 1.7,
+      "depth_km": 2,
+      "date_utc": "2026-09-14 12:04:44",
+      "latitude": 41.9253,
+      "longitude": 25.4287,
+      "location_name": "Bulgaristan"
+    },
     {
       "id": "52ecKGNavzvFT",
       "title": "EGE DENIZI",
@@ -652,16 +662,6 @@
       "latitude": 40.8157,
       "longitude": 31.5477,
       "location_name": "Bolu"
-    },
-    {
-      "id": "043fTDbZhD1s9",
-      "title": "ULUKOY-NALLIHAN (ANKARA)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-13 12:51:32",
-      "latitude": 40.1497,
-      "longitude": 31.7125,
-      "location_name": "Ankara"
     }
   ]
 }
