@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T13:04:55.822754+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-14T13:26:39.947483+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "BuWZLKdzdyxm3",
@@ -702,26 +702,6 @@
       "latitude": 39.1887,
       "longitude": 28.0803,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "4GnAAdr_s28qd",
-      "title": "GUZELKOY-ISKENDERUN (HATAY)",
-      "magnitude": 2,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-13 16:18:26",
-      "latitude": 36.5902,
-      "longitude": 36.2812,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "N3s8kQrmPr1nG",
-      "title": "GOKCEK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-13 16:14:59",
-      "latitude": 38.4223,
-      "longitude": 37.3012,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
