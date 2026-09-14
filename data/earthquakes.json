@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T23:02:05.017061+00:00",
+  "last_updated": "2026-09-14T23:20:53.155247+00:00",
   "record_count": 59,
   "data": [
+    {
+      "id": "6n33RK8gw01ZW",
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 10.1,
+      "date_utc": "2026-09-15 02:08:19",
+      "latitude": 39.1537,
+      "longitude": 28.2947,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "bNsFBI3dkZ1Rj",
       "title": "BOZKOY-GERMENCIK (AYDIN)",
@@ -582,16 +592,6 @@
       "latitude": 38.2188,
       "longitude": 40.3745,
       "location_name": "Diyarbakır"
-    },
-    {
-      "id": "Lijz5AHcoJKbo",
-      "title": "PAZARSUYU-BULANCAK (GIRESUN)",
-      "magnitude": 2.7,
-      "depth_km": 8.6,
-      "date_utc": "2026-09-14 02:12:38",
-      "latitude": 41.0057,
-      "longitude": 38.191,
-      "location_name": "Karadeniz"
     }
   ]
 }
