@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T12:30:02.718339+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-14T12:46:58.617902+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "v2rDlKQT4Lu2b",
@@ -732,16 +732,6 @@
       "latitude": 39.193,
       "longitude": 28.1405,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "Y8o3xj_kHizJQ",
-      "title": "TEKIR-(KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 18.7,
-      "date_utc": "2026-09-13 15:38:25",
-      "latitude": 37.87,
-      "longitude": 36.594,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
