@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T15:04:37.147327+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-14T15:26:58.744654+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "VCBMuqYUczCLX",
@@ -592,16 +592,6 @@
       "latitude": 39.1738,
       "longitude": 27.9472,
       "location_name": "Manisa"
-    },
-    {
-      "id": "9sXhneeji9fhn",
-      "title": "YAVUZLU-PASINLER (ERZURUM)",
-      "magnitude": 2.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-13 18:13:37",
-      "latitude": 39.8982,
-      "longitude": 41.5527,
-      "location_name": "Erzurum"
     }
   ]
 }
