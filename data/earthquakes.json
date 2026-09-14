@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T01:02:43.518798+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-14T01:22:30.719684+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "D7ZOS2YKnAAc4",
@@ -592,16 +592,6 @@
       "latitude": 39.3348,
       "longitude": 25.696,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "xMPyLgiFCkbVP",
-      "title": "AYDINOCAK-GEVAS (VAN)",
-      "magnitude": 1.4,
-      "depth_km": 4.2,
-      "date_utc": "2026-09-13 04:09:25",
-      "latitude": 38.3988,
-      "longitude": 42.8512,
-      "location_name": "Van"
     }
   ]
 }
