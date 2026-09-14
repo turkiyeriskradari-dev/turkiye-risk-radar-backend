@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T19:48:19.045964+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-14T20:02:26.156833+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "o0xy6_vngIo7m",
@@ -542,16 +542,6 @@
       "latitude": 40.0108,
       "longitude": 40.0322,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "a3Ej5NncTK_Xa",
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 8.2,
-      "date_utc": "2026-09-13 22:51:23",
-      "latitude": 39.1772,
-      "longitude": 28.1662,
-      "location_name": "Balıkesir"
     }
   ]
 }
