@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T16:02:04.621635+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-14T16:24:10.037267+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "7SDqAZtaCkPhF",
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-14 17:21:59",
+      "latitude": 39.2133,
+      "longitude": 28.0832,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "x3O2yfpd2zlDI",
+      "title": "MILLI PARK-KUSADASI (AYDIN)",
+      "magnitude": 1.5,
+      "depth_km": 21.6,
+      "date_utc": "2026-09-14 17:08:16",
+      "latitude": 37.651,
+      "longitude": 27.0467,
+      "location_name": "Aydın"
+    },
     {
       "id": "VCBMuqYUczCLX",
       "title": "PUSATLAR-CAVDARHISAR (KUTAHYA)",
@@ -582,16 +602,6 @@
       "latitude": 38.0212,
       "longitude": 37.5753,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "F03x9aRuYhuE6",
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "magnitude": 1.6,
-      "depth_km": 13.4,
-      "date_utc": "2026-09-13 19:06:41",
-      "latitude": 39.1738,
-      "longitude": 27.9472,
-      "location_name": "Manisa"
     }
   ]
 }
