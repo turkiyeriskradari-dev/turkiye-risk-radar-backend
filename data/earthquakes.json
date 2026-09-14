@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-14T05:02:11.034680+00:00",
+  "last_updated": "2026-09-14T05:22:42.641457+00:00",
   "record_count": 65,
   "data": [
     {
@@ -12,6 +12,16 @@
       "latitude": 38.2542,
       "longitude": 37.7297,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "wy3w1ocyJayrT",
+      "title": "GULYALI (ORDU)",
+      "magnitude": 1.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-14 07:09:12",
+      "latitude": 40.9782,
+      "longitude": 38.0488,
+      "location_name": "Karadeniz"
     },
     {
       "id": "0ZvucG2Q70HC4",
@@ -642,16 +652,6 @@
       "latitude": 39.1398,
       "longitude": 28.299,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "TAXIVu62g0zGh",
-      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 12.8,
-      "date_utc": "2026-09-13 08:16:13",
-      "latitude": 38.1015,
-      "longitude": 37.0192,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
