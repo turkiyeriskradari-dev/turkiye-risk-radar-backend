@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T04:02:32.449919+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-15T04:24:52.654357+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "E0KeqcGRIoY45",
+      "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 13.7,
+      "date_utc": "2026-09-15 06:58:19",
+      "latitude": 40.7902,
+      "longitude": 27.4835,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "DcDJd2kTZcc6v",
+      "title": "OVACIK-(CANKIRI)",
+      "magnitude": 1.2,
+      "depth_km": 22.8,
+      "date_utc": "2026-09-15 05:50:10",
+      "latitude": 40.5528,
+      "longitude": 33.835,
+      "location_name": "Çankırı"
+    },
     {
       "id": "KKNrtMyCIw45T",
       "title": "YENICEKENT-BULDAN (DENIZLI)",
@@ -522,16 +542,6 @@
       "latitude": 38.2542,
       "longitude": 37.7297,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "wy3w1ocyJayrT",
-      "title": "GULYALI (ORDU)",
-      "magnitude": 1.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-14 07:09:12",
-      "latitude": 40.9782,
-      "longitude": 38.0488,
-      "location_name": "Karadeniz"
     }
   ]
 }
