@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T16:02:14.543186+00:00",
+  "last_updated": "2026-09-15T16:23:37.221466+00:00",
   "record_count": 50,
   "data": [
+    {
+      "id": "zWPsDANaoti1Q",
+      "title": "RESADIYE-CEKMEKOY (ISTANBUL)",
+      "magnitude": 1.2,
+      "depth_km": 8.9,
+      "date_utc": "2026-09-15 18:56:31",
+      "latitude": 41.0608,
+      "longitude": 29.2205,
+      "location_name": "İstanbul"
+    },
     {
       "id": "WUr9YXOvZsqbG",
       "title": "YENIGUN-KADIRLI (OSMANIYE)",
@@ -492,16 +502,6 @@
       "latitude": 37.7742,
       "longitude": 29.669,
       "location_name": "Denizli"
-    },
-    {
-      "id": "cWjJr7jqAZpTQ",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-14 19:09:53",
-      "latitude": 39.2187,
-      "longitude": 28.1682,
-      "location_name": "Balıkesir"
     }
   ]
 }
