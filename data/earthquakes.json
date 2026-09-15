@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T17:33:14.425982+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-15T17:48:16.530106+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "fnE_RpIrIw9el",
@@ -502,16 +502,6 @@
       "latitude": 40.4622,
       "longitude": 26.3642,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "o0xy6_vngIo7m",
-      "title": "SAZKOY-BOZKURT (DENIZLI)",
-      "magnitude": 1.6,
-      "depth_km": 10,
-      "date_utc": "2026-09-14 20:46:16",
-      "latitude": 37.7742,
-      "longitude": 29.669,
-      "location_name": "Denizli"
     }
   ]
 }
