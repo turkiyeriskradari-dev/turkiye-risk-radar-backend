@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T22:22:05.165592+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-15T22:34:00.928042+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "3P7fqI2ss08ON",
+      "title": "SEBIL-CAMLIYAYLA (MERSIN)",
+      "magnitude": 2.1,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-16 01:09:21",
+      "latitude": 37.1,
+      "longitude": 34.5688,
+      "location_name": "Mersin"
+    },
     {
       "id": "JJFZiufkonYBA",
       "title": "KARAKUYU-MENDERES (IZMIR)",
@@ -522,26 +532,6 @@
       "latitude": 39.1537,
       "longitude": 28.2947,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "bNsFBI3dkZ1Rj",
-      "title": "BOZKOY-GERMENCIK (AYDIN)",
-      "magnitude": 1.4,
-      "depth_km": 26.6,
-      "date_utc": "2026-09-15 01:29:09",
-      "latitude": 37.9702,
-      "longitude": 27.6288,
-      "location_name": "Aydın"
-    },
-    {
-      "id": "mhK6eZ3zYtY8n",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 9.6,
-      "date_utc": "2026-09-15 01:27:03",
-      "latitude": 39.257,
-      "longitude": 28.9572,
-      "location_name": "Kütahya"
     }
   ]
 }
