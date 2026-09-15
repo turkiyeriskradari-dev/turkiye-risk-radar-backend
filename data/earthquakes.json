@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T10:50:01.245136+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-15T11:02:39.219875+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "eUPgP2OvvvAmM",
+      "title": "YENIKOY-MENDERES (IZMIR)",
+      "magnitude": 1.2,
+      "depth_km": 3.4,
+      "date_utc": "2026-09-15 13:50:50",
+      "latitude": 38.2445,
+      "longitude": 27.0212,
+      "location_name": "İzmir"
+    },
     {
       "id": "yAJoEH3pRG1Xh",
       "title": "KALECIK-(ERZINCAN)",
