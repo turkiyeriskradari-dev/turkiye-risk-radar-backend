@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T08:02:58.547015+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-15T08:26:45.917613+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "5zKM4A8o2YnFJ",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 11.8,
+      "date_utc": "2026-09-15 10:57:32",
+      "latitude": 39.2545,
+      "longitude": 28.9873,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "pvRGi9qqE5Otj",
+      "title": "YOLCATI-ACIPAYAM (DENIZLI)",
+      "magnitude": 1.6,
+      "depth_km": 6.7,
+      "date_utc": "2026-09-15 10:08:10",
+      "latitude": 37.0533,
+      "longitude": 29.0975,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "ntdYMICemwoc_",
+      "title": "DEREKOY-SOMA (MANISA)",
+      "magnitude": 1.5,
+      "depth_km": 0,
+      "date_utc": "2026-09-15 09:18:39",
+      "latitude": 39.1182,
+      "longitude": 27.5207,
+      "location_name": "Manisa"
+    },
     {
       "id": "nW93HM45_GWZX",
       "title": "KOZAGAC-BEYPAZARI (ANKARA)",
@@ -482,26 +512,6 @@
       "latitude": 38.6273,
       "longitude": 27.007,
       "location_name": "İzmir"
-    },
-    {
-      "id": "1NWcvdWEjeU2O",
-      "title": "HANCERLI-AKCADAG (MALATYA)",
-      "magnitude": 1.6,
-      "depth_km": 14.2,
-      "date_utc": "2026-09-14 11:19:03",
-      "latitude": 38.2873,
-      "longitude": 37.8768,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "MZg5mkvVCMlC7",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-14 11:10:34",
-      "latitude": 34.9167,
-      "longitude": 26.1175,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
