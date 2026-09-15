@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T09:41:33.175678+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-15T09:53:11.646818+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "_aI4ATw8V_KXf",
+      "title": "KALECIK-(ERZINCAN)",
+      "magnitude": 3,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-15 12:42:46",
+      "latitude": 39.5655,
+      "longitude": 39.7303,
+      "location_name": "Erzincan"
+    },
     {
       "id": "9FzM8dAqAf3zN",
       "title": "BALPINARI-PUTURGE (MALATYA)",
