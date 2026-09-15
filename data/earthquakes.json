@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T21:02:02.721714+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-15T21:21:36.048692+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "PI8JvZz4YjAXC",
@@ -542,16 +542,6 @@
       "latitude": 39.254,
       "longitude": 28.9988,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "gIdidDxTHrYAg",
-      "title": "AKCIFT-(VAN)",
-      "magnitude": 2.3,
-      "depth_km": 6,
-      "date_utc": "2026-09-15 00:06:24",
-      "latitude": 38.8478,
-      "longitude": 43.5565,
-      "location_name": "Van"
     }
   ]
 }
