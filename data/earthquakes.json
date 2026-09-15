@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T12:02:49.536741+00:00",
+  "last_updated": "2026-09-15T12:28:05.343736+00:00",
   "record_count": 48,
   "data": [
+    {
+      "id": "mhMBEsgV7aF6T",
+      "title": "CAMLI-MARMARIS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-15 14:58:44",
+      "latitude": 36.9523,
+      "longitude": 28.284,
+      "location_name": "Muğla"
+    },
     {
       "id": "k1TZeQgiZL3NO",
       "title": "YENIDANISMENT-ORHANELI (BURSA)",
@@ -472,16 +482,6 @@
       "latitude": 39.1815,
       "longitude": 29.4367,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "BuWZLKdzdyxm3",
-      "title": "EGE DENIZI",
-      "magnitude": 2.5,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-14 15:13:25",
-      "latitude": 35.7472,
-      "longitude": 25.866,
-      "location_name": "Ege Denizi"
     }
   ]
 }
