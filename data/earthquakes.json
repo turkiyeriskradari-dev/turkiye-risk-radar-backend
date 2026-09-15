@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T09:04:29.048117+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-15T09:27:45.348276+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "9FzM8dAqAf3zN",
+      "title": "BALPINARI-PUTURGE (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 17.9,
+      "date_utc": "2026-09-15 12:02:07",
+      "latitude": 38.2812,
+      "longitude": 38.7593,
+      "location_name": "Malatya"
+    },
     {
       "id": "nlSynOoYpT1JM",
       "title": "CANDIR-SELCUKLU (KONYA)",
@@ -462,56 +472,6 @@
       "latitude": 40.1575,
       "longitude": 27.364,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "8WhEwn_6XMPxO",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 2.8,
-      "date_utc": "2026-09-14 12:14:37",
-      "latitude": 36.7095,
-      "longitude": 25.7057,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "4UJxMRT35OsK9",
-      "title": "ISIKLI-SILIFKE (MERSIN)",
-      "magnitude": 0.9,
-      "depth_km": 0,
-      "date_utc": "2026-09-14 12:08:08",
-      "latitude": 36.2735,
-      "longitude": 33.6915,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "flNHp7REmUeud",
-      "title": "DEDELER-GULNAR (MERSIN)",
-      "magnitude": 1.3,
-      "depth_km": 0,
-      "date_utc": "2026-09-14 12:07:50",
-      "latitude": 36.2767,
-      "longitude": 33.6592,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "wUfNbW6Ikkrje",
-      "title": "KARAKOCEK-HEKIMHAN (MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-14 12:05:23",
-      "latitude": 38.903,
-      "longitude": 37.9908,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "Cf1QcQtzkU6fe",
-      "title": "BULGARISTAN",
-      "magnitude": 1.7,
-      "depth_km": 2,
-      "date_utc": "2026-09-14 12:04:44",
-      "latitude": 41.9253,
-      "longitude": 25.4287,
-      "location_name": "Bulgaristan"
     }
   ]
 }
