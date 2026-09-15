@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T18:37:12.948526+00:00",
+  "last_updated": "2026-09-15T18:51:43.455712+00:00",
   "record_count": 55,
   "data": [
+    {
+      "id": "MnMucfoi0IfZR",
+      "title": "EGE DENIZI",
+      "magnitude": 2.8,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-15 21:22:39",
+      "latitude": 36.019,
+      "longitude": 27.2717,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "8DRjzjQgtEU35",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -542,16 +552,6 @@
       "latitude": 37.44,
       "longitude": 34.349,
       "location_name": "Konya"
-    },
-    {
-      "id": "5_BLgW7m3Ddch",
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 16.6,
-      "date_utc": "2026-09-14 21:49:23",
-      "latitude": 40.4622,
-      "longitude": 26.3642,
-      "location_name": "Ege Denizi"
     }
   ]
 }
