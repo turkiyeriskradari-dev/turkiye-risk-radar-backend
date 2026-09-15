@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T02:03:54.345758+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-15T02:25:13.832049+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "8qqC81Qv5S3LA",
+      "title": "KALDIRIMKOY-SIVRIHISAR (ESKISEHIR)",
+      "magnitude": 1.9,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-15 05:13:36",
+      "latitude": 39.0952,
+      "longitude": 31.5777,
+      "location_name": "Eskişehir"
+    },
     {
       "id": "3iH_3s8lNeDIe",
       "title": "HIROGLU-GOLMARMARA (MANISA)",
@@ -602,26 +612,6 @@
       "latitude": 39.1328,
       "longitude": 40.2077,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "fWtkeGH4AQDSc",
-      "title": "AKDENIZ",
-      "magnitude": 1.4,
-      "depth_km": 27,
-      "date_utc": "2026-09-14 05:18:53",
-      "latitude": 36.5385,
-      "longitude": 28.5357,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "d972ZKfEUFrvA",
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 12.6,
-      "date_utc": "2026-09-14 05:15:22",
-      "latitude": 39.1358,
-      "longitude": 28.4295,
-      "location_name": "Balıkesir"
     }
   ]
 }
