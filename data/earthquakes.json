@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T07:38:17.534499+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-15T07:52:48.848360+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "nW93HM45_GWZX",
@@ -502,26 +502,6 @@
       "latitude": 34.9167,
       "longitude": 26.1175,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "6ogl5c4DMuBQh",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.1,
-      "depth_km": 14.3,
-      "date_utc": "2026-09-14 10:43:39",
-      "latitude": 39.2382,
-      "longitude": 29.0408,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "EnLjtWXQFeExg",
-      "title": "DALYAN ACIKLARI-MUGLA (AKDENIZ)",
-      "magnitude": 1.6,
-      "depth_km": 18.7,
-      "date_utc": "2026-09-14 10:38:39",
-      "latitude": 36.7202,
-      "longitude": 28.5558,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
