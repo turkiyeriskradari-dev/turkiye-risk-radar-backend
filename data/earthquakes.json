@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T17:48:16.530106+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-15T18:02:06.957005+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "T0EpKMQSLruYs",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 5.9,
+      "date_utc": "2026-09-15 20:54:47",
+      "latitude": 37.9828,
+      "longitude": 27.1485,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "DQw87lq5oQ0UI",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 11.3,
+      "date_utc": "2026-09-15 20:51:02",
+      "latitude": 39.2483,
+      "longitude": 28.9928,
+      "location_name": "Kütahya"
+    },
     {
       "id": "fnE_RpIrIw9el",
       "title": "ASAGICIYRIKLI-TUZLUCA (IGDIR)",
