@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T19:21:46.741884+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-15T19:34:15.262559+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "MnMucfoi0IfZR",
@@ -542,16 +542,6 @@
       "latitude": 38.1418,
       "longitude": 37.5355,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "hqGJRmXNNcqn9",
-      "title": "OSMANKOSELI-HALKAPINAR (KONYA)",
-      "magnitude": 1.9,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-14 22:31:16",
-      "latitude": 37.44,
-      "longitude": 34.349,
-      "location_name": "Konya"
     }
   ]
 }
