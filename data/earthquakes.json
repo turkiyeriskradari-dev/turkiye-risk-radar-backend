@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T11:02:39.219875+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-15T11:22:57.548598+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "k1TZeQgiZL3NO",
+      "title": "YENIDANISMENT-ORHANELI (BURSA)",
+      "magnitude": 1.6,
+      "depth_km": 0,
+      "date_utc": "2026-09-15 14:05:20",
+      "latitude": 39.8793,
+      "longitude": 28.8063,
+      "location_name": "Bursa"
+    },
+    {
+      "id": "BvryEahyH2H8L",
+      "title": "KURKKOY-SIVRICE (ELAZIG)",
+      "magnitude": 1.8,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-15 13:57:19",
+      "latitude": 38.4385,
+      "longitude": 39.2268,
+      "location_name": "Elazığ"
+    },
     {
       "id": "eUPgP2OvvvAmM",
       "title": "YENIKOY-MENDERES (IZMIR)",
@@ -12,6 +32,16 @@
       "latitude": 38.2445,
       "longitude": 27.0212,
       "location_name": "İzmir"
+    },
+    {
+      "id": "O63otinekYawY",
+      "title": "IBILLER-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 13.2,
+      "date_utc": "2026-09-15 12:56:45",
+      "latitude": 39.2567,
+      "longitude": 28.1518,
+      "location_name": "Balıkesir"
     },
     {
       "id": "yAJoEH3pRG1Xh",
