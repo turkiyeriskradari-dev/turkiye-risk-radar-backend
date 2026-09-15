@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T01:03:19.518678+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-15T01:25:19.049394+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "eES5WIc5Agebu",
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 18.4,
+      "date_utc": "2026-09-15 03:41:47",
+      "latitude": 39.2197,
+      "longitude": 28.0688,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "RTY57onjwDZwh",
+      "title": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.3,
+      "depth_km": 11.1,
+      "date_utc": "2026-09-15 03:41:21",
+      "latitude": 37.9025,
+      "longitude": 36.2942,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "N8vnZ2TpNzOBX",
       "title": "TEPECIK-GURUN (SIVAS)",
@@ -602,16 +622,6 @@
       "latitude": 38.283,
       "longitude": 38.2678,
       "location_name": "Malatya"
-    },
-    {
-      "id": "YrU8vqqjcyDAM",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 0.9,
-      "depth_km": 6.8,
-      "date_utc": "2026-09-14 04:20:11",
-      "latitude": 39.2225,
-      "longitude": 28.1637,
-      "location_name": "Balıkesir"
     }
   ]
 }
