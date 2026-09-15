@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T00:02:44.849555+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-15T00:31:22.819369+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "N8vnZ2TpNzOBX",
+      "title": "TEPECIK-GURUN (SIVAS)",
+      "magnitude": 1,
+      "depth_km": 3.4,
+      "date_utc": "2026-09-15 02:58:49",
+      "latitude": 38.6478,
+      "longitude": 37.3642,
+      "location_name": "Sivas"
+    },
     {
       "id": "GW82gPePf8JA3",
       "title": "KARAAGAC-SINDIRGI (BALIKESIR)",
