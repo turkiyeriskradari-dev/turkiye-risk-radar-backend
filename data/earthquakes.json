@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T09:27:45.348276+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-15T09:41:33.175678+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "9FzM8dAqAf3zN",
@@ -462,16 +462,6 @@
       "latitude": 38.4455,
       "longitude": 39.134,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "KeCkXC727UORN",
-      "title": "CAMIALAN-BIGA (CANAKKALE)",
-      "magnitude": 1.7,
-      "depth_km": 11.3,
-      "date_utc": "2026-09-14 12:39:43",
-      "latitude": 40.1575,
-      "longitude": 27.364,
-      "location_name": "Çanakkale"
     }
   ]
 }
