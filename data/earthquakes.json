@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T20:34:05.455141+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-15T20:49:01.252577+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "PI8JvZz4YjAXC",
+      "title": "MARMARA DENIZI",
+      "magnitude": 1.5,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-15 23:19:06",
+      "latitude": 40.796,
+      "longitude": 28.098,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "qdWu2sHPUejsI",
       "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
