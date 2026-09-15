@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T23:01:53.243515+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-15T23:20:47.951215+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "_I2xQfW6sHpMa",
+      "title": "EGE DENIZI",
+      "magnitude": 1.8,
+      "depth_km": 8.3,
+      "date_utc": "2026-09-16 02:03:24",
+      "latitude": 36.0357,
+      "longitude": 27.2518,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "3P7fqI2ss08ON",
       "title": "SEBIL-CAMLIYAYLA (MERSIN)",
@@ -501,36 +511,6 @@
       "date_utc": "2026-09-15 02:33:24",
       "latitude": 39.1878,
       "longitude": 28.208,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "dMPltDORSC2TY",
-      "title": "YESILYAZI-OVACIK (TUNCELI)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-15 02:16:09",
-      "latitude": 39.3413,
-      "longitude": 39.0885,
-      "location_name": "Tunceli"
-    },
-    {
-      "id": "JkdQ1md9V5J3m",
-      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.2,
-      "depth_km": 14,
-      "date_utc": "2026-09-15 02:13:46",
-      "latitude": 38.3618,
-      "longitude": 37.3185,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "6n33RK8gw01ZW",
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 10.1,
-      "date_utc": "2026-09-15 02:08:19",
-      "latitude": 39.1537,
-      "longitude": 28.2947,
       "location_name": "Balıkesir"
     }
   ]
