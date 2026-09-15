@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T14:02:09.922407+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-15T14:24:05.034601+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "xnSJTrVIf9E9A",
+      "title": "PEKMEZCI-KOZAN (ADANA)",
+      "magnitude": 2.1,
+      "depth_km": 18.2,
+      "date_utc": "2026-09-15 16:45:42",
+      "latitude": 37.3518,
+      "longitude": 35.849,
+      "location_name": "Adana"
+    },
     {
       "id": "mhMBEsgV7aF6T",
       "title": "CAMLI-MARMARIS (MUGLA)",
@@ -452,26 +462,6 @@
       "latitude": 39.2187,
       "longitude": 28.1682,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "7SDqAZtaCkPhF",
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 7.9,
-      "date_utc": "2026-09-14 17:21:59",
-      "latitude": 39.2133,
-      "longitude": 28.0832,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "x3O2yfpd2zlDI",
-      "title": "MILLI PARK-KUSADASI (AYDIN)",
-      "magnitude": 1.5,
-      "depth_km": 21.6,
-      "date_utc": "2026-09-14 17:08:16",
-      "latitude": 37.651,
-      "longitude": 27.0467,
-      "location_name": "Aydın"
     }
   ]
 }
