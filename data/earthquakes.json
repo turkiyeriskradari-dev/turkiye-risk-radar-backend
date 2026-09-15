@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T20:22:16.640766+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-15T20:34:05.455141+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "qdWu2sHPUejsI",
@@ -542,16 +542,6 @@
       "latitude": 38.8478,
       "longitude": 43.5565,
       "location_name": "Van"
-    },
-    {
-      "id": "x0HWy_WFBS9Z5",
-      "title": "YERKESIK-(MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-14 23:29:08",
-      "latitude": 37.1365,
-      "longitude": 28.2857,
-      "location_name": "Muğla"
     }
   ]
 }
