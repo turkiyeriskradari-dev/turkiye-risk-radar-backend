@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T06:02:49.532883+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-15T06:30:01.022588+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "pdXO8yFCFsA_L",
@@ -532,16 +532,6 @@
       "latitude": 39.889,
       "longitude": 28.842,
       "location_name": "Bursa"
-    },
-    {
-      "id": "nrmEgOZhNToR1",
-      "title": "KUYULU-YESILYURT (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 29.8,
-      "date_utc": "2026-09-14 09:13:21",
-      "latitude": 38.3078,
-      "longitude": 38.113,
-      "location_name": "Malatya"
     }
   ]
 }
