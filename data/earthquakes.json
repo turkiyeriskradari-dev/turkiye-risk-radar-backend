@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T08:26:45.917613+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-15T08:40:20.036959+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "nlSynOoYpT1JM",
+      "title": "CANDIR-SELCUKLU (KONYA)",
+      "magnitude": 1,
+      "depth_km": 0,
+      "date_utc": "2026-09-15 11:25:58",
+      "latitude": 38.1147,
+      "longitude": 32.61,
+      "location_name": "Konya"
+    },
+    {
+      "id": "NZ2drkLxEEGzF",
+      "title": "KARAKESE-(AMASYA)",
+      "magnitude": 2.2,
+      "depth_km": 12.4,
+      "date_utc": "2026-09-15 11:22:16",
+      "latitude": 40.8367,
+      "longitude": 35.9525,
+      "location_name": "Amasya"
+    },
     {
       "id": "5zKM4A8o2YnFJ",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -502,16 +522,6 @@
       "latitude": 36.6673,
       "longitude": 25.738,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "F4RL40FzJWPbj",
-      "title": "MENEMEN (IZMIR)",
-      "magnitude": 1.6,
-      "depth_km": 25.1,
-      "date_utc": "2026-09-14 11:29:28",
-      "latitude": 38.6273,
-      "longitude": 27.007,
-      "location_name": "İzmir"
     }
   ]
 }
