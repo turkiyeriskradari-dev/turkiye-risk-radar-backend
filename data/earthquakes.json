@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T21:33:29.953374+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-15T21:47:02.260098+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "JJFZiufkonYBA",
+      "title": "KARAKUYU-MENDERES (IZMIR)",
+      "magnitude": 0.9,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-16 00:23:36",
+      "latitude": 38.128,
+      "longitude": 27.211,
+      "location_name": "İzmir"
+    },
     {
       "id": "PI8JvZz4YjAXC",
       "title": "MARMARA DENIZI",
