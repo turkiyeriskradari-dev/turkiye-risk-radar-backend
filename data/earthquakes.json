@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T07:25:55.945446+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-15T07:38:17.534499+00:00",
+  "record_count": 52,
   "data": [
     {
       "id": "nW93HM45_GWZX",
@@ -522,16 +522,6 @@
       "latitude": 36.7202,
       "longitude": 28.5558,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "W2uAEcy8nvLgD",
-      "title": "BEYDAGI-MURADIYE (VAN)",
-      "magnitude": 1.5,
-      "depth_km": 15.9,
-      "date_utc": "2026-09-14 10:36:09",
-      "latitude": 38.9267,
-      "longitude": 43.7693,
-      "location_name": "Van"
     }
   ]
 }
