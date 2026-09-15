@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T13:03:32.463528+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-15T13:24:18.435674+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "mhMBEsgV7aF6T",
@@ -472,16 +472,6 @@
       "latitude": 37.651,
       "longitude": 27.0467,
       "location_name": "Aydın"
-    },
-    {
-      "id": "VCBMuqYUczCLX",
-      "title": "PUSATLAR-CAVDARHISAR (KUTAHYA)",
-      "magnitude": 1.9,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-14 16:16:12",
-      "latitude": 39.1815,
-      "longitude": 29.4367,
-      "location_name": "Kütahya"
     }
   ]
 }
