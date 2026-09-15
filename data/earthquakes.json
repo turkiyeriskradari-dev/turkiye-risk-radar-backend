@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T06:46:50.025865+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-15T07:04:35.219210+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "nW93HM45_GWZX",
+      "title": "KOZAGAC-BEYPAZARI (ANKARA)",
+      "magnitude": 2.5,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-15 08:42:02",
+      "latitude": 40.221,
+      "longitude": 31.7657,
+      "location_name": "Ankara"
+    },
     {
       "id": "pdXO8yFCFsA_L",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
