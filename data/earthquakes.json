@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T10:03:32.542493+00:00",
+  "last_updated": "2026-09-15T10:23:43.146471+00:00",
   "record_count": 46,
   "data": [
     {
@@ -11,6 +11,16 @@
       "date_utc": "2026-09-15 12:46:55",
       "latitude": 39.5607,
       "longitude": 39.7628,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "10xw242fleVq7",
+      "title": "KALECIK-(ERZINCAN)",
+      "magnitude": 2.4,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-15 12:43:44",
+      "latitude": 39.5742,
+      "longitude": 39.7452,
       "location_name": "Erzincan"
     },
     {
@@ -452,16 +462,6 @@
       "latitude": 40.3613,
       "longitude": 27.0808,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "KF0ZrGzswyi8h",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 10,
-      "date_utc": "2026-09-14 13:10:39",
-      "latitude": 36.9458,
-      "longitude": 28.1105,
-      "location_name": "Ege Denizi"
     }
   ]
 }
