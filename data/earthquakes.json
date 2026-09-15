@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T14:24:05.034601+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-15T14:36:03.855852+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "VX3DYix40QJR3",
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-15 17:14:01",
+      "latitude": 38.41,
+      "longitude": 37.416,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "dypf7nuK6Es2P",
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 11.7,
+      "date_utc": "2026-09-15 16:46:45",
+      "latitude": 39.1952,
+      "longitude": 28.0548,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "xnSJTrVIf9E9A",
       "title": "PEKMEZCI-KOZAN (ADANA)",
