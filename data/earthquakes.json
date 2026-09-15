@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T03:51:46.819996+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-15T04:02:32.449919+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "KKNrtMyCIw45T",
@@ -532,36 +532,6 @@
       "latitude": 40.9782,
       "longitude": 38.0488,
       "location_name": "Karadeniz"
-    },
-    {
-      "id": "0ZvucG2Q70HC4",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 1.9,
-      "depth_km": 11.7,
-      "date_utc": "2026-09-14 07:01:28",
-      "latitude": 39.1457,
-      "longitude": 25.9047,
-      "location_name": "Yunanistan"
-    },
-    {
-      "id": "GnvUeRpXf5kqK",
-      "title": "SARIDAL-(MUS)",
-      "magnitude": 1.8,
-      "depth_km": 10.1,
-      "date_utc": "2026-09-14 06:57:44",
-      "latitude": 38.9657,
-      "longitude": 41.667,
-      "location_name": "Muş"
-    },
-    {
-      "id": "gkLQM5e_MaXCF",
-      "title": "DUMLU-HEKIMHAN (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 11.5,
-      "date_utc": "2026-09-14 06:56:07",
-      "latitude": 38.844,
-      "longitude": 37.9762,
-      "location_name": "Malatya"
     }
   ]
 }
