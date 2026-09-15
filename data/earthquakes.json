@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T01:51:44.247499+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-15T02:03:54.345758+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "3iH_3s8lNeDIe",
@@ -622,26 +622,6 @@
       "latitude": 39.1358,
       "longitude": 28.4295,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "hW0d87qtYHhQ9",
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-14 05:00:09",
-      "latitude": 39.1077,
-      "longitude": 28.2328,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "EG3I2Mu9QYeEl",
-      "title": "BEGENDIK-OLUR (ERZURUM)",
-      "magnitude": 1.4,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-14 04:52:07",
-      "latitude": 40.9708,
-      "longitude": 42.2797,
-      "location_name": "Artvin"
     }
   ]
 }
