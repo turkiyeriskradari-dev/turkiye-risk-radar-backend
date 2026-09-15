@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T11:48:11.920816+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-15T12:02:49.536741+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "k1TZeQgiZL3NO",
@@ -482,16 +482,6 @@
       "latitude": 35.7472,
       "longitude": 25.866,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "v2rDlKQT4Lu2b",
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "magnitude": 2,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-14 14:56:12",
-      "latitude": 38.1197,
-      "longitude": 38.487,
-      "location_name": "Adıyaman"
     }
   ]
 }
