@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T04:52:11.450813+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-15T05:02:25.948314+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "E0KeqcGRIoY45",
@@ -532,16 +532,6 @@
       "latitude": 38.3078,
       "longitude": 38.113,
       "location_name": "Malatya"
-    },
-    {
-      "id": "cjubP9NNYWmHl",
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 8.6,
-      "date_utc": "2026-09-14 07:53:09",
-      "latitude": 38.2542,
-      "longitude": 37.7297,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
