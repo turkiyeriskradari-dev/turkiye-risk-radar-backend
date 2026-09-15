@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T03:25:44.924025+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-15T03:37:43.415133+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "KKNrtMyCIw45T",
@@ -572,16 +572,6 @@
       "latitude": 39.4808,
       "longitude": 44.3245,
       "location_name": "Ağrı"
-    },
-    {
-      "id": "6IkB68_ttHYWY",
-      "title": "ALPA-TAVAS (DENIZLI)",
-      "magnitude": 1.7,
-      "depth_km": 10,
-      "date_utc": "2026-09-14 06:27:03",
-      "latitude": 37.1682,
-      "longitude": 29.0535,
-      "location_name": "Denizli"
     }
   ]
 }
