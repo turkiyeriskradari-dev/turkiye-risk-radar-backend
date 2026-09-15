@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T10:23:43.146471+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-15T10:36:03.347197+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "yAJoEH3pRG1Xh",
@@ -452,16 +452,6 @@
       "latitude": 38.7025,
       "longitude": 26.5527,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "l9KTt25I9Okc1",
-      "title": "AYITDERE-BIGA (CANAKKALE)",
-      "magnitude": 1.4,
-      "depth_km": 24.2,
-      "date_utc": "2026-09-14 13:28:22",
-      "latitude": 40.3613,
-      "longitude": 27.0808,
-      "location_name": "Çanakkale"
     }
   ]
 }
