@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T02:51:50.448528+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-15T03:02:26.724506+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "KKNrtMyCIw45T",
+      "title": "YENICEKENT-BULDAN (DENIZLI)",
+      "magnitude": 1.2,
+      "depth_km": 15.8,
+      "date_utc": "2026-09-15 05:48:13",
+      "latitude": 38.0575,
+      "longitude": 28.9462,
+      "location_name": "Denizli"
+    },
     {
       "id": "oZXJzqKU1YjTY",
       "title": "NURHAK (KAHRAMANMARAS)",
