@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T11:35:16.978665+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-15T11:48:11.920816+00:00",
+  "record_count": 49,
   "data": [
     {
       "id": "k1TZeQgiZL3NO",
@@ -22,6 +22,16 @@
       "latitude": 38.4385,
       "longitude": 39.2268,
       "location_name": "Elazığ"
+    },
+    {
+      "id": "AjvvljMPObDYU",
+      "title": "HACIBEKIRLER-BAYRAMIC (CANAKKALE)",
+      "magnitude": 1.5,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-15 13:54:24",
+      "latitude": 39.9133,
+      "longitude": 26.7547,
+      "location_name": "Çanakkale"
     },
     {
       "id": "eUPgP2OvvvAmM",
