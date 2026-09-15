@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T16:36:24.155849+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-15T16:50:31.868561+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "fnE_RpIrIw9el",
+      "title": "ASAGICIYRIKLI-TUZLUCA (IGDIR)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-15 19:28:56",
+      "latitude": 40.1547,
+      "longitude": 43.6122,
+      "location_name": "Iğdır"
+    },
     {
       "id": "zWPsDANaoti1Q",
       "title": "RESADIYE-CEKMEKOY (ISTANBUL)",
