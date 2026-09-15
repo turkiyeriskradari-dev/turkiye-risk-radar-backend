@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T01:36:46.948448+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-15T01:51:44.247499+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "3iH_3s8lNeDIe",
+      "title": "HIROGLU-GOLMARMARA (MANISA)",
+      "magnitude": 1.2,
+      "depth_km": 5.6,
+      "date_utc": "2026-09-15 04:41:13",
+      "latitude": 38.7353,
+      "longitude": 27.9338,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "cmZHc9VzL9RyL",
+      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 16,
+      "date_utc": "2026-09-15 04:24:36",
+      "latitude": 39.1495,
+      "longitude": 28.3152,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "9CDqzFGEOicg1",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.3,
+      "depth_km": 1.5,
+      "date_utc": "2026-09-15 04:02:47",
+      "latitude": 35.2258,
+      "longitude": 26.8995,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "eES5WIc5Agebu",
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
