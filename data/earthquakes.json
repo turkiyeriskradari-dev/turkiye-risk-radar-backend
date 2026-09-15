@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T09:53:11.646818+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-15T10:03:32.542493+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "yAJoEH3pRG1Xh",
+      "title": "KALECIK-(ERZINCAN)",
+      "magnitude": 1.9,
+      "depth_km": 6.5,
+      "date_utc": "2026-09-15 12:46:55",
+      "latitude": 39.5607,
+      "longitude": 39.7628,
+      "location_name": "Erzincan"
+    },
     {
       "id": "_aI4ATw8V_KXf",
       "title": "KALECIK-(ERZINCAN)",
@@ -452,26 +462,6 @@
       "latitude": 36.9458,
       "longitude": 28.1105,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "bz0spK4QeGyJf",
-      "title": "KAZOREN-REFAHIYE (ERZINCAN)",
-      "magnitude": 2.1,
-      "depth_km": 11.2,
-      "date_utc": "2026-09-14 13:00:22",
-      "latitude": 40.0465,
-      "longitude": 38.9155,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "2a9WYJSPoSZd8",
-      "title": "DEREBOYNU-SIVRICE (ELAZIG)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-14 12:57:48",
-      "latitude": 38.4455,
-      "longitude": 39.134,
-      "location_name": "Elazığ"
     }
   ]
 }
