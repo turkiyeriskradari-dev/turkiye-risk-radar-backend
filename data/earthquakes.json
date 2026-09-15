@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T23:20:47.951215+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-15T23:33:11.615101+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "H0efr2QNaS2m0",
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 2,
+      "depth_km": 3.3,
+      "date_utc": "2026-09-16 02:17:05",
+      "latitude": 38.42,
+      "longitude": 37.4152,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "_I2xQfW6sHpMa",
       "title": "EGE DENIZI",
