@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T09:50:10.944911+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-16T10:02:13.943411+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "sl9WEkHYTIhto",
@@ -502,16 +502,6 @@
       "latitude": 38.2445,
       "longitude": 27.0212,
       "location_name": "İzmir"
-    },
-    {
-      "id": "O63otinekYawY",
-      "title": "IBILLER-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 13.2,
-      "date_utc": "2026-09-15 12:56:45",
-      "latitude": 39.2567,
-      "longitude": 28.1518,
-      "location_name": "Balıkesir"
     }
   ]
 }
