@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T07:24:00.925288+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-16T07:36:08.423017+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "h3qqFNO41sGdm",
+      "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 6,
+      "date_utc": "2026-09-16 10:07:09",
+      "latitude": 39.6242,
+      "longitude": 26.0573,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "gXWtpY4k6dHza",
       "title": "KOZLU-(BOLU)",
