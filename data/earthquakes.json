@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T11:03:13.622381+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-16T11:23:32.274780+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "x24OrGgbEd_CV",
@@ -34,6 +34,16 @@
       "location_name": "Mersin"
     },
     {
+      "id": "DL8Oir9nS1pVk",
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "magnitude": 2,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-16 11:01:24",
+      "latitude": 38.6468,
+      "longitude": 26.6113,
+      "location_name": "Ege Denizi"
+    },
+    {
       "id": "sl9WEkHYTIhto",
       "title": "IZMIR KORFEZI (EGE DENIZI)",
       "magnitude": 2.3,
@@ -52,6 +62,16 @@
       "latitude": 39.4038,
       "longitude": 27.7658,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "2SkNBmizgYN9k",
+      "title": "KURUYER-(HATAY)",
+      "magnitude": 1.8,
+      "depth_km": 23.5,
+      "date_utc": "2026-09-16 10:20:55",
+      "latitude": 36.181,
+      "longitude": 36.1952,
+      "location_name": "Hatay"
     },
     {
       "id": "h3qqFNO41sGdm",
@@ -492,16 +512,6 @@
       "latitude": 36.9523,
       "longitude": 28.284,
       "location_name": "Muğla"
-    },
-    {
-      "id": "k1TZeQgiZL3NO",
-      "title": "YENIDANISMENT-ORHANELI (BURSA)",
-      "magnitude": 1.6,
-      "depth_km": 0,
-      "date_utc": "2026-09-15 14:05:20",
-      "latitude": 39.8793,
-      "longitude": 28.8063,
-      "location_name": "Bursa"
     }
   ]
 }
