@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T18:25:08.954957+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-16T18:38:31.652338+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "9FYRy2Ro2uKE4",
+      "title": "COKEK-SAMANDAG (HATAY)",
+      "magnitude": 1.8,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-16 20:50:25",
+      "latitude": 36.1812,
+      "longitude": 36.0752,
+      "location_name": "Hatay"
+    },
     {
       "id": "1Ze5tUhX2X95G",
       "title": "UMUTLU-GUNDOGMUS (ANTALYA)",
