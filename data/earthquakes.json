@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T01:21:45.440971+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-16T01:33:51.945233+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "mG1KgdSUvZqQ3",
@@ -502,16 +502,6 @@
       "latitude": 38.7353,
       "longitude": 27.9338,
       "location_name": "Manisa"
-    },
-    {
-      "id": "cmZHc9VzL9RyL",
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 16,
-      "date_utc": "2026-09-15 04:24:36",
-      "latitude": 39.1495,
-      "longitude": 28.3152,
-      "location_name": "Balıkesir"
     }
   ]
 }
