@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T17:02:21.517797+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-16T17:20:59.375280+00:00",
+  "record_count": 49,
   "data": [
     {
       "id": "1Ze5tUhX2X95G",
@@ -492,16 +492,6 @@
       "latitude": 37.3637,
       "longitude": 35.8112,
       "location_name": "Adana"
-    },
-    {
-      "id": "GUiSYlD_RjwQQ",
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "magnitude": 1.4,
-      "depth_km": 14.2,
-      "date_utc": "2026-09-15 20:06:31",
-      "latitude": 38.142,
-      "longitude": 38.4573,
-      "location_name": "Adıyaman"
     }
   ]
 }
