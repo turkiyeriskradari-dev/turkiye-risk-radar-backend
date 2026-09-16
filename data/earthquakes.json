@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T04:02:05.137012+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-16T04:23:51.864545+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "TBcnIX2RrUtSd",
+      "title": "DAGLICA-KOZAN (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-16 06:40:57",
+      "latitude": 37.5412,
+      "longitude": 35.8517,
+      "location_name": "Adana"
+    },
     {
       "id": "JeW496MRENHxW",
       "title": "BAGPINAR-TERCAN (ERZINCAN)",
