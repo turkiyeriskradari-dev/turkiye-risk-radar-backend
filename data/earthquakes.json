@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T08:25:08.845890+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-16T08:37:25.620825+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "RptLK81nbbcLL",
@@ -542,16 +542,6 @@
       "latitude": 38.2812,
       "longitude": 38.7593,
       "location_name": "Malatya"
-    },
-    {
-      "id": "nlSynOoYpT1JM",
-      "title": "CANDIR-SELCUKLU (KONYA)",
-      "magnitude": 1,
-      "depth_km": 0,
-      "date_utc": "2026-09-15 11:25:58",
-      "latitude": 38.1147,
-      "longitude": 32.61,
-      "location_name": "Konya"
     }
   ]
 }
