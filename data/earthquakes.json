@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T18:51:51.750440+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-16T19:02:02.941436+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "R_I2YjPaQv4Ng",
+      "title": "KARACA-CAT (ERZURUM)",
+      "magnitude": 2.8,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-16 21:36:06",
+      "latitude": 39.4512,
+      "longitude": 40.58,
+      "location_name": "Bingöl"
+    },
     {
       "id": "9FYRy2Ro2uKE4",
       "title": "COKEK-SAMANDAG (HATAY)",
