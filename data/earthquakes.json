@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T08:02:35.262591+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-16T08:25:08.845890+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "RptLK81nbbcLL",
@@ -552,16 +552,6 @@
       "latitude": 38.1147,
       "longitude": 32.61,
       "location_name": "Konya"
-    },
-    {
-      "id": "NZ2drkLxEEGzF",
-      "title": "KARAKESE-(AMASYA)",
-      "magnitude": 2.2,
-      "depth_km": 12.4,
-      "date_utc": "2026-09-15 11:22:16",
-      "latitude": 40.8367,
-      "longitude": 35.9525,
-      "location_name": "Amasya"
     }
   ]
 }
