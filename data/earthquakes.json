@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T07:06:43.117772+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-16T07:24:00.925288+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "gXWtpY4k6dHza",
@@ -552,16 +552,6 @@
       "latitude": 39.2545,
       "longitude": 28.9873,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "pvRGi9qqE5Otj",
-      "title": "YOLCATI-ACIPAYAM (DENIZLI)",
-      "magnitude": 1.6,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-15 10:08:10",
-      "latitude": 37.0533,
-      "longitude": 29.0975,
-      "location_name": "Denizli"
     }
   ]
 }
