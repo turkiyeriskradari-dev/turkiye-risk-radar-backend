@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T14:02:55.077244+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-16T14:24:19.718546+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "x24OrGgbEd_CV",
@@ -472,16 +472,6 @@
       "latitude": 39.2957,
       "longitude": 40.9453,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "VX3DYix40QJR3",
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-15 17:14:01",
-      "latitude": 38.41,
-      "longitude": 37.416,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
