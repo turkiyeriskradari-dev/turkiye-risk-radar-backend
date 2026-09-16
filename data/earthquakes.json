@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T14:50:55.977236+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-16T15:03:01.855189+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "QotAJOyI_xm42",
+      "title": "EGE DENIZI",
+      "magnitude": 1.9,
+      "depth_km": 5.5,
+      "date_utc": "2026-09-16 17:46:44",
+      "latitude": 37.858,
+      "longitude": 26.8337,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "p8Gh42KKs90y8",
+      "title": "UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 12,
+      "date_utc": "2026-09-16 17:15:11",
+      "latitude": 39.9645,
+      "longitude": 26.0717,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "Wvf855Y_huP_x",
+      "title": "EGE DENIZI",
+      "magnitude": 3.5,
+      "depth_km": 6.2,
+      "date_utc": "2026-09-16 15:08:54",
+      "latitude": 36.6653,
+      "longitude": 25.7097,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "x24OrGgbEd_CV",
       "title": "YAGCA-DOSEMEALTI (ANTALYA)",
