@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T00:02:31.217636+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-16T00:28:44.452786+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "NIZgyV4dozwcT",
+      "title": "KIZILCAPINAR-GERMENCIK (AYDIN)",
+      "magnitude": 2,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-16 03:01:50",
+      "latitude": 37.872,
+      "longitude": 27.5515,
+      "location_name": "Aydın"
+    },
+    {
+      "id": "sABXk0IRjXwCD",
+      "title": "KALKAN ACIKLARI-ANTALYA (AKDENIZ)",
+      "magnitude": 1.1,
+      "depth_km": 50.6,
+      "date_utc": "2026-09-16 02:39:51",
+      "latitude": 36.0123,
+      "longitude": 29.3543,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "H0efr2QNaS2m0",
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
