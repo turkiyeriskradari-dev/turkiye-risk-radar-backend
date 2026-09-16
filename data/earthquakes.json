@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T21:48:41.044193+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-16T22:02:05.051674+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "NPiBRL17GbBsd",
+      "title": "EGE DENIZI",
+      "magnitude": 2.1,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-17 00:46:37",
+      "latitude": 35.67,
+      "longitude": 26.2828,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "KnvlLhSrnaTx4",
+      "title": "AKDENIZ",
+      "magnitude": 1.8,
+      "depth_km": 24.1,
+      "date_utc": "2026-09-17 00:42:48",
+      "latitude": 35.8702,
+      "longitude": 33.9887,
+      "location_name": "Kıbrıs Açıkları"
+    },
     {
       "id": "9VOa1TyGnTVQR",
       "title": "CAYIRHISAR-(BALIKESIR)",
@@ -122,6 +142,16 @@
       "latitude": 39.213,
       "longitude": 28.0633,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "DGgg1iyBPdwIv",
+      "title": "EGE DENIZI",
+      "magnitude": 2.2,
+      "depth_km": 5.5,
+      "date_utc": "2026-09-16 19:01:16",
+      "latitude": 35.7842,
+      "longitude": 25.5418,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "SF9jMjuwKKOWa",
