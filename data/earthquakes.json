@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T16:50:18.675831+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-16T17:02:21.517797+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "1Ze5tUhX2X95G",
+      "title": "UMUTLU-GUNDOGMUS (ANTALYA)",
+      "magnitude": 2.2,
+      "depth_km": 6.2,
+      "date_utc": "2026-09-16 19:40:35",
+      "latitude": 36.7585,
+      "longitude": 32.0152,
+      "location_name": "Antalya"
+    },
+    {
+      "id": "boDMVmzeX0EzA",
+      "title": "YUREGIR (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 14.9,
+      "date_utc": "2026-09-16 19:39:57",
+      "latitude": 36.9367,
+      "longitude": 35.4305,
+      "location_name": "Adana"
+    },
     {
       "id": "_Q4qKhhGt0OAx",
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
