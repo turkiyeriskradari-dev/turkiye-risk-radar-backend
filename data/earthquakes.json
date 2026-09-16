@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T22:02:05.051674+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-16T22:21:37.727286+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "1A4VW638rqy3G",
+      "title": "AKDENIZ",
+      "magnitude": 2.8,
+      "depth_km": 76.5,
+      "date_utc": "2026-09-17 00:59:09",
+      "latitude": 35.827,
+      "longitude": 32.2738,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "_cSi4x41CGKQ_",
+      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 15.1,
+      "date_utc": "2026-09-17 00:53:02",
+      "latitude": 38.2467,
+      "longitude": 38.2013,
+      "location_name": "Malatya"
+    },
     {
       "id": "NPiBRL17GbBsd",
       "title": "EGE DENIZI",
@@ -502,16 +522,6 @@
       "latitude": 36.0357,
       "longitude": 27.2518,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "3P7fqI2ss08ON",
-      "title": "SEBIL-CAMLIYAYLA (MERSIN)",
-      "magnitude": 2.1,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-16 01:09:21",
-      "latitude": 37.1,
-      "longitude": 34.5688,
-      "location_name": "Mersin"
     }
   ]
 }
