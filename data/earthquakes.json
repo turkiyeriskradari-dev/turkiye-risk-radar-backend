@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T17:34:28.552248+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-16T17:48:26.055466+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "1Ze5tUhX2X95G",
@@ -482,16 +482,6 @@
       "latitude": 39.2483,
       "longitude": 28.9928,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "XEziT4Rwub9Dm",
-      "title": "YASSICALI-KOZAN (ADANA)",
-      "magnitude": 0.9,
-      "depth_km": 19.3,
-      "date_utc": "2026-09-15 20:45:46",
-      "latitude": 37.3637,
-      "longitude": 35.8112,
-      "location_name": "Adana"
     }
   ]
 }
