@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-15T23:46:40.538973+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-16T00:02:31.217636+00:00",
+  "record_count": 49,
   "data": [
     {
       "id": "H0efr2QNaS2m0",
@@ -492,26 +492,6 @@
       "latitude": 37.9025,
       "longitude": 36.2942,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "N8vnZ2TpNzOBX",
-      "title": "TEPECIK-GURUN (SIVAS)",
-      "magnitude": 1,
-      "depth_km": 3.4,
-      "date_utc": "2026-09-15 02:58:49",
-      "latitude": 38.6478,
-      "longitude": 37.3642,
-      "location_name": "Sivas"
-    },
-    {
-      "id": "GW82gPePf8JA3",
-      "title": "KARAAGAC-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 17.6,
-      "date_utc": "2026-09-15 02:54:21",
-      "latitude": 39.2825,
-      "longitude": 28.1453,
-      "location_name": "Balıkesir"
     }
   ]
 }
