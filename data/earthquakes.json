@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T15:49:42.330693+00:00",
+  "last_updated": "2026-09-16T16:02:55.447563+00:00",
   "record_count": 48,
   "data": [
+    {
+      "id": "SF9jMjuwKKOWa",
+      "title": "SARILI-(ELAZIG)",
+      "magnitude": 2.1,
+      "depth_km": 8.4,
+      "date_utc": "2026-09-16 18:54:00",
+      "latitude": 38.547,
+      "longitude": 39.1082,
+      "location_name": "Elazığ"
+    },
     {
       "id": "QotAJOyI_xm42",
       "title": "EGE DENIZI",
@@ -472,16 +482,6 @@
       "latitude": 40.1547,
       "longitude": 43.6122,
       "location_name": "Iğdır"
-    },
-    {
-      "id": "zWPsDANaoti1Q",
-      "title": "RESADIYE-CEKMEKOY (ISTANBUL)",
-      "magnitude": 1.2,
-      "depth_km": 8.9,
-      "date_utc": "2026-09-15 18:56:31",
-      "latitude": 41.0608,
-      "longitude": 29.2205,
-      "location_name": "İstanbul"
     }
   ]
 }
