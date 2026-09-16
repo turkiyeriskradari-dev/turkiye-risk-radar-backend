@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T11:50:08.317408+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-16T12:02:34.051411+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "x24OrGgbEd_CV",
@@ -502,16 +502,6 @@
       "latitude": 37.3518,
       "longitude": 35.849,
       "location_name": "Adana"
-    },
-    {
-      "id": "mhMBEsgV7aF6T",
-      "title": "CAMLI-MARMARIS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-15 14:58:44",
-      "latitude": 36.9523,
-      "longitude": 28.284,
-      "location_name": "Muğla"
     }
   ]
 }
