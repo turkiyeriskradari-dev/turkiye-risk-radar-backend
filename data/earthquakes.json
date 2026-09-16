@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T23:02:01.048491+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-16T23:21:04.917259+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "Gg_kgm2_Zue_4",
+      "title": "HANCERLI-AKCADAG (MALATYA)",
+      "magnitude": 1,
+      "depth_km": 12.2,
+      "date_utc": "2026-09-17 02:10:01",
+      "latitude": 38.2912,
+      "longitude": 37.862,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "mRnOWuanEQbz2",
+      "title": "KARATAS-PALU (ELAZIG)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-17 01:56:17",
+      "latitude": 38.6005,
+      "longitude": 39.8917,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "MorB3fyCOcX0s",
+      "title": "MILLI PARK-KUSADASI (AYDIN)",
+      "magnitude": 1.4,
+      "depth_km": 10.8,
+      "date_utc": "2026-09-17 01:53:22",
+      "latitude": 37.6755,
+      "longitude": 26.9442,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "guXpaSZkfKC2O",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -512,26 +542,6 @@
       "latitude": 36.0123,
       "longitude": 29.3543,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "H0efr2QNaS2m0",
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2,
-      "depth_km": 3.3,
-      "date_utc": "2026-09-16 02:17:05",
-      "latitude": 38.42,
-      "longitude": 37.4152,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "_I2xQfW6sHpMa",
-      "title": "EGE DENIZI",
-      "magnitude": 1.8,
-      "depth_km": 8.3,
-      "date_utc": "2026-09-16 02:03:24",
-      "latitude": 36.0357,
-      "longitude": 27.2518,
-      "location_name": "Ege Denizi"
     }
   ]
 }
