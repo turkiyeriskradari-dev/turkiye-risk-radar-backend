@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T03:02:02.314086+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-16T03:23:56.247352+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "c38fj2z50OSPa",
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 9.1,
+      "date_utc": "2026-09-16 06:14:10",
+      "latitude": 38.0747,
+      "longitude": 37.7702,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "nnU7iJfU3WYiF",
+      "title": "ICMESU-SENKAYA (ERZURUM)",
+      "magnitude": 2,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-16 06:09:39",
+      "latitude": 40.434,
+      "longitude": 42.3185,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "Hl2lpuPhDiEcl",
+      "title": "AKIN-SEREFLIKOCHISAR (ANKARA)",
+      "magnitude": 1.3,
+      "depth_km": 18.6,
+      "date_utc": "2026-09-16 06:03:36",
+      "latitude": 39.1535,
+      "longitude": 33.2875,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "uPsFnFdKSgpQ9",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.9,
+      "depth_km": 8.8,
+      "date_utc": "2026-09-16 05:54:38",
+      "latitude": 39.2347,
+      "longitude": 28.1247,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "n5kxKsV4O7Ysr",
       "title": "GURCISTAN",
