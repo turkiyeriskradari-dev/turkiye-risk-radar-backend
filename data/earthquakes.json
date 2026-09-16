@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T02:02:21.834026+00:00",
+  "last_updated": "2026-09-16T02:23:16.263281+00:00",
   "record_count": 49,
   "data": [
+    {
+      "id": "AKZEOhBZwLmnP",
+      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-16 04:59:51",
+      "latitude": 38.0973,
+      "longitude": 36.6025,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "MGBpKMyBdDAxW",
+      "title": "EGE DENIZI",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-16 04:55:00",
+      "latitude": 38.3253,
+      "longitude": 25.265,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "mG1KgdSUvZqQ3",
       "title": "AKDENIZ",
@@ -472,26 +492,6 @@
       "latitude": 38.029,
       "longitude": 37.4483,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "NSGym_ta4fWhd",
-      "title": "DERECIFTLIK-(BALIKESIR)",
-      "magnitude": 1.9,
-      "depth_km": 8.9,
-      "date_utc": "2026-09-15 05:22:10",
-      "latitude": 39.5802,
-      "longitude": 27.7828,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "8qqC81Qv5S3LA",
-      "title": "KALDIRIMKOY-SIVRIHISAR (ESKISEHIR)",
-      "magnitude": 1.9,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-15 05:13:36",
-      "latitude": 39.0952,
-      "longitude": 31.5777,
-      "location_name": "Eskişehir"
     }
   ]
 }
