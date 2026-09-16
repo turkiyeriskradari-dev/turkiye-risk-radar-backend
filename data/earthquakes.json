@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T07:50:19.635962+00:00",
+  "last_updated": "2026-09-16T08:02:35.262591+00:00",
   "record_count": 56,
   "data": [
+    {
+      "id": "RptLK81nbbcLL",
+      "title": "SOGUTLUGOZLER-SAVASTEPE (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-16 10:38:35",
+      "latitude": 39.4038,
+      "longitude": 27.7658,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "h3qqFNO41sGdm",
       "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -552,16 +562,6 @@
       "latitude": 40.8367,
       "longitude": 35.9525,
       "location_name": "Amasya"
-    },
-    {
-      "id": "5zKM4A8o2YnFJ",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 11.8,
-      "date_utc": "2026-09-15 10:57:32",
-      "latitude": 39.2545,
-      "longitude": 28.9873,
-      "location_name": "Kütahya"
     }
   ]
 }
