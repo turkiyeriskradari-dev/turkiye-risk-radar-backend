@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T23:34:09.751180+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-16T23:46:48.745454+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "Gg_kgm2_Zue_4",
@@ -532,16 +532,6 @@
       "latitude": 37.872,
       "longitude": 27.5515,
       "location_name": "Aydın"
-    },
-    {
-      "id": "sABXk0IRjXwCD",
-      "title": "KALKAN ACIKLARI-ANTALYA (AKDENIZ)",
-      "magnitude": 1.1,
-      "depth_km": 50.6,
-      "date_utc": "2026-09-16 02:39:51",
-      "latitude": 36.0123,
-      "longitude": 29.3543,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
