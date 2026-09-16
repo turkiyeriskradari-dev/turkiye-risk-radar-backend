@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T19:02:02.941436+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-16T19:21:44.149788+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "VK23CiuRR6w3F",
+      "title": "SARICA-IVRINDI (BALIKESIR)",
+      "magnitude": 1.9,
+      "depth_km": 10.8,
+      "date_utc": "2026-09-16 22:02:12",
+      "latitude": 39.624,
+      "longitude": 27.4983,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "R_I2YjPaQv4Ng",
       "title": "KARACA-CAT (ERZURUM)",
@@ -442,26 +452,6 @@
       "latitude": 40.4123,
       "longitude": 28.8517,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "qdWu2sHPUejsI",
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-15 22:14:05",
-      "latitude": 39.1162,
-      "longitude": 28.4055,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "uAVrzjhgLOOr8",
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 19.1,
-      "date_utc": "2026-09-15 22:12:24",
-      "latitude": 39.1022,
-      "longitude": 28.2513,
-      "location_name": "Balıkesir"
     }
   ]
 }
