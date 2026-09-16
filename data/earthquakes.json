@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T09:35:46.954596+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-16T09:50:10.944911+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "sl9WEkHYTIhto",
@@ -512,36 +512,6 @@
       "latitude": 39.2567,
       "longitude": 28.1518,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "yAJoEH3pRG1Xh",
-      "title": "KALECIK-(ERZINCAN)",
-      "magnitude": 1.9,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-15 12:46:55",
-      "latitude": 39.5607,
-      "longitude": 39.7628,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "10xw242fleVq7",
-      "title": "KALECIK-(ERZINCAN)",
-      "magnitude": 2.4,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-15 12:43:44",
-      "latitude": 39.5742,
-      "longitude": 39.7452,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "_aI4ATw8V_KXf",
-      "title": "KALECIK-(ERZINCAN)",
-      "magnitude": 3,
-      "depth_km": 4.9,
-      "date_utc": "2026-09-15 12:42:46",
-      "latitude": 39.5655,
-      "longitude": 39.7303,
-      "location_name": "Erzincan"
     }
   ]
 }
