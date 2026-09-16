@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T02:35:44.234712+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-16T02:49:50.346947+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "H51WnX5BRDrpy",
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 11.2,
+      "date_utc": "2026-09-16 05:39:06",
+      "latitude": 38.0828,
+      "longitude": 37.7597,
+      "location_name": "Malatya"
+    },
     {
       "id": "ccURsPVMeUd2l",
       "title": "UZUNSOGUT-TURKOGLU (KAHRAMANMARAS)",
@@ -482,26 +492,6 @@
       "latitude": 40.5528,
       "longitude": 33.835,
       "location_name": "Çankırı"
-    },
-    {
-      "id": "KKNrtMyCIw45T",
-      "title": "YENICEKENT-BULDAN (DENIZLI)",
-      "magnitude": 1.2,
-      "depth_km": 15.8,
-      "date_utc": "2026-09-15 05:48:13",
-      "latitude": 38.0575,
-      "longitude": 28.9462,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "oZXJzqKU1YjTY",
-      "title": "NURHAK (KAHRAMANMARAS)",
-      "magnitude": 1.1,
-      "depth_km": 9.6,
-      "date_utc": "2026-09-15 05:41:20",
-      "latitude": 38.029,
-      "longitude": 37.4483,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
