@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T16:35:15.786578+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-16T16:50:18.675831+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "_Q4qKhhGt0OAx",
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-16 19:15:14",
+      "latitude": 39.213,
+      "longitude": 28.0633,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "SF9jMjuwKKOWa",
       "title": "SARILI-(ELAZIG)",
