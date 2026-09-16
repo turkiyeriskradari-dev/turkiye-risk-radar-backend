@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T20:02:19.139064+00:00",
+  "last_updated": "2026-09-16T20:23:29.568444+00:00",
   "record_count": 44,
   "data": [
+    {
+      "id": "DBJ45xmn5eu73",
+      "title": "KADIRUSAGI-YESILYURT (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 28.6,
+      "date_utc": "2026-09-16 22:44:41",
+      "latitude": 38.2365,
+      "longitude": 38.2195,
+      "location_name": "Malatya"
+    },
     {
       "id": "VK23CiuRR6w3F",
       "title": "SARICA-IVRINDI (BALIKESIR)",
@@ -432,16 +442,6 @@
       "latitude": 38.128,
       "longitude": 27.211,
       "location_name": "İzmir"
-    },
-    {
-      "id": "PI8JvZz4YjAXC",
-      "title": "MARMARA DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 12.8,
-      "date_utc": "2026-09-15 23:19:06",
-      "latitude": 40.796,
-      "longitude": 28.098,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
