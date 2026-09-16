@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T16:23:21.817965+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-16T16:35:15.786578+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "SF9jMjuwKKOWa",
@@ -472,16 +472,6 @@
       "latitude": 38.142,
       "longitude": 38.4573,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "fnE_RpIrIw9el",
-      "title": "ASAGICIYRIKLI-TUZLUCA (IGDIR)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-15 19:28:56",
-      "latitude": 40.1547,
-      "longitude": 43.6122,
-      "location_name": "Iğdır"
     }
   ]
 }
