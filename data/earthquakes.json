@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T15:03:01.855189+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-16T15:23:30.539630+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "QotAJOyI_xm42",
@@ -482,16 +482,6 @@
       "latitude": 41.0608,
       "longitude": 29.2205,
       "location_name": "İstanbul"
-    },
-    {
-      "id": "WUr9YXOvZsqbG",
-      "title": "YENIGUN-KADIRLI (OSMANIYE)",
-      "magnitude": 2,
-      "depth_km": 10,
-      "date_utc": "2026-09-15 18:20:56",
-      "latitude": 37.396,
-      "longitude": 36.1792,
-      "location_name": "Osmaniye"
     }
   ]
 }
