@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T22:34:47.346006+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-16T22:47:59.721382+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "guXpaSZkfKC2O",
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 13.2,
+      "date_utc": "2026-09-17 01:26:57",
+      "latitude": 40.2298,
+      "longitude": 31.7103,
+      "location_name": "Ankara"
+    },
     {
       "id": "1A4VW638rqy3G",
       "title": "AKDENIZ",
