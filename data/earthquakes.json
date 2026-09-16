@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T14:35:49.755896+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-16T14:50:55.977236+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "x24OrGgbEd_CV",
@@ -462,16 +462,6 @@
       "latitude": 37.396,
       "longitude": 36.1792,
       "location_name": "Osmaniye"
-    },
-    {
-      "id": "OMjKrhSMGvqWL",
-      "title": "TASLICAY-KARLIOVA (BINGOL)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-15 17:48:24",
-      "latitude": 39.2957,
-      "longitude": 40.9453,
-      "location_name": "Bingöl"
     }
   ]
 }
