@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T02:23:16.263281+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-16T02:35:44.234712+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "ccURsPVMeUd2l",
+      "title": "UZUNSOGUT-TURKOGLU (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 9.2,
+      "date_utc": "2026-09-16 05:13:58",
+      "latitude": 37.3948,
+      "longitude": 36.754,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "AKZEOhBZwLmnP",
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
