@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T05:02:26.318258+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-17T05:22:40.355451+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "IMw7ghqJEZmmR",
+      "title": "YUKARIYENICE-PALANDOKEN (ERZURUM)",
+      "magnitude": 1.6,
+      "depth_km": 15.7,
+      "date_utc": "2026-09-17 08:15:47",
+      "latitude": 39.874,
+      "longitude": 41.0757,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "rUpzNEkydqnAX",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.8,
+      "depth_km": 9.7,
+      "date_utc": "2026-09-17 07:54:33",
+      "latitude": 38.7682,
+      "longitude": 36.5488,
+      "location_name": "Kayseri"
+    },
     {
       "id": "XsXpQRnBQbWjF",
       "title": "ARIKAYA-CAMELI (DENIZLI)",
