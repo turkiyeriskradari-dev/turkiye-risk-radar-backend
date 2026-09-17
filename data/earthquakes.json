@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T03:50:22.525409+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-17T04:02:31.318870+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "L9oiF5x8kQ6dh",
+      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-17 06:47:22",
+      "latitude": 39.495,
+      "longitude": 25.9177,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "poan79aICNpYT",
       "title": "DERINKUYU-(MUGLA)",
