@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T19:02:12.572562+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-17T19:20:44.518574+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "oechLZeXbBNVW",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2.1,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-17 22:04:05",
+      "latitude": 39.0315,
+      "longitude": 25.9907,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "tpyp8MB77uC56",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -642,26 +652,6 @@
       "latitude": 38.2365,
       "longitude": 38.2195,
       "location_name": "Malatya"
-    },
-    {
-      "id": "BEYPNaeabMGd9",
-      "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 14.1,
-      "date_utc": "2026-09-16 22:16:16",
-      "latitude": 38.217,
-      "longitude": 38.6645,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "VK23CiuRR6w3F",
-      "title": "SARICA-IVRINDI (BALIKESIR)",
-      "magnitude": 1.9,
-      "depth_km": 10.8,
-      "date_utc": "2026-09-16 22:02:12",
-      "latitude": 39.624,
-      "longitude": 27.4983,
-      "location_name": "Balıkesir"
     }
   ]
 }
