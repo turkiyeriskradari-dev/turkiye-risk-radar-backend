@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T14:50:03.234451+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-17T15:02:30.134687+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "v81N5MC71kEPB",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.5,
+      "depth_km": 13.4,
+      "date_utc": "2026-09-17 17:47:44",
+      "latitude": 36.176,
+      "longitude": 33.8083,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "qu4blQ2nbWqJt",
+      "title": "OSMANPINARI-ZILE (TOKAT)",
+      "magnitude": 1.6,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-17 17:25:18",
+      "latitude": 40.2297,
+      "longitude": 35.806,
+      "location_name": "Tokat"
+    },
     {
       "id": "QIQmTsCKENHBH",
       "title": "INLICE-SIMAV (KUTAHYA)",
