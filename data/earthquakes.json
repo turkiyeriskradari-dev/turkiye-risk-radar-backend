@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-16T23:46:48.745454+00:00",
+  "last_updated": "2026-09-17T00:02:40.273426+00:00",
   "record_count": 53,
   "data": [
+    {
+      "id": "sNWDw0BisYxtl",
+      "title": "KULLUCE-TERCAN (ERZINCAN)",
+      "magnitude": 1.2,
+      "depth_km": 17.1,
+      "date_utc": "2026-09-17 02:43:28",
+      "latitude": 39.6685,
+      "longitude": 40.568,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "6MxUxi_8YhbYv",
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.7,
+      "depth_km": 11.5,
+      "date_utc": "2026-09-17 02:37:11",
+      "latitude": 38.087,
+      "longitude": 37.7938,
+      "location_name": "Malatya"
+    },
     {
       "id": "Gg_kgm2_Zue_4",
       "title": "HANCERLI-AKCADAG (MALATYA)",
@@ -512,26 +532,6 @@
       "latitude": 40.0322,
       "longitude": 37.6713,
       "location_name": "Sivas"
-    },
-    {
-      "id": "21yXUf_c0xbio",
-      "title": "KIZILCAPINAR-GERMENCIK (AYDIN)",
-      "magnitude": 2.3,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-16 03:01:50",
-      "latitude": 37.872,
-      "longitude": 27.5515,
-      "location_name": "Aydın"
-    },
-    {
-      "id": "NIZgyV4dozwcT",
-      "title": "KIZILCAPINAR-GERMENCIK (AYDIN)",
-      "magnitude": 2,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-16 03:01:50",
-      "latitude": 37.872,
-      "longitude": 27.5515,
-      "location_name": "Aydın"
     }
   ]
 }
