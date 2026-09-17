@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T21:33:10.452674+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-17T21:46:28.049327+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "F0YDUq5nbRdVr",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 12.9,
+      "date_utc": "2026-09-18 00:36:55",
+      "latitude": 39.206,
+      "longitude": 29.0232,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "B9Yudap4hYLvU",
+      "title": "BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-18 00:29:57",
+      "latitude": 38.2997,
+      "longitude": 37.296,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "loRPiKKpyUS2Z",
       "title": "EGE DENIZI",
@@ -772,36 +792,6 @@
       "latitude": 35.67,
       "longitude": 26.2828,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "KnvlLhSrnaTx4",
-      "title": "AKDENIZ",
-      "magnitude": 1.8,
-      "depth_km": 24.1,
-      "date_utc": "2026-09-17 00:42:48",
-      "latitude": 35.8702,
-      "longitude": 33.9887,
-      "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "9VOa1TyGnTVQR",
-      "title": "CAYIRHISAR-(BALIKESIR)",
-      "magnitude": 0.6,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-17 00:33:55",
-      "latitude": 39.6258,
-      "longitude": 27.8883,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "MKMu8stqQSCaw",
-      "title": "ARIKAYA-CAMELI (DENIZLI)",
-      "magnitude": 1.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-17 00:33:49",
-      "latitude": 36.975,
-      "longitude": 29.3485,
-      "location_name": "Muğla"
     }
   ]
 }
