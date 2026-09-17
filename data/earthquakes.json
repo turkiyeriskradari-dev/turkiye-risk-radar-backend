@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T21:46:28.049327+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-17T22:02:14.456065+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "P97yZDH7Y4Yc5",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-18 00:46:46",
+      "latitude": 39.2372,
+      "longitude": 29.0517,
+      "location_name": "Kütahya"
+    },
     {
       "id": "F0YDUq5nbRdVr",
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -762,36 +772,6 @@
       "latitude": 40.2298,
       "longitude": 31.7103,
       "location_name": "Ankara"
-    },
-    {
-      "id": "1A4VW638rqy3G",
-      "title": "AKDENIZ",
-      "magnitude": 2.8,
-      "depth_km": 76.5,
-      "date_utc": "2026-09-17 00:59:09",
-      "latitude": 35.827,
-      "longitude": 32.2738,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "_cSi4x41CGKQ_",
-      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 15.1,
-      "date_utc": "2026-09-17 00:53:02",
-      "latitude": 38.2467,
-      "longitude": 38.2013,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "NPiBRL17GbBsd",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 7.7,
-      "date_utc": "2026-09-17 00:46:37",
-      "latitude": 35.67,
-      "longitude": 26.2828,
-      "location_name": "Ege Denizi"
     }
   ]
 }
