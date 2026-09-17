@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T15:49:58.277308+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-17T16:02:22.848094+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "SRdTqGxqNKIL9",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-17 18:41:57",
+      "latitude": 39.2122,
+      "longitude": 28.184,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "BqPmMEc_3a0lg",
       "title": "BASKENT-VARTO (MUS)",
@@ -672,26 +682,6 @@
       "latitude": 39.213,
       "longitude": 28.0633,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "DGgg1iyBPdwIv",
-      "title": "EGE DENIZI",
-      "magnitude": 2.2,
-      "depth_km": 5.5,
-      "date_utc": "2026-09-16 19:01:16",
-      "latitude": 35.7842,
-      "longitude": 25.5418,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "SF9jMjuwKKOWa",
-      "title": "SARILI-(ELAZIG)",
-      "magnitude": 2.1,
-      "depth_km": 8.4,
-      "date_utc": "2026-09-16 18:54:00",
-      "latitude": 38.547,
-      "longitude": 39.1082,
-      "location_name": "Elazığ"
     }
   ]
 }
