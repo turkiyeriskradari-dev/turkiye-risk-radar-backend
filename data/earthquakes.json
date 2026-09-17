@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T03:36:30.380999+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-17T03:50:22.525409+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "poan79aICNpYT",
@@ -462,16 +462,6 @@
       "latitude": 39.2895,
       "longitude": 34.29,
       "location_name": "Kırşehir"
-    },
-    {
-      "id": "TBcnIX2RrUtSd",
-      "title": "DAGLICA-KOZAN (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-16 06:40:57",
-      "latitude": 37.5412,
-      "longitude": 35.8517,
-      "location_name": "Adana"
     }
   ]
 }
