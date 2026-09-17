@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T21:02:03.738826+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-17T21:22:05.615032+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "loRPiKKpyUS2Z",
+      "title": "EGE DENIZI",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-18 00:10:19",
+      "latitude": 36.659,
+      "longitude": 25.7833,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "F1VemQrjNTIO3",
+      "title": "NASA-SIMAV (KUTAHYA)",
+      "magnitude": 0.6,
+      "depth_km": 14.4,
+      "date_utc": "2026-09-18 00:08:04",
+      "latitude": 39.1572,
+      "longitude": 28.9892,
+      "location_name": "Kütahya"
+    },
     {
       "id": "_8Z2hxdiHs5KR",
       "title": "HACIAHMETOGLU-SIMAV (KUTAHYA)",
