@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T00:02:40.273426+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-17T00:29:20.323432+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "yjcMXw7c3uGOq",
+      "title": "GUNGOREN-ILIC (ERZINCAN)",
+      "magnitude": 1.3,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-17 03:00:00",
+      "latitude": 39.6157,
+      "longitude": 38.4782,
+      "location_name": "Erzincan"
+    },
     {
       "id": "sNWDw0BisYxtl",
       "title": "KULLUCE-TERCAN (ERZINCAN)",
