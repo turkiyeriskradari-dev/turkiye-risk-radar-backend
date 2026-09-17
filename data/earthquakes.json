@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T23:01:49.532156+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-17T23:19:11.617972+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "VkY6iVEkiWTrB",
@@ -771,16 +771,6 @@
       "date_utc": "2026-09-17 02:37:11",
       "latitude": 38.087,
       "longitude": 37.7938,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "Gg_kgm2_Zue_4",
-      "title": "HANCERLI-AKCADAG (MALATYA)",
-      "magnitude": 1,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-17 02:10:01",
-      "latitude": 38.2912,
-      "longitude": 37.862,
       "location_name": "Malatya"
     }
   ]
