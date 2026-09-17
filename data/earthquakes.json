@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T06:02:41.829566+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-17T06:29:24.948625+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "IMw7ghqJEZmmR",
@@ -502,16 +502,6 @@
       "latitude": 39.6242,
       "longitude": 26.0573,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "gXWtpY4k6dHza",
-      "title": "KOZLU-(BOLU)",
-      "magnitude": 1.8,
-      "depth_km": 9.5,
-      "date_utc": "2026-09-16 09:29:03",
-      "latitude": 40.8187,
-      "longitude": 31.565,
-      "location_name": "Bolu"
     }
   ]
 }
