@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T10:35:21.020860+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-17T10:50:03.859859+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "DSJ5QnDr3fjjb",
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.1,
+      "depth_km": 1.7,
+      "date_utc": "2026-09-17 13:15:06",
+      "latitude": 39.1652,
+      "longitude": 28.2902,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "e4RrLl9dNUHGv",
       "title": "SANDIKLI-GEDIZ (KUTAHYA)",
@@ -12,6 +22,16 @@
       "latitude": 38.9302,
       "longitude": 29.4188,
       "location_name": "Kütahya"
+    },
+    {
+      "id": "zntgjNmwl56NV",
+      "title": "ONCU-YESILYURT (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-09-17 12:18:38",
+      "latitude": 38.1902,
+      "longitude": 38.362,
+      "location_name": "Malatya"
     },
     {
       "id": "_S1fodRVpJ3aK",
