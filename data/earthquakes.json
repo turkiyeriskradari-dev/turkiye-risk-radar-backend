@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T04:02:31.318870+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-17T04:23:57.946804+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "WnH2I0oluqFtI",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 2,
+      "depth_km": 13.5,
+      "date_utc": "2026-09-17 06:53:39",
+      "latitude": 38.2255,
+      "longitude": 38.5313,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "4sLG8JqkK0B76",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-17 06:50:19",
+      "latitude": 36.9442,
+      "longitude": 27.5975,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "L9oiF5x8kQ6dh",
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -462,16 +482,6 @@
       "latitude": 37.6463,
       "longitude": 32.108,
       "location_name": "Konya"
-    },
-    {
-      "id": "sF8h3sPmaNnWF",
-      "title": "BOZTEPE (KIRSEHIR)",
-      "magnitude": 1.7,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-16 07:20:12",
-      "latitude": 39.2895,
-      "longitude": 34.29,
-      "location_name": "Kırşehir"
     }
   ]
 }
