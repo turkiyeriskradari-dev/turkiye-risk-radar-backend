@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T20:23:24.434422+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-17T20:34:27.330754+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "kbhNbkcmb8vWB",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1.3,
+      "depth_km": 9.4,
+      "date_utc": "2026-09-17 23:25:58",
+      "latitude": 39.197,
+      "longitude": 29.011,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "5dRlBqzC30dgC",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1.1,
+      "depth_km": 1.9,
+      "date_utc": "2026-09-17 23:20:48",
+      "latitude": 39.2125,
+      "longitude": 29.048,
+      "location_name": "Kütahya"
+    },
     {
       "id": "ahNIa_rg6izUs",
       "title": "YESILOVA-SIMAV (KUTAHYA)",
