@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T09:36:22.447661+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-17T09:50:09.419110+00:00",
+  "record_count": 52,
   "data": [
     {
       "id": "_S1fodRVpJ3aK",
@@ -522,16 +522,6 @@
       "latitude": 39.389,
       "longitude": 33.368,
       "location_name": "Kırıkkale"
-    },
-    {
-      "id": "Es24O39EJVzT2",
-      "title": "HACIALANI-ERDEMLI (MERSIN)",
-      "magnitude": 1.7,
-      "depth_km": 12,
-      "date_utc": "2026-09-16 12:37:55",
-      "latitude": 36.8025,
-      "longitude": 34.1957,
-      "location_name": "Mersin"
     }
   ]
 }
