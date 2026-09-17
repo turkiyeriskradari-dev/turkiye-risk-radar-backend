@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T15:02:30.134687+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-17T15:23:40.376952+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "zXLIRg8s1LuqZ",
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-17 17:49:50",
+      "latitude": 36.2052,
+      "longitude": 33.7168,
+      "location_name": "Mersin"
+    },
     {
       "id": "v81N5MC71kEPB",
       "title": "AKDERE-SILIFKE (MERSIN)",
