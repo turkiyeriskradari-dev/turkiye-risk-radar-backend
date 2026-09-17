@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T18:26:01.122669+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-17T18:39:12.120321+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "BU7zCfrEOr_6t",
@@ -662,16 +662,6 @@
       "latitude": 37.671,
       "longitude": 26.9262,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "R_I2YjPaQv4Ng",
-      "title": "KARACA-CAT (ERZURUM)",
-      "magnitude": 2.8,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-16 21:36:06",
-      "latitude": 39.4512,
-      "longitude": 40.58,
-      "location_name": "Bingöl"
     }
   ]
 }
