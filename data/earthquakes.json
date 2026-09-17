@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T11:02:23.666257+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-17T11:22:34.025797+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "utFqybzfxMGZn",
+      "title": "GECITLI-SINCIK (ADIYAMAN)",
+      "magnitude": 1.6,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-17 13:59:15",
+      "latitude": 38.1292,
+      "longitude": 38.5355,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "TWyUuMoKNiQWn",
+      "title": "AKDENIZ",
+      "magnitude": 1.6,
+      "depth_km": 10.5,
+      "date_utc": "2026-09-17 13:47:27",
+      "latitude": 36.4822,
+      "longitude": 28.0943,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "LBuZYOwecXJ28",
+      "title": "KARATERZI-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 14.9,
+      "date_utc": "2026-09-17 13:38:02",
+      "latitude": 38.2118,
+      "longitude": 37.895,
+      "location_name": "Malatya"
+    },
     {
       "id": "DSJ5QnDr3fjjb",
       "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
