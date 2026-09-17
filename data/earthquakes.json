@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T04:36:37.118742+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-17T04:49:57.120593+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "CTFq5mNVscTVd",
@@ -482,16 +482,6 @@
       "latitude": 40.8187,
       "longitude": 31.565,
       "location_name": "Bolu"
-    },
-    {
-      "id": "5PM2coFqn7d5A",
-      "title": "EVLIYATEKKE-MERAM (KONYA)",
-      "magnitude": 1.3,
-      "depth_km": 11.3,
-      "date_utc": "2026-09-16 07:43:58",
-      "latitude": 37.6463,
-      "longitude": 32.108,
-      "location_name": "Konya"
     }
   ]
 }
