@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T03:23:27.344894+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-17T03:36:30.380999+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "poan79aICNpYT",
@@ -472,16 +472,6 @@
       "latitude": 37.5412,
       "longitude": 35.8517,
       "location_name": "Adana"
-    },
-    {
-      "id": "IqSpl0NyOnnbU",
-      "title": "KOZLUK-KALE (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 2.7,
-      "date_utc": "2026-09-16 06:28:00",
-      "latitude": 38.3647,
-      "longitude": 38.7945,
-      "location_name": "Malatya"
     }
   ]
 }
