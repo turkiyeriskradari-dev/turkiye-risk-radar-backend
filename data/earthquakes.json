@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T08:02:19.822047+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-17T08:25:25.023667+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "O7356yBSgTYH4",
+      "title": "DERELI-PERTEK (TUNCELI)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-17 10:24:02",
+      "latitude": 38.8828,
+      "longitude": 39.3033,
+      "location_name": "Tunceli"
+    },
+    {
+      "id": "hLekCWuyJru2F",
+      "title": "ADIL-SOMA (MANISA)",
+      "magnitude": 1.6,
+      "depth_km": 0,
+      "date_utc": "2026-09-17 09:42:39",
+      "latitude": 39.1242,
+      "longitude": 27.5907,
+      "location_name": "Manisa"
+    },
     {
       "id": "5JI_RrDq9h5Cd",
       "title": "BAGILLI-GELENDOST (ISPARTA)",
@@ -22,6 +42,16 @@
       "latitude": 38.3792,
       "longitude": 39.25,
       "location_name": "Elazığ"
+    },
+    {
+      "id": "bWbtjCTXOqIaN",
+      "title": "DAZYURT-(MANISA)",
+      "magnitude": 1.6,
+      "depth_km": 12.4,
+      "date_utc": "2026-09-17 08:51:11",
+      "latitude": 38.7883,
+      "longitude": 27.1815,
+      "location_name": "Manisa"
     },
     {
       "id": "IMw7ghqJEZmmR",
