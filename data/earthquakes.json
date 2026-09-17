@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T02:02:25.759791+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-17T02:23:17.416775+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "poan79aICNpYT",
+      "title": "DERINKUYU-(MUGLA)",
+      "magnitude": 2.1,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-17 05:07:54",
+      "latitude": 37.0625,
+      "longitude": 28.246,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "HUCwn3LQd1Lyx",
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 13.3,
+      "date_utc": "2026-09-17 04:58:08",
+      "latitude": 39.1403,
+      "longitude": 28.2532,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "FwEDXLxe5uX_H",
       "title": "HASANKENDI-ELBISTAN (KAHRAMANMARAS)",
@@ -32,6 +52,16 @@
       "latitude": 39.1887,
       "longitude": 28.158,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "TcGmrmYsIIHZi",
+      "title": "CAYGELDI-BULANIK (MUS)",
+      "magnitude": 1.7,
+      "depth_km": 18.6,
+      "date_utc": "2026-09-17 04:29:04",
+      "latitude": 38.9638,
+      "longitude": 42.446,
+      "location_name": "Muş"
     },
     {
       "id": "WUrnG9O2E2RM8",
@@ -532,16 +562,6 @@
       "latitude": 38.0828,
       "longitude": 37.7597,
       "location_name": "Malatya"
-    },
-    {
-      "id": "ccURsPVMeUd2l",
-      "title": "UZUNSOGUT-TURKOGLU (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 9.2,
-      "date_utc": "2026-09-16 05:13:58",
-      "latitude": 37.3948,
-      "longitude": 36.754,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
