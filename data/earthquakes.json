@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T01:49:54.949261+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-17T02:02:25.759791+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "FwEDXLxe5uX_H",
+      "title": "HASANKENDI-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 8.1,
+      "date_utc": "2026-09-17 04:39:34",
+      "latitude": 38.2267,
+      "longitude": 37.1757,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "97jt9Z8AKg8BD",
+      "title": "DEVEBOYNU-AFSIN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 12.1,
+      "date_utc": "2026-09-17 04:34:46",
+      "latitude": 38.1398,
+      "longitude": 36.808,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "Qp4KhgLVfSc1X",
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-17 04:30:11",
+      "latitude": 39.1887,
+      "longitude": 28.158,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "WUrnG9O2E2RM8",
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "magnitude": 1,
+      "depth_km": 12,
+      "date_utc": "2026-09-17 04:28:42",
+      "latitude": 39.2048,
+      "longitude": 29.084,
+      "location_name": "Kütahya"
+    },
     {
       "id": "yjcMXw7c3uGOq",
       "title": "GUNGOREN-ILIC (ERZINCAN)",
@@ -502,26 +542,6 @@
       "latitude": 37.3948,
       "longitude": 36.754,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "AKZEOhBZwLmnP",
-      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 3.9,
-      "date_utc": "2026-09-16 04:59:51",
-      "latitude": 38.0973,
-      "longitude": 36.6025,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "MGBpKMyBdDAxW",
-      "title": "EGE DENIZI",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-16 04:55:00",
-      "latitude": 38.3253,
-      "longitude": 25.265,
-      "location_name": "Ege Denizi"
     }
   ]
 }
