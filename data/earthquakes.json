@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T23:31:25.334589+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-17T23:46:35.115624+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "qobsj68KNjW7e",
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "magnitude": 2.1,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-18 02:32:19",
+      "latitude": 40.1635,
+      "longitude": 31.7295,
+      "location_name": "Ankara"
+    },
     {
       "id": "9jtAs2W9L3MB8",
       "title": "YAKINCA-YESILYURT (MALATYA)",
@@ -762,26 +772,6 @@
       "latitude": 39.6157,
       "longitude": 38.4782,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "sNWDw0BisYxtl",
-      "title": "KULLUCE-TERCAN (ERZINCAN)",
-      "magnitude": 1.2,
-      "depth_km": 17.1,
-      "date_utc": "2026-09-17 02:43:28",
-      "latitude": 39.6685,
-      "longitude": 40.568,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "6MxUxi_8YhbYv",
-      "title": "SOGUT-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.7,
-      "depth_km": 11.5,
-      "date_utc": "2026-09-17 02:37:11",
-      "latitude": 38.087,
-      "longitude": 37.7938,
-      "location_name": "Malatya"
     }
   ]
 }
