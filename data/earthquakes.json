@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T13:23:55.169160+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-17T13:35:41.217639+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "8dc6oG8Mw4KI3",
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "magnitude": 1.4,
+      "depth_km": 18.6,
+      "date_utc": "2026-09-17 16:19:33",
+      "latitude": 38.153,
+      "longitude": 38.497,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "ktQc8tl_3lKJ_",
       "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
