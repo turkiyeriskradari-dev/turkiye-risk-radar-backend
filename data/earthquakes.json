@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T08:25:25.023667+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-17T08:35:50.920523+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "0w86u8oc34XVl",
+      "title": "EGE DENIZI",
+      "magnitude": 1.9,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-17 10:32:06",
+      "latitude": 38.7925,
+      "longitude": 26.355,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "O7356yBSgTYH4",
       "title": "DERELI-PERTEK (TUNCELI)",
