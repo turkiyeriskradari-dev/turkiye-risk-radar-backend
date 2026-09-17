@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T20:46:38.625089+00:00",
+  "last_updated": "2026-09-17T21:02:03.738826+00:00",
   "record_count": 78,
   "data": [
+    {
+      "id": "_8Z2hxdiHs5KR",
+      "title": "HACIAHMETOGLU-SIMAV (KUTAHYA)",
+      "magnitude": 0.8,
+      "depth_km": 15.8,
+      "date_utc": "2026-09-17 23:43:04",
+      "latitude": 39.148,
+      "longitude": 29.0182,
+      "location_name": "Kütahya"
+    },
     {
       "id": "28lT0NqcEcjSK",
       "title": "EGIRLER-SIMAV (KUTAHYA)",
@@ -772,16 +782,6 @@
       "latitude": 36.975,
       "longitude": 29.3485,
       "location_name": "Muğla"
-    },
-    {
-      "id": "leOTqkh35EfT8",
-      "title": "KUSCUMUSTAFA-ISLAHIYE (GAZIANTEP)",
-      "magnitude": 1.9,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-16 23:57:18",
-      "latitude": 37.107,
-      "longitude": 36.6305,
-      "location_name": "Gaziantep"
     }
   ]
 }
