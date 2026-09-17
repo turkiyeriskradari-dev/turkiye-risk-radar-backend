@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T14:02:48.550384+00:00",
+  "last_updated": "2026-09-17T14:25:23.845439+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "QIQmTsCKENHBH",
+      "title": "INLICE-SIMAV (KUTAHYA)",
+      "magnitude": 1.1,
+      "depth_km": 10.8,
+      "date_utc": "2026-09-17 17:00:11",
+      "latitude": 39.1355,
+      "longitude": 29.1843,
+      "location_name": "Kütahya"
+    },
     {
       "id": "8dc6oG8Mw4KI3",
       "title": "AKSU-SINCIK (ADIYAMAN)",
@@ -651,16 +661,6 @@
       "date_utc": "2026-09-16 17:46:44",
       "latitude": 37.858,
       "longitude": 26.8337,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "p8Gh42KKs90y8",
-      "title": "UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 12,
-      "date_utc": "2026-09-16 17:15:11",
-      "latitude": 39.9645,
-      "longitude": 26.0717,
       "location_name": "Ege Denizi"
     }
   ]
