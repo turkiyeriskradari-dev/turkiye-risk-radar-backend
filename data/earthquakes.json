@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T02:49:41.839268+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-17T03:02:15.427227+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "poan79aICNpYT",
@@ -532,16 +532,6 @@
       "latitude": 39.1535,
       "longitude": 33.2875,
       "location_name": "Ankara"
-    },
-    {
-      "id": "uPsFnFdKSgpQ9",
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.9,
-      "depth_km": 8.8,
-      "date_utc": "2026-09-16 05:54:38",
-      "latitude": 39.2347,
-      "longitude": 28.1247,
-      "location_name": "Balıkesir"
     }
   ]
 }
