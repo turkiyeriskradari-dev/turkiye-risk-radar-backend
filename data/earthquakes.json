@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T18:02:34.477897+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-17T18:26:01.122669+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "BU7zCfrEOr_6t",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "magnitude": 1.7,
+      "depth_km": 21.4,
+      "date_utc": "2026-09-17 21:00:02",
+      "latitude": 38.186,
+      "longitude": 38.6283,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "q2YHteGX1HU9W",
+      "title": "TOPALUSAGI-SIVRICE (ELAZIG)",
+      "magnitude": 1.6,
+      "depth_km": 11.7,
+      "date_utc": "2026-09-17 20:42:33",
+      "latitude": 38.324,
+      "longitude": 38.9953,
+      "location_name": "Elazığ"
+    },
     {
       "id": "Y_IL_vrpaKzPO",
       "title": "TURAN-BAYINDIR (IZMIR)",
