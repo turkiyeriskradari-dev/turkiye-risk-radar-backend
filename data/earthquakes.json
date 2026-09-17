@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T06:57:34.639832+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-17T07:09:07.621278+00:00",
+  "record_count": 49,
   "data": [
     {
       "id": "IMw7ghqJEZmmR",
@@ -492,16 +492,6 @@
       "latitude": 36.181,
       "longitude": 36.1952,
       "location_name": "Hatay"
-    },
-    {
-      "id": "h3qqFNO41sGdm",
-      "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 6,
-      "date_utc": "2026-09-16 10:07:09",
-      "latitude": 39.6242,
-      "longitude": 26.0573,
-      "location_name": "Ege Denizi"
     }
   ]
 }
