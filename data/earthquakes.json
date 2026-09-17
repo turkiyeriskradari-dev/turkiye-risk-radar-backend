@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T13:03:51.844075+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-17T13:23:55.169160+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "ktQc8tl_3lKJ_",
+      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
+      "magnitude": 1.8,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-17 16:09:04",
+      "latitude": 38.6768,
+      "longitude": 36.4683,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "bIr2qmjJX_B_h",
+      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
+      "magnitude": 1.8,
+      "depth_km": 0,
+      "date_utc": "2026-09-17 16:09:04",
+      "latitude": 38.673,
+      "longitude": 36.4603,
+      "location_name": "Kayseri"
+    },
     {
       "id": "8EhI_SEX8lcd0",
       "title": "OGLAKOREN-(HATAY)",
