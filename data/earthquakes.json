@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T15:23:40.376952+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-17T15:34:47.433499+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "BqPmMEc_3a0lg",
+      "title": "BASKENT-VARTO (MUS)",
+      "magnitude": 2.1,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-17 18:12:06",
+      "latitude": 39.2057,
+      "longitude": 41.559,
+      "location_name": "Muş"
+    },
     {
       "id": "zXLIRg8s1LuqZ",
       "title": "ISIKLI-SILIFKE (MERSIN)",
