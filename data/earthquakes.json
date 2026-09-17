@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T00:29:20.323432+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-17T00:44:05.943906+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "yjcMXw7c3uGOq",
@@ -532,16 +532,6 @@
       "latitude": 35.3398,
       "longitude": 30.1603,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "Myhqudvcqrf_t",
-      "title": "ESENLER-ZARA (SIVAS)",
-      "magnitude": 2.1,
-      "depth_km": 6,
-      "date_utc": "2026-09-16 03:38:04",
-      "latitude": 40.0322,
-      "longitude": 37.6713,
-      "location_name": "Sivas"
     }
   ]
 }
