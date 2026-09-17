@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T10:23:41.546257+00:00",
+  "last_updated": "2026-09-17T10:35:21.020860+00:00",
   "record_count": 55,
   "data": [
+    {
+      "id": "e4RrLl9dNUHGv",
+      "title": "SANDIKLI-GEDIZ (KUTAHYA)",
+      "magnitude": 1.6,
+      "depth_km": 10,
+      "date_utc": "2026-09-17 13:11:00",
+      "latitude": 38.9302,
+      "longitude": 29.4188,
+      "location_name": "Kütahya"
+    },
     {
       "id": "_S1fodRVpJ3aK",
       "title": "TIRKAZ-SARAYKOY (DENIZLI)",
@@ -542,16 +552,6 @@
       "latitude": 36.6653,
       "longitude": 25.7097,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "x24OrGgbEd_CV",
-      "title": "YAGCA-DOSEMEALTI (ANTALYA)",
-      "magnitude": 1.6,
-      "depth_km": 21.8,
-      "date_utc": "2026-09-16 13:32:11",
-      "latitude": 37.07,
-      "longitude": 30.5592,
-      "location_name": "Antalya"
     }
   ]
 }
