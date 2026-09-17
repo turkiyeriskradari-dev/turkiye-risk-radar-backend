@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T10:02:06.919029+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-17T10:23:41.546257+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "_S1fodRVpJ3aK",
@@ -22,6 +22,36 @@
       "latitude": 40.8965,
       "longitude": 28.7788,
       "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "diTYakze8AicP",
+      "title": "MARMARA DENIZI",
+      "magnitude": 1.5,
+      "depth_km": 3.5,
+      "date_utc": "2026-09-17 11:48:19",
+      "latitude": 40.6447,
+      "longitude": 27.5943,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "TuCsPghQ6uAeH",
+      "title": "PINARBASI-EZINE (CANAKKALE)",
+      "magnitude": 1,
+      "depth_km": 3.7,
+      "date_utc": "2026-09-17 11:24:24",
+      "latitude": 39.8833,
+      "longitude": 26.2572,
+      "location_name": "Çanakkale"
+    },
+    {
+      "id": "dBBHusgizMifm",
+      "title": "BAYIRKOY-MILAS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 0,
+      "date_utc": "2026-09-17 11:06:18",
+      "latitude": 37.1157,
+      "longitude": 27.8793,
+      "location_name": "Muğla"
     },
     {
       "id": "0w86u8oc34XVl",
