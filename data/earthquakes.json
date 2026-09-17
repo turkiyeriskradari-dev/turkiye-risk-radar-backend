@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T17:48:38.020239+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-17T18:02:34.477897+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "Y_IL_vrpaKzPO",
@@ -652,16 +652,6 @@
       "latitude": 39.4512,
       "longitude": 40.58,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "9FYRy2Ro2uKE4",
-      "title": "COKEK-SAMANDAG (HATAY)",
-      "magnitude": 1.8,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-16 20:50:25",
-      "latitude": 36.1812,
-      "longitude": 36.0752,
-      "location_name": "Hatay"
     }
   ]
 }
