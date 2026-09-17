@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T02:36:17.549381+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-17T02:49:41.839268+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "poan79aICNpYT",
@@ -542,26 +542,6 @@
       "latitude": 39.2347,
       "longitude": 28.1247,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "n5kxKsV4O7Ysr",
-      "title": "GURCISTAN",
-      "magnitude": 2.2,
-      "depth_km": 11.6,
-      "date_utc": "2026-09-16 05:41:21",
-      "latitude": 41.3727,
-      "longitude": 43.9075,
-      "location_name": "Gürcistan"
-    },
-    {
-      "id": "H51WnX5BRDrpy",
-      "title": "SOGUT-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 11.2,
-      "date_utc": "2026-09-16 05:39:06",
-      "latitude": 38.0828,
-      "longitude": 37.7597,
-      "location_name": "Malatya"
     }
   ]
 }
