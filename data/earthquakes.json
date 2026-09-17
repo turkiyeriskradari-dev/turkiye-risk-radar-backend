@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T12:28:07.933134+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-17T12:42:45.645677+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "op1VYBrw7KF0Q",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 15.9,
+      "date_utc": "2026-09-17 14:38:08",
+      "latitude": 39.0968,
+      "longitude": 28.3258,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "xWVZDfdUvbA68",
       "title": "EGE DENIZI",
