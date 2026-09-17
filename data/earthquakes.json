@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T19:20:44.518574+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-17T19:33:39.150119+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "kT5ULqKUyg1Aq",
+      "title": "HAMZABEY-SIMAV (KUTAHYA)",
+      "magnitude": 1.4,
+      "depth_km": 12.6,
+      "date_utc": "2026-09-17 22:28:05",
+      "latitude": 39.2052,
+      "longitude": 28.9463,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "yMYR115qcjtfV",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2.4,
+      "depth_km": 11.8,
+      "date_utc": "2026-09-17 22:23:05",
+      "latitude": 39.028,
+      "longitude": 25.9878,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "oechLZeXbBNVW",
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
