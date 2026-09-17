@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T18:51:55.456104+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-17T19:02:12.572562+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "tpyp8MB77uC56",
@@ -662,16 +662,6 @@
       "latitude": 39.624,
       "longitude": 27.4983,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "cN_nF45t2_BZM",
-      "title": "MILLI PARK-KUSADASI (AYDIN)",
-      "magnitude": 1.4,
-      "depth_km": 15.2,
-      "date_utc": "2026-09-16 21:56:54",
-      "latitude": 37.671,
-      "longitude": 26.9262,
-      "location_name": "Ege Denizi"
     }
   ]
 }
