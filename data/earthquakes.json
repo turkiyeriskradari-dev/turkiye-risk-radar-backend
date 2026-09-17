@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T12:42:45.645677+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-17T12:54:28.326399+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "8EhI_SEX8lcd0",
+      "title": "OGLAKOREN-(HATAY)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-17 14:41:19",
+      "latitude": 36.284,
+      "longitude": 36.1363,
+      "location_name": "Hatay"
+    },
     {
       "id": "op1VYBrw7KF0Q",
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
