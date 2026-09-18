@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T10:02:20.714004+00:00",
+  "last_updated": "2026-09-18T10:22:40.669254+00:00",
   "record_count": 89,
   "data": [
+    {
+      "id": "sbQuzAKqfjBlT",
+      "title": "TASBURUN-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.3,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-18 13:13:32",
+      "latitude": 38.1485,
+      "longitude": 37.2252,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "V8hrS_mCjMcP2",
+      "title": "GOKCEOREN-KULA (MANISA)",
+      "magnitude": 0.8,
+      "depth_km": 3.2,
+      "date_utc": "2026-09-18 12:52:57",
+      "latitude": 38.55,
+      "longitude": 28.4862,
+      "location_name": "Manisa"
+    },
     {
       "id": "wAlpNrTj8ZmWd",
       "title": "YENIKOY-TAVSANLI (KUTAHYA)",
@@ -872,26 +892,6 @@
       "latitude": 38.2118,
       "longitude": 37.895,
       "location_name": "Malatya"
-    },
-    {
-      "id": "DSJ5QnDr3fjjb",
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.1,
-      "depth_km": 1.7,
-      "date_utc": "2026-09-17 13:15:06",
-      "latitude": 39.1652,
-      "longitude": 28.2902,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "e4RrLl9dNUHGv",
-      "title": "SANDIKLI-GEDIZ (KUTAHYA)",
-      "magnitude": 1.6,
-      "depth_km": 10,
-      "date_utc": "2026-09-17 13:11:00",
-      "latitude": 38.9302,
-      "longitude": 29.4188,
-      "location_name": "Kütahya"
     }
   ]
 }
