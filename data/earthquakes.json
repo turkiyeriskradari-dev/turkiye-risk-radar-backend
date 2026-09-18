@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T23:02:09.047865+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-18T23:21:18.868782+00:00",
+  "record_count": 79,
   "data": [
     {
       "id": "Ct7kmfMUcjhLz",
@@ -792,16 +792,6 @@
       "latitude": 40.1635,
       "longitude": 31.7295,
       "location_name": "Ankara"
-    },
-    {
-      "id": "9jtAs2W9L3MB8",
-      "title": "YAKINCA-YESILYURT (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 17.7,
-      "date_utc": "2026-09-18 02:15:45",
-      "latitude": 38.3125,
-      "longitude": 38.2278,
-      "location_name": "Malatya"
     }
   ]
 }
