@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T22:01:59.945283+00:00",
-  "record_count": 83,
+  "last_updated": "2026-09-18T22:21:17.156112+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "Ct7kmfMUcjhLz",
@@ -821,16 +821,6 @@
       "date_utc": "2026-09-18 01:22:43",
       "latitude": 39.247,
       "longitude": 29.0018,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "izmspVVwWdQhY",
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "magnitude": 1.1,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-18 01:04:31",
-      "latitude": 39.2105,
-      "longitude": 29.0612,
       "location_name": "Kütahya"
     }
   ]
