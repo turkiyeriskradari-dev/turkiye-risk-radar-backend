@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T10:48:44.544194+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T11:02:27.349461+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "sUF06wUL3Mxhs",
@@ -912,16 +912,6 @@
       "latitude": 35.801,
       "longitude": 27.4867,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "utFqybzfxMGZn",
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "magnitude": 1.6,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-17 13:59:15",
-      "latitude": 38.1292,
-      "longitude": 38.5355,
-      "location_name": "Adıyaman"
     }
   ]
 }
