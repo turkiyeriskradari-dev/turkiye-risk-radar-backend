@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T02:36:12.028782+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-18T02:48:58.147149+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "BkSSD5rA2k8mH",
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 12.2,
+      "date_utc": "2026-09-18 05:40:09",
+      "latitude": 39.1422,
+      "longitude": 28.1367,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "y4C7tMNrnCTWq",
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 14.5,
+      "date_utc": "2026-09-18 05:25:07",
+      "latitude": 39.2555,
+      "longitude": 29.003,
+      "location_name": "Kütahya"
+    },
     {
       "id": "LbjiB4L3qTIIj",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
