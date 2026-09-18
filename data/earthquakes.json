@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T17:32:00.041629+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T17:46:27.248607+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "PgZnX0_irIKYN",
@@ -912,16 +912,6 @@
       "latitude": 38.186,
       "longitude": 38.6283,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "q2YHteGX1HU9W",
-      "title": "TOPALUSAGI-SIVRICE (ELAZIG)",
-      "magnitude": 1.6,
-      "depth_km": 11.7,
-      "date_utc": "2026-09-17 20:42:33",
-      "latitude": 38.324,
-      "longitude": 38.9953,
-      "location_name": "Elazığ"
     }
   ]
 }
