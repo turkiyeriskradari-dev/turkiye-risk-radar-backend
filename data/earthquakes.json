@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T19:46:04.852747+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T20:02:05.941984+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "wu5eSfpcBh0Fw",
+      "title": "EGE DENIZI",
+      "magnitude": 3.6,
+      "depth_km": 15.7,
+      "date_utc": "2026-09-18 22:41:40",
+      "latitude": 38.4633,
+      "longitude": 25.4703,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "4HCYcaAd9XKXH",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -891,36 +901,6 @@
       "date_utc": "2026-09-17 23:06:33",
       "latitude": 39.2188,
       "longitude": 29.0112,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "5PsYA6dcPqWRF",
-      "title": "CANKAYA (ANKARA)",
-      "magnitude": 1.6,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-17 22:56:55",
-      "latitude": 39.8155,
-      "longitude": 32.9448,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "CsmcRVvdKl3yQ",
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "magnitude": 0.7,
-      "depth_km": 4.9,
-      "date_utc": "2026-09-17 22:50:04",
-      "latitude": 39.1838,
-      "longitude": 29.0238,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "XqLmKcmCRLVNi",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 8.3,
-      "date_utc": "2026-09-17 22:47:43",
-      "latitude": 39.2192,
-      "longitude": 29.0067,
       "location_name": "Kütahya"
     }
   ]
