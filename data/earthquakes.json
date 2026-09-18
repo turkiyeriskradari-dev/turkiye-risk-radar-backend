@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T06:41:20.433524+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-18T06:53:02.847781+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "EK7CuXJWYm5mq",
@@ -892,16 +892,6 @@
       "latitude": 37.4382,
       "longitude": 33.7472,
       "location_name": "Karaman"
-    },
-    {
-      "id": "hLekCWuyJru2F",
-      "title": "ADIL-SOMA (MANISA)",
-      "magnitude": 1.6,
-      "depth_km": 0,
-      "date_utc": "2026-09-17 09:42:39",
-      "latitude": 39.1242,
-      "longitude": 27.5907,
-      "location_name": "Manisa"
     }
   ]
 }
