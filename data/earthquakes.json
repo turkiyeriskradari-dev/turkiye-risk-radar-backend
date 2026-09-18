@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T13:49:05.147718+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-18T14:01:59.343313+00:00",
+  "record_count": 92,
   "data": [
     {
       "id": "unnfMzX5hPhWH",
@@ -922,16 +922,6 @@
       "latitude": 40.2297,
       "longitude": 35.806,
       "location_name": "Tokat"
-    },
-    {
-      "id": "QIQmTsCKENHBH",
-      "title": "INLICE-SIMAV (KUTAHYA)",
-      "magnitude": 1.1,
-      "depth_km": 10.8,
-      "date_utc": "2026-09-17 17:00:11",
-      "latitude": 39.1355,
-      "longitude": 29.1843,
-      "location_name": "Kütahya"
     }
   ]
 }
