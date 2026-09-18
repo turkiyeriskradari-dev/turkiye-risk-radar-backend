@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T02:02:06.540540+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-18T02:24:28.321552+00:00",
+  "record_count": 78,
   "data": [
     {
       "id": "ezIg6V5DAAmXf",
@@ -782,16 +782,6 @@
       "latitude": 39.495,
       "longitude": 25.9177,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "poan79aICNpYT",
-      "title": "DERINKUYU-(MUGLA)",
-      "magnitude": 2.1,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-17 05:07:54",
-      "latitude": 37.0625,
-      "longitude": 28.246,
-      "location_name": "Muğla"
     }
   ]
 }
