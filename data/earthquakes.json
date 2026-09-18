@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T15:22:19.527946+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-18T15:35:09.964061+00:00",
+  "record_count": 91,
   "data": [
+    {
+      "id": "GbeD7KzVCVYjf",
+      "title": "TIFILLAR-AYVALIK (BALIKESIR)",
+      "magnitude": 2.1,
+      "depth_km": 14.3,
+      "date_utc": "2026-09-18 18:25:49",
+      "latitude": 39.2993,
+      "longitude": 26.8883,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "qk9oEH4xU3CzN",
+      "title": "ARIKUYUSU-GULNAR (MERSIN)",
+      "magnitude": 1,
+      "depth_km": 2.5,
+      "date_utc": "2026-09-18 18:18:43",
+      "latitude": 36.3988,
+      "longitude": 33.457,
+      "location_name": "Mersin"
+    },
     {
       "id": "kF2Pg7ysJCOF6",
       "title": "EGE DENIZI",
