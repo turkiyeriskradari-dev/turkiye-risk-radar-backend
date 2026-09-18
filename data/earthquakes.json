@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T21:21:21.418830+00:00",
+  "last_updated": "2026-09-18T21:34:00.548461+00:00",
   "record_count": 85,
   "data": [
+    {
+      "id": "cDvSS4Lqja639",
+      "title": "VAN GOLU",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-19 00:21:44",
+      "latitude": 38.6868,
+      "longitude": 43.0443,
+      "location_name": "Van"
+    },
     {
       "id": "dJDzPZtLW7OD4",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -842,16 +852,6 @@
       "latitude": 39.206,
       "longitude": 29.0232,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "B9Yudap4hYLvU",
-      "title": "BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-18 00:29:57",
-      "latitude": 38.2997,
-      "longitude": 37.296,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
