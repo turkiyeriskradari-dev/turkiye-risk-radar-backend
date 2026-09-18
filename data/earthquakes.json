@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T13:02:03.820259+00:00",
-  "record_count": 94,
+  "last_updated": "2026-09-18T13:21:50.642667+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "fBjtmKfMQZp_F",
@@ -912,36 +912,6 @@
       "latitude": 39.1355,
       "longitude": 29.1843,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "8dc6oG8Mw4KI3",
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "magnitude": 1.4,
-      "depth_km": 18.6,
-      "date_utc": "2026-09-17 16:19:33",
-      "latitude": 38.153,
-      "longitude": 38.497,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "ktQc8tl_3lKJ_",
-      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
-      "magnitude": 1.8,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-17 16:09:04",
-      "latitude": 38.6768,
-      "longitude": 36.4683,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "bIr2qmjJX_B_h",
-      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
-      "magnitude": 1.8,
-      "depth_km": 0,
-      "date_utc": "2026-09-17 16:09:04",
-      "latitude": 38.673,
-      "longitude": 36.4603,
-      "location_name": "Kayseri"
     }
   ]
 }
