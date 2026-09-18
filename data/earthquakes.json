@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T06:53:02.847781+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-18T07:02:40.016953+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "u5zQwlHNYFdye",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.5,
+      "depth_km": 6.5,
+      "date_utc": "2026-09-18 09:11:32",
+      "latitude": 39.2412,
+      "longitude": 29.027,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "nms2e5iEpgb10",
+      "title": "SAZAK-GEDIZ (KUTAHYA)",
+      "magnitude": 1.9,
+      "depth_km": 13.8,
+      "date_utc": "2026-09-18 08:41:47",
+      "latitude": 39.0352,
+      "longitude": 29.3845,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "CX0mtr3_M4Qnf",
+      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
+      "magnitude": 1.4,
+      "depth_km": 0,
+      "date_utc": "2026-09-18 08:21:58",
+      "latitude": 38.665,
+      "longitude": 36.4343,
+      "location_name": "Kayseri"
+    },
     {
       "id": "EK7CuXJWYm5mq",
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
