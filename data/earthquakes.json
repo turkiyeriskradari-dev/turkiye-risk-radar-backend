@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T11:34:10.751148+00:00",
+  "last_updated": "2026-09-18T11:47:21.144849+00:00",
   "record_count": 89,
   "data": [
+    {
+      "id": "rWMDNQLFnldTL",
+      "title": "YANALERIK-KOZAN (ADANA)",
+      "magnitude": 2.1,
+      "depth_km": 8.4,
+      "date_utc": "2026-09-18 14:18:15",
+      "latitude": 37.6683,
+      "longitude": 35.7682,
+      "location_name": "Adana"
+    },
+    {
+      "id": "Ynn_xNj56dC15",
+      "title": "EGNEZ-SOMA (MANISA)",
+      "magnitude": 2.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-18 14:06:04",
+      "latitude": 39.0435,
+      "longitude": 27.5638,
+      "location_name": "Manisa"
+    },
     {
       "id": "sUF06wUL3Mxhs",
       "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
@@ -872,26 +892,6 @@
       "latitude": 38.673,
       "longitude": 36.4603,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "8EhI_SEX8lcd0",
-      "title": "OGLAKOREN-(HATAY)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-17 14:41:19",
-      "latitude": 36.284,
-      "longitude": 36.1363,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "op1VYBrw7KF0Q",
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 15.9,
-      "date_utc": "2026-09-17 14:38:08",
-      "latitude": 39.0968,
-      "longitude": 28.3258,
-      "location_name": "Balıkesir"
     }
   ]
 }
