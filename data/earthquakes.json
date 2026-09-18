@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T09:48:34.446448+00:00",
-  "record_count": 86,
+  "last_updated": "2026-09-18T10:02:20.714004+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "wAlpNrTj8ZmWd",
+      "title": "YENIKOY-TAVSANLI (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 0,
+      "date_utc": "2026-09-18 12:51:54",
+      "latitude": 39.6163,
+      "longitude": 29.3717,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "0EjBOmrfe02a3",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.5,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-18 12:51:04",
+      "latitude": 38.7398,
+      "longitude": 36.5407,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "iLlok0_KCXlSM",
+      "title": "OZCANLI-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 5.8,
+      "date_utc": "2026-09-18 12:46:12",
+      "latitude": 38.0862,
+      "longitude": 37.2897,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "JS3EJHklKC4w3",
       "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
