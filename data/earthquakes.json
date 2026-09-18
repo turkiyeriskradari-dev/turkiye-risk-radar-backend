@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T07:02:40.016953+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T07:22:45.253046+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "u5zQwlHNYFdye",
@@ -912,16 +912,6 @@
       "latitude": 38.8828,
       "longitude": 39.3033,
       "location_name": "Tunceli"
-    },
-    {
-      "id": "6ERQbkOxybSLh",
-      "title": "BOGECIK-AYRANCI (KARAMAN)",
-      "magnitude": 1.9,
-      "depth_km": 29,
-      "date_utc": "2026-09-17 10:08:19",
-      "latitude": 37.4382,
-      "longitude": 33.7472,
-      "location_name": "Karaman"
     }
   ]
 }
