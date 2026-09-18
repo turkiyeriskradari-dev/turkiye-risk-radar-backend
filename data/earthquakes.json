@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T15:48:58.946711+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-18T16:01:58.121286+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "PgZnX0_irIKYN",
+      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-18 18:50:50",
+      "latitude": 38.6803,
+      "longitude": 36.4198,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "oA42i3ApysNk9",
+      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-18 18:49:28",
+      "latitude": 39.1772,
+      "longitude": 28.275,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "M2WxCCT86rDf8",
       "title": "CUKURASMA-GULNAR (MERSIN)",
