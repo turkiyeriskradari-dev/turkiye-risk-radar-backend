@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T00:02:36.241388+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-18T00:29:00.781106+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "z7EFILGluf8mY",
+      "title": "AKVIRANCARSAK-BALA (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-09-18 03:09:17",
+      "latitude": 39.3077,
+      "longitude": 32.9512,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "u4WjQNyhDsxdw",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-18 02:57:41",
+      "latitude": 39.24,
+      "longitude": 29.0678,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "WrLWbMQ7QCxPC",
+      "title": "KARAPINAR-GURUN (SIVAS)",
+      "magnitude": 2,
+      "depth_km": 6.3,
+      "date_utc": "2026-09-18 02:54:44",
+      "latitude": 38.6575,
+      "longitude": 37.0385,
+      "location_name": "Sivas"
+    },
     {
       "id": "ki1lua3y4lha1",
       "title": "EGRIDERE-SINDIRGI (BALIKESIR)",
