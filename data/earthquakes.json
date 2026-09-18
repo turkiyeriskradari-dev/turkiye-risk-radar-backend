@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T10:22:40.669254+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-18T10:35:18.145020+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "O5BMCBumDbHpw",
+      "title": "SOLAKLAR-PINARBASI (KAYSERI)",
+      "magnitude": 2.4,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-18 13:23:48",
+      "latitude": 38.6812,
+      "longitude": 36.405,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "GSlWddhnA4p2n",
+      "title": "SOLAKLAR-PINARBASI (KAYSERI)",
+      "magnitude": 2.4,
+      "depth_km": 0,
+      "date_utc": "2026-09-18 13:23:48",
+      "latitude": 38.6812,
+      "longitude": 36.405,
+      "location_name": "Kayseri"
+    },
     {
       "id": "sbQuzAKqfjBlT",
       "title": "TASBURUN-ELBISTAN (KAHRAMANMARAS)",
@@ -82,6 +102,16 @@
       "latitude": 39.2758,
       "longitude": 28.0433,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "Ao8Wr_bjYNoMI",
+      "title": "DEMIRLI-ATKARACALAR (CANKIRI)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-18 11:18:20",
+      "latitude": 40.828,
+      "longitude": 33.059,
+      "location_name": "Çankırı"
     },
     {
       "id": "u5zQwlHNYFdye",
