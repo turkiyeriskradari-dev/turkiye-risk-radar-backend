@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T20:34:08.432298+00:00",
-  "record_count": 87,
+  "last_updated": "2026-09-18T20:47:28.038624+00:00",
+  "record_count": 86,
   "data": [
+    {
+      "id": "wYnbfCUv7Zzq4",
+      "title": "ATAKOY-(BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 15,
+      "date_utc": "2026-09-18 23:34:33",
+      "latitude": 39.4198,
+      "longitude": 27.8408,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "CJf5mxuI1cFAJ",
       "title": "SAGLIK-CIHANBEYLI (KONYA)",
@@ -851,26 +861,6 @@
       "date_utc": "2026-09-18 00:08:04",
       "latitude": 39.1572,
       "longitude": 28.9892,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "_8Z2hxdiHs5KR",
-      "title": "HACIAHMETOGLU-SIMAV (KUTAHYA)",
-      "magnitude": 0.8,
-      "depth_km": 15.8,
-      "date_utc": "2026-09-17 23:43:04",
-      "latitude": 39.148,
-      "longitude": 29.0182,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "28lT0NqcEcjSK",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 10.1,
-      "date_utc": "2026-09-17 23:34:30",
-      "latitude": 39.2207,
-      "longitude": 29.0168,
       "location_name": "Kütahya"
     }
   ]
