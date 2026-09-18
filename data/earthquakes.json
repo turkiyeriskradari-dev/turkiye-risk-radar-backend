@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T01:48:09.541690+00:00",
+  "last_updated": "2026-09-18T02:02:06.540540+00:00",
   "record_count": 79,
   "data": [
+    {
+      "id": "ezIg6V5DAAmXf",
+      "title": "DEVECIPINARI-HAYMANA (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-18 04:45:39",
+      "latitude": 39.1663,
+      "longitude": 32.4792,
+      "location_name": "Ankara"
+    },
     {
       "id": "dm41jjchrWhZr",
       "title": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
@@ -782,16 +792,6 @@
       "latitude": 37.0625,
       "longitude": 28.246,
       "location_name": "Muğla"
-    },
-    {
-      "id": "HUCwn3LQd1Lyx",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 13.3,
-      "date_utc": "2026-09-17 04:58:08",
-      "latitude": 39.1403,
-      "longitude": 28.2532,
-      "location_name": "Balıkesir"
     }
   ]
 }
