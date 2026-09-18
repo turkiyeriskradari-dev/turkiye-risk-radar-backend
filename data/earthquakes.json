@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T12:26:50.321309+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T12:40:29.250796+00:00",
+  "record_count": 94,
   "data": [
+    {
+      "id": "fBjtmKfMQZp_F",
+      "title": "SOGUT-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 18.2,
+      "date_utc": "2026-09-18 15:34:18",
+      "latitude": 38.0515,
+      "longitude": 37.7663,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "lvbi7IF2JzYL2",
+      "title": "KIRKKEPENEKLI-MURATLI (TEKIRDAG)",
+      "magnitude": 1.6,
+      "depth_km": 9,
+      "date_utc": "2026-09-18 15:25:22",
+      "latitude": 41.1617,
+      "longitude": 27.626,
+      "location_name": "Tekirdağ"
+    },
     {
       "id": "AS1mFPDurKDWT",
       "title": "ASAGIKIZILCEVLIK-PINARBASI (KAYSERI)",
