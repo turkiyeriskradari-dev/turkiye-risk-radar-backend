@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T16:47:31.656437+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-18T17:02:31.554074+00:00",
+  "record_count": 92,
   "data": [
     {
       "id": "PgZnX0_irIKYN",
@@ -922,16 +922,6 @@
       "latitude": 38.324,
       "longitude": 38.9953,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "Y_IL_vrpaKzPO",
-      "title": "TURAN-BAYINDIR (IZMIR)",
-      "magnitude": 2.1,
-      "depth_km": 1.1,
-      "date_utc": "2026-09-17 19:50:36",
-      "latitude": 38.2193,
-      "longitude": 27.6807,
-      "location_name": "İzmir"
     }
   ]
 }
