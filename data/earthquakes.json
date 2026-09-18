@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T08:23:49.742968+00:00",
-  "record_count": 88,
+  "last_updated": "2026-09-18T08:36:08.855103+00:00",
+  "record_count": 87,
   "data": [
     {
       "id": "u5zQwlHNYFdye",
@@ -872,16 +872,6 @@
       "latitude": 40.6447,
       "longitude": 27.5943,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "TuCsPghQ6uAeH",
-      "title": "PINARBASI-EZINE (CANAKKALE)",
-      "magnitude": 1,
-      "depth_km": 3.7,
-      "date_utc": "2026-09-17 11:24:24",
-      "latitude": 39.8833,
-      "longitude": 26.2572,
-      "location_name": "Çanakkale"
     }
   ]
 }
