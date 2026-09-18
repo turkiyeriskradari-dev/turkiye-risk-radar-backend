@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T07:22:45.253046+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-18T07:35:02.765355+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "u5zQwlHNYFdye",
@@ -892,26 +892,6 @@
       "latitude": 37.1157,
       "longitude": 27.8793,
       "location_name": "Muğla"
-    },
-    {
-      "id": "0w86u8oc34XVl",
-      "title": "EGE DENIZI",
-      "magnitude": 1.9,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-17 10:32:06",
-      "latitude": 38.7925,
-      "longitude": 26.355,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "O7356yBSgTYH4",
-      "title": "DERELI-PERTEK (TUNCELI)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-17 10:24:02",
-      "latitude": 38.8828,
-      "longitude": 39.3033,
-      "location_name": "Tunceli"
     }
   ]
 }
