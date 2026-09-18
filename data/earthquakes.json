@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T15:02:17.730215+00:00",
+  "last_updated": "2026-09-18T15:22:19.527946+00:00",
   "record_count": 89,
   "data": [
+    {
+      "id": "kF2Pg7ysJCOF6",
+      "title": "EGE DENIZI",
+      "magnitude": 2.4,
+      "depth_km": 13.4,
+      "date_utc": "2026-09-18 18:03:39",
+      "latitude": 39.3338,
+      "longitude": 25.6452,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "unnfMzX5hPhWH",
       "title": "TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
@@ -882,16 +892,6 @@
       "latitude": 39.2122,
       "longitude": 28.184,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "BqPmMEc_3a0lg",
-      "title": "BASKENT-VARTO (MUS)",
-      "magnitude": 2.1,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-17 18:12:06",
-      "latitude": 39.2057,
-      "longitude": 41.559,
-      "location_name": "Muş"
     }
   ]
 }
