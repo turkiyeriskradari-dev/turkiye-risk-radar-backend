@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T01:33:09.117181+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-18T01:48:09.541690+00:00",
+  "record_count": 79,
   "data": [
     {
       "id": "dm41jjchrWhZr",
@@ -792,26 +792,6 @@
       "latitude": 39.1403,
       "longitude": 28.2532,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "FwEDXLxe5uX_H",
-      "title": "HASANKENDI-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 8.1,
-      "date_utc": "2026-09-17 04:39:34",
-      "latitude": 38.2267,
-      "longitude": 37.1757,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "97jt9Z8AKg8BD",
-      "title": "DEVEBOYNU-AFSIN (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 12.1,
-      "date_utc": "2026-09-17 04:34:46",
-      "latitude": 38.1398,
-      "longitude": 36.808,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
