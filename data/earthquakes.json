@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T06:02:28.120820+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T06:27:28.019979+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "EK7CuXJWYm5mq",
@@ -912,16 +912,6 @@
       "latitude": 38.1285,
       "longitude": 31.0482,
       "location_name": "Isparta"
-    },
-    {
-      "id": "pD8JnSxFnDC7F",
-      "title": "DORTBOLUK-SIVRICE (ELAZIG)",
-      "magnitude": 1.3,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-17 09:21:10",
-      "latitude": 38.3792,
-      "longitude": 39.25,
-      "location_name": "Elazığ"
     }
   ]
 }
