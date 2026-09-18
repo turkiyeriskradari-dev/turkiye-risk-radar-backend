@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T12:02:10.063450+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-18T12:26:50.321309+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "AS1mFPDurKDWT",
+      "title": "ASAGIKIZILCEVLIK-PINARBASI (KAYSERI)",
+      "magnitude": 1.7,
+      "depth_km": 7,
+      "date_utc": "2026-09-18 15:06:47",
+      "latitude": 38.8007,
+      "longitude": 36.5582,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "yPyjjeKVVDTNR",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "magnitude": 2.2,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-18 14:57:44",
+      "latitude": 38.1868,
+      "longitude": 38.607,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "rWMDNQLFnldTL",
       "title": "YANALERIK-KOZAN (ADANA)",
@@ -22,6 +42,16 @@
       "latitude": 39.0435,
       "longitude": 27.5638,
       "location_name": "Manisa"
+    },
+    {
+      "id": "DkssSshMtHLol",
+      "title": "SISAM ADASI (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-18 13:40:44",
+      "latitude": 37.6538,
+      "longitude": 26.7285,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "sUF06wUL3Mxhs",
