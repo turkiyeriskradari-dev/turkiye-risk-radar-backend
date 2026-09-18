@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T06:27:28.019979+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-18T06:41:20.433524+00:00",
+  "record_count": 90,
   "data": [
     {
       "id": "EK7CuXJWYm5mq",
@@ -902,16 +902,6 @@
       "latitude": 39.1242,
       "longitude": 27.5907,
       "location_name": "Manisa"
-    },
-    {
-      "id": "5JI_RrDq9h5Cd",
-      "title": "BAGILLI-GELENDOST (ISPARTA)",
-      "magnitude": 1.5,
-      "depth_km": 13.1,
-      "date_utc": "2026-09-17 09:31:42",
-      "latitude": 38.1285,
-      "longitude": 31.0482,
-      "location_name": "Isparta"
     }
   ]
 }
