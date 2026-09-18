@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T03:02:01.168959+00:00",
-  "record_count": 84,
+  "last_updated": "2026-09-18T03:22:11.219043+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "LlxhPgLabjMsr",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 15,
+      "date_utc": "2026-09-18 06:09:25",
+      "latitude": 39.2115,
+      "longitude": 29.0325,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "mxdWD1VCknKUs",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-18 06:02:32",
+      "latitude": 39.2473,
+      "longitude": 29.035,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "U3BT8Vsnti_OS",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 12.7,
+      "date_utc": "2026-09-18 06:00:32",
+      "latitude": 39.2148,
+      "longitude": 29.0628,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "QNahOFFiwOUuT",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.1,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-18 05:54:03",
+      "latitude": 39.2322,
+      "longitude": 29.0258,
+      "location_name": "Kütahya"
+    },
     {
       "id": "5wi58pacL995s",
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
