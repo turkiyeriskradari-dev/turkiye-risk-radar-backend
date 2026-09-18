@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T15:35:09.964061+00:00",
+  "last_updated": "2026-09-18T15:48:58.946711+00:00",
   "record_count": 91,
   "data": [
+    {
+      "id": "M2WxCCT86rDf8",
+      "title": "CUKURASMA-GULNAR (MERSIN)",
+      "magnitude": 0.9,
+      "depth_km": 2.7,
+      "date_utc": "2026-09-18 18:31:17",
+      "latitude": 36.3847,
+      "longitude": 33.4472,
+      "location_name": "Mersin"
+    },
     {
       "id": "GbeD7KzVCVYjf",
       "title": "TIFILLAR-AYVALIK (BALIKESIR)",
@@ -902,16 +912,6 @@
       "latitude": 38.2193,
       "longitude": 27.6807,
       "location_name": "İzmir"
-    },
-    {
-      "id": "SRdTqGxqNKIL9",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-17 18:41:57",
-      "latitude": 39.2122,
-      "longitude": 28.184,
-      "location_name": "Balıkesir"
     }
   ]
 }
