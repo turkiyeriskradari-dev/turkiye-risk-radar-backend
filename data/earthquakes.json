@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T04:22:42.616089+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-18T04:35:25.649674+00:00",
+  "record_count": 91,
   "data": [
+    {
+      "id": "46neDhFIO6ZTv",
+      "title": "TOKAT-HISARCIK (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 13.3,
+      "date_utc": "2026-09-18 07:14:59",
+      "latitude": 39.1962,
+      "longitude": 29.078,
+      "location_name": "Kütahya"
+    },
     {
       "id": "Jg7snXQO6_WCU",
       "title": "CEVIRME-AKCADAG (MALATYA)",
