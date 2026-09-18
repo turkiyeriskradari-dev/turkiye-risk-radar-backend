@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T05:21:07.747776+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T05:33:58.013462+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "EK7CuXJWYm5mq",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.2,
+      "depth_km": 7.3,
+      "date_utc": "2026-09-18 08:05:39",
+      "latitude": 39.1382,
+      "longitude": 28.3113,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "o9Z5CZFNLagsg",
       "title": "CUKUROREN-GEDIZ (KUTAHYA)",
