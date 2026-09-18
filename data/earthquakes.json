@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T08:02:10.147028+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-18T08:23:49.742968+00:00",
+  "record_count": 88,
   "data": [
     {
       "id": "u5zQwlHNYFdye",
@@ -882,16 +882,6 @@
       "latitude": 39.8833,
       "longitude": 26.2572,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "dBBHusgizMifm",
-      "title": "BAYIRKOY-MILAS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 0,
-      "date_utc": "2026-09-17 11:06:18",
-      "latitude": 37.1157,
-      "longitude": 27.8793,
-      "location_name": "Muğla"
     }
   ]
 }
