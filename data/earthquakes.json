@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T01:21:19.648926+00:00",
-  "record_count": 82,
+  "last_updated": "2026-09-18T01:33:09.117181+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "dm41jjchrWhZr",
+      "title": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.3,
+      "depth_km": 10.5,
+      "date_utc": "2026-09-18 04:19:15",
+      "latitude": 37.2468,
+      "longitude": 37.011,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "NFJjUcYbudUCp",
+      "title": "KINIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 13.8,
+      "date_utc": "2026-09-18 04:07:32",
+      "latitude": 39.1205,
+      "longitude": 28.2042,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "zVBJV2stf4Yfq",
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -792,36 +812,6 @@
       "latitude": 38.1398,
       "longitude": 36.808,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "Qp4KhgLVfSc1X",
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 7.7,
-      "date_utc": "2026-09-17 04:30:11",
-      "latitude": 39.1887,
-      "longitude": 28.158,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "TcGmrmYsIIHZi",
-      "title": "CAYGELDI-BULANIK (MUS)",
-      "magnitude": 1.7,
-      "depth_km": 18.6,
-      "date_utc": "2026-09-17 04:29:04",
-      "latitude": 38.9638,
-      "longitude": 42.446,
-      "location_name": "Muş"
-    },
-    {
-      "id": "WUrnG9O2E2RM8",
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "magnitude": 1,
-      "depth_km": 12,
-      "date_utc": "2026-09-17 04:28:42",
-      "latitude": 39.2048,
-      "longitude": 29.084,
-      "location_name": "Kütahya"
     }
   ]
 }
