@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T20:21:47.431751+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-18T20:34:08.432298+00:00",
+  "record_count": 87,
   "data": [
+    {
+      "id": "CJf5mxuI1cFAJ",
+      "title": "SAGLIK-CIHANBEYLI (KONYA)",
+      "magnitude": 2.1,
+      "depth_km": 1.9,
+      "date_utc": "2026-09-18 23:20:44",
+      "latitude": 38.7913,
+      "longitude": 33.1352,
+      "location_name": "Konya"
+    },
+    {
+      "id": "gtr0LnnWppN64",
+      "title": "COMELEK-MUT (MERSIN)",
+      "magnitude": 2,
+      "depth_km": 18,
+      "date_utc": "2026-09-18 23:13:17",
+      "latitude": 36.716,
+      "longitude": 33.7002,
+      "location_name": "Mersin"
+    },
     {
       "id": "Shh0NQAHUoZaf",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -851,46 +871,6 @@
       "date_utc": "2026-09-17 23:34:30",
       "latitude": 39.2207,
       "longitude": 29.0168,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "pXwVGhMDeICg0",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 12.9,
-      "date_utc": "2026-09-17 23:32:34",
-      "latitude": 39.2368,
-      "longitude": 29.022,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "84b8hxQXdDoV4",
-      "title": "KARACAOREN-SIMAV (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 10.3,
-      "date_utc": "2026-09-17 23:30:32",
-      "latitude": 39.1915,
-      "longitude": 29.0243,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "p39E4o1tICvoZ",
-      "title": "ARSLANBEYLI-PINARBASI (KAYSERI)",
-      "magnitude": 1.3,
-      "depth_km": 18,
-      "date_utc": "2026-09-17 23:27:19",
-      "latitude": 38.5588,
-      "longitude": 36.2462,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "kbhNbkcmb8vWB",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 9.4,
-      "date_utc": "2026-09-17 23:25:58",
-      "latitude": 39.197,
-      "longitude": 29.011,
       "location_name": "Kütahya"
     }
   ]
