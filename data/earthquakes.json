@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T13:34:33.738588+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-18T13:49:05.147718+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "unnfMzX5hPhWH",
+      "title": "TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-18 16:24:23",
+      "latitude": 38.0957,
+      "longitude": 37.5553,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "RYHSp5x4KdLkZ",
+      "title": "LIMAN-HOPA (ARTVIN)",
+      "magnitude": 1.8,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-18 16:07:51",
+      "latitude": 41.5488,
+      "longitude": 41.3687,
+      "location_name": "Karadeniz"
+    },
     {
       "id": "fBjtmKfMQZp_F",
       "title": "SOGUT-DOGANSEHIR (MALATYA)",
