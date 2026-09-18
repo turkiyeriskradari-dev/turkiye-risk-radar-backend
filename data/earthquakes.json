@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T19:20:53.543016+00:00",
-  "record_count": 94,
+  "last_updated": "2026-09-18T19:32:10.445598+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "4HCYcaAd9XKXH",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 2.1,
+      "depth_km": 7.1,
+      "date_utc": "2026-09-18 22:26:08",
+      "latitude": 39.223,
+      "longitude": 29.0005,
+      "location_name": "Kütahya"
+    },
     {
       "id": "cBdf7q7H_2ku3",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -922,26 +932,6 @@
       "latitude": 39.2203,
       "longitude": 29.0047,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "kT5ULqKUyg1Aq",
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 12.6,
-      "date_utc": "2026-09-17 22:28:05",
-      "latitude": 39.2052,
-      "longitude": 28.9463,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "yMYR115qcjtfV",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 2.4,
-      "depth_km": 11.8,
-      "date_utc": "2026-09-17 22:23:05",
-      "latitude": 39.028,
-      "longitude": 25.9878,
-      "location_name": "Ege Denizi"
     }
   ]
 }
