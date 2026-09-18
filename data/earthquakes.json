@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T03:35:10.321844+00:00",
+  "last_updated": "2026-09-18T03:48:52.415650+00:00",
   "record_count": 89,
   "data": [
+    {
+      "id": "35cNFqjcfXvg9",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.5,
+      "depth_km": 13,
+      "date_utc": "2026-09-18 06:33:31",
+      "latitude": 39.2343,
+      "longitude": 29.0495,
+      "location_name": "Kütahya"
+    },
     {
       "id": "slDqGBwxtTt5A",
       "title": "YESILDERE-SIMAV (KUTAHYA)",
@@ -881,16 +891,6 @@
       "date_utc": "2026-09-17 06:50:19",
       "latitude": 36.9442,
       "longitude": 27.5975,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "L9oiF5x8kQ6dh",
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-17 06:47:22",
-      "latitude": 39.495,
-      "longitude": 25.9177,
       "location_name": "Ege Denizi"
     }
   ]
