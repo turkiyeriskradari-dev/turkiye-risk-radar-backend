@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T02:24:28.321552+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-18T02:36:12.028782+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "LbjiB4L3qTIIj",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 16.6,
+      "date_utc": "2026-09-18 05:22:52",
+      "latitude": 39.2577,
+      "longitude": 28.9948,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "S_8sDwW3YRzit",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-18 05:18:58",
+      "latitude": 39.239,
+      "longitude": 29.0253,
+      "location_name": "Kütahya"
+    },
     {
       "id": "ezIg6V5DAAmXf",
       "title": "DEVECIPINARI-HAYMANA (ANKARA)",
