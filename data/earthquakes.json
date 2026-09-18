@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T10:35:18.145020+00:00",
+  "last_updated": "2026-09-18T10:48:44.544194+00:00",
   "record_count": 92,
   "data": [
+    {
+      "id": "sUF06wUL3Mxhs",
+      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 11.1,
+      "date_utc": "2026-09-18 13:33:32",
+      "latitude": 38.0835,
+      "longitude": 37.8425,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "xFnWl8Lw8Sj3v",
+      "title": "KUMACUKURU-MUT (MERSIN)",
+      "magnitude": 1.6,
+      "depth_km": 21.5,
+      "date_utc": "2026-09-18 13:30:51",
+      "latitude": 36.6575,
+      "longitude": 33.532,
+      "location_name": "Mersin"
+    },
     {
       "id": "O5BMCBumDbHpw",
       "title": "SOLAKLAR-PINARBASI (KAYSERI)",
@@ -902,26 +922,6 @@
       "latitude": 38.1292,
       "longitude": 38.5355,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "TWyUuMoKNiQWn",
-      "title": "AKDENIZ",
-      "magnitude": 1.6,
-      "depth_km": 10.5,
-      "date_utc": "2026-09-17 13:47:27",
-      "latitude": 36.4822,
-      "longitude": 28.0943,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "LBuZYOwecXJ28",
-      "title": "KARATERZI-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.6,
-      "depth_km": 14.9,
-      "date_utc": "2026-09-17 13:38:02",
-      "latitude": 38.2118,
-      "longitude": 37.895,
-      "location_name": "Malatya"
     }
   ]
 }
