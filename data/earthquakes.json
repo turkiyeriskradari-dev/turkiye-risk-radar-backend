@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T04:02:04.520910+00:00",
-  "record_count": 88,
+  "last_updated": "2026-09-18T04:22:42.616089+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "Jg7snXQO6_WCU",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 13.4,
+      "date_utc": "2026-09-18 07:04:01",
+      "latitude": 38.269,
+      "longitude": 37.7552,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "aJYkyNnghi6p6",
+      "title": "HAMZABEY-SIMAV (KUTAHYA)",
+      "magnitude": 1.4,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-18 07:01:49",
+      "latitude": 39.214,
+      "longitude": 28.9672,
+      "location_name": "Kütahya"
+    },
     {
       "id": "35cNFqjcfXvg9",
       "title": "KATRANDAGI-EMET (KUTAHYA)",
