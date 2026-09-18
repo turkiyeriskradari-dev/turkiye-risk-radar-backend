@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T08:36:08.855103+00:00",
-  "record_count": 87,
+  "last_updated": "2026-09-18T08:49:43.220958+00:00",
+  "record_count": 86,
   "data": [
     {
       "id": "u5zQwlHNYFdye",
@@ -862,16 +862,6 @@
       "latitude": 40.8965,
       "longitude": 28.7788,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "diTYakze8AicP",
-      "title": "MARMARA DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 3.5,
-      "date_utc": "2026-09-17 11:48:19",
-      "latitude": 40.6447,
-      "longitude": 27.5943,
-      "location_name": "Balıkesir"
     }
   ]
 }
