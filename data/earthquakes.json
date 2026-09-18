@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T21:01:57.321378+00:00",
-  "record_count": 86,
+  "last_updated": "2026-09-18T21:21:21.418830+00:00",
+  "record_count": 85,
   "data": [
+    {
+      "id": "dJDzPZtLW7OD4",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-19 00:09:05",
+      "latitude": 37.9267,
+      "longitude": 27.1742,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "wYnbfCUv7Zzq4",
       "title": "ATAKOY-(BALIKESIR)",
@@ -842,26 +852,6 @@
       "latitude": 38.2997,
       "longitude": 37.296,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "loRPiKKpyUS2Z",
-      "title": "EGE DENIZI",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-18 00:10:19",
-      "latitude": 36.659,
-      "longitude": 25.7833,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "F1VemQrjNTIO3",
-      "title": "NASA-SIMAV (KUTAHYA)",
-      "magnitude": 0.6,
-      "depth_km": 14.4,
-      "date_utc": "2026-09-18 00:08:04",
-      "latitude": 39.1572,
-      "longitude": 28.9892,
-      "location_name": "Kütahya"
     }
   ]
 }
