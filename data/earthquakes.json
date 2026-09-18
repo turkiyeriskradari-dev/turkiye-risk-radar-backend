@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T18:02:22.672655+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-18T18:24:16.423574+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "xX085f5XGJ_HJ",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 3.8,
+      "depth_km": 8.1,
+      "date_utc": "2026-09-18 21:09:39",
+      "latitude": 37.9038,
+      "longitude": 27.1295,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "weFayxdbyOlXx",
       "title": "YILMAZ-ILIC (ERZINCAN)",
