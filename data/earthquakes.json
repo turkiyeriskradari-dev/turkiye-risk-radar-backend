@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-17T23:46:35.115624+00:00",
+  "last_updated": "2026-09-18T00:02:36.241388+00:00",
   "record_count": 77,
   "data": [
+    {
+      "id": "ki1lua3y4lha1",
+      "title": "EGRIDERE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-18 02:48:07",
+      "latitude": 39.2718,
+      "longitude": 27.9625,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "qobsj68KNjW7e",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -762,16 +772,6 @@
       "latitude": 39.2048,
       "longitude": 29.084,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "yjcMXw7c3uGOq",
-      "title": "GUNGOREN-ILIC (ERZINCAN)",
-      "magnitude": 1.3,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-17 03:00:00",
-      "latitude": 39.6157,
-      "longitude": 38.4782,
-      "location_name": "Erzincan"
     }
   ]
 }
