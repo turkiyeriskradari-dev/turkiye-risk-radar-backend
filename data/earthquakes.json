@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T05:48:15.945182+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-18T06:02:28.120820+00:00",
+  "record_count": 92,
   "data": [
     {
       "id": "EK7CuXJWYm5mq",
@@ -922,16 +922,6 @@
       "latitude": 38.3792,
       "longitude": 39.25,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "bWbtjCTXOqIaN",
-      "title": "DAZYURT-(MANISA)",
-      "magnitude": 1.6,
-      "depth_km": 12.4,
-      "date_utc": "2026-09-17 08:51:11",
-      "latitude": 38.7883,
-      "longitude": 27.1815,
-      "location_name": "Manisa"
     }
   ]
 }
