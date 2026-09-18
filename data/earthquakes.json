@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T14:35:09.949015+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-18T14:49:49.734808+00:00",
+  "record_count": 90,
   "data": [
     {
       "id": "unnfMzX5hPhWH",
@@ -902,16 +902,6 @@
       "latitude": 36.2052,
       "longitude": 33.7168,
       "location_name": "Mersin"
-    },
-    {
-      "id": "v81N5MC71kEPB",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 1.5,
-      "depth_km": 13.4,
-      "date_utc": "2026-09-17 17:47:44",
-      "latitude": 36.176,
-      "longitude": 33.8083,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
