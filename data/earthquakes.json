@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-18T14:22:42.156900+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-18T14:35:09.949015+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "unnfMzX5hPhWH",
@@ -912,16 +912,6 @@
       "latitude": 36.176,
       "longitude": 33.8083,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "qu4blQ2nbWqJt",
-      "title": "OSMANPINARI-ZILE (TOKAT)",
-      "magnitude": 1.6,
-      "depth_km": 8.2,
-      "date_utc": "2026-09-17 17:25:18",
-      "latitude": 40.2297,
-      "longitude": 35.806,
-      "location_name": "Tokat"
     }
   ]
 }
