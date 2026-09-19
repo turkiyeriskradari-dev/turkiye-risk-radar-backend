@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T15:46:23.220633+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-19T16:02:03.920502+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "Ci2SzVH1hWSkc",
+      "title": "AYDINLAR-HONAZ (DENIZLI)",
+      "magnitude": 2,
+      "depth_km": 3.6,
+      "date_utc": "2026-09-19 18:33:18",
+      "latitude": 37.7223,
+      "longitude": 29.3763,
+      "location_name": "Denizli"
+    },
     {
       "id": "mB2UuxcUiUYme",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
@@ -532,26 +542,6 @@
       "latitude": 39.6567,
       "longitude": 38.389,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "PgZnX0_irIKYN",
-      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-18 18:50:50",
-      "latitude": 38.6803,
-      "longitude": 36.4198,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "oA42i3ApysNk9",
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-18 18:49:28",
-      "latitude": 39.1772,
-      "longitude": 28.275,
-      "location_name": "Balıkesir"
     }
   ]
 }
