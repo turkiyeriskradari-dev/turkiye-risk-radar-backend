@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T18:35:28.947718+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-19T18:48:28.046417+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "sZgbNx2oJrXWR",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.5,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-19 21:23:34",
+      "latitude": 38.7992,
+      "longitude": 26.8465,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "Ai8tHZhxLTnom",
       "title": "KAMISTAS-(MALATYA)",
