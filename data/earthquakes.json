@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T12:02:09.418889+00:00",
+  "last_updated": "2026-09-19T12:26:09.718159+00:00",
   "record_count": 58,
   "data": [
+    {
+      "id": "muYyGVE3VFJA0",
+      "title": "CORUS-ULA (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-19 13:24:04",
+      "latitude": 36.9725,
+      "longitude": 28.4663,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "UqKtN7Xb5iLpw",
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "magnitude": 1.1,
+      "depth_km": 22.2,
+      "date_utc": "2026-09-19 13:17:44",
+      "latitude": 39.0725,
+      "longitude": 28.3372,
+      "location_name": "Manisa"
+    },
     {
       "id": "np_yp6oYjQbLP",
       "title": "TANISIK-(MALATYA)",
@@ -562,26 +582,6 @@
       "latitude": 38.0515,
       "longitude": 37.7663,
       "location_name": "Malatya"
-    },
-    {
-      "id": "lvbi7IF2JzYL2",
-      "title": "KIRKKEPENEKLI-MURATLI (TEKIRDAG)",
-      "magnitude": 1.6,
-      "depth_km": 9,
-      "date_utc": "2026-09-18 15:25:22",
-      "latitude": 41.1617,
-      "longitude": 27.626,
-      "location_name": "Tekirdağ"
-    },
-    {
-      "id": "AS1mFPDurKDWT",
-      "title": "ASAGIKIZILCEVLIK-PINARBASI (KAYSERI)",
-      "magnitude": 1.7,
-      "depth_km": 7,
-      "date_utc": "2026-09-18 15:06:47",
-      "latitude": 38.8007,
-      "longitude": 36.5582,
-      "location_name": "Kayseri"
     }
   ]
 }
