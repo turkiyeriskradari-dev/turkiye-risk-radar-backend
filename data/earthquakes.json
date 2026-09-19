@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T14:21:00.948212+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-19T14:33:48.819331+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "Nneuwy23Z9MzR",
+      "title": "GUMUSPINAR-ULAS (SIVAS)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-19 16:56:33",
+      "latitude": 39.3888,
+      "longitude": 37.0187,
+      "location_name": "Sivas"
+    },
     {
       "id": "cqHxIsq9tmuRg",
       "title": "EGE DENIZI",
