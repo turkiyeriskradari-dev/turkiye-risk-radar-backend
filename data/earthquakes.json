@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T07:46:53.173644+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T08:02:10.541466+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "bZB4XTvV4ICNP",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 17.1,
+      "date_utc": "2026-09-19 10:06:32",
+      "latitude": 38.192,
+      "longitude": 38.4743,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "e3bPagdSIF8iM",
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
