@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T17:46:46.242295+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T18:02:11.040269+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "kjFAh1rHChi6z",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.8,
+      "depth_km": 12.2,
+      "date_utc": "2026-09-19 20:40:13",
+      "latitude": 38.7935,
+      "longitude": 26.8578,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "SGxyai8gZiRie",
       "title": "DEDEYOLU-SIVRICE (ELAZIG)",
@@ -52,6 +62,16 @@
       "latitude": 37.8753,
       "longitude": 36.515,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "2LBFYkcPK8y4R",
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 4.6,
+      "date_utc": "2026-09-19 18:54:58",
+      "latitude": 39.1732,
+      "longitude": 28.1382,
+      "location_name": "Balıkesir"
     },
     {
       "id": "2UbeZbb3gDoQD",
