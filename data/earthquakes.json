@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T09:01:59.649709+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T09:21:44.120823+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "gnFx9yzwF2HDt",
+      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
+      "magnitude": 1.9,
+      "depth_km": 4.3,
+      "date_utc": "2026-09-19 11:41:46",
+      "latitude": 40.1578,
+      "longitude": 32.949,
+      "location_name": "Ankara"
+    },
     {
       "id": "XVi29oaLWBO3s",
       "title": "AKTAS-KEMAH (ERZINCAN)",
