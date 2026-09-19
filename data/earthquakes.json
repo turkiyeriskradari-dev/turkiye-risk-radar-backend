@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T05:33:28.523224+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-19T05:46:51.153114+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "e3bPagdSIF8iM",
@@ -621,16 +621,6 @@
       "date_utc": "2026-09-18 09:11:32",
       "latitude": 39.2412,
       "longitude": 29.027,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "nms2e5iEpgb10",
-      "title": "SAZAK-GEDIZ (KUTAHYA)",
-      "magnitude": 1.9,
-      "depth_km": 13.8,
-      "date_utc": "2026-09-18 08:41:47",
-      "latitude": 39.0352,
-      "longitude": 29.3845,
       "location_name": "Kütahya"
     }
   ]
