@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T23:02:12.847366+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T23:19:29.120371+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "sordiqUzm8Y76",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.3,
+      "depth_km": 4,
+      "date_utc": "2026-09-20 01:45:02",
+      "latitude": 38.7935,
+      "longitude": 26.845,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "AHg0bcuf0Qztc",
+      "title": "KIZILTEPE-EZINE (CANAKKALE)",
+      "magnitude": 1.5,
+      "depth_km": 12.1,
+      "date_utc": "2026-09-20 01:23:12",
+      "latitude": 39.7293,
+      "longitude": 26.32,
+      "location_name": "Çanakkale"
+    },
     {
       "id": "hxKt_tJty4Gbo",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
