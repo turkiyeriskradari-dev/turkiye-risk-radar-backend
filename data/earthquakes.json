@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T04:47:40.922904+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T05:01:57.445809+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "vpy_Qi4DPdXQZ",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 3.1,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-19 07:34:58",
+      "latitude": 38.7995,
+      "longitude": 26.8383,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "kjQ0zPkBygpWi",
       "title": "DENIZGOREN-YAYLADAGI (HATAY)",
