@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T04:34:44.137707+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-19T04:47:40.922904+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "kjQ0zPkBygpWi",
@@ -612,16 +612,6 @@
       "latitude": 39.1382,
       "longitude": 28.3113,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "o9Z5CZFNLagsg",
-      "title": "CUKUROREN-GEDIZ (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-18 07:37:51",
-      "latitude": 39.0302,
-      "longitude": 29.6978,
-      "location_name": "Kütahya"
     }
   ]
 }
