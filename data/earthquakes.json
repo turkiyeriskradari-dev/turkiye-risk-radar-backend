@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T03:47:46.736641+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T04:02:23.125036+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "XYyTo9AErBs5T",
@@ -602,16 +602,6 @@
       "latitude": 38.269,
       "longitude": 37.7552,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "aJYkyNnghi6p6",
-      "title": "HAMZABEY-SIMAV (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-18 07:01:49",
-      "latitude": 39.214,
-      "longitude": 28.9672,
-      "location_name": "Kütahya"
     }
   ]
 }
