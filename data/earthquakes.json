@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T00:02:24.115411+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-19T00:28:36.448075+00:00",
+  "record_count": 72,
   "data": [
     {
       "id": "Ct7kmfMUcjhLz",
@@ -722,36 +722,6 @@
       "latitude": 39.1205,
       "longitude": 28.2042,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "zVBJV2stf4Yfq",
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-18 03:25:41",
-      "latitude": 39.133,
-      "longitude": 28.3062,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "MhLJTHrvm8Afj",
-      "title": "ISIKLAR-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 12.7,
-      "date_utc": "2026-09-18 03:24:14",
-      "latitude": 39.1572,
-      "longitude": 28.2977,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "z7EFILGluf8mY",
-      "title": "AKVIRANCARSAK-BALA (ANKARA)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-09-18 03:09:17",
-      "latitude": 39.3077,
-      "longitude": 32.9512,
-      "location_name": "Ankara"
     }
   ]
 }
