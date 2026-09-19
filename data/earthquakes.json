@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T14:33:48.819331+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-19T14:46:25.645150+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "mB2UuxcUiUYme",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.1,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-19 17:11:07",
+      "latitude": 38.7927,
+      "longitude": 26.8805,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "Nneuwy23Z9MzR",
       "title": "GUMUSPINAR-ULAS (SIVAS)",
