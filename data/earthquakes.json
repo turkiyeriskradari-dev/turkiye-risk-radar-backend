@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T21:32:58.466489+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-19T21:46:40.654462+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "rYNsz2Re_Q56E",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.4,
+      "depth_km": 3.2,
+      "date_utc": "2026-09-20 00:27:05",
+      "latitude": 38.7688,
+      "longitude": 26.8757,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "quE8ZusmulG8a",
+      "title": "KALE-ARSUZ (HATAY)",
+      "magnitude": 2.4,
+      "depth_km": 8.1,
+      "date_utc": "2026-09-20 00:20:29",
+      "latitude": 36.1782,
+      "longitude": 35.798,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "JewPQNfHFeRhz",
       "title": "AKDENIZ",
