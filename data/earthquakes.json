@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T02:02:08.921261+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-19T02:21:55.024123+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "XYyTo9AErBs5T",
@@ -32,6 +32,16 @@
       "latitude": 36.0273,
       "longitude": 28.0802,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "c1WdXXb8hfXGm",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.2,
+      "depth_km": 2.2,
+      "date_utc": "2026-09-19 02:49:13",
+      "latitude": 37.8882,
+      "longitude": 27.1167,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "E84JrxVASbVdf",
@@ -722,26 +732,6 @@
       "latitude": 39.2577,
       "longitude": 28.9948,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "S_8sDwW3YRzit",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 6.6,
-      "date_utc": "2026-09-18 05:18:58",
-      "latitude": 39.239,
-      "longitude": 29.0253,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "co1m9SABLY8Fk",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-18 05:04:41",
-      "latitude": 34.9197,
-      "longitude": 26.1197,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
