@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T09:46:46.949341+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T10:02:08.021512+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "gnFx9yzwF2HDt",
@@ -42,6 +42,16 @@
       "latitude": 38.192,
       "longitude": 38.4743,
       "location_name": "Adıyaman"
+    },
+    {
+      "id": "O1qmc7tsFm3v0",
+      "title": "GURCISTAN",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-19 09:53:55",
+      "latitude": 41.355,
+      "longitude": 43.976,
+      "location_name": "Gürcistan"
     },
     {
       "id": "CgXcTAjgJj0w7",
@@ -582,36 +592,6 @@
       "latitude": 38.1485,
       "longitude": 37.2252,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "V8hrS_mCjMcP2",
-      "title": "GOKCEOREN-KULA (MANISA)",
-      "magnitude": 0.8,
-      "depth_km": 3.2,
-      "date_utc": "2026-09-18 12:52:57",
-      "latitude": 38.55,
-      "longitude": 28.4862,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "wAlpNrTj8ZmWd",
-      "title": "YENIKOY-TAVSANLI (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 0,
-      "date_utc": "2026-09-18 12:51:54",
-      "latitude": 39.6163,
-      "longitude": 29.3717,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "0EjBOmrfe02a3",
-      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.5,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-18 12:51:04",
-      "latitude": 38.7398,
-      "longitude": 36.5407,
-      "location_name": "Kayseri"
     }
   ]
 }
