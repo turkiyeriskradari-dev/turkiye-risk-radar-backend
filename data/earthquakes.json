@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T21:20:36.253533+00:00",
+  "last_updated": "2026-09-19T21:32:58.466489+00:00",
   "record_count": 60,
   "data": [
+    {
+      "id": "JewPQNfHFeRhz",
+      "title": "AKDENIZ",
+      "magnitude": 2.8,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-20 00:18:24",
+      "latitude": 36.179,
+      "longitude": 28.9212,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "NKYo0ItFqHDOw",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
@@ -592,16 +602,6 @@
       "latitude": 36.2177,
       "longitude": 28.1522,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "cDvSS4Lqja639",
-      "title": "VAN GOLU",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-19 00:21:44",
-      "latitude": 38.6868,
-      "longitude": 43.0443,
-      "location_name": "Van"
     }
   ]
 }
