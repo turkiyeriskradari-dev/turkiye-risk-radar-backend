@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-09-19T12:38:46.156212+00:00",
+  "last_updated": "2026-09-19T12:51:05.681469+00:00",
   "record_count": 81,
   "data": [
     {
@@ -69,7 +69,7 @@
     {
       "province": "Artvin",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 9.3,
+      "precipitation_mm": 9.7,
       "wind_speed_max_kmh": 9.2,
       "temperature_max_c": 18.9,
       "temperature_min_c": 16.0,
@@ -263,7 +263,7 @@
     {
       "province": "Gümüşhane",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 3.5,
+      "precipitation_mm": 3.6,
       "wind_speed_max_kmh": 10.6,
       "temperature_max_c": 18.2,
       "temperature_min_c": 13.3,
@@ -470,7 +470,7 @@
     {
       "province": "Ordu",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 13.1,
+      "precipitation_mm": 13.0,
       "wind_speed_max_kmh": 6.0,
       "temperature_max_c": 22.3,
       "temperature_min_c": 17.1,
@@ -556,7 +556,7 @@
     {
       "province": "Trabzon",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 11.6,
+      "precipitation_mm": 11.7,
       "wind_speed_max_kmh": 19.6,
       "temperature_max_c": 22.3,
       "temperature_min_c": 20.2,
@@ -628,7 +628,7 @@
     {
       "province": "Bayburt",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.8,
+      "precipitation_mm": 1.1,
       "wind_speed_max_kmh": 15.8,
       "temperature_max_c": 17.6,
       "temperature_min_c": 10.7,
@@ -682,7 +682,7 @@
     {
       "province": "Ardahan",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 2.1,
+      "precipitation_mm": 2.2,
       "wind_speed_max_kmh": 12.7,
       "temperature_max_c": 16.8,
       "temperature_min_c": 9.6,
