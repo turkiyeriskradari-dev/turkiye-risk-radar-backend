@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T13:02:00.621974+00:00",
+  "last_updated": "2026-09-19T13:21:38.844235+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "sgaF44kJvxVOu",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5.6,
+      "date_utc": "2026-09-19 14:57:13",
+      "latitude": 37.7607,
+      "longitude": 36.1043,
+      "location_name": "Adana"
+    },
     {
       "id": "muYyGVE3VFJA0",
       "title": "CORUS-ULA (MUGLA)",
@@ -562,16 +572,6 @@
       "latitude": 38.0957,
       "longitude": 37.5553,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "RYHSp5x4KdLkZ",
-      "title": "LIMAN-HOPA (ARTVIN)",
-      "magnitude": 1.8,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-18 16:07:51",
-      "latitude": 41.5488,
-      "longitude": 41.3687,
-      "location_name": "Karadeniz"
     }
   ]
 }
