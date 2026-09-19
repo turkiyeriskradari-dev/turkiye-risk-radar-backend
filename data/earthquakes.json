@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T12:26:09.718159+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-19T12:38:44.923233+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "muYyGVE3VFJA0",
@@ -572,16 +572,6 @@
       "latitude": 41.5488,
       "longitude": 41.3687,
       "location_name": "Karadeniz"
-    },
-    {
-      "id": "fBjtmKfMQZp_F",
-      "title": "SOGUT-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 18.2,
-      "date_utc": "2026-09-18 15:34:18",
-      "latitude": 38.0515,
-      "longitude": 37.7663,
-      "location_name": "Malatya"
     }
   ]
 }
