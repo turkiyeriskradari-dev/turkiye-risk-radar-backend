@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T11:46:25.772522+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-19T12:02:09.418889+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "np_yp6oYjQbLP",
@@ -582,16 +582,6 @@
       "latitude": 38.8007,
       "longitude": 36.5582,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "yPyjjeKVVDTNR",
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "magnitude": 2.2,
-      "depth_km": 6.6,
-      "date_utc": "2026-09-18 14:57:44",
-      "latitude": 38.1868,
-      "longitude": 38.607,
-      "location_name": "Adıyaman"
     }
   ]
 }
