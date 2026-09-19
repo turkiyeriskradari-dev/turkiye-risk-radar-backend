@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T15:01:48.556698+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-19T15:20:51.749192+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "mB2UuxcUiUYme",
@@ -572,26 +572,6 @@
       "latitude": 39.2993,
       "longitude": 26.8883,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "qk9oEH4xU3CzN",
-      "title": "ARIKUYUSU-GULNAR (MERSIN)",
-      "magnitude": 1,
-      "depth_km": 2.5,
-      "date_utc": "2026-09-18 18:18:43",
-      "latitude": 36.3988,
-      "longitude": 33.457,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "kF2Pg7ysJCOF6",
-      "title": "EGE DENIZI",
-      "magnitude": 2.4,
-      "depth_km": 13.4,
-      "date_utc": "2026-09-18 18:03:39",
-      "latitude": 39.3338,
-      "longitude": 25.6452,
-      "location_name": "Ege Denizi"
     }
   ]
 }
