@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T17:02:10.654183+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-19T17:19:39.929780+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "Fh5QHV7bqdqKp",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.6,
+      "depth_km": 13.9,
+      "date_utc": "2026-09-19 20:00:55",
+      "latitude": 38.7888,
+      "longitude": 26.827,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "vMUBhs0l7loTZ",
+      "title": "KUMARLI-(KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 8,
+      "date_utc": "2026-09-19 19:45:27",
+      "latitude": 37.8753,
+      "longitude": 36.515,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "k8cdhIXuKXyvH",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
