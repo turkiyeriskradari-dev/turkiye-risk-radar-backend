@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T01:22:16.139091+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-19T01:34:09.913509+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "XYyTo9AErBs5T",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-19 03:55:48",
+      "latitude": 37.9148,
+      "longitude": 27.135,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "MpspY_pOVO9nj",
       "title": "SENYURT-ULAS (SIVAS)",
