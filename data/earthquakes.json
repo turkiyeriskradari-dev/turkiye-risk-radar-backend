@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T06:02:20.745625+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-19T06:26:03.933089+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "e3bPagdSIF8iM",
@@ -612,16 +612,6 @@
       "latitude": 40.828,
       "longitude": 33.059,
       "location_name": "Çankırı"
-    },
-    {
-      "id": "u5zQwlHNYFdye",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-18 09:11:32",
-      "latitude": 39.2412,
-      "longitude": 29.027,
-      "location_name": "Kütahya"
     }
   ]
 }
