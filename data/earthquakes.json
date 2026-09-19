@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T21:46:40.654462+00:00",
+  "last_updated": "2026-09-19T22:01:56.578072+00:00",
   "record_count": 62,
   "data": [
+    {
+      "id": "GVjlgcWyLrUBS",
+      "title": "SAHNA-ERDEMLI (MERSIN)",
+      "magnitude": 2.6,
+      "depth_km": 5.6,
+      "date_utc": "2026-09-20 00:39:50",
+      "latitude": 36.8537,
+      "longitude": 34.2795,
+      "location_name": "Mersin"
+    },
     {
       "id": "rYNsz2Re_Q56E",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
@@ -612,16 +622,6 @@
       "latitude": 36.9555,
       "longitude": 28.2272,
       "location_name": "Muğla"
-    },
-    {
-      "id": "Ct7kmfMUcjhLz",
-      "title": "AKDENIZ",
-      "magnitude": 1.8,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-19 00:48:02",
-      "latitude": 36.2177,
-      "longitude": 28.1522,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
