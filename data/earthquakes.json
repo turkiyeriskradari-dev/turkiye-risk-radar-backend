@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T19:18:21.320183+00:00",
+  "last_updated": "2026-09-19T19:31:31.048089+00:00",
   "record_count": 60,
   "data": [
+    {
+      "id": "3oA_HhVoA2Vde",
+      "title": "CUKUROREN-(BOLU)",
+      "magnitude": 2.5,
+      "depth_km": 1,
+      "date_utc": "2026-09-19 22:13:05",
+      "latitude": 40.799,
+      "longitude": 31.6308,
+      "location_name": "Bolu"
+    },
     {
       "id": "sZgbNx2oJrXWR",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
@@ -592,16 +602,6 @@
       "latitude": 38.4633,
       "longitude": 25.4703,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "4HCYcaAd9XKXH",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 2.1,
-      "depth_km": 7.1,
-      "date_utc": "2026-09-18 22:26:08",
-      "latitude": 39.223,
-      "longitude": 29.0005,
-      "location_name": "Kütahya"
     }
   ]
 }
