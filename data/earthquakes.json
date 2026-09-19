@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T13:21:38.844235+00:00",
+  "last_updated": "2026-09-19T13:33:07.746644+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "cqHxIsq9tmuRg",
+      "title": "EGE DENIZI",
+      "magnitude": 2.1,
+      "depth_km": 52.8,
+      "date_utc": "2026-09-19 15:50:48",
+      "latitude": 36.6973,
+      "longitude": 25.4627,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "sgaF44kJvxVOu",
       "title": "AYVACIK-SAIMBEYLI (ADANA)",
@@ -562,16 +572,6 @@
       "latitude": 39.3338,
       "longitude": 25.6452,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "unnfMzX5hPhWH",
-      "title": "TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 6.1,
-      "date_utc": "2026-09-18 16:24:23",
-      "latitude": 38.0957,
-      "longitude": 37.5553,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
