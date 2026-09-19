@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T04:21:56.750368+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-19T04:34:44.137707+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "kjQ0zPkBygpWi",
+      "title": "DENIZGOREN-YAYLADAGI (HATAY)",
+      "magnitude": 1.8,
+      "depth_km": 12.6,
+      "date_utc": "2026-09-19 06:44:25",
+      "latitude": 35.965,
+      "longitude": 35.941,
+      "location_name": "Hatay"
+    },
+    {
+      "id": "ekChAd9lrLe5N",
+      "title": "SAGLIK-CIHANBEYLI (KONYA)",
+      "magnitude": 2.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-19 06:11:02",
+      "latitude": 38.8027,
+      "longitude": 33.1417,
+      "location_name": "Konya"
+    },
     {
       "id": "oVWwsx7WQwDI9",
       "title": "IZMIR KORFEZI (EGE DENIZI)",
@@ -602,36 +622,6 @@
       "latitude": 39.0302,
       "longitude": 29.6978,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "8VU631Sk7pZLf",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 13.8,
-      "date_utc": "2026-09-18 07:33:50",
-      "latitude": 39.2517,
-      "longitude": 29.0167,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "afSQ9DgnQUa0v",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-18 07:29:04",
-      "latitude": 39.207,
-      "longitude": 28.9948,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "drimRzn8Mdiaz",
-      "title": "OREN-FETHIYE (MUGLA)",
-      "magnitude": 1.3,
-      "depth_km": 24.9,
-      "date_utc": "2026-09-18 07:23:43",
-      "latitude": 36.769,
-      "longitude": 29.3782,
-      "location_name": "Muğla"
     }
   ]
 }

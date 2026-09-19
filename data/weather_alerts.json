@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-09-19T04:21:58.931160+00:00",
+  "last_updated": "2026-09-19T04:35:15.610178+00:00",
   "record_count": 81,
   "data": [
     {
@@ -33,7 +33,7 @@
     {
       "province": "Ağrı",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.1,
+      "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 16.5,
       "temperature_max_c": 24.3,
       "temperature_min_c": 12.6,
@@ -69,7 +69,7 @@
     {
       "province": "Artvin",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 10.8,
+      "precipitation_mm": 8.8,
       "wind_speed_max_kmh": 8.6,
       "temperature_max_c": 19.5,
       "temperature_min_c": 16.5,
@@ -159,7 +159,7 @@
     {
       "province": "Çankırı",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 1.3,
+      "precipitation_mm": 0.3,
       "wind_speed_max_kmh": 7.0,
       "temperature_max_c": 22.9,
       "temperature_min_c": 14.8,
@@ -222,7 +222,7 @@
     {
       "province": "Erzurum",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.3,
+      "precipitation_mm": 0.4,
       "wind_speed_max_kmh": 19.2,
       "temperature_max_c": 19.5,
       "temperature_min_c": 11.1,
@@ -249,7 +249,7 @@
     {
       "province": "Giresun",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 33.6,
+      "precipitation_mm": 32.1,
       "wind_speed_max_kmh": 6.6,
       "temperature_max_c": 21.1,
       "temperature_min_c": 17.3,
@@ -263,7 +263,7 @@
     {
       "province": "Gümüşhane",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 3.3,
+      "precipitation_mm": 2.9,
       "wind_speed_max_kmh": 16.2,
       "temperature_max_c": 20.1,
       "temperature_min_c": 13.6,
@@ -326,7 +326,7 @@
     {
       "province": "Kars",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.4,
+      "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 17.3,
       "temperature_max_c": 21.0,
       "temperature_min_c": 10.4,
@@ -443,7 +443,7 @@
     {
       "province": "Muş",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.4,
+      "precipitation_mm": 0.3,
       "wind_speed_max_kmh": 19.2,
       "temperature_max_c": 21.1,
       "temperature_min_c": 12.7,
@@ -470,7 +470,7 @@
     {
       "province": "Ordu",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 14.5,
+      "precipitation_mm": 12.8,
       "wind_speed_max_kmh": 6.3,
       "temperature_max_c": 22.5,
       "temperature_min_c": 17.1,
@@ -479,7 +479,7 @@
     {
       "province": "Rize",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 95.0,
+      "precipitation_mm": 85.6,
       "wind_speed_max_kmh": 16.1,
       "temperature_max_c": 21.4,
       "temperature_min_c": 19.6,
@@ -502,7 +502,7 @@
     {
       "province": "Samsun",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.2,
+      "precipitation_mm": 0.3,
       "wind_speed_max_kmh": 17.5,
       "temperature_max_c": 24.0,
       "temperature_min_c": 19.1,
@@ -547,7 +547,7 @@
     {
       "province": "Tokat",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.5,
+      "precipitation_mm": 0.3,
       "wind_speed_max_kmh": 11.6,
       "temperature_max_c": 21.4,
       "temperature_min_c": 15.4,
@@ -556,16 +556,11 @@
     {
       "province": "Trabzon",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 27.2,
+      "precipitation_mm": 15.2,
       "wind_speed_max_kmh": 21.9,
       "temperature_max_c": 22.5,
       "temperature_min_c": 19.7,
-      "alerts": [
-        {
-          "type": "Sel/Taşkın Riski",
-          "level": "Sarı"
-        }
-      ]
+      "alerts": []
     },
     {
       "province": "Tunceli",
@@ -633,7 +628,7 @@
     {
       "province": "Bayburt",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 1.1,
+      "precipitation_mm": 0.8,
       "wind_speed_max_kmh": 18.3,
       "temperature_max_c": 20.0,
       "temperature_min_c": 10.7,
@@ -669,7 +664,7 @@
     {
       "province": "Şırnak",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.1,
+      "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 13.0,
       "temperature_max_c": 27.3,
       "temperature_min_c": 17.4,
@@ -687,7 +682,7 @@
     {
       "province": "Ardahan",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 3.9,
+      "precipitation_mm": 2.4,
       "wind_speed_max_kmh": 13.2,
       "temperature_max_c": 16.1,
       "temperature_min_c": 10.0,
@@ -696,7 +691,7 @@
     {
       "province": "Iğdır",
       "forecast_date": "2026-09-19",
-      "precipitation_mm": 0.0,
+      "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 10.6,
       "temperature_max_c": 29.1,
       "temperature_min_c": 15.8,
