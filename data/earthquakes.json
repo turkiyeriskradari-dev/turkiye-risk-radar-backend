@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T10:33:44.719249+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-19T10:47:02.856182+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "np_yp6oYjQbLP",
@@ -612,16 +612,6 @@
       "latitude": 39.0435,
       "longitude": 27.5638,
       "location_name": "Manisa"
-    },
-    {
-      "id": "DkssSshMtHLol",
-      "title": "SISAM ADASI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-18 13:40:44",
-      "latitude": 37.6538,
-      "longitude": 26.7285,
-      "location_name": "Ege Denizi"
     }
   ]
 }
