@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T04:02:23.125036+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-19T04:21:56.750368+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "oVWwsx7WQwDI9",
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "magnitude": 2.1,
+      "depth_km": 10,
+      "date_utc": "2026-09-19 04:32:43",
+      "latitude": 38.7083,
+      "longitude": 26.611,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "XYyTo9AErBs5T",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -12,6 +22,26 @@
       "latitude": 37.9148,
       "longitude": 27.135,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "SynPacxVfwPpv",
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "magnitude": 1.9,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-19 03:38:37",
+      "latitude": 38.1703,
+      "longitude": 38.4423,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "qyNngGcaogl2r",
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 4.2,
+      "date_utc": "2026-09-19 03:32:56",
+      "latitude": 39.178,
+      "longitude": 28.0742,
+      "location_name": "Balıkesir"
     },
     {
       "id": "MpspY_pOVO9nj",
@@ -32,6 +62,26 @@
       "latitude": 36.0273,
       "longitude": 28.0802,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "E86M979omZ2uT",
+      "title": "AKDENIZ",
+      "magnitude": 1.9,
+      "depth_km": 5.9,
+      "date_utc": "2026-09-19 03:06:32",
+      "latitude": 35.9083,
+      "longitude": 28.1105,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "ijX3PAerk7_iS",
+      "title": "DURASILLI-(MANISA)",
+      "magnitude": 1.3,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-19 02:56:11",
+      "latitude": 38.8012,
+      "longitude": 27.1678,
+      "location_name": "Manisa"
     },
     {
       "id": "c1WdXXb8hfXGm",
@@ -582,26 +632,6 @@
       "latitude": 36.769,
       "longitude": 29.3782,
       "location_name": "Muğla"
-    },
-    {
-      "id": "46neDhFIO6ZTv",
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 13.3,
-      "date_utc": "2026-09-18 07:14:59",
-      "latitude": 39.1962,
-      "longitude": 29.078,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "Jg7snXQO6_WCU",
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "magnitude": 1.6,
-      "depth_km": 13.4,
-      "date_utc": "2026-09-18 07:04:01",
-      "latitude": 38.269,
-      "longitude": 37.7552,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
