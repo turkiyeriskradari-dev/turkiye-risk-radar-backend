@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T01:01:46.648686+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-19T01:22:16.139091+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "MpspY_pOVO9nj",
+      "title": "SENYURT-ULAS (SIVAS)",
+      "magnitude": 2.8,
+      "depth_km": 5,
+      "date_utc": "2026-09-19 03:16:32",
+      "latitude": 39.4512,
+      "longitude": 37.3517,
+      "location_name": "Sivas"
+    },
     {
       "id": "Ct7kmfMUcjhLz",
       "title": "AKDENIZ",
@@ -702,26 +712,6 @@
       "latitude": 39.1663,
       "longitude": 32.4792,
       "location_name": "Ankara"
-    },
-    {
-      "id": "dm41jjchrWhZr",
-      "title": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 1.3,
-      "depth_km": 10.5,
-      "date_utc": "2026-09-18 04:19:15",
-      "latitude": 37.2468,
-      "longitude": 37.011,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "NFJjUcYbudUCp",
-      "title": "KINIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 13.8,
-      "date_utc": "2026-09-18 04:07:32",
-      "latitude": 39.1205,
-      "longitude": 28.2042,
-      "location_name": "Balıkesir"
     }
   ]
 }
