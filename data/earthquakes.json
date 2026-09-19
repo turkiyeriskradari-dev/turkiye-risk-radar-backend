@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T10:21:26.333825+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-19T10:33:44.719249+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "np_yp6oYjQbLP",
+      "title": "TANISIK-(MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 16.7,
+      "date_utc": "2026-09-19 13:15:41",
+      "latitude": 38.2888,
+      "longitude": 38.5767,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "86KLJGlK5Ri0P",
+      "title": "DEDEYOLU-SIVRICE (ELAZIG)",
+      "magnitude": 2.3,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-19 13:13:32",
+      "latitude": 38.4635,
+      "longitude": 39.1817,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "FzcgcpbrtLXW6",
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-19 13:05:10",
+      "latitude": 39.2243,
+      "longitude": 28.0957,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "FDxbuahWWcO0b",
       "title": "KAVALLI-SIVRICE (ELAZIG)",
@@ -592,46 +622,6 @@
       "latitude": 37.6538,
       "longitude": 26.7285,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "sUF06wUL3Mxhs",
-      "title": "TOPRAKTEPE-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-18 13:33:32",
-      "latitude": 38.0835,
-      "longitude": 37.8425,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "xFnWl8Lw8Sj3v",
-      "title": "KUMACUKURU-MUT (MERSIN)",
-      "magnitude": 1.6,
-      "depth_km": 21.5,
-      "date_utc": "2026-09-18 13:30:51",
-      "latitude": 36.6575,
-      "longitude": 33.532,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "O5BMCBumDbHpw",
-      "title": "SOLAKLAR-PINARBASI (KAYSERI)",
-      "magnitude": 2.4,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-18 13:23:48",
-      "latitude": 38.6812,
-      "longitude": 36.405,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "GSlWddhnA4p2n",
-      "title": "SOLAKLAR-PINARBASI (KAYSERI)",
-      "magnitude": 2.4,
-      "depth_km": 0,
-      "date_utc": "2026-09-18 13:23:48",
-      "latitude": 38.6812,
-      "longitude": 36.405,
-      "location_name": "Kayseri"
     }
   ]
 }
