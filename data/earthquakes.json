@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T08:02:10.541466+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-19T08:22:56.118765+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "bZB4XTvV4ICNP",
@@ -612,16 +612,6 @@
       "latitude": 39.2758,
       "longitude": 28.0433,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "Ao8Wr_bjYNoMI",
-      "title": "DEMIRLI-ATKARACALAR (CANKIRI)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-18 11:18:20",
-      "latitude": 40.828,
-      "longitude": 33.059,
-      "location_name": "Çankırı"
     }
   ]
 }
