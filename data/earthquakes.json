@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T20:01:56.522265+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T20:21:18.916616+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "N2yNTaOUykkxz",
@@ -572,46 +572,6 @@
       "latitude": 39.4198,
       "longitude": 27.8408,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "CJf5mxuI1cFAJ",
-      "title": "SAGLIK-CIHANBEYLI (KONYA)",
-      "magnitude": 2.1,
-      "depth_km": 1.9,
-      "date_utc": "2026-09-18 23:20:44",
-      "latitude": 38.7913,
-      "longitude": 33.1352,
-      "location_name": "Konya"
-    },
-    {
-      "id": "gtr0LnnWppN64",
-      "title": "COMELEK-MUT (MERSIN)",
-      "magnitude": 2,
-      "depth_km": 18,
-      "date_utc": "2026-09-18 23:13:17",
-      "latitude": 36.716,
-      "longitude": 33.7002,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "Shh0NQAHUoZaf",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.2,
-      "depth_km": 8.8,
-      "date_utc": "2026-09-18 23:11:40",
-      "latitude": 37.9157,
-      "longitude": 27.1357,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "DvpXwVil4Wamp",
-      "title": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 1.3,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-18 23:02:20",
-      "latitude": 37.3073,
-      "longitude": 37.0263,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
