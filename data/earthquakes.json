@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T08:35:05.618905+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-19T08:48:04.151659+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "bZB4XTvV4ICNP",
@@ -602,16 +602,6 @@
       "latitude": 36.115,
       "longitude": 33.8412,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "NOytuMFaVKQk9",
-      "title": "KIZILGUR-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.1,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-18 11:40:38",
-      "latitude": 39.2758,
-      "longitude": 28.0433,
-      "location_name": "Balıkesir"
     }
   ]
 }
