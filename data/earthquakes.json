@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T02:47:45.220593+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-19T03:01:58.723778+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "XYyTo9AErBs5T",
@@ -652,36 +652,6 @@
       "latitude": 39.2473,
       "longitude": 29.035,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "U3BT8Vsnti_OS",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 12.7,
-      "date_utc": "2026-09-18 06:00:32",
-      "latitude": 39.2148,
-      "longitude": 29.0628,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "QNahOFFiwOUuT",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.1,
-      "depth_km": 4.9,
-      "date_utc": "2026-09-18 05:54:03",
-      "latitude": 39.2322,
-      "longitude": 29.0258,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "5wi58pacL995s",
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-18 05:47:48",
-      "latitude": 39.2232,
-      "longitude": 28.1292,
-      "location_name": "Balıkesir"
     }
   ]
 }
