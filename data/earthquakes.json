@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T02:21:55.024123+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-19T02:34:19.322762+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "XYyTo9AErBs5T",
@@ -702,36 +702,6 @@
       "latitude": 37.1282,
       "longitude": 35.901,
       "location_name": "Adana"
-    },
-    {
-      "id": "iUCUeo8KxfINV",
-      "title": "EGE DENIZI",
-      "magnitude": 2,
-      "depth_km": 6.6,
-      "date_utc": "2026-09-18 05:25:29",
-      "latitude": 36.7028,
-      "longitude": 25.7413,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "y4C7tMNrnCTWq",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 0.9,
-      "depth_km": 14.5,
-      "date_utc": "2026-09-18 05:25:07",
-      "latitude": 39.2555,
-      "longitude": 29.003,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "LbjiB4L3qTIIj",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 16.6,
-      "date_utc": "2026-09-18 05:22:52",
-      "latitude": 39.2577,
-      "longitude": 28.9948,
-      "location_name": "Kütahya"
     }
   ]
 }
