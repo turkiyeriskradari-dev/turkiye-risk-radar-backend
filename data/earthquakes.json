@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T19:46:34.954021+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-19T20:01:56.522265+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "N2yNTaOUykkxz",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 15.8,
+      "date_utc": "2026-09-19 22:31:57",
+      "latitude": 39.2102,
+      "longitude": 29.0088,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "cWGovwbBCIZrQ",
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-19 22:25:07",
+      "latitude": 39.159,
+      "longitude": 28.2562,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "3oA_HhVoA2Vde",
       "title": "CUKUROREN-(BOLU)",
