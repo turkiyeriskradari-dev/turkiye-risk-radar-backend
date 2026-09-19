@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-19T02:34:19.322762+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-19T02:47:45.220593+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "XYyTo9AErBs5T",
@@ -682,26 +682,6 @@
       "latitude": 39.2232,
       "longitude": 28.1292,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "BkSSD5rA2k8mH",
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.1,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-18 05:40:09",
-      "latitude": 39.1422,
-      "longitude": 28.1367,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "T5lFET18O2QK7",
-      "title": "KARAKAYALI-CEYHAN (ADANA)",
-      "magnitude": 1,
-      "depth_km": 13.6,
-      "date_utc": "2026-09-18 05:39:49",
-      "latitude": 37.1282,
-      "longitude": 35.901,
-      "location_name": "Adana"
     }
   ]
 }
