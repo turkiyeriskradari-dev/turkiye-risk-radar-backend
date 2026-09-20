@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T16:34:45.418391+00:00",
+  "last_updated": "2026-09-20T16:47:34.849940+00:00",
   "record_count": 50,
   "data": [
+    {
+      "id": "_MYSujLqq2Ol7",
+      "title": "BARINDIR-DARENDE (MALATYA)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 19:21:43",
+      "latitude": 38.612,
+      "longitude": 37.776,
+      "location_name": "Malatya"
+    },
     {
       "id": "w9LpLSYmfwdIi",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -492,16 +502,6 @@
       "latitude": 39.1327,
       "longitude": 28.156,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "vMUBhs0l7loTZ",
-      "title": "KUMARLI-(KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 8,
-      "date_utc": "2026-09-19 19:45:27",
-      "latitude": 37.8753,
-      "longitude": 36.515,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
