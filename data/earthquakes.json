@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T00:02:34.416965+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-20T00:30:13.120933+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "sordiqUzm8Y76",
@@ -582,36 +582,6 @@
       "latitude": 39.178,
       "longitude": 28.0742,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "MpspY_pOVO9nj",
-      "title": "SENYURT-ULAS (SIVAS)",
-      "magnitude": 2.8,
-      "depth_km": 5,
-      "date_utc": "2026-09-19 03:16:32",
-      "latitude": 39.4512,
-      "longitude": 37.3517,
-      "location_name": "Sivas"
-    },
-    {
-      "id": "1TwWC9ON0jXRm",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 1.8,
-      "date_utc": "2026-09-19 03:11:04",
-      "latitude": 36.0273,
-      "longitude": 28.0802,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "E86M979omZ2uT",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 5.9,
-      "date_utc": "2026-09-19 03:06:32",
-      "latitude": 35.9083,
-      "longitude": 28.1105,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
