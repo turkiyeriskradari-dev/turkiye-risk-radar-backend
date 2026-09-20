@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T05:02:06.756439+00:00",
+  "last_updated": "2026-09-20T05:21:08.358165+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "sr8y7wV5tED4E",
+      "title": "SAGLIK-CIHANBEYLI (KONYA)",
+      "magnitude": 2.3,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-20 07:56:22",
+      "latitude": 38.8003,
+      "longitude": 33.1358,
+      "location_name": "Konya"
+    },
     {
       "id": "d6qV4kTs0c0R5",
       "title": "RODOS ADASI (AKDENIZ)",
@@ -562,16 +572,6 @@
       "latitude": 36.7123,
       "longitude": 25.8118,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "e3bPagdSIF8iM",
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.9,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-19 08:20:53",
-      "latitude": 39.171,
-      "longitude": 28.1437,
-      "location_name": "Balıkesir"
     }
   ]
 }
