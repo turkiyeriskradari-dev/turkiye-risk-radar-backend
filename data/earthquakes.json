@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T13:01:52.846993+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-20T13:21:09.021004+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "ANCx7LUb6NiY4",
+      "title": "YENIDAMLAR-KALE (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 17,
+      "date_utc": "2026-09-20 16:04:17",
+      "latitude": 38.3708,
+      "longitude": 38.8667,
+      "location_name": "Malatya"
+    },
     {
       "id": "OuCJNxo0G_iNI",
       "title": "COKAK-ANDIRIN (KAHRAMANMARAS)",
