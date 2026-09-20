@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T17:20:21.928211+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-20T17:32:56.420730+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "_MYSujLqq2Ol7",
@@ -482,16 +482,6 @@
       "latitude": 38.7935,
       "longitude": 26.8578,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "SGxyai8gZiRie",
-      "title": "DEDEYOLU-SIVRICE (ELAZIG)",
-      "magnitude": 2.6,
-      "depth_km": 5,
-      "date_utc": "2026-09-19 20:24:24",
-      "latitude": 38.4837,
-      "longitude": 39.1917,
-      "location_name": "Elazığ"
     }
   ]
 }
