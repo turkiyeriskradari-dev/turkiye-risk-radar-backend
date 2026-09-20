@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T01:47:50.757612+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-20T02:02:17.263551+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "VIiDke62RmaQt",
+      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 2.2,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-20 03:11:30",
+      "latitude": 37.4747,
+      "longitude": 37.171,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "6yIAMLqQcp2W1",
+      "title": "AKDENIZ",
+      "magnitude": 1.5,
+      "depth_km": 42.4,
+      "date_utc": "2026-09-20 03:02:38",
+      "latitude": 36.5608,
+      "longitude": 28.1007,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "06yzM7gng1ASz",
+      "title": "SELVILI-AKHISAR (MANISA)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 02:59:52",
+      "latitude": 39.0508,
+      "longitude": 27.7492,
+      "location_name": "Manisa"
+    },
     {
       "id": "sordiqUzm8Y76",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
