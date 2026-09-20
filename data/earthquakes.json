@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T16:47:34.849940+00:00",
+  "last_updated": "2026-09-20T17:01:53.346681+00:00",
   "record_count": 50,
   "data": [
     {
@@ -12,6 +12,36 @@
       "latitude": 38.612,
       "longitude": 37.776,
       "location_name": "Malatya"
+    },
+    {
+      "id": "IEszM5eW5WHPV",
+      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
+      "magnitude": 1.8,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-20 19:08:31",
+      "latitude": 37.063,
+      "longitude": 28.881,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "5F84HHP0CU34i",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 6.7,
+      "date_utc": "2026-09-20 19:04:57",
+      "latitude": 39.2248,
+      "longitude": 28.1042,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "mXoihlQIc5pnZ",
+      "title": "YESILKOY-KOYCEGIZ (MUGLA)",
+      "magnitude": 1.9,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-20 18:56:58",
+      "latitude": 37.0325,
+      "longitude": 28.707,
+      "location_name": "Muğla"
     },
     {
       "id": "w9LpLSYmfwdIi",
@@ -472,36 +502,6 @@
       "latitude": 38.7867,
       "longitude": 26.836,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Fh5QHV7bqdqKp",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.6,
-      "depth_km": 13.9,
-      "date_utc": "2026-09-19 20:00:55",
-      "latitude": 38.7888,
-      "longitude": 26.827,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "3m8DxwdeqSbEo",
-      "title": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.2,
-      "depth_km": 7.2,
-      "date_utc": "2026-09-19 19:55:18",
-      "latitude": 37.9775,
-      "longitude": 36.3253,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "9tU0Pk7Tp4wrp",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-19 19:50:34",
-      "latitude": 39.1327,
-      "longitude": 28.156,
-      "location_name": "Balıkesir"
     }
   ]
 }
