@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T06:51:24.468494+00:00",
+  "last_updated": "2026-09-20T07:02:02.147107+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "kkKwHjBnQorPF",
+      "title": "CUKUROREN-GEDIZ (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-20 09:46:41",
+      "latitude": 39.0227,
+      "longitude": 29.7043,
+      "location_name": "Kütahya"
+    },
     {
       "id": "kIrDmEhuL70dC",
       "title": "HIDIRBEY-SAMANDAG (HATAY)",
@@ -562,16 +572,6 @@
       "latitude": 38.192,
       "longitude": 38.4743,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "O1qmc7tsFm3v0",
-      "title": "GURCISTAN",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-19 09:53:55",
-      "latitude": 41.355,
-      "longitude": 43.976,
-      "location_name": "Gürcistan"
     }
   ]
 }
