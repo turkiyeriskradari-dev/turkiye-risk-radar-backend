@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T10:21:09.021787+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-20T10:34:05.249781+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "2vSlBaJn2j9X8",
@@ -502,16 +502,6 @@
       "latitude": 37.7607,
       "longitude": 36.1043,
       "location_name": "Adana"
-    },
-    {
-      "id": "muYyGVE3VFJA0",
-      "title": "CORUS-ULA (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-19 13:24:04",
-      "latitude": 36.9725,
-      "longitude": 28.4663,
-      "location_name": "Muğla"
     }
   ]
 }
