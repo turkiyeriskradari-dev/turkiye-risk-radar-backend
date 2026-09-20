@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T18:02:12.647225+00:00",
+  "last_updated": "2026-09-20T18:23:16.147407+00:00",
   "record_count": 47,
   "data": [
+    {
+      "id": "bR2pz2gC9oZx3",
+      "title": "OLURDERE-BULANIK (MUS)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 21:05:59",
+      "latitude": 39.0105,
+      "longitude": 41.9745,
+      "location_name": "Muş"
+    },
     {
       "id": "_MYSujLqq2Ol7",
       "title": "BARINDIR-DARENDE (MALATYA)",
@@ -462,16 +472,6 @@
       "latitude": 38.7992,
       "longitude": 26.8465,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Ai8tHZhxLTnom",
-      "title": "KAMISTAS-(MALATYA)",
-      "magnitude": 2.6,
-      "depth_km": 2.4,
-      "date_utc": "2026-09-19 21:10:37",
-      "latitude": 38.3047,
-      "longitude": 38.666,
-      "location_name": "Malatya"
     }
   ]
 }
