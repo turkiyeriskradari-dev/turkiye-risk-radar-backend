@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T22:33:14.249012+00:00",
+  "last_updated": "2026-09-20T22:47:39.151437+00:00",
   "record_count": 46,
   "data": [
+    {
+      "id": "CAZ20e4qmw9Vs",
+      "title": "HACIASLANLAR-EDREMIT (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 17.3,
+      "date_utc": "2026-09-21 01:22:55",
+      "latitude": 39.665,
+      "longitude": 27.1185,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "4sJS3mfKRJw_Y",
       "title": "YENIKENT-BERGAMA (IZMIR)",
@@ -452,16 +462,6 @@
       "latitude": 39.0508,
       "longitude": 27.7492,
       "location_name": "Manisa"
-    },
-    {
-      "id": "sordiqUzm8Y76",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 4,
-      "date_utc": "2026-09-20 01:45:02",
-      "latitude": 38.7935,
-      "longitude": 26.845,
-      "location_name": "Ege Denizi"
     }
   ]
 }
