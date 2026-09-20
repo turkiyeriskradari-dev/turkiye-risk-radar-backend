@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T05:47:17.940127+00:00",
+  "last_updated": "2026-09-20T06:02:23.216230+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "kIrDmEhuL70dC",
+      "title": "HIDIRBEY-SAMANDAG (HATAY)",
+      "magnitude": 2.6,
+      "depth_km": 8.3,
+      "date_utc": "2026-09-20 08:50:32",
+      "latitude": 36.125,
+      "longitude": 35.9575,
+      "location_name": "Hatay"
+    },
     {
       "id": "sr8y7wV5tED4E",
       "title": "SAGLIK-CIHANBEYLI (KONYA)",
@@ -562,16 +572,6 @@
       "latitude": 41.355,
       "longitude": 43.976,
       "location_name": "Gürcistan"
-    },
-    {
-      "id": "CgXcTAjgJj0w7",
-      "title": "EGE DENIZI",
-      "magnitude": 1.9,
-      "depth_km": 13.9,
-      "date_utc": "2026-09-19 08:48:02",
-      "latitude": 36.7123,
-      "longitude": 25.8118,
-      "location_name": "Ege Denizi"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-09-20T05:47:19.809360+00:00",
+  "last_updated": "2026-09-20T06:02:24.415503+00:00",
   "record_count": 81,
   "data": [
     {
@@ -33,7 +33,7 @@
     {
       "province": "Ağrı",
       "forecast_date": "2026-09-20",
-      "precipitation_mm": 0.0,
+      "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 13.6,
       "temperature_max_c": 23.4,
       "temperature_min_c": 13.0,
@@ -159,7 +159,7 @@
     {
       "province": "Çankırı",
       "forecast_date": "2026-09-20",
-      "precipitation_mm": 1.5,
+      "precipitation_mm": 1.7,
       "wind_speed_max_kmh": 7.6,
       "temperature_max_c": 24.0,
       "temperature_min_c": 15.7,
@@ -222,7 +222,7 @@
     {
       "province": "Erzurum",
       "forecast_date": "2026-09-20",
-      "precipitation_mm": 0.0,
+      "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 14.9,
       "temperature_max_c": 20.8,
       "temperature_min_c": 9.2,
@@ -321,7 +321,7 @@
     {
       "province": "Kars",
       "forecast_date": "2026-09-20",
-      "precipitation_mm": 0.7,
+      "precipitation_mm": 1.2,
       "wind_speed_max_kmh": 12.7,
       "temperature_max_c": 20.1,
       "temperature_min_c": 8.6,
@@ -681,7 +681,7 @@
     {
       "province": "Iğdır",
       "forecast_date": "2026-09-20",
-      "precipitation_mm": 0.2,
+      "precipitation_mm": 0.3,
       "wind_speed_max_kmh": 12.2,
       "temperature_max_c": 26.9,
       "temperature_min_c": 18.2,
