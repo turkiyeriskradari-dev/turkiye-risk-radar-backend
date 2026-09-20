@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T21:33:35.113940+00:00",
+  "last_updated": "2026-09-20T21:46:31.420496+00:00",
   "record_count": 47,
   "data": [
+    {
+      "id": "ihkYQm6XCcrPd",
+      "title": "PINARBASI-CAMARDI (NIGDE)",
+      "magnitude": 1.6,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-21 00:25:45",
+      "latitude": 37.8877,
+      "longitude": 35.2107,
+      "location_name": "Niğde"
+    },
     {
       "id": "ozuBdSE8rSK8L",
       "title": "KARACAM-KOYCEGIZ (MUGLA)",
@@ -462,16 +472,6 @@
       "latitude": 38.7902,
       "longitude": 26.8363,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "GVjlgcWyLrUBS",
-      "title": "SAHNA-ERDEMLI (MERSIN)",
-      "magnitude": 2.6,
-      "depth_km": 5.6,
-      "date_utc": "2026-09-20 00:39:50",
-      "latitude": 36.8537,
-      "longitude": 34.2795,
-      "location_name": "Mersin"
     }
   ]
 }
