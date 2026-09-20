@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T04:48:37.120866+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-20T05:02:06.756439+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "d6qV4kTs0c0R5",
@@ -572,16 +572,6 @@
       "latitude": 39.171,
       "longitude": 28.1437,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "bqIgXFpuQkvX5",
-      "title": "GULENKOY-KALE (MALATYA)",
-      "magnitude": 2.8,
-      "depth_km": 7.1,
-      "date_utc": "2026-09-19 07:54:35",
-      "latitude": 38.4027,
-      "longitude": 38.7983,
-      "location_name": "Malatya"
     }
   ]
 }
