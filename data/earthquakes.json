@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T11:46:20.145833+00:00",
+  "last_updated": "2026-09-20T12:02:13.617336+00:00",
   "record_count": 50,
   "data": [
+    {
+      "id": "qPyll8laKautM",
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "magnitude": 1.9,
+      "depth_km": 12.5,
+      "date_utc": "2026-09-20 13:20:51",
+      "latitude": 40.1698,
+      "longitude": 31.74,
+      "location_name": "Ankara"
+    },
     {
       "id": "2vSlBaJn2j9X8",
       "title": "YESILLER-(BALIKESIR)",
@@ -492,16 +502,6 @@
       "latitude": 36.6973,
       "longitude": 25.4627,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "sgaF44kJvxVOu",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 5.6,
-      "date_utc": "2026-09-19 14:57:13",
-      "latitude": 37.7607,
-      "longitude": 36.1043,
-      "location_name": "Adana"
     }
   ]
 }
