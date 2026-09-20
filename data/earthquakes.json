@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T15:33:51.414412+00:00",
+  "last_updated": "2026-09-20T15:46:33.117212+00:00",
   "record_count": 52,
   "data": [
+    {
+      "id": "w9LpLSYmfwdIi",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.4,
+      "depth_km": 6.3,
+      "date_utc": "2026-09-20 18:18:27",
+      "latitude": 37.9222,
+      "longitude": 27.1418,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "tgtMUpYlIE046",
       "title": "YUVADAMI-AHLAT (BITLIS)",
@@ -511,16 +521,6 @@
       "date_utc": "2026-09-19 18:48:12",
       "latitude": 38.749,
       "longitude": 26.7913,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "k8cdhIXuKXyvH",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2,
-      "depth_km": 7.1,
-      "date_utc": "2026-09-19 18:37:28",
-      "latitude": 38.7803,
-      "longitude": 26.8578,
       "location_name": "Ege Denizi"
     }
   ]
