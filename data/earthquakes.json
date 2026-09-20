@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T18:23:16.147407+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-20T18:35:59.114488+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "bR2pz2gC9oZx3",
@@ -12,6 +12,26 @@
       "latitude": 39.0105,
       "longitude": 41.9745,
       "location_name": "Muş"
+    },
+    {
+      "id": "Xyzgnh9fQBOdS",
+      "title": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
+      "magnitude": 1.2,
+      "depth_km": 12.2,
+      "date_utc": "2026-09-20 21:02:09",
+      "latitude": 36.1958,
+      "longitude": 34.023,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "6GfF9xbn0xwJ8",
+      "title": "TEPEBOZ-KARABURUN (IZMIR)",
+      "magnitude": 1.1,
+      "depth_km": 12.7,
+      "date_utc": "2026-09-20 20:09:38",
+      "latitude": 38.6828,
+      "longitude": 26.4618,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "_MYSujLqq2Ol7",
@@ -462,16 +482,6 @@
       "latitude": 40.799,
       "longitude": 31.6308,
       "location_name": "Bolu"
-    },
-    {
-      "id": "sZgbNx2oJrXWR",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.5,
-      "depth_km": 7.4,
-      "date_utc": "2026-09-19 21:23:34",
-      "latitude": 38.7992,
-      "longitude": 26.8465,
-      "location_name": "Ege Denizi"
     }
   ]
 }
