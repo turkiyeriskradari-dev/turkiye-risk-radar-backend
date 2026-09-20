@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T13:47:44.230244+00:00",
+  "last_updated": "2026-09-20T14:02:04.451536+00:00",
   "record_count": 55,
   "data": [
+    {
+      "id": "tgtMUpYlIE046",
+      "title": "YUVADAMI-AHLAT (BITLIS)",
+      "magnitude": 2.2,
+      "depth_km": 9.1,
+      "date_utc": "2026-09-20 16:48:04",
+      "latitude": 38.8247,
+      "longitude": 42.4592,
+      "location_name": "Bitlis"
+    },
     {
       "id": "ANCx7LUb6NiY4",
       "title": "YENIDAMLAR-KALE (MALATYA)",
@@ -542,16 +552,6 @@
       "latitude": 38.7927,
       "longitude": 26.8805,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Nneuwy23Z9MzR",
-      "title": "GUMUSPINAR-ULAS (SIVAS)",
-      "magnitude": 2.2,
-      "depth_km": 5,
-      "date_utc": "2026-09-19 16:56:33",
-      "latitude": 39.3888,
-      "longitude": 37.0187,
-      "location_name": "Sivas"
     }
   ]
 }
