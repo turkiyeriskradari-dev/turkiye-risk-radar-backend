@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T23:01:58.150008+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-20T23:20:19.321741+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "cgNa7LbQ6Z6b9",
+      "title": "EGE DENIZI",
+      "magnitude": 1.6,
+      "depth_km": 7.1,
+      "date_utc": "2026-09-21 01:57:11",
+      "latitude": 38.8528,
+      "longitude": 25.4863,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "hfcuzmPt3xmuV",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.1,
+      "depth_km": 4.6,
+      "date_utc": "2026-09-21 01:45:08",
+      "latitude": 36.9383,
+      "longitude": 27.8087,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "GXffzi6rjGFpj",
+      "title": "DEMIRKAZIK-CAMARDI (NIGDE)",
+      "magnitude": 1.4,
+      "depth_km": 10.5,
+      "date_utc": "2026-09-21 01:43:43",
+      "latitude": 37.783,
+      "longitude": 35.1788,
+      "location_name": "Adana"
+    },
     {
       "id": "YIlgN_HcWWwxJ",
       "title": "GIRIT ADASI (AKDENIZ)",
