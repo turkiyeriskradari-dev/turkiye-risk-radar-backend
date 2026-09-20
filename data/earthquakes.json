@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T01:21:38.045939+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-20T01:33:47.220122+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "sordiqUzm8Y76",
@@ -542,16 +542,6 @@
       "latitude": 38.8027,
       "longitude": 33.1417,
       "location_name": "Konya"
-    },
-    {
-      "id": "oVWwsx7WQwDI9",
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "magnitude": 2.1,
-      "depth_km": 10,
-      "date_utc": "2026-09-19 04:32:43",
-      "latitude": 38.7083,
-      "longitude": 26.611,
-      "location_name": "Ege Denizi"
     }
   ]
 }
