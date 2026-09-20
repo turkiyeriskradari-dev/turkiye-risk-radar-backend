@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T19:02:00.047441+00:00",
+  "last_updated": "2026-09-20T19:18:47.616011+00:00",
   "record_count": 49,
   "data": [
     {
@@ -32,6 +32,16 @@
       "latitude": 36.1958,
       "longitude": 34.023,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "PN7PYnKQQoFxH",
+      "title": "CAMUZKISLASI-KIRIKHAN (HATAY)",
+      "magnitude": 1.5,
+      "depth_km": 4.6,
+      "date_utc": "2026-09-20 20:24:37",
+      "latitude": 36.6112,
+      "longitude": 36.5198,
+      "location_name": "Hatay"
     },
     {
       "id": "6GfF9xbn0xwJ8",
@@ -482,16 +492,6 @@
       "latitude": 39.159,
       "longitude": 28.2562,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "3oA_HhVoA2Vde",
-      "title": "CUKUROREN-(BOLU)",
-      "magnitude": 2.5,
-      "depth_km": 1,
-      "date_utc": "2026-09-19 22:13:05",
-      "latitude": 40.799,
-      "longitude": 31.6308,
-      "location_name": "Bolu"
     }
   ]
 }
