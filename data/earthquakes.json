@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T09:46:38.221462+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-20T10:02:00.625667+00:00",
+  "record_count": 56,
   "data": [
     {
       "id": "2vSlBaJn2j9X8",
@@ -562,36 +562,6 @@
       "latitude": 38.4898,
       "longitude": 39.1517,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "4mwDAMij_BYYf",
-      "title": "SAGLIK-CIHANBEYLI (KONYA)",
-      "magnitude": 2.1,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-19 13:01:30",
-      "latitude": 38.829,
-      "longitude": 33.1195,
-      "location_name": "Konya"
-    },
-    {
-      "id": "gCX_FbuoyP5nz",
-      "title": "DEDEPINARI-(ELAZIG)",
-      "magnitude": 2.4,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-19 12:54:16",
-      "latitude": 38.486,
-      "longitude": 39.1687,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "2GeEpnubGfg7U",
-      "title": "KOBAKLAR-GORDES (MANISA)",
-      "magnitude": 1.1,
-      "depth_km": 13.4,
-      "date_utc": "2026-09-19 12:46:38",
-      "latitude": 39.0667,
-      "longitude": 28.3313,
-      "location_name": "Manisa"
     }
   ]
 }
