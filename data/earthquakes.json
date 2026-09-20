@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T14:46:56.318113+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-20T15:01:52.435751+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "tgtMUpYlIE046",
@@ -532,16 +532,6 @@
       "latitude": 37.7223,
       "longitude": 29.3763,
       "location_name": "Denizli"
-    },
-    {
-      "id": "KwKgthcwBl3XE",
-      "title": "KADIRUSAGI-YESILYURT (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-19 17:53:49",
-      "latitude": 38.2512,
-      "longitude": 38.22,
-      "location_name": "Malatya"
     }
   ]
 }
