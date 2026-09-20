@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T04:02:11.416941+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-20T04:22:43.578307+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "d6qV4kTs0c0R5",
+      "title": "RODOS ADASI (AKDENIZ)",
+      "magnitude": 3.2,
+      "depth_km": 29.3,
+      "date_utc": "2026-09-20 06:51:51",
+      "latitude": 36.1332,
+      "longitude": 27.6817,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "dya0SMRJkoX0v",
       "title": "BEKIRLER-BERGAMA (IZMIR)",
