@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T12:38:44.331974+00:00",
+  "last_updated": "2026-09-20T12:50:57.619281+00:00",
   "record_count": 54,
   "data": [
+    {
+      "id": "OuCJNxo0G_iNI",
+      "title": "COKAK-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 26,
+      "date_utc": "2026-09-20 15:10:21",
+      "latitude": 37.735,
+      "longitude": 36.363,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "9tcXPR1gBgK3V",
       "title": "YUVADAMI-AHLAT (BITLIS)",
@@ -532,16 +542,6 @@
       "latitude": 39.3888,
       "longitude": 37.0187,
       "location_name": "Sivas"
-    },
-    {
-      "id": "cqHxIsq9tmuRg",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 52.8,
-      "date_utc": "2026-09-19 15:50:48",
-      "latitude": 36.6973,
-      "longitude": 25.4627,
-      "location_name": "Ege Denizi"
     }
   ]
 }
