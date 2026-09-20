@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T15:21:11.037337+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-20T15:33:51.414412+00:00",
+  "record_count": 52,
   "data": [
     {
       "id": "tgtMUpYlIE046",
@@ -522,16 +522,6 @@
       "latitude": 38.7803,
       "longitude": 26.8578,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Ci2SzVH1hWSkc",
-      "title": "AYDINLAR-HONAZ (DENIZLI)",
-      "magnitude": 2,
-      "depth_km": 3.6,
-      "date_utc": "2026-09-19 18:33:18",
-      "latitude": 37.7223,
-      "longitude": 29.3763,
-      "location_name": "Denizli"
     }
   ]
 }
