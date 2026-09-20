@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T22:21:05.534809+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-20T22:33:14.249012+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "4sJS3mfKRJw_Y",
@@ -462,16 +462,6 @@
       "latitude": 38.7935,
       "longitude": 26.845,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "AHg0bcuf0Qztc",
-      "title": "KIZILTEPE-EZINE (CANAKKALE)",
-      "magnitude": 1.5,
-      "depth_km": 12.1,
-      "date_utc": "2026-09-20 01:23:12",
-      "latitude": 39.7293,
-      "longitude": 26.32,
-      "location_name": "Çanakkale"
     }
   ]
 }
