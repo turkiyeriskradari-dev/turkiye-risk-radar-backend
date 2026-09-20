@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T08:02:11.654480+00:00",
+  "last_updated": "2026-09-20T08:22:52.648695+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "v6utg4XHKgjb3",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 20.2,
+      "date_utc": "2026-09-20 10:53:57",
+      "latitude": 36.9495,
+      "longitude": 27.5868,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "wiQ2jvPzlIGPk",
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
@@ -562,16 +572,6 @@
       "latitude": 40.1578,
       "longitude": 32.949,
       "location_name": "Ankara"
-    },
-    {
-      "id": "XVi29oaLWBO3s",
-      "title": "AKTAS-KEMAH (ERZINCAN)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-19 11:20:47",
-      "latitude": 39.7878,
-      "longitude": 39.1083,
-      "location_name": "Erzincan"
     }
   ]
 }
