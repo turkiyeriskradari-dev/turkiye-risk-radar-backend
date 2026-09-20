@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T20:21:12.845225+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-20T20:34:09.146047+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "kYJPN4eCxLfOi",
+      "title": "CEKIRDEKLI-BIGADIC (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 23:03:30",
+      "latitude": 39.3677,
+      "longitude": 28.0428,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "qR1lZHO5hIsOw",
       "title": "GULPINAR-AYVACIK (CANAKKALE)",
@@ -452,26 +462,6 @@
       "latitude": 38.7883,
       "longitude": 26.841,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "22mBSBwUQ1jsU",
-      "title": "BEKTASKOY-KANGAL (SIVAS)",
-      "magnitude": 1.4,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-19 23:25:59",
-      "latitude": 39.1348,
-      "longitude": 37.8707,
-      "location_name": "Sivas"
-    },
-    {
-      "id": "wjKCpqIj3h8OY",
-      "title": "URUNVEREN-(ELAZIG)",
-      "magnitude": 2.1,
-      "depth_km": 5.7,
-      "date_utc": "2026-09-19 23:21:30",
-      "latitude": 38.5192,
-      "longitude": 39.1728,
-      "location_name": "Elazığ"
     }
   ]
 }
