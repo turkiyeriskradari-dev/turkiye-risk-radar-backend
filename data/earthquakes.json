@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T22:02:00.555750+00:00",
+  "last_updated": "2026-09-20T22:21:05.534809+00:00",
   "record_count": 47,
   "data": [
+    {
+      "id": "4sJS3mfKRJw_Y",
+      "title": "YENIKENT-BERGAMA (IZMIR)",
+      "magnitude": 2.1,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-21 01:02:41",
+      "latitude": 39.0095,
+      "longitude": 27.0688,
+      "location_name": "İzmir"
+    },
     {
       "id": "ihkYQm6XCcrPd",
       "title": "PINARBASI-CAMARDI (NIGDE)",
@@ -462,16 +472,6 @@
       "latitude": 39.7293,
       "longitude": 26.32,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "hxKt_tJty4Gbo",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 6,
-      "date_utc": "2026-09-20 01:09:56",
-      "latitude": 38.7902,
-      "longitude": 26.8363,
-      "location_name": "Ege Denizi"
     }
   ]
 }
