@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T21:02:07.116505+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-20T21:21:04.619597+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "qRPymQ76W51ed",
@@ -32,6 +32,16 @@
       "latitude": 39.3677,
       "longitude": 28.0428,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "_f5lnmcWd3Yka",
+      "title": "MESELI-GERMENCIK (AYDIN)",
+      "magnitude": 1.1,
+      "depth_km": 15.1,
+      "date_utc": "2026-09-20 22:54:30",
+      "latitude": 37.9645,
+      "longitude": 27.659,
+      "location_name": "Aydın"
     },
     {
       "id": "qR1lZHO5hIsOw",
@@ -452,26 +462,6 @@
       "latitude": 38.7688,
       "longitude": 26.8757,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "quE8ZusmulG8a",
-      "title": "KALE-ARSUZ (HATAY)",
-      "magnitude": 2.4,
-      "depth_km": 8.1,
-      "date_utc": "2026-09-20 00:20:29",
-      "latitude": 36.1782,
-      "longitude": 35.798,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "JewPQNfHFeRhz",
-      "title": "AKDENIZ",
-      "magnitude": 2.8,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-20 00:18:24",
-      "latitude": 36.179,
-      "longitude": 28.9212,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
