@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T03:35:36.319437+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-20T03:48:49.919877+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "dya0SMRJkoX0v",
@@ -572,16 +572,6 @@
       "latitude": 38.7995,
       "longitude": 26.8383,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "kjQ0zPkBygpWi",
-      "title": "DENIZGOREN-YAYLADAGI (HATAY)",
-      "magnitude": 1.8,
-      "depth_km": 12.6,
-      "date_utc": "2026-09-19 06:44:25",
-      "latitude": 35.965,
-      "longitude": 35.941,
-      "location_name": "Hatay"
     }
   ]
 }
