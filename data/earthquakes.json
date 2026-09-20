@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T02:02:17.263551+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-20T02:22:33.943290+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "dya0SMRJkoX0v",
+      "title": "BEKIRLER-BERGAMA (IZMIR)",
+      "magnitude": 2.3,
+      "depth_km": 6.7,
+      "date_utc": "2026-09-20 04:38:13",
+      "latitude": 38.9427,
+      "longitude": 27.2678,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "3wZhIzTNfM_Lw",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-20 03:55:23",
+      "latitude": 39.1025,
+      "longitude": 28.3297,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "VIiDke62RmaQt",
       "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
