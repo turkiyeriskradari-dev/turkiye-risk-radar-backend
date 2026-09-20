@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T21:21:04.619597+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-20T21:33:35.113940+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "ozuBdSE8rSK8L",
+      "title": "KARACAM-KOYCEGIZ (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-21 00:10:34",
+      "latitude": 36.9972,
+      "longitude": 29.0068,
+      "location_name": "Muğla"
+    },
     {
       "id": "qRPymQ76W51ed",
       "title": "KARAKAS-ARICAK (ELAZIG)",
@@ -22,6 +32,16 @@
       "latitude": 36.8393,
       "longitude": 26.4607,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "GU0CAVnK2hHM3",
+      "title": "GECITLI-SINCIK (ADIYAMAN)",
+      "magnitude": 1.5,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-20 23:21:59",
+      "latitude": 38.1387,
+      "longitude": 38.5593,
+      "location_name": "Adıyaman"
     },
     {
       "id": "kYJPN4eCxLfOi",
@@ -452,16 +472,6 @@
       "latitude": 36.8537,
       "longitude": 34.2795,
       "location_name": "Mersin"
-    },
-    {
-      "id": "rYNsz2Re_Q56E",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 3.2,
-      "date_utc": "2026-09-20 00:27:05",
-      "latitude": 38.7688,
-      "longitude": 26.8757,
-      "location_name": "Ege Denizi"
     }
   ]
 }
