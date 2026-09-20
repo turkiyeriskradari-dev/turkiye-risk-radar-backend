@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T18:35:59.114488+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-20T18:47:50.034859+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "OI6pOerqlQNCt",
+      "title": "OKCULAR-BULANIK (MUS)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 21:34:33",
+      "latitude": 39.0167,
+      "longitude": 41.9645,
+      "location_name": "Muş"
+    },
     {
       "id": "bR2pz2gC9oZx3",
       "title": "OLURDERE-BULANIK (MUS)",
