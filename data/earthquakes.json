@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T20:34:09.146047+00:00",
+  "last_updated": "2026-09-20T20:46:33.739735+00:00",
   "record_count": 46,
   "data": [
+    {
+      "id": "cSpKXfUADQjFK",
+      "title": "EGE DENIZI",
+      "magnitude": 2.5,
+      "depth_km": 17.6,
+      "date_utc": "2026-09-20 23:23:50",
+      "latitude": 36.8393,
+      "longitude": 26.4607,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "kYJPN4eCxLfOi",
       "title": "CEKIRDEKLI-BIGADIC (BALIKESIR)",
@@ -452,16 +462,6 @@
       "latitude": 36.179,
       "longitude": 28.9212,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "NKYo0ItFqHDOw",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 2,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-19 23:35:53",
-      "latitude": 38.7883,
-      "longitude": 26.841,
-      "location_name": "Ege Denizi"
     }
   ]
 }
