@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T09:02:04.035021+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-20T09:21:18.450299+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "2vSlBaJn2j9X8",
+      "title": "YESILLER-(BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 12.3,
+      "date_utc": "2026-09-20 12:10:47",
+      "latitude": 39.4053,
+      "longitude": 27.8847,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "RUn3wZzZebQqC",
+      "title": "KULLUK-(ELAZIG)",
+      "magnitude": 2.2,
+      "depth_km": 12.3,
+      "date_utc": "2026-09-20 11:59:28",
+      "latitude": 38.454,
+      "longitude": 39.0462,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "qDhsCOIfaCxP9",
+      "title": "SAKABASI-(ELAZIG)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 11:58:39",
+      "latitude": 38.4682,
+      "longitude": 39.019,
+      "location_name": "Elazığ"
+    },
     {
       "id": "v6utg4XHKgjb3",
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
@@ -562,16 +592,6 @@
       "latitude": 39.0667,
       "longitude": 28.3313,
       "location_name": "Manisa"
-    },
-    {
-      "id": "z7qswgh2gvGIK",
-      "title": "TURPLU-(BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 12.7,
-      "date_utc": "2026-09-19 12:02:11",
-      "latitude": 39.7168,
-      "longitude": 27.7052,
-      "location_name": "Balıkesir"
     }
   ]
 }
