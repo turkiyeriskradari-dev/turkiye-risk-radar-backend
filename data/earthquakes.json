@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-20T12:02:13.617336+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-20T12:25:56.547079+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "9tcXPR1gBgK3V",
+      "title": "YUVADAMI-AHLAT (BITLIS)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-20 15:02:25",
+      "latitude": 38.8325,
+      "longitude": 42.4695,
+      "location_name": "Bitlis"
+    },
+    {
+      "id": "m9GDGJmPVyZoF",
+      "title": "SARKLI-GOYNUCEK (AMASYA)",
+      "magnitude": 1.7,
+      "depth_km": 24.3,
+      "date_utc": "2026-09-20 14:58:26",
+      "latitude": 40.4602,
+      "longitude": 35.5523,
+      "location_name": "Amasya"
+    },
     {
       "id": "qPyll8laKautM",
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
