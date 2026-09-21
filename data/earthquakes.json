@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T01:35:11.531572+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-21T01:49:00.752357+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "XmTdBrqCnoRmE",
@@ -542,16 +542,6 @@
       "latitude": 37.9345,
       "longitude": 27.1428,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "dya0SMRJkoX0v",
-      "title": "BEKIRLER-BERGAMA (IZMIR)",
-      "magnitude": 2.3,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-20 04:38:13",
-      "latitude": 38.9427,
-      "longitude": 27.2678,
-      "location_name": "İzmir"
     }
   ]
 }
