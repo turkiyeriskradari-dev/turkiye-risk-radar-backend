@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T19:46:27.150225+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-21T20:02:10.037175+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "ppgVuBzP_z___",
+      "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
+      "magnitude": 2.1,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-21 22:41:25",
+      "latitude": 37.8272,
+      "longitude": 36.1742,
+      "location_name": "Adana"
+    },
     {
       "id": "ISwH74q6vq4eN",
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
@@ -82,6 +92,16 @@
       "latitude": 35.9175,
       "longitude": 30.0667,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "Pz2aZjJkE2DTE",
+      "title": "HAMDIYE-GUNEY (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 13.2,
+      "date_utc": "2026-09-21 21:09:52",
+      "latitude": 38.1063,
+      "longitude": 28.9567,
+      "location_name": "Denizli"
     },
     {
       "id": "KMFuJJYBAMnFx",
@@ -882,16 +902,6 @@
       "latitude": 39.3677,
       "longitude": 28.0428,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "_f5lnmcWd3Yka",
-      "title": "MESELI-GERMENCIK (AYDIN)",
-      "magnitude": 1.1,
-      "depth_km": 15.1,
-      "date_utc": "2026-09-20 22:54:30",
-      "latitude": 37.9645,
-      "longitude": 27.659,
-      "location_name": "Aydın"
     }
   ]
 }
