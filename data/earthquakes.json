@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T01:03:48.118422+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-21T01:21:41.149073+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "XmTdBrqCnoRmE",
+      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-21 04:06:47",
+      "latitude": 37.8452,
+      "longitude": 36.1557,
+      "location_name": "Adana"
+    },
+    {
+      "id": "QrIC_63e6xXRQ",
+      "title": "TOPALLAR-SAIMBEYLI (ADANA)",
+      "magnitude": 4.8,
+      "depth_km": 5,
+      "date_utc": "2026-09-21 04:02:00",
+      "latitude": 37.8352,
+      "longitude": 36.2627,
+      "location_name": "Adana"
+    },
+    {
+      "id": "a2BNvOBAMVFgs",
+      "title": "KARAHISAR-(CORUM)",
+      "magnitude": 2,
+      "depth_km": 1.9,
+      "date_utc": "2026-09-21 03:27:19",
+      "latitude": 40.6935,
+      "longitude": 35.2293,
+      "location_name": "Amasya"
+    },
+    {
+      "id": "CGGmruuSFn88p",
+      "title": "ERKENEK-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 17.8,
+      "date_utc": "2026-09-21 03:15:46",
+      "latitude": 37.915,
+      "longitude": 37.9445,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "CsxvNA5BdUW_b",
+      "title": "EGE DENIZI",
+      "magnitude": 2.8,
+      "depth_km": 53.4,
+      "date_utc": "2026-09-21 02:50:43",
+      "latitude": 36.3685,
+      "longitude": 27.8878,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "4VIpIQj3Z80mL",
       "title": "BASPINAR-NURDAGI (GAZIANTEP)",
