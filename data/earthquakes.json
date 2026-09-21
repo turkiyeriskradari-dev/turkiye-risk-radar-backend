@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T07:36:56.153458+00:00",
+  "last_updated": "2026-09-21T07:50:51.820401+00:00",
   "record_count": 68,
   "data": [
+    {
+      "id": "6KqYjBsGAONns",
+      "title": "AKDENIZ",
+      "magnitude": 2,
+      "depth_km": 4.3,
+      "date_utc": "2026-09-21 08:22:04",
+      "latitude": 35.8922,
+      "longitude": 28.079,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "J2Qc9F3yHAbDR",
       "title": "UZUNYURT-FETHIYE (MUGLA)",
@@ -672,16 +682,6 @@
       "latitude": 36.9495,
       "longitude": 27.5868,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "xpqoudRkAXSwC",
-      "title": "CORUS-ULA (MUGLA)",
-      "magnitude": 0.9,
-      "depth_km": 20,
-      "date_utc": "2026-09-20 10:38:04",
-      "latitude": 36.9682,
-      "longitude": 28.4752,
-      "location_name": "Muğla"
     }
   ]
 }
