@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T03:01:57.020415+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-21T03:23:40.148278+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "hGg8oYr2qiyxQ",
@@ -681,26 +681,6 @@
       "date_utc": "2026-09-20 06:51:51",
       "latitude": 36.1332,
       "longitude": 27.6817,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "I6cBXpu_oOPDX",
-      "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "magnitude": 1.3,
-      "depth_km": 8.1,
-      "date_utc": "2026-09-20 06:19:21",
-      "latitude": 40.7833,
-      "longitude": 27.4958,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "BuCUkeGFxpP_v",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 5.5,
-      "date_utc": "2026-09-20 06:15:08",
-      "latitude": 37.9345,
-      "longitude": 27.1428,
       "location_name": "Ege Denizi"
     }
   ]
