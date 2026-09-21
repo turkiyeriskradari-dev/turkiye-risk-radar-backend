@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T07:24:44.047857+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-21T07:36:56.153458+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "J2Qc9F3yHAbDR",
@@ -682,16 +682,6 @@
       "latitude": 36.9682,
       "longitude": 28.4752,
       "location_name": "Muğla"
-    },
-    {
-      "id": "wiQ2jvPzlIGPk",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 12.5,
-      "date_utc": "2026-09-20 10:31:04",
-      "latitude": 39.1962,
-      "longitude": 28.1787,
-      "location_name": "Balıkesir"
     }
   ]
 }
