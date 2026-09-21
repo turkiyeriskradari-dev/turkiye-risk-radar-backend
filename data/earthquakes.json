@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T16:02:11.035078+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-21T16:23:34.849579+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "6jLyrPj5nFYyV",
+      "title": "KARTAL-(KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-21 19:00:41",
+      "latitude": 37.5153,
+      "longitude": 37.0918,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "1lYAMb5k9hPO3",
+      "title": "AKDENIZ",
+      "magnitude": 2.8,
+      "depth_km": 14.2,
+      "date_utc": "2026-09-21 18:52:55",
+      "latitude": 35.4165,
+      "longitude": 27.3403,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "x5D5re4tiEO3a",
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
@@ -772,36 +792,6 @@
       "latitude": 38.6828,
       "longitude": 26.4618,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "_MYSujLqq2Ol7",
-      "title": "BARINDIR-DARENDE (MALATYA)",
-      "magnitude": 2.2,
-      "depth_km": 5,
-      "date_utc": "2026-09-20 19:21:43",
-      "latitude": 38.612,
-      "longitude": 37.776,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "IEszM5eW5WHPV",
-      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
-      "magnitude": 1.8,
-      "depth_km": 4.9,
-      "date_utc": "2026-09-20 19:08:31",
-      "latitude": 37.063,
-      "longitude": 28.881,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "5F84HHP0CU34i",
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-20 19:04:57",
-      "latitude": 39.2248,
-      "longitude": 28.1042,
-      "location_name": "Balıkesir"
     }
   ]
 }
