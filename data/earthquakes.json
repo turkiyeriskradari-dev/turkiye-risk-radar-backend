@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T15:21:57.248952+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-21T15:34:15.941373+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "x5D5re4tiEO3a",
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-21 18:26:13",
+      "latitude": 38.3935,
+      "longitude": 37.4067,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "lNYvR7nRunjXX",
+      "title": "YUNUSLAR-GEDIZ (KUTAHYA)",
+      "magnitude": 1.5,
+      "depth_km": 11.5,
+      "date_utc": "2026-09-21 18:13:17",
+      "latitude": 39.105,
+      "longitude": 29.4662,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "yldbEChVMhM31",
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-21 18:11:45",
+      "latitude": 38.3942,
+      "longitude": 37.3955,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "hIwlGV1nY4iRr",
       "title": "YESILBAG-MANAVGAT (ANTALYA)",
