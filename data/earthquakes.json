@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T05:02:41.215407+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-21T05:22:33.530696+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "J2Qc9F3yHAbDR",
+      "title": "UZUNYURT-FETHIYE (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 17.7,
+      "date_utc": "2026-09-21 08:05:33",
+      "latitude": 36.4735,
+      "longitude": 29.1232,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "_LCA4Pc5XSuKt",
+      "title": "UZUNYURT-FETHIYE (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 27.9,
+      "date_utc": "2026-09-21 08:04:59",
+      "latitude": 36.4927,
+      "longitude": 29.1517,
+      "location_name": "Muğla"
+    },
     {
       "id": "wBsdGQNm5n5GM",
       "title": "SULEYMANLI-BERGAMA (IZMIR)",
