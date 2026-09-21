@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T08:02:00.831465+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-21T08:24:55.920154+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "x4P_w6dAbo3M5",
+      "title": "GUROBASI-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 8,
+      "date_utc": "2026-09-21 10:45:06",
+      "latitude": 38.0815,
+      "longitude": 37.9952,
+      "location_name": "Malatya"
+    },
     {
       "id": "6KqYjBsGAONns",
       "title": "AKDENIZ",
