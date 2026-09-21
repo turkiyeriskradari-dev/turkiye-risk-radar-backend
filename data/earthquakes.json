@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T17:01:52.567517+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-21T17:19:47.855139+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "LQ3KJ_ry0cils",
+      "title": "UZUNOLUK-BEYAGAC (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 18.3,
+      "date_utc": "2026-09-21 19:49:59",
+      "latitude": 37.1432,
+      "longitude": 28.949,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "H2xIA8IfJxTiZ",
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-21 19:49:14",
+      "latitude": 36.8458,
+      "longitude": 27.0673,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "kd1f7c4TNjEDt",
       "title": "ATLIKONAK-AZIZIYE (ERZURUM)",
@@ -802,16 +822,6 @@
       "latitude": 36.6112,
       "longitude": 36.5198,
       "location_name": "Hatay"
-    },
-    {
-      "id": "6GfF9xbn0xwJ8",
-      "title": "TEPEBOZ-KARABURUN (IZMIR)",
-      "magnitude": 1.1,
-      "depth_km": 12.7,
-      "date_utc": "2026-09-20 20:09:38",
-      "latitude": 38.6828,
-      "longitude": 26.4618,
-      "location_name": "Ege Denizi"
     }
   ]
 }
