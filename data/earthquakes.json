@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T18:02:41.259118+00:00",
+  "last_updated": "2026-09-21T18:24:47.339104+00:00",
   "record_count": 83,
   "data": [
+    {
+      "id": "KMFuJJYBAMnFx",
+      "title": "AKDENIZ",
+      "magnitude": 2.5,
+      "depth_km": 8.7,
+      "date_utc": "2026-09-21 20:48:47",
+      "latitude": 35.9072,
+      "longitude": 28.0392,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "PtUjiyRHDJpoa",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -821,16 +831,6 @@
       "date_utc": "2026-09-20 21:34:33",
       "latitude": 39.0167,
       "longitude": 41.9645,
-      "location_name": "Muş"
-    },
-    {
-      "id": "bR2pz2gC9oZx3",
-      "title": "OLURDERE-BULANIK (MUS)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-20 21:05:59",
-      "latitude": 39.0105,
-      "longitude": 41.9745,
       "location_name": "Muş"
     }
   ]
