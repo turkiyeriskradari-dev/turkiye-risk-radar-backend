@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T00:02:40.842521+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-21T00:29:51.648752+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "4VIpIQj3Z80mL",
+      "title": "BASPINAR-NURDAGI (GAZIANTEP)",
+      "magnitude": 1.5,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-21 02:43:51",
+      "latitude": 37.1875,
+      "longitude": 36.7308,
+      "location_name": "Gaziantep"
+    },
     {
       "id": "1QuafSaOxSzdY",
       "title": "AKDENIZ",
@@ -482,26 +492,6 @@
       "latitude": 39.1025,
       "longitude": 28.3297,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "VIiDke62RmaQt",
-      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 2.2,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-20 03:11:30",
-      "latitude": 37.4747,
-      "longitude": 37.171,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "6yIAMLqQcp2W1",
-      "title": "AKDENIZ",
-      "magnitude": 1.5,
-      "depth_km": 42.4,
-      "date_utc": "2026-09-20 03:02:38",
-      "latitude": 36.5608,
-      "longitude": 28.1007,
-      "location_name": "Ege Denizi"
     }
   ]
 }
