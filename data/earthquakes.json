@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T13:01:54.244312+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-21T13:22:35.070195+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "5MMugGJ9P5Ald",
+      "title": "ESENKOY-CINARCIK (YALOVA)",
+      "magnitude": 1.5,
+      "depth_km": 9,
+      "date_utc": "2026-09-21 16:04:42",
+      "latitude": 40.6292,
+      "longitude": 28.8678,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "BNrPeoZKy_U91",
+      "title": "ORMANICI-PUTURGE (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 3.1,
+      "date_utc": "2026-09-21 16:00:02",
+      "latitude": 38.2313,
+      "longitude": 38.808,
+      "location_name": "Malatya"
+    },
     {
       "id": "kaMeVqUJ4Tph1",
       "title": "SINDIRGI (BALIKESIR)",
@@ -722,16 +742,6 @@
       "latitude": 38.8247,
       "longitude": 42.4592,
       "location_name": "Bitlis"
-    },
-    {
-      "id": "ANCx7LUb6NiY4",
-      "title": "YENIDAMLAR-KALE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 17,
-      "date_utc": "2026-09-20 16:04:17",
-      "latitude": 38.3708,
-      "longitude": 38.8667,
-      "location_name": "Malatya"
     }
   ]
 }
