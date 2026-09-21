@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T21:34:08.938924+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-21T21:46:21.017559+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "CHnayNb_VH6ju",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 12,
+      "date_utc": "2026-09-22 00:24:58",
+      "latitude": 37.7838,
+      "longitude": 36.1285,
+      "location_name": "Adana"
+    },
     {
       "id": "i0EFizGUrKeDq",
       "title": "TEKKEDERE-BERGAMA (IZMIR)",
