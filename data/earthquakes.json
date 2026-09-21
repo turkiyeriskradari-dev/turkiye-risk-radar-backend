@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T05:49:25.947145+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-21T06:02:44.248151+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "J2Qc9F3yHAbDR",
@@ -712,16 +712,6 @@
       "latitude": 39.0227,
       "longitude": 29.7043,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "kIrDmEhuL70dC",
-      "title": "HIDIRBEY-SAMANDAG (HATAY)",
-      "magnitude": 2.6,
-      "depth_km": 8.3,
-      "date_utc": "2026-09-20 08:50:32",
-      "latitude": 36.125,
-      "longitude": 35.9575,
-      "location_name": "Hatay"
     }
   ]
 }
