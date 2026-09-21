@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T20:22:09.989567+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-21T20:33:46.384007+00:00",
+  "record_count": 91,
   "data": [
+    {
+      "id": "akMxxtuWwQLJ8",
+      "title": "EGE DENIZI",
+      "magnitude": 2.2,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-21 23:18:13",
+      "latitude": 36.1397,
+      "longitude": 27.0835,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "jYeA441Je2oFh",
       "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
@@ -902,26 +912,6 @@
       "latitude": 38.5312,
       "longitude": 40.2312,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "cSpKXfUADQjFK",
-      "title": "EGE DENIZI",
-      "magnitude": 2.5,
-      "depth_km": 17.6,
-      "date_utc": "2026-09-20 23:23:50",
-      "latitude": 36.8393,
-      "longitude": 26.4607,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "GU0CAVnK2hHM3",
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "magnitude": 1.5,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-20 23:21:59",
-      "latitude": 38.1387,
-      "longitude": 38.5593,
-      "location_name": "Adıyaman"
     }
   ]
 }
