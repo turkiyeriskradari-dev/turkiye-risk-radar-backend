@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T17:33:21.718151+00:00",
-  "record_count": 82,
+  "last_updated": "2026-09-21T17:48:01.420587+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "PtUjiyRHDJpoa",
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "magnitude": 1.9,
+      "depth_km": 3.6,
+      "date_utc": "2026-09-21 20:28:04",
+      "latitude": 40.2297,
+      "longitude": 31.7153,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "l8OBex9UhQRQm",
+      "title": "AKDENIZ",
+      "magnitude": 2.4,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-21 20:19:01",
+      "latitude": 35.6287,
+      "longitude": 27.2587,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "KR9v5cFj6fKPB",
       "title": "CALIMLI-(VAN)",
