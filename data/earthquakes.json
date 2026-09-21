@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T16:23:34.849579+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-21T16:35:52.122430+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "OckZafREoipl4",
+      "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-21 19:24:44",
+      "latitude": 38.0718,
+      "longitude": 37.499,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "6jLyrPj5nFYyV",
       "title": "KARTAL-(KAHRAMANMARAS)",
