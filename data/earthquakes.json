@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T14:02:15.766261+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-21T14:23:37.757007+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "4YeI5MDxBxEqp",
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 16.9,
+      "date_utc": "2026-09-21 17:07:08",
+      "latitude": 39.1818,
+      "longitude": 28.2317,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "v99z5_BzwOPs2",
+      "title": "TASBURUN-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 12,
+      "date_utc": "2026-09-21 17:02:44",
+      "latitude": 38.1657,
+      "longitude": 37.2555,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "eMfmG7HMkFXIJ",
       "title": "HIMMETLI-SAIMBEYLI (ADANA)",
