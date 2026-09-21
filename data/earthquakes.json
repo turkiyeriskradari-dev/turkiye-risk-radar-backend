@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T08:50:01.148673+00:00",
+  "last_updated": "2026-09-21T09:02:06.118692+00:00",
   "record_count": 69,
   "data": [
     {
@@ -12,6 +12,26 @@
       "latitude": 37.5858,
       "longitude": 35.6908,
       "location_name": "Adana"
+    },
+    {
+      "id": "457MqykzEdW0O",
+      "title": "HANCERLI-AKCADAG (MALATYA)",
+      "magnitude": 1,
+      "depth_km": 13.5,
+      "date_utc": "2026-09-21 11:11:31",
+      "latitude": 38.3132,
+      "longitude": 37.8408,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "qrVAB_yMO8WHL",
+      "title": "ESKIKOY-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-21 11:00:29",
+      "latitude": 38.1385,
+      "longitude": 38.0233,
+      "location_name": "Malatya"
     },
     {
       "id": "x4P_w6dAbo3M5",
@@ -672,26 +692,6 @@
       "latitude": 39.4053,
       "longitude": 27.8847,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "RUn3wZzZebQqC",
-      "title": "KULLUK-(ELAZIG)",
-      "magnitude": 2.2,
-      "depth_km": 12.3,
-      "date_utc": "2026-09-20 11:59:28",
-      "latitude": 38.454,
-      "longitude": 39.0462,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "qDhsCOIfaCxP9",
-      "title": "SAKABASI-(ELAZIG)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-20 11:58:39",
-      "latitude": 38.4682,
-      "longitude": 39.019,
-      "location_name": "Elazığ"
     }
   ]
 }
