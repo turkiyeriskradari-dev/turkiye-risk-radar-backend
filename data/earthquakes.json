@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T19:34:55.724871+00:00",
-  "record_count": 86,
+  "last_updated": "2026-09-21T19:46:27.150225+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "ISwH74q6vq4eN",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2,
+      "depth_km": 5.7,
+      "date_utc": "2026-09-21 22:33:24",
+      "latitude": 38.897,
+      "longitude": 25.9067,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "f9RjhJQBmPwNK",
+      "title": "YUVADAMI-AHLAT (BITLIS)",
+      "magnitude": 1.9,
+      "depth_km": 18.3,
+      "date_utc": "2026-09-21 22:27:34",
+      "latitude": 38.8475,
+      "longitude": 42.4657,
+      "location_name": "Bitlis"
+    },
     {
       "id": "bizg6BTV_bWMb",
       "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
@@ -52,6 +72,16 @@
       "latitude": 38.736,
       "longitude": 26.8033,
       "location_name": "İzmir"
+    },
+    {
+      "id": "O9ygS6PCto7J4",
+      "title": "AKDENIZ",
+      "magnitude": 2,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-21 21:11:25",
+      "latitude": 35.9175,
+      "longitude": 30.0667,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
     },
     {
       "id": "KMFuJJYBAMnFx",
