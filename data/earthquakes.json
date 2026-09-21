@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T04:02:00.151906+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-21T04:23:46.720458+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "wBsdGQNm5n5GM",
+      "title": "SULEYMANLI-BERGAMA (IZMIR)",
+      "magnitude": 1.4,
+      "depth_km": 3.7,
+      "date_utc": "2026-09-21 06:57:31",
+      "latitude": 39.0488,
+      "longitude": 27.0598,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "uOjpY4aIPmeYt",
+      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-21 06:30:25",
+      "latitude": 37.4595,
+      "longitude": 37.1797,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "_4Y7fe0HrN_9Y",
+      "title": "MARMARA DENIZI",
+      "magnitude": 1.2,
+      "depth_km": 3.3,
+      "date_utc": "2026-09-21 06:13:07",
+      "latitude": 40.6325,
+      "longitude": 27.5938,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "4h79n0oTvKF_C",
+      "title": "BAGLICAY-GURUN (SIVAS)",
+      "magnitude": 1.3,
+      "depth_km": 9.9,
+      "date_utc": "2026-09-21 05:38:45",
+      "latitude": 38.8307,
+      "longitude": 37.4758,
+      "location_name": "Sivas"
+    },
     {
       "id": "hGg8oYr2qiyxQ",
       "title": "AKDENIZ",
