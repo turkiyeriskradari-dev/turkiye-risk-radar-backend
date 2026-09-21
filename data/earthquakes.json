@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T20:02:10.037175+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-21T20:22:09.989567+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "jYeA441Je2oFh",
+      "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
+      "magnitude": 2.2,
+      "depth_km": 3.1,
+      "date_utc": "2026-09-21 23:08:49",
+      "latitude": 37.831,
+      "longitude": 36.1792,
+      "location_name": "Adana"
+    },
+    {
+      "id": "dMNZDQebZvGly",
+      "title": "AKDEMIR-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.1,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-21 22:49:40",
+      "latitude": 37.2863,
+      "longitude": 37.0252,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ppgVuBzP_z___",
       "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
@@ -12,6 +32,16 @@
       "latitude": 37.8272,
       "longitude": 36.1742,
       "location_name": "Adana"
+    },
+    {
+      "id": "GnqZABUjJw1Uh",
+      "title": "TATLISU-(ERZINCAN)",
+      "magnitude": 1.5,
+      "depth_km": 2.3,
+      "date_utc": "2026-09-21 22:34:47",
+      "latitude": 39.5575,
+      "longitude": 39.6882,
+      "location_name": "Erzincan"
     },
     {
       "id": "ISwH74q6vq4eN",
@@ -892,16 +922,6 @@
       "latitude": 38.1387,
       "longitude": 38.5593,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "kYJPN4eCxLfOi",
-      "title": "CEKIRDEKLI-BIGADIC (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-20 23:03:30",
-      "latitude": 39.3677,
-      "longitude": 28.0428,
-      "location_name": "Balıkesir"
     }
   ]
 }
