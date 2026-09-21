@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T11:36:11.260178+00:00",
+  "last_updated": "2026-09-21T11:49:09.851734+00:00",
   "record_count": 72,
   "data": [
+    {
+      "id": "Nw0KuLMkNvr_v",
+      "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-21 13:40:53",
+      "latitude": 37.8148,
+      "longitude": 36.2247,
+      "location_name": "Adana"
+    },
     {
       "id": "gGzfIqY_gcQyl",
       "title": "BAHCEKARADALAK-BALA (ANKARA)",
@@ -712,16 +722,6 @@
       "latitude": 40.4602,
       "longitude": 35.5523,
       "location_name": "Amasya"
-    },
-    {
-      "id": "mxrqWwQJlSWZ8",
-      "title": "AKDENIZ",
-      "magnitude": 2.3,
-      "depth_km": 19.8,
-      "date_utc": "2026-09-20 14:37:27",
-      "latitude": 35.4128,
-      "longitude": 27.2972,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
