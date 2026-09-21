@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T10:34:54.928772+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-21T10:48:33.821305+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "gGzfIqY_gcQyl",
@@ -42,6 +42,16 @@
       "latitude": 37.9265,
       "longitude": 27.1517,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "B9zbhdJAGW4HC",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 0,
+      "date_utc": "2026-09-21 11:45:25",
+      "latitude": 37.1508,
+      "longitude": 27.8552,
+      "location_name": "Muğla"
     },
     {
       "id": "7l2jKMcCGLvmC",
