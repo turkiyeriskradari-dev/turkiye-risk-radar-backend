@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T23:34:11.120185+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-21T23:47:12.464480+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "wVP_UEXo6QBwL",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 3.2,
+      "depth_km": 12.6,
+      "date_utc": "2026-09-22 02:36:45",
+      "latitude": 38.7947,
+      "longitude": 26.8308,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "ylsT4kf8VdEtV",
       "title": "KASONU-TUTAK (AGRI)",
@@ -872,26 +882,6 @@
       "latitude": 36.3685,
       "longitude": 27.8878,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "4VIpIQj3Z80mL",
-      "title": "BASPINAR-NURDAGI (GAZIANTEP)",
-      "magnitude": 1.5,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-21 02:43:51",
-      "latitude": 37.1875,
-      "longitude": 36.7308,
-      "location_name": "Gaziantep"
-    },
-    {
-      "id": "1QuafSaOxSzdY",
-      "title": "AKDENIZ",
-      "magnitude": 2.4,
-      "depth_km": 15.5,
-      "date_utc": "2026-09-21 02:37:32",
-      "latitude": 34.6688,
-      "longitude": 32.5332,
-      "location_name": "Kıbrıs Açıkları"
     }
   ]
 }
