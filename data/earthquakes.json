@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T12:38:17.446350+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-21T12:50:43.854216+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "kaMeVqUJ4Tph1",
+      "title": "SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 5.5,
+      "date_utc": "2026-09-21 15:32:41",
+      "latitude": 39.2573,
+      "longitude": 28.16,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "jVbaz3qTAYo7x",
       "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
