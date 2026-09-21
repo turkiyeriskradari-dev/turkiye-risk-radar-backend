@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T17:48:01.420587+00:00",
-  "record_count": 84,
+  "last_updated": "2026-09-21T18:02:41.259118+00:00",
+  "record_count": 83,
   "data": [
     {
       "id": "PtUjiyRHDJpoa",
@@ -832,16 +832,6 @@
       "latitude": 39.0105,
       "longitude": 41.9745,
       "location_name": "Muş"
-    },
-    {
-      "id": "Xyzgnh9fQBOdS",
-      "title": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
-      "magnitude": 1.2,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-20 21:02:09",
-      "latitude": 36.1958,
-      "longitude": 34.023,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
