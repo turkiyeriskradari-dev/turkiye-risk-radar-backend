@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T04:50:30.851100+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-21T05:02:41.215407+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "wBsdGQNm5n5GM",
@@ -702,16 +702,6 @@
       "latitude": 36.125,
       "longitude": 35.9575,
       "location_name": "Hatay"
-    },
-    {
-      "id": "sr8y7wV5tED4E",
-      "title": "SAGLIK-CIHANBEYLI (KONYA)",
-      "magnitude": 2.3,
-      "depth_km": 12.8,
-      "date_utc": "2026-09-20 07:56:22",
-      "latitude": 38.8003,
-      "longitude": 33.1358,
-      "location_name": "Konya"
     }
   ]
 }
