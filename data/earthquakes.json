@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T10:02:02.421548+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-21T10:23:07.249016+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "9UhHIXLuJTs2W",
+      "title": "KOBAKLAR-GORDES (MANISA)",
+      "magnitude": 1.4,
+      "depth_km": 10.1,
+      "date_utc": "2026-09-21 12:23:49",
+      "latitude": 39.0957,
+      "longitude": 28.3487,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "_IUpCkeuH4iwK",
+      "title": "ISIKLI-SILIFKE (MERSIN)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-09-21 12:09:48",
+      "latitude": 36.2535,
+      "longitude": 33.7093,
+      "location_name": "Mersin"
+    },
     {
       "id": "yOusJmXQcJGoF",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -692,16 +712,6 @@
       "latitude": 35.8308,
       "longitude": 27.5593,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "qPyll8laKautM",
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "magnitude": 1.9,
-      "depth_km": 12.5,
-      "date_utc": "2026-09-20 13:20:51",
-      "latitude": 40.1698,
-      "longitude": 31.74,
-      "location_name": "Ankara"
     }
   ]
 }
