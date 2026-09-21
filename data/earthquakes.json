@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T20:33:46.384007+00:00",
+  "last_updated": "2026-09-21T20:47:48.246963+00:00",
   "record_count": 91,
   "data": [
+    {
+      "id": "i48yxrKXNzj5_",
+      "title": "SARAYCIK-SEYDISEHIR (KONYA)",
+      "magnitude": 1.5,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-21 23:41:37",
+      "latitude": 37.6957,
+      "longitude": 32.0278,
+      "location_name": "Konya"
+    },
     {
       "id": "akMxxtuWwQLJ8",
       "title": "EGE DENIZI",
@@ -902,16 +912,6 @@
       "latitude": 36.9972,
       "longitude": 29.0068,
       "location_name": "Muğla"
-    },
-    {
-      "id": "qRPymQ76W51ed",
-      "title": "KARAKAS-ARICAK (ELAZIG)",
-      "magnitude": 1.8,
-      "depth_km": 14.4,
-      "date_utc": "2026-09-20 23:33:45",
-      "latitude": 38.5312,
-      "longitude": 40.2312,
-      "location_name": "Elazığ"
     }
   ]
 }
