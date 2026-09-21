@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T18:52:05.322013+00:00",
-  "record_count": 84,
+  "last_updated": "2026-09-21T19:01:56.648004+00:00",
+  "record_count": 83,
   "data": [
     {
       "id": "sywDmrOdFBL7p",
@@ -832,16 +832,6 @@
       "latitude": 37.9645,
       "longitude": 27.659,
       "location_name": "Aydın"
-    },
-    {
-      "id": "qR1lZHO5hIsOw",
-      "title": "GULPINAR-AYVACIK (CANAKKALE)",
-      "magnitude": 1,
-      "depth_km": 17.2,
-      "date_utc": "2026-09-20 21:56:30",
-      "latitude": 39.5437,
-      "longitude": 26.1233,
-      "location_name": "Çanakkale"
     }
   ]
 }
