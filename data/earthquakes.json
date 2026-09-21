@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T06:47:11.117296+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-21T07:03:54.139440+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "J2Qc9F3yHAbDR",
@@ -692,16 +692,6 @@
       "latitude": 39.1962,
       "longitude": 28.1787,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "MNSGuW2idyBds",
-      "title": "SALKIMLI-KALE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 16,
-      "date_utc": "2026-09-20 10:01:06",
-      "latitude": 38.387,
-      "longitude": 38.7585,
-      "location_name": "Malatya"
     }
   ]
 }
