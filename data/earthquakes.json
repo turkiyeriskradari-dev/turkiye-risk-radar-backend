@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T22:21:57.052920+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-21T22:34:51.118888+00:00",
+  "record_count": 92,
   "data": [
     {
       "id": "CHnayNb_VH6ju",
@@ -922,16 +922,6 @@
       "latitude": 35.2538,
       "longitude": 26.5397,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "CAZ20e4qmw9Vs",
-      "title": "HACIASLANLAR-EDREMIT (BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 17.3,
-      "date_utc": "2026-09-21 01:22:55",
-      "latitude": 39.665,
-      "longitude": 27.1185,
-      "location_name": "Balıkesir"
     }
   ]
 }
