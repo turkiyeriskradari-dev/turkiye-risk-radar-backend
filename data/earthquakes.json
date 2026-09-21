@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T13:22:35.070195+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-21T13:35:04.153185+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "j5hHmAdzcL4Ae",
+      "title": "EGE DENIZI",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-21 16:28:29",
+      "latitude": 36.552,
+      "longitude": 25.533,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "5MMugGJ9P5Ald",
       "title": "ESENKOY-CINARCIK (YALOVA)",
