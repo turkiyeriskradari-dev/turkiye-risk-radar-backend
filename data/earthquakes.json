@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T18:24:47.339104+00:00",
-  "record_count": 83,
+  "last_updated": "2026-09-21T18:38:19.500401+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "sywDmrOdFBL7p",
+      "title": "GORGU-YESILYURT (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 11,
+      "date_utc": "2026-09-21 21:25:20",
+      "latitude": 38.2577,
+      "longitude": 38.1373,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "puT8pE9h5vhTw",
+      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 3.8,
+      "date_utc": "2026-09-21 21:21:49",
+      "latitude": 38.3747,
+      "longitude": 37.3725,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "KMFuJJYBAMnFx",
       "title": "AKDENIZ",
@@ -822,16 +842,6 @@
       "latitude": 39.5437,
       "longitude": 26.1233,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "OI6pOerqlQNCt",
-      "title": "OKCULAR-BULANIK (MUS)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-20 21:34:33",
-      "latitude": 39.0167,
-      "longitude": 41.9645,
-      "location_name": "Muş"
     }
   ]
 }
