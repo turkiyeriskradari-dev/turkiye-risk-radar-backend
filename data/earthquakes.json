@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T13:35:04.153185+00:00",
+  "last_updated": "2026-09-21T13:49:40.528993+00:00",
   "record_count": 75,
   "data": [
+    {
+      "id": "eMfmG7HMkFXIJ",
+      "title": "HIMMETLI-SAIMBEYLI (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 5,
+      "date_utc": "2026-09-21 16:38:27",
+      "latitude": 37.8653,
+      "longitude": 36.0537,
+      "location_name": "Adana"
+    },
     {
       "id": "j5hHmAdzcL4Ae",
       "title": "EGE DENIZI",
@@ -742,16 +752,6 @@
       "latitude": 37.9222,
       "longitude": 27.1418,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "tgtMUpYlIE046",
-      "title": "YUVADAMI-AHLAT (BITLIS)",
-      "magnitude": 2.2,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-20 16:48:04",
-      "latitude": 38.8247,
-      "longitude": 42.4592,
-      "location_name": "Bitlis"
     }
   ]
 }
