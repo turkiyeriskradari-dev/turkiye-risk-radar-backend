@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T10:23:07.249016+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-21T10:34:54.928772+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "gGzfIqY_gcQyl",
+      "title": "BAHCEKARADALAK-BALA (ANKARA)",
+      "magnitude": 1.9,
+      "depth_km": 1.9,
+      "date_utc": "2026-09-21 12:43:52",
+      "latitude": 39.4915,
+      "longitude": 33.214,
+      "location_name": "Ankara"
+    },
     {
       "id": "9UhHIXLuJTs2W",
       "title": "KOBAKLAR-GORDES (MANISA)",
