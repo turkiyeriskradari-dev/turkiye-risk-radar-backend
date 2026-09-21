@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T12:02:32.930876+00:00",
+  "last_updated": "2026-09-21T12:25:56.144398+00:00",
   "record_count": 72,
   "data": [
+    {
+      "id": "jVbaz3qTAYo7x",
+      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
+      "magnitude": 2.3,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-21 15:05:18",
+      "latitude": 37.8348,
+      "longitude": 36.1538,
+      "location_name": "Adana"
+    },
+    {
+      "id": "CLSJIKYN4BoAH",
+      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
+      "magnitude": 2.3,
+      "depth_km": 1.6,
+      "date_utc": "2026-09-21 15:03:42",
+      "latitude": 37.8505,
+      "longitude": 36.1357,
+      "location_name": "Adana"
+    },
     {
       "id": "1qBHKHI134qfm",
       "title": "YETIMLI-ALADAG (ADANA)",
@@ -702,26 +722,6 @@
       "latitude": 38.3708,
       "longitude": 38.8667,
       "location_name": "Malatya"
-    },
-    {
-      "id": "OuCJNxo0G_iNI",
-      "title": "COKAK-ANDIRIN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 26,
-      "date_utc": "2026-09-20 15:10:21",
-      "latitude": 37.735,
-      "longitude": 36.363,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "9tcXPR1gBgK3V",
-      "title": "YUVADAMI-AHLAT (BITLIS)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-20 15:02:25",
-      "latitude": 38.8325,
-      "longitude": 42.4695,
-      "location_name": "Bitlis"
     }
   ]
 }
