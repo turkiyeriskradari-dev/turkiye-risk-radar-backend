@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T15:02:10.237818+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-21T15:21:57.248952+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "hIwlGV1nY4iRr",
+      "title": "YESILBAG-MANAVGAT (ANTALYA)",
+      "magnitude": 1.9,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-21 17:54:37",
+      "latitude": 37.4455,
+      "longitude": 31.2995,
+      "location_name": "Isparta"
+    },
+    {
+      "id": "7jHTMYTPpyDsf",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 16.1,
+      "date_utc": "2026-09-21 17:30:08",
+      "latitude": 38.7942,
+      "longitude": 26.8563,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "4YeI5MDxBxEqp",
       "title": "ILICA-SINDIRGI (BALIKESIR)",
@@ -762,16 +782,6 @@
       "latitude": 37.0325,
       "longitude": 28.707,
       "location_name": "Muğla"
-    },
-    {
-      "id": "w9LpLSYmfwdIi",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.4,
-      "depth_km": 6.3,
-      "date_utc": "2026-09-20 18:18:27",
-      "latitude": 37.9222,
-      "longitude": 27.1418,
-      "location_name": "Ege Denizi"
     }
   ]
 }
