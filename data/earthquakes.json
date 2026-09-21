@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T15:49:00.930422+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-21T16:02:11.035078+00:00",
+  "record_count": 80,
   "data": [
     {
       "id": "x5D5re4tiEO3a",
@@ -802,16 +802,6 @@
       "latitude": 39.2248,
       "longitude": 28.1042,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "mXoihlQIc5pnZ",
-      "title": "YESILKOY-KOYCEGIZ (MUGLA)",
-      "magnitude": 1.9,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-20 18:56:58",
-      "latitude": 37.0325,
-      "longitude": 28.707,
-      "location_name": "Muğla"
     }
   ]
 }
