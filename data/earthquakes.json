@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T22:02:21.743557+00:00",
-  "record_count": 94,
+  "last_updated": "2026-09-21T22:21:57.052920+00:00",
+  "record_count": 93,
   "data": [
     {
       "id": "CHnayNb_VH6ju",
@@ -932,16 +932,6 @@
       "latitude": 39.665,
       "longitude": 27.1185,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "4sJS3mfKRJw_Y",
-      "title": "YENIKENT-BERGAMA (IZMIR)",
-      "magnitude": 2.1,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-21 01:02:41",
-      "latitude": 39.0095,
-      "longitude": 27.0688,
-      "location_name": "İzmir"
     }
   ]
 }
