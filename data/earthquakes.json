@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T21:21:55.353665+00:00",
+  "last_updated": "2026-09-21T21:34:08.938924+00:00",
   "record_count": 92,
   "data": [
     {
@@ -82,6 +82,16 @@
       "latitude": 38.897,
       "longitude": 25.9067,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "XJnmienj02FNS",
+      "title": "TUTENLI-AKHISAR (MANISA)",
+      "magnitude": 1.1,
+      "depth_km": 6,
+      "date_utc": "2026-09-21 22:32:21",
+      "latitude": 39.0393,
+      "longitude": 27.7748,
+      "location_name": "Manisa"
     },
     {
       "id": "f9RjhJQBmPwNK",
@@ -912,16 +922,6 @@
       "latitude": 39.0095,
       "longitude": 27.0688,
       "location_name": "İzmir"
-    },
-    {
-      "id": "ihkYQm6XCcrPd",
-      "title": "PINARBASI-CAMARDI (NIGDE)",
-      "magnitude": 1.6,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-21 00:25:45",
-      "latitude": 37.8877,
-      "longitude": 35.2107,
-      "location_name": "Niğde"
     }
   ]
 }
