@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-21T08:36:21.317843+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-21T08:50:01.148673+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "8t50g2k0ZAakA",
+      "title": "KUYTUCAK-KOZAN (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 6.5,
+      "date_utc": "2026-09-21 11:35:24",
+      "latitude": 37.5858,
+      "longitude": 35.6908,
+      "location_name": "Adana"
+    },
     {
       "id": "x4P_w6dAbo3M5",
       "title": "GUROBASI-DOGANSEHIR (MALATYA)",
