@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T13:36:06.335710+00:00",
-  "record_count": 99,
+  "last_updated": "2026-09-22T13:50:16.039565+00:00",
+  "record_count": 98,
   "data": [
     {
       "id": "L4odrgFOmzG_E",
@@ -982,16 +982,6 @@
       "latitude": 38.1657,
       "longitude": 37.2555,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "eMfmG7HMkFXIJ",
-      "title": "HIMMETLI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-09-21 16:38:27",
-      "latitude": 37.8653,
-      "longitude": 36.0537,
-      "location_name": "Adana"
     }
   ]
 }
