@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T12:27:31.347036+00:00",
+  "last_updated": "2026-09-22T12:42:05.330303+00:00",
   "record_count": 99,
   "data": [
+    {
+      "id": "iLSNZFQDCx7VH",
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.3,
+      "depth_km": 8.1,
+      "date_utc": "2026-09-22 15:17:43",
+      "latitude": 39.1885,
+      "longitude": 28.0278,
+      "location_name": "Manisa"
+    },
     {
       "id": "8mhM42X_V6mG2",
       "title": "YENILER-SIMAV (KUTAHYA)",
@@ -982,16 +992,6 @@
       "latitude": 36.552,
       "longitude": 25.533,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "5MMugGJ9P5Ald",
-      "title": "ESENKOY-CINARCIK (YALOVA)",
-      "magnitude": 1.5,
-      "depth_km": 9,
-      "date_utc": "2026-09-21 16:04:42",
-      "latitude": 40.6292,
-      "longitude": 28.8678,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
