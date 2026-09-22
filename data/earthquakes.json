@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T20:34:49.251722+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T20:48:54.141463+00:00",
+  "record_count": 91,
   "data": [
+    {
+      "id": "juRfNALrnXmjC",
+      "title": "AKDENIZ",
+      "magnitude": 1.2,
+      "depth_km": 12.5,
+      "date_utc": "2026-09-22 23:26:20",
+      "latitude": 36.466,
+      "longitude": 28.644,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "orBKX2CN3nuca",
       "title": "DEDEYAZI-DOGANSEHIR (MALATYA)",
@@ -12,6 +22,16 @@
       "latitude": 38.2172,
       "longitude": 37.8047,
       "location_name": "Malatya"
+    },
+    {
+      "id": "NTZ3lQeedJVj7",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-22 23:13:07",
+      "latitude": 38.7772,
+      "longitude": 26.883,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "bkT7OobEcL7yH",
@@ -892,16 +912,6 @@
       "latitude": 38.9932,
       "longitude": 27.064,
       "location_name": "İzmir"
-    },
-    {
-      "id": "i48yxrKXNzj5_",
-      "title": "SARAYCIK-SEYDISEHIR (KONYA)",
-      "magnitude": 1.5,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-21 23:41:37",
-      "latitude": 37.6957,
-      "longitude": 32.0278,
-      "location_name": "Konya"
     }
   ]
 }
