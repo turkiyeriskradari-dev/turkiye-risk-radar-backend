@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T17:21:36.147179+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T17:34:07.546958+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "aDLlx3Fn6KZI5",
@@ -892,16 +892,6 @@
       "latitude": 35.9072,
       "longitude": 28.0392,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "PtUjiyRHDJpoa",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 1.9,
-      "depth_km": 3.6,
-      "date_utc": "2026-09-21 20:28:04",
-      "latitude": 40.2297,
-      "longitude": 31.7153,
-      "location_name": "Ankara"
     }
   ]
 }
