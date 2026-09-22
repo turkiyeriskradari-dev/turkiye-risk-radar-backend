@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T17:01:56.066370+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-22T17:21:36.147179+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "aDLlx3Fn6KZI5",
+      "title": "KIBRIS ACIKLARI-GUNEY--(AKDENIZ)",
+      "magnitude": 2.4,
+      "depth_km": 17,
+      "date_utc": "2026-09-22 19:56:06",
+      "latitude": 34.338,
+      "longitude": 33.6052,
+      "location_name": "Kıbrıs Açıkları"
+    },
     {
       "id": "Og0PaPhm3xXdE",
       "title": "SERCELER-ILGAZ (CANKIRI)",
@@ -892,26 +902,6 @@
       "latitude": 40.2297,
       "longitude": 31.7153,
       "location_name": "Ankara"
-    },
-    {
-      "id": "l8OBex9UhQRQm",
-      "title": "AKDENIZ",
-      "magnitude": 2.4,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-21 20:19:01",
-      "latitude": 35.6287,
-      "longitude": 27.2587,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "KR9v5cFj6fKPB",
-      "title": "CALIMLI-(VAN)",
-      "magnitude": 2.8,
-      "depth_km": 5,
-      "date_utc": "2026-09-21 20:18:31",
-      "latitude": 38.6602,
-      "longitude": 43.7713,
-      "location_name": "Van"
     }
   ]
 }
