@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T00:42:52.347111+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-22T00:53:24.647124+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "r6fYMyjRb5yms",
+      "title": "YESILOVA-(HATAY)",
+      "magnitude": 2.2,
+      "depth_km": 2.3,
+      "date_utc": "2026-09-22 03:41:44",
+      "latitude": 36.2643,
+      "longitude": 36.2653,
+      "location_name": "Hatay"
+    },
     {
       "id": "ZUQzskgnp802b",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
