@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T04:48:37.515583+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T05:02:09.819302+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "urXlbGKFVOciz",
@@ -72,6 +72,16 @@
       "latitude": 37.8505,
       "longitude": 26.9665,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "FP0Yy7X2Equus",
+      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-22 05:01:29",
+      "latitude": 37.8018,
+      "longitude": 36.178,
+      "location_name": "Adana"
     },
     {
       "id": "ReWgLCtjJGSdh",
