@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T13:02:44.217488+00:00",
+  "last_updated": "2026-09-22T13:23:40.553298+00:00",
   "record_count": 99,
   "data": [
+    {
+      "id": "L4odrgFOmzG_E",
+      "title": "YENICE-(BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-22 16:01:19",
+      "latitude": 39.574,
+      "longitude": 28.074,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "iLSNZFQDCx7VH",
       "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
@@ -982,16 +992,6 @@
       "latitude": 37.8653,
       "longitude": 36.0537,
       "location_name": "Adana"
-    },
-    {
-      "id": "j5hHmAdzcL4Ae",
-      "title": "EGE DENIZI",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-21 16:28:29",
-      "latitude": 36.552,
-      "longitude": 25.533,
-      "location_name": "Ege Denizi"
     }
   ]
 }
