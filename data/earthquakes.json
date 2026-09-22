@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T08:36:44.047433+00:00",
-  "record_count": 94,
+  "last_updated": "2026-09-22T08:50:14.534034+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "SP5NF7Im4ebBZ",
+      "title": "IKIZKOY-MILAS (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-22 11:37:52",
+      "latitude": 37.1963,
+      "longitude": 27.8715,
+      "location_name": "Muğla"
+    },
     {
       "id": "XK8Q3nsi_gSdm",
       "title": "YUKARIYENICE-PALANDOKEN (ERZURUM)",
@@ -922,26 +932,6 @@
       "latitude": 37.9265,
       "longitude": 27.1517,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "B9zbhdJAGW4HC",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 0,
-      "date_utc": "2026-09-21 11:45:25",
-      "latitude": 37.1508,
-      "longitude": 27.8552,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "7l2jKMcCGLvmC",
-      "title": "KIZIK-CAVDARHISAR (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 20.4,
-      "date_utc": "2026-09-21 11:37:39",
-      "latitude": 39.196,
-      "longitude": 29.4888,
-      "location_name": "Kütahya"
     }
   ]
 }
