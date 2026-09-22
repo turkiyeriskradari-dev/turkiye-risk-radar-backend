@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T18:39:39.916597+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-22T18:50:48.345944+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "KuWQjWW_sywfc",
+      "title": "BALIKLI-SARIKAMIS (KARS)",
+      "magnitude": 1.7,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-22 21:42:29",
+      "latitude": 40.0132,
+      "longitude": 42.5713,
+      "location_name": "Kars"
+    },
+    {
+      "id": "3lFR_yJsP47y3",
+      "title": "BULGARISTAN",
+      "magnitude": 2.1,
+      "depth_km": 12.1,
+      "date_utc": "2026-09-22 21:26:03",
+      "latitude": 42.608,
+      "longitude": 27.7618,
+      "location_name": "Karadeniz"
+    },
+    {
+      "id": "TIPCRKTmuQnp8",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.1,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-22 21:18:06",
+      "latitude": 38.7498,
+      "longitude": 26.8745,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "tpn7VxQge0to4",
       "title": "EMRECIK-AZIZIYE (ERZURUM)",
