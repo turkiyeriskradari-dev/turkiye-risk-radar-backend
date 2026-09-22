@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T11:47:42.820344+00:00",
-  "record_count": 97,
+  "last_updated": "2026-09-22T12:02:13.754882+00:00",
+  "record_count": 99,
   "data": [
+    {
+      "id": "jJCYnxKD_Tye4",
+      "title": "TULULER-BAYRAMIC (CANAKKALE)",
+      "magnitude": 1.5,
+      "depth_km": 12.5,
+      "date_utc": "2026-09-22 14:48:32",
+      "latitude": 39.8323,
+      "longitude": 26.6718,
+      "location_name": "Çanakkale"
+    },
+    {
+      "id": "JcrJ0cJua9NFn",
+      "title": "ULUKOY-(MALATYA)",
+      "magnitude": 3.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-22 14:46:55",
+      "latitude": 38.1962,
+      "longitude": 38.5382,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "7QQNw7vSLA5ks",
       "title": "YETIMLI-ALADAG (ADANA)",
