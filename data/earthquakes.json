@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T22:02:00.417826+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-22T22:21:12.643253+00:00",
+  "record_count": 90,
   "data": [
     {
       "id": "ssCurODdy8dxR",
@@ -902,16 +902,6 @@
       "latitude": 39.5905,
       "longitude": 42.8248,
       "location_name": "Ağrı"
-    },
-    {
-      "id": "7hU2JFo7RmWxe",
-      "title": "YEREBAKAN-FEKE (ADANA)",
-      "magnitude": 1.1,
-      "depth_km": 4.1,
-      "date_utc": "2026-09-22 01:02:46",
-      "latitude": 37.8043,
-      "longitude": 35.838,
-      "location_name": "Adana"
     }
   ]
 }
