@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T22:47:25.019761+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-22T23:02:07.446787+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "Hj7zxD3egVwEK",
+      "title": "KARAYOKUS-BOLVADIN (AFYONKARAHISAR)",
+      "magnitude": 2.3,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-23 01:36:54",
+      "latitude": 38.7723,
+      "longitude": 31.1692,
+      "location_name": "Afyon"
+    },
     {
       "id": "ssCurODdy8dxR",
       "title": "BAHTILLI-SIMAV (KUTAHYA)",
@@ -872,26 +882,6 @@
       "latitude": 39.3267,
       "longitude": 42.066,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "yY0Ag0GLwqsWy",
-      "title": "KARSIYAKA-PUTURGE (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 5,
-      "date_utc": "2026-09-22 01:56:51",
-      "latitude": 38.276,
-      "longitude": 38.7995,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "q_yC3k8bglYN7",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 0.9,
-      "depth_km": 13.6,
-      "date_utc": "2026-09-22 01:56:07",
-      "latitude": 39.2528,
-      "longitude": 28.932,
-      "location_name": "Kütahya"
     }
   ]
 }
