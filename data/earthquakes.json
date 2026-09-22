@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T02:22:40.115893+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-22T02:35:11.738006+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "X38xrSrbaGhhh",
@@ -732,36 +732,6 @@
       "latitude": 38.8307,
       "longitude": 37.4758,
       "location_name": "Sivas"
-    },
-    {
-      "id": "hGg8oYr2qiyxQ",
-      "title": "AKDENIZ",
-      "magnitude": 2.1,
-      "depth_km": 7.5,
-      "date_utc": "2026-09-21 05:31:43",
-      "latitude": 35.7757,
-      "longitude": 31.5773,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "1dbE7Fgy_xyis",
-      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 13.5,
-      "date_utc": "2026-09-21 05:27:36",
-      "latitude": 37.8288,
-      "longitude": 36.1503,
-      "location_name": "Adana"
-    },
-    {
-      "id": "TGbCdGUezvIY0",
-      "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 10.3,
-      "date_utc": "2026-09-21 05:24:56",
-      "latitude": 37.8225,
-      "longitude": 36.1535,
-      "location_name": "Adana"
     }
   ]
 }
