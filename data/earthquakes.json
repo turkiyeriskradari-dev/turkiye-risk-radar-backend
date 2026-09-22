@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T08:24:21.746140+00:00",
-  "record_count": 95,
+  "last_updated": "2026-09-22T08:36:44.047433+00:00",
+  "record_count": 94,
   "data": [
     {
       "id": "XK8Q3nsi_gSdm",
@@ -942,16 +942,6 @@
       "latitude": 39.196,
       "longitude": 29.4888,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "8t50g2k0ZAakA",
-      "title": "KUYTUCAK-KOZAN (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-21 11:35:24",
-      "latitude": 37.5858,
-      "longitude": 35.6908,
-      "location_name": "Adana"
     }
   ]
 }
