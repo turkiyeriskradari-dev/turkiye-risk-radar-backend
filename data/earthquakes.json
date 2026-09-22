@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T05:34:55.330139+00:00",
-  "record_count": 88,
+  "last_updated": "2026-09-22T05:48:38.434963+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "96BsIpF7kenM9",
+      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.9,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-22 08:21:37",
+      "latitude": 38.0933,
+      "longitude": 38.4045,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "urXlbGKFVOciz",
       "title": "KOCAPINAR-SERINHISAR (DENIZLI)",
