@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T00:02:54.246303+00:00",
-  "record_count": 88,
+  "last_updated": "2026-09-22T00:28:44.522132+00:00",
+  "record_count": 86,
   "data": [
+    {
+      "id": "CtzlktEmJwzMM",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-22 03:08:27",
+      "latitude": 38.7782,
+      "longitude": 26.8577,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "uz8OmSWvqEOmi",
       "title": "CANDARLI KORFEZI (EGE DENIZI)",
@@ -851,36 +861,6 @@
       "date_utc": "2026-09-21 03:54:43",
       "latitude": 38.599,
       "longitude": 37.79,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "eg41MmEPxvnnQ",
-      "title": "TEKNECIK-HORASAN (ERZURUM)",
-      "magnitude": 1.6,
-      "depth_km": 1.6,
-      "date_utc": "2026-09-21 03:28:00",
-      "latitude": 40.0312,
-      "longitude": 42.451,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "a2BNvOBAMVFgs",
-      "title": "KARAHISAR-(CORUM)",
-      "magnitude": 2,
-      "depth_km": 1.9,
-      "date_utc": "2026-09-21 03:27:19",
-      "latitude": 40.6935,
-      "longitude": 35.2293,
-      "location_name": "Amasya"
-    },
-    {
-      "id": "CGGmruuSFn88p",
-      "title": "ERKENEK-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 17.8,
-      "date_utc": "2026-09-21 03:15:46",
-      "latitude": 37.915,
-      "longitude": 37.9445,
       "location_name": "Malatya"
     }
   ]
