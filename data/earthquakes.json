@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T15:34:29.746594+00:00",
-  "record_count": 95,
+  "last_updated": "2026-09-22T15:48:14.233888+00:00",
+  "record_count": 96,
   "data": [
+    {
+      "id": "DR0rZ6v9NefTy",
+      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
+      "magnitude": 2.1,
+      "depth_km": 5.8,
+      "date_utc": "2026-09-22 18:26:35",
+      "latitude": 38.1317,
+      "longitude": 37.8343,
+      "location_name": "Malatya"
+    },
     {
       "id": "Nr7K4ax149BUI",
       "title": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
