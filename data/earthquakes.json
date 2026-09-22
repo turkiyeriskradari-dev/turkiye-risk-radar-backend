@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T03:02:00.841562+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-22T03:22:59.821030+00:00",
+  "record_count": 76,
   "data": [
     {
       "id": "QTsXcCTRY1DSm",
@@ -114,6 +114,26 @@
       "location_name": "Ege Denizi"
     },
     {
+      "id": "gJ9x9Ol9bwgc5",
+      "title": "BUDAKLI-KARACOBAN (ERZURUM)",
+      "magnitude": 1.4,
+      "depth_km": 13.7,
+      "date_utc": "2026-09-22 02:14:59",
+      "latitude": 39.3267,
+      "longitude": 42.066,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "yY0Ag0GLwqsWy",
+      "title": "KARSIYAKA-PUTURGE (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-22 01:56:51",
+      "latitude": 38.276,
+      "longitude": 38.7995,
+      "location_name": "Malatya"
+    },
+    {
       "id": "ylsT4kf8VdEtV",
       "title": "KASONU-TUTAK (AGRI)",
       "magnitude": 1.5,
@@ -122,6 +142,16 @@
       "latitude": 39.5905,
       "longitude": 42.8248,
       "location_name": "Ağrı"
+    },
+    {
+      "id": "7hU2JFo7RmWxe",
+      "title": "YEREBAKAN-FEKE (ADANA)",
+      "magnitude": 1.1,
+      "depth_km": 4.1,
+      "date_utc": "2026-09-22 01:02:46",
+      "latitude": 37.8043,
+      "longitude": 35.838,
+      "location_name": "Adana"
     },
     {
       "id": "CHnayNb_VH6ju",
@@ -732,16 +762,6 @@
       "latitude": 37.4595,
       "longitude": 37.1797,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "_4Y7fe0HrN_9Y",
-      "title": "MARMARA DENIZI",
-      "magnitude": 1.2,
-      "depth_km": 3.3,
-      "date_utc": "2026-09-21 06:13:07",
-      "latitude": 40.6325,
-      "longitude": 27.5938,
-      "location_name": "Balıkesir"
     }
   ]
 }
