@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T10:02:30.351300+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-22T10:23:52.355232+00:00",
+  "record_count": 92,
   "data": [
     {
       "id": "PBmc2gcQPHspq",
@@ -22,6 +22,16 @@
       "latitude": 36.7042,
       "longitude": 25.4615,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "tnSfxk2VEKpa4",
+      "title": "MAMAK (ANKARA)",
+      "magnitude": 1.3,
+      "depth_km": 12.4,
+      "date_utc": "2026-09-22 12:28:24",
+      "latitude": 39.8662,
+      "longitude": 33.045,
+      "location_name": "Ankara"
     },
     {
       "id": "SP5NF7Im4ebBZ",
