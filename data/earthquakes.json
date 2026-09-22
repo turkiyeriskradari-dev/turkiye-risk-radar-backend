@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T03:22:59.821030+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-22T03:35:54.355395+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "oJ2GsNHTJdDA4",
+      "title": "ALICERI-AKCADAG (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-22 05:59:42",
+      "latitude": 38.4657,
+      "longitude": 37.9695,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "bUTHzAY2v9Vyd",
+      "title": "FASIL-(BOLU)",
+      "magnitude": 2,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-22 05:58:29",
+      "latitude": 40.7868,
+      "longitude": 31.6177,
+      "location_name": "Bolu"
+    },
     {
       "id": "QTsXcCTRY1DSm",
       "title": "GULUMUSAGI-(MALATYA)",
@@ -132,6 +152,16 @@
       "latitude": 38.276,
       "longitude": 38.7995,
       "location_name": "Malatya"
+    },
+    {
+      "id": "q_yC3k8bglYN7",
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 13.6,
+      "date_utc": "2026-09-22 01:56:07",
+      "latitude": 39.2528,
+      "longitude": 28.932,
+      "location_name": "Kütahya"
     },
     {
       "id": "ylsT4kf8VdEtV",
@@ -752,16 +782,6 @@
       "latitude": 39.0488,
       "longitude": 27.0598,
       "location_name": "İzmir"
-    },
-    {
-      "id": "uOjpY4aIPmeYt",
-      "title": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-21 06:30:25",
-      "latitude": 37.4595,
-      "longitude": 37.1797,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
