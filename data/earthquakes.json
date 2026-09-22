@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T08:02:01.350609+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-22T08:24:21.746140+00:00",
+  "record_count": 95,
   "data": [
+    {
+      "id": "XK8Q3nsi_gSdm",
+      "title": "YUKARIYENICE-PALANDOKEN (ERZURUM)",
+      "magnitude": 1.9,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-22 11:10:21",
+      "latitude": 39.8555,
+      "longitude": 40.9355,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "E7xvXcXFcebCm",
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "magnitude": 0.9,
+      "depth_km": 7,
+      "date_utc": "2026-09-22 10:54:27",
+      "latitude": 40.4858,
+      "longitude": 29.1672,
+      "location_name": "Bursa"
+    },
+    {
+      "id": "KJjvvjsFCGoHi",
+      "title": "AYVAZPINARI-GOLCUK (KOCAELI)",
+      "magnitude": 0.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-22 10:49:24",
+      "latitude": 40.5882,
+      "longitude": 29.7645,
+      "location_name": "Bursa"
+    },
     {
       "id": "p_K6aN8w1Eg7a",
       "title": "KASIKLI-YEDISU (BINGOL)",
@@ -922,16 +952,6 @@
       "latitude": 37.5858,
       "longitude": 35.6908,
       "location_name": "Adana"
-    },
-    {
-      "id": "457MqykzEdW0O",
-      "title": "HANCERLI-AKCADAG (MALATYA)",
-      "magnitude": 1,
-      "depth_km": 13.5,
-      "date_utc": "2026-09-21 11:11:31",
-      "latitude": 38.3132,
-      "longitude": 37.8408,
-      "location_name": "Malatya"
     }
   ]
 }
