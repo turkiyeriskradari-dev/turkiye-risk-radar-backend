@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T18:02:39.456497+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T18:26:27.142250+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "tpn7VxQge0to4",
+      "title": "EMRECIK-AZIZIYE (ERZURUM)",
+      "magnitude": 1.7,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-22 21:12:01",
+      "latitude": 40.051,
+      "longitude": 40.9768,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "ycYY2i73XqxwG",
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "magnitude": 1.3,
+      "depth_km": 11.2,
+      "date_utc": "2026-09-22 21:08:16",
+      "latitude": 39.2608,
+      "longitude": 28.9105,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "HTxeSNKqbiQMu",
+      "title": "EGE DENIZI",
+      "magnitude": 1.6,
+      "depth_km": 9.9,
+      "date_utc": "2026-09-22 21:01:42",
+      "latitude": 39.3695,
+      "longitude": 25.8527,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "lNdMoieWuCBMm",
+      "title": "BULGARISTAN",
+      "magnitude": 3.2,
+      "depth_km": 7.9,
+      "date_utc": "2026-09-22 20:54:04",
+      "latitude": 42.5367,
+      "longitude": 27.8857,
+      "location_name": "Karadeniz"
+    },
     {
       "id": "1tsq6LXpbh6co",
       "title": "ONIKI ADALAR (EGE DENIZI)",
@@ -852,56 +892,6 @@
       "latitude": 39.2285,
       "longitude": 28.1143,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "sywDmrOdFBL7p",
-      "title": "GORGU-YESILYURT (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 11,
-      "date_utc": "2026-09-21 21:25:20",
-      "latitude": 38.2577,
-      "longitude": 38.1373,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "puT8pE9h5vhTw",
-      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 3.8,
-      "date_utc": "2026-09-21 21:21:49",
-      "latitude": 38.3747,
-      "longitude": 37.3725,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "l9DmvELLSFgsK",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 13.1,
-      "date_utc": "2026-09-21 21:17:49",
-      "latitude": 38.736,
-      "longitude": 26.8033,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "O9ygS6PCto7J4",
-      "title": "AKDENIZ",
-      "magnitude": 2,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-21 21:11:25",
-      "latitude": 35.9175,
-      "longitude": 30.0667,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "Pz2aZjJkE2DTE",
-      "title": "HAMDIYE-GUNEY (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 13.2,
-      "date_utc": "2026-09-21 21:09:52",
-      "latitude": 38.1063,
-      "longitude": 28.9567,
-      "location_name": "Denizli"
     }
   ]
 }
