@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T07:49:05.619843+00:00",
+  "last_updated": "2026-09-22T08:02:01.350609+00:00",
   "record_count": 93,
   "data": [
+    {
+      "id": "p_K6aN8w1Eg7a",
+      "title": "KASIKLI-YEDISU (BINGOL)",
+      "magnitude": 2.4,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-22 09:53:42",
+      "latitude": 39.475,
+      "longitude": 40.589,
+      "location_name": "Bingöl"
+    },
     {
       "id": "UuWnAn_KipPx9",
       "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
@@ -921,16 +931,6 @@
       "date_utc": "2026-09-21 11:11:31",
       "latitude": 38.3132,
       "longitude": 37.8408,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "qrVAB_yMO8WHL",
-      "title": "ESKIKOY-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-21 11:00:29",
-      "latitude": 38.1385,
-      "longitude": 38.0233,
       "location_name": "Malatya"
     }
   ]
