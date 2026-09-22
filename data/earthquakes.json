@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T11:22:15.944046+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-22T11:35:37.054472+00:00",
+  "record_count": 94,
   "data": [
+    {
+      "id": "YmW4x5eNkupVB",
+      "title": "GOKCEOZ-NALLIHAN (ANKARA)",
+      "magnitude": 2.2,
+      "depth_km": 12.3,
+      "date_utc": "2026-09-22 14:16:27",
+      "latitude": 40.227,
+      "longitude": 31.6837,
+      "location_name": "Ankara"
+    },
     {
       "id": "ciV5d3Qtafgq5",
       "title": "KATRANDAGI-EMET (KUTAHYA)",
