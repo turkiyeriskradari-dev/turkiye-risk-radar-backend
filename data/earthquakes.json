@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T09:48:53.816764+00:00",
-  "record_count": 89,
+  "last_updated": "2026-09-22T10:02:30.351300+00:00",
+  "record_count": 91,
   "data": [
+    {
+      "id": "PBmc2gcQPHspq",
+      "title": "YESILOVA-MADEN (ELAZIG)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-22 12:48:10",
+      "latitude": 38.5773,
+      "longitude": 39.5678,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "RD2HpaJGUHgvf",
+      "title": "EGE DENIZI",
+      "magnitude": 1.4,
+      "depth_km": 1.5,
+      "date_utc": "2026-09-22 12:47:21",
+      "latitude": 36.7042,
+      "longitude": 25.4615,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "SP5NF7Im4ebBZ",
       "title": "IKIZKOY-MILAS (MUGLA)",
