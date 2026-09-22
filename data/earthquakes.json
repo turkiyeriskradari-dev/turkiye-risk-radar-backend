@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T20:01:56.238808+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T20:21:17.130365+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "bkT7OobEcL7yH",
+      "title": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 10.3,
+      "date_utc": "2026-09-22 23:05:01",
+      "latitude": 38.0958,
+      "longitude": 37.1192,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "NvxFLLqlJg3p2",
       "title": "HORZUMEMBELLI-ALASEHIR (MANISA)",
@@ -882,26 +892,6 @@
       "latitude": 37.6957,
       "longitude": 32.0278,
       "location_name": "Konya"
-    },
-    {
-      "id": "akMxxtuWwQLJ8",
-      "title": "EGE DENIZI",
-      "magnitude": 2.2,
-      "depth_km": 6.1,
-      "date_utc": "2026-09-21 23:18:13",
-      "latitude": 36.1397,
-      "longitude": 27.0835,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "jYeA441Je2oFh",
-      "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
-      "magnitude": 2.2,
-      "depth_km": 3.1,
-      "date_utc": "2026-09-21 23:08:49",
-      "latitude": 37.831,
-      "longitude": 36.1792,
-      "location_name": "Adana"
     }
   ]
 }
