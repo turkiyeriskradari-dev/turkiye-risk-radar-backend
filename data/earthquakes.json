@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T15:02:18.749698+00:00",
-  "record_count": 96,
+  "last_updated": "2026-09-22T15:22:48.262185+00:00",
+  "record_count": 95,
   "data": [
+    {
+      "id": "hV5Wn6WyuAP2P",
+      "title": "KISLAK-ALADAG (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-22 18:09:26",
+      "latitude": 37.6002,
+      "longitude": 35.5698,
+      "location_name": "Adana"
+    },
     {
       "id": "YqGe8z7mu6A_R",
       "title": "BOGURTLEN-SIVRIHISAR (ESKISEHIR)",
@@ -941,26 +951,6 @@
       "date_utc": "2026-09-21 18:26:13",
       "latitude": 38.3935,
       "longitude": 37.4067,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "lNYvR7nRunjXX",
-      "title": "YUNUSLAR-GEDIZ (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 11.5,
-      "date_utc": "2026-09-21 18:13:17",
-      "latitude": 39.105,
-      "longitude": 29.4662,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "yldbEChVMhM31",
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-21 18:11:45",
-      "latitude": 38.3942,
-      "longitude": 37.3955,
       "location_name": "Kahramanmaraş"
     }
   ]
