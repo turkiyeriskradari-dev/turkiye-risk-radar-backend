@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T10:23:52.355232+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-22T10:35:59.155324+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "TF275sEfB1VPN",
+      "title": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 2.1,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-22 13:23:49",
+      "latitude": 37.7863,
+      "longitude": 36.2523,
+      "location_name": "Adana"
+    },
     {
       "id": "PBmc2gcQPHspq",
       "title": "YESILOVA-MADEN (ELAZIG)",
