@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T22:21:12.643253+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T22:33:57.045791+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "ssCurODdy8dxR",
@@ -892,16 +892,6 @@
       "latitude": 39.2528,
       "longitude": 28.932,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "ylsT4kf8VdEtV",
-      "title": "KASONU-TUTAK (AGRI)",
-      "magnitude": 1.5,
-      "depth_km": 11.6,
-      "date_utc": "2026-09-22 01:28:18",
-      "latitude": 39.5905,
-      "longitude": 42.8248,
-      "location_name": "Ağrı"
     }
   ]
 }
