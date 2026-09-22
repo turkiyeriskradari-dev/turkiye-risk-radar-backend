@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T15:22:48.262185+00:00",
+  "last_updated": "2026-09-22T15:34:29.746594+00:00",
   "record_count": 95,
   "data": [
+    {
+      "id": "Nr7K4ax149BUI",
+      "title": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-22 18:14:10",
+      "latitude": 38.7833,
+      "longitude": 36.5762,
+      "location_name": "Kayseri"
+    },
     {
       "id": "hV5Wn6WyuAP2P",
       "title": "KISLAK-ALADAG (ADANA)",
@@ -942,16 +952,6 @@
       "latitude": 35.4165,
       "longitude": 27.3403,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "x5D5re4tiEO3a",
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-21 18:26:13",
-      "latitude": 38.3935,
-      "longitude": 37.4067,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
