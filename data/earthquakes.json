@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T14:37:28.353048+00:00",
-  "record_count": 96,
+  "last_updated": "2026-09-22T14:51:22.249221+00:00",
+  "record_count": 97,
   "data": [
+    {
+      "id": "YqGe8z7mu6A_R",
+      "title": "BOGURTLEN-SIVRIHISAR (ESKISEHIR)",
+      "magnitude": 1.4,
+      "depth_km": 1.8,
+      "date_utc": "2026-09-22 17:24:14",
+      "latitude": 39.445,
+      "longitude": 31.5933,
+      "location_name": "Eskişehir"
+    },
     {
       "id": "whtVmIzFrxk6h",
       "title": "GULUMUSAGI-(MALATYA)",
