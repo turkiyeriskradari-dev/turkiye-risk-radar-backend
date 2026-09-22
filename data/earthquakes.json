@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T01:20:30.919832+00:00",
-  "record_count": 85,
+  "last_updated": "2026-09-22T01:34:35.040859+00:00",
+  "record_count": 83,
   "data": [
     {
       "id": "r6fYMyjRb5yms",
@@ -832,26 +832,6 @@
       "latitude": 37.8967,
       "longitude": 36.192,
       "location_name": "Adana"
-    },
-    {
-      "id": "Qg9MoGggV598r",
-      "title": "YARDIBI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-21 04:29:08",
-      "latitude": 37.8648,
-      "longitude": 36.1052,
-      "location_name": "Adana"
-    },
-    {
-      "id": "YWVGBQvlVm7pw",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 8,
-      "date_utc": "2026-09-21 04:21:41",
-      "latitude": 39.063,
-      "longitude": 26.0335,
-      "location_name": "Ege Denizi"
     }
   ]
 }
