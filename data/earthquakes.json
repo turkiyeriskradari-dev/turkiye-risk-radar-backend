@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T09:34:38.745023+00:00",
-  "record_count": 90,
+  "last_updated": "2026-09-22T09:48:53.816764+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "SP5NF7Im4ebBZ",
@@ -892,16 +892,6 @@
       "latitude": 37.8148,
       "longitude": 36.2247,
       "location_name": "Adana"
-    },
-    {
-      "id": "gGzfIqY_gcQyl",
-      "title": "BAHCEKARADALAK-BALA (ANKARA)",
-      "magnitude": 1.9,
-      "depth_km": 1.9,
-      "date_utc": "2026-09-21 12:43:52",
-      "latitude": 39.4915,
-      "longitude": 33.214,
-      "location_name": "Ankara"
     }
   ]
 }

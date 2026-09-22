@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-09-22T09:34:40.934170+00:00",
+  "last_updated": "2026-09-22T09:48:55.391216+00:00",
   "record_count": 81,
   "data": [
     {
@@ -8,7 +8,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 17.8,
-      "temperature_max_c": 32.7,
+      "temperature_max_c": 33.0,
       "temperature_min_c": 22.8,
       "alerts": []
     },
@@ -17,7 +17,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 15.5,
-      "temperature_max_c": 31.7,
+      "temperature_max_c": 31.9,
       "temperature_min_c": 21.7,
       "alerts": []
     },
@@ -26,7 +26,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 19.2,
-      "temperature_max_c": 25.7,
+      "temperature_max_c": 25.5,
       "temperature_min_c": 13.2,
       "alerts": []
     },
@@ -35,7 +35,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 13.0,
-      "temperature_max_c": 23.3,
+      "temperature_max_c": 23.4,
       "temperature_min_c": 10.0,
       "alerts": []
     },
@@ -44,7 +44,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 7.1,
-      "temperature_max_c": 27.9,
+      "temperature_max_c": 27.8,
       "temperature_min_c": 14.4,
       "alerts": []
     },
@@ -53,7 +53,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.4,
       "wind_speed_max_kmh": 9.2,
-      "temperature_max_c": 23.0,
+      "temperature_max_c": 23.6,
       "temperature_min_c": 15.3,
       "alerts": []
     },
@@ -62,7 +62,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.8,
       "wind_speed_max_kmh": 15.5,
-      "temperature_max_c": 27.5,
+      "temperature_max_c": 27.7,
       "temperature_min_c": 22.4,
       "alerts": []
     },
@@ -71,7 +71,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 10.2,
-      "temperature_max_c": 26.2,
+      "temperature_max_c": 26.5,
       "temperature_min_c": 16.5,
       "alerts": []
     },
@@ -80,7 +80,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 22.2,
-      "temperature_max_c": 30.4,
+      "temperature_max_c": 30.3,
       "temperature_min_c": 18.4,
       "alerts": []
     },
@@ -89,7 +89,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 3.4,
       "wind_speed_max_kmh": 20.9,
-      "temperature_max_c": 20.1,
+      "temperature_max_c": 19.7,
       "temperature_min_c": 15.8,
       "alerts": []
     },
@@ -98,7 +98,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 1.6,
       "wind_speed_max_kmh": 13.8,
-      "temperature_max_c": 20.4,
+      "temperature_max_c": 20.6,
       "temperature_min_c": 11.3,
       "alerts": []
     },
@@ -107,7 +107,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 17.3,
-      "temperature_max_c": 27.7,
+      "temperature_max_c": 27.9,
       "temperature_min_c": 17.0,
       "alerts": []
     },
@@ -125,7 +125,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.3,
       "wind_speed_max_kmh": 9.9,
-      "temperature_max_c": 16.2,
+      "temperature_max_c": 16.1,
       "temperature_min_c": 7.1,
       "alerts": []
     },
@@ -134,7 +134,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 2.9,
       "wind_speed_max_kmh": 18.8,
-      "temperature_max_c": 26.6,
+      "temperature_max_c": 26.5,
       "temperature_min_c": 15.1,
       "alerts": []
     },
@@ -143,8 +143,8 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 3.3,
       "wind_speed_max_kmh": 10.5,
-      "temperature_max_c": 19.4,
-      "temperature_min_c": 16.2,
+      "temperature_max_c": 19.5,
+      "temperature_min_c": 15.8,
       "alerts": []
     },
     {
@@ -153,7 +153,7 @@
       "precipitation_mm": 17.9,
       "wind_speed_max_kmh": 31.7,
       "temperature_max_c": 20.8,
-      "temperature_min_c": 15.2,
+      "temperature_min_c": 15.1,
       "alerts": []
     },
     {
@@ -161,7 +161,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 8.4,
-      "temperature_max_c": 24.0,
+      "temperature_max_c": 23.9,
       "temperature_min_c": 14.5,
       "alerts": []
     },
@@ -170,7 +170,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 10.0,
-      "temperature_max_c": 25.8,
+      "temperature_max_c": 25.4,
       "temperature_min_c": 12.7,
       "alerts": []
     },
@@ -179,7 +179,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 20.4,
-      "temperature_max_c": 30.9,
+      "temperature_max_c": 30.7,
       "temperature_min_c": 16.3,
       "alerts": []
     },
@@ -188,7 +188,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 23.5,
-      "temperature_max_c": 34.7,
+      "temperature_max_c": 34.8,
       "temperature_min_c": 18.1,
       "alerts": []
     },
@@ -198,7 +198,7 @@
       "precipitation_mm": 0.6,
       "wind_speed_max_kmh": 18.8,
       "temperature_max_c": 23.3,
-      "temperature_min_c": 15.0,
+      "temperature_min_c": 14.5,
       "alerts": []
     },
     {
@@ -206,7 +206,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 19.4,
-      "temperature_max_c": 28.2,
+      "temperature_max_c": 28.8,
       "temperature_min_c": 19.2,
       "alerts": []
     },
@@ -215,7 +215,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 16.0,
-      "temperature_max_c": 25.7,
+      "temperature_max_c": 25.2,
       "temperature_min_c": 15.4,
       "alerts": []
     },
@@ -224,7 +224,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.6,
       "wind_speed_max_kmh": 23.4,
-      "temperature_max_c": 19.5,
+      "temperature_max_c": 19.3,
       "temperature_min_c": 11.9,
       "alerts": []
     },
@@ -233,7 +233,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.5,
       "wind_speed_max_kmh": 15.5,
-      "temperature_max_c": 22.4,
+      "temperature_max_c": 21.9,
       "temperature_min_c": 10.7,
       "alerts": []
     },
@@ -242,7 +242,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 19.6,
-      "temperature_max_c": 30.7,
+      "temperature_max_c": 30.9,
       "temperature_min_c": 20.4,
       "alerts": []
     },
@@ -251,7 +251,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.5,
       "wind_speed_max_kmh": 6.6,
-      "temperature_max_c": 24.0,
+      "temperature_max_c": 23.9,
       "temperature_min_c": 17.0,
       "alerts": []
     },
@@ -260,7 +260,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.7,
       "wind_speed_max_kmh": 13.5,
-      "temperature_max_c": 24.9,
+      "temperature_max_c": 24.7,
       "temperature_min_c": 12.8,
       "alerts": []
     },
@@ -269,7 +269,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 21.5,
-      "temperature_max_c": 25.5,
+      "temperature_max_c": 25.6,
       "temperature_min_c": 11.6,
       "alerts": []
     },
@@ -278,7 +278,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 27.3,
-      "temperature_max_c": 28.7,
+      "temperature_max_c": 29.1,
       "temperature_min_c": 22.5,
       "alerts": []
     },
@@ -287,7 +287,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 6.7,
       "wind_speed_max_kmh": 19.0,
-      "temperature_max_c": 24.1,
+      "temperature_max_c": 24.0,
       "temperature_min_c": 14.6,
       "alerts": []
     },
@@ -296,7 +296,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 1.4,
       "wind_speed_max_kmh": 17.6,
-      "temperature_max_c": 28.9,
+      "temperature_max_c": 29.2,
       "temperature_min_c": 24.1,
       "alerts": []
     },
@@ -314,7 +314,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.4,
       "wind_speed_max_kmh": 18.5,
-      "temperature_max_c": 27.6,
+      "temperature_max_c": 27.7,
       "temperature_min_c": 17.3,
       "alerts": []
     },
@@ -323,7 +323,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 1.2,
       "wind_speed_max_kmh": 24.9,
-      "temperature_max_c": 22.0,
+      "temperature_max_c": 22.3,
       "temperature_min_c": 8.2,
       "alerts": []
     },
@@ -332,7 +332,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 3.1,
       "wind_speed_max_kmh": 7.1,
-      "temperature_max_c": 22.2,
+      "temperature_max_c": 21.0,
       "temperature_min_c": 12.8,
       "alerts": []
     },
@@ -341,7 +341,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 11.1,
-      "temperature_max_c": 27.2,
+      "temperature_max_c": 27.3,
       "temperature_min_c": 13.3,
       "alerts": []
     },
@@ -351,7 +351,7 @@
       "precipitation_mm": 6.1,
       "wind_speed_max_kmh": 16.3,
       "temperature_max_c": 22.3,
-      "temperature_min_c": 14.2,
+      "temperature_min_c": 13.7,
       "alerts": []
     },
     {
@@ -368,8 +368,8 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 15.0,
       "wind_speed_max_kmh": 14.1,
-      "temperature_max_c": 19.0,
-      "temperature_min_c": 14.2,
+      "temperature_max_c": 18.9,
+      "temperature_min_c": 14.3,
       "alerts": []
     },
     {
@@ -377,7 +377,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 13.6,
-      "temperature_max_c": 26.5,
+      "temperature_max_c": 26.4,
       "temperature_min_c": 15.3,
       "alerts": []
     },
@@ -386,7 +386,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 15.4,
-      "temperature_max_c": 21.8,
+      "temperature_max_c": 21.5,
       "temperature_min_c": 9.1,
       "alerts": []
     },
@@ -395,7 +395,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 12.1,
-      "temperature_max_c": 27.7,
+      "temperature_max_c": 27.4,
       "temperature_min_c": 17.6,
       "alerts": []
     },
@@ -404,7 +404,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.6,
       "wind_speed_max_kmh": 9.4,
-      "temperature_max_c": 24.2,
+      "temperature_max_c": 24.4,
       "temperature_min_c": 15.7,
       "alerts": []
     },
@@ -413,7 +413,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 18.4,
-      "temperature_max_c": 31.8,
+      "temperature_max_c": 32.3,
       "temperature_min_c": 20.4,
       "alerts": []
     },
@@ -422,7 +422,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 29.3,
-      "temperature_max_c": 32.3,
+      "temperature_max_c": 32.4,
       "temperature_min_c": 21.4,
       "alerts": []
     },
@@ -431,7 +431,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 20.3,
-      "temperature_max_c": 27.0,
+      "temperature_max_c": 27.3,
       "temperature_min_c": 16.4,
       "alerts": []
     },
@@ -440,7 +440,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.4,
       "wind_speed_max_kmh": 26.7,
-      "temperature_max_c": 22.1,
+      "temperature_max_c": 21.9,
       "temperature_min_c": 12.9,
       "alerts": []
     },
@@ -458,7 +458,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 17.9,
-      "temperature_max_c": 25.2,
+      "temperature_max_c": 25.4,
       "temperature_min_c": 14.6,
       "alerts": []
     },
@@ -476,7 +476,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 6.1,
-      "temperature_max_c": 24.4,
+      "temperature_max_c": 24.2,
       "temperature_min_c": 18.6,
       "alerts": []
     },
@@ -485,7 +485,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 5.5,
       "wind_speed_max_kmh": 13.8,
-      "temperature_max_c": 24.1,
+      "temperature_max_c": 24.4,
       "temperature_min_c": 14.2,
       "alerts": []
     },
@@ -503,7 +503,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 23.1,
-      "temperature_max_c": 31.9,
+      "temperature_max_c": 32.0,
       "temperature_min_c": 20.7,
       "alerts": []
     },
@@ -512,7 +512,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 1.6,
       "wind_speed_max_kmh": 12.4,
-      "temperature_max_c": 22.8,
+      "temperature_max_c": 23.2,
       "temperature_min_c": 17.2,
       "alerts": []
     },
@@ -521,7 +521,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.7,
       "wind_speed_max_kmh": 8.7,
-      "temperature_max_c": 23.6,
+      "temperature_max_c": 23.5,
       "temperature_min_c": 12.2,
       "alerts": []
     },
@@ -531,7 +531,7 @@
       "precipitation_mm": 3.2,
       "wind_speed_max_kmh": 20.7,
       "temperature_max_c": 21.1,
-      "temperature_min_c": 15.8,
+      "temperature_min_c": 15.2,
       "alerts": []
     },
     {
@@ -539,7 +539,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 11.8,
-      "temperature_max_c": 27.6,
+      "temperature_max_c": 27.7,
       "temperature_min_c": 14.0,
       "alerts": []
     },
@@ -548,7 +548,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.7,
       "wind_speed_max_kmh": 9.5,
-      "temperature_max_c": 24.3,
+      "temperature_max_c": 24.1,
       "temperature_min_c": 20.2,
       "alerts": []
     },
@@ -557,7 +557,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 10.9,
-      "temperature_max_c": 27.1,
+      "temperature_max_c": 26.7,
       "temperature_min_c": 16.6,
       "alerts": []
     },
@@ -566,7 +566,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 16.9,
-      "temperature_max_c": 33.5,
+      "temperature_max_c": 33.7,
       "temperature_min_c": 22.4,
       "alerts": []
     },
@@ -575,7 +575,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 24.6,
-      "temperature_max_c": 24.9,
+      "temperature_max_c": 24.7,
       "temperature_min_c": 14.8,
       "alerts": []
     },
@@ -584,7 +584,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 17.9,
-      "temperature_max_c": 24.5,
+      "temperature_max_c": 24.8,
       "temperature_min_c": 14.1,
       "alerts": []
     },
@@ -593,7 +593,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 9.8,
-      "temperature_max_c": 24.1,
+      "temperature_max_c": 24.4,
       "temperature_min_c": 13.0,
       "alerts": []
     },
@@ -602,7 +602,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 11.0,
       "wind_speed_max_kmh": 7.9,
-      "temperature_max_c": 22.8,
+      "temperature_max_c": 22.4,
       "temperature_min_c": 15.1,
       "alerts": []
     },
@@ -620,7 +620,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.8,
       "wind_speed_max_kmh": 23.0,
-      "temperature_max_c": 22.1,
+      "temperature_max_c": 22.0,
       "temperature_min_c": 11.3,
       "alerts": []
     },
@@ -629,7 +629,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 26.7,
-      "temperature_max_c": 27.0,
+      "temperature_max_c": 27.2,
       "temperature_min_c": 15.0,
       "alerts": []
     },
@@ -647,7 +647,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 23.0,
-      "temperature_max_c": 35.4,
+      "temperature_max_c": 35.5,
       "temperature_min_c": 20.3,
       "alerts": [
         {
@@ -661,7 +661,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 19.3,
-      "temperature_max_c": 29.6,
+      "temperature_max_c": 29.7,
       "temperature_min_c": 17.9,
       "alerts": []
     },
@@ -670,7 +670,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.9,
       "wind_speed_max_kmh": 14.4,
-      "temperature_max_c": 22.5,
+      "temperature_max_c": 22.2,
       "temperature_min_c": 10.9,
       "alerts": []
     },
@@ -679,7 +679,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 2.2,
       "wind_speed_max_kmh": 24.7,
-      "temperature_max_c": 20.9,
+      "temperature_max_c": 20.4,
       "temperature_min_c": 6.9,
       "alerts": []
     },
@@ -688,7 +688,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 6.5,
-      "temperature_max_c": 29.8,
+      "temperature_max_c": 29.6,
       "temperature_min_c": 14.7,
       "alerts": []
     },
@@ -697,8 +697,8 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 20.4,
       "wind_speed_max_kmh": 11.3,
-      "temperature_max_c": 20.3,
-      "temperature_min_c": 17.3,
+      "temperature_max_c": 20.4,
+      "temperature_min_c": 16.7,
       "alerts": [
         {
           "type": "Sel/Taşkın Riski",
@@ -711,7 +711,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 10.1,
-      "temperature_max_c": 24.6,
+      "temperature_max_c": 24.1,
       "temperature_min_c": 12.1,
       "alerts": []
     },
@@ -720,7 +720,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 21.6,
-      "temperature_max_c": 30.8,
+      "temperature_max_c": 31.1,
       "temperature_min_c": 19.9,
       "alerts": []
     },
@@ -729,7 +729,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 14.0,
-      "temperature_max_c": 29.5,
+      "temperature_max_c": 30.2,
       "temperature_min_c": 20.4,
       "alerts": []
     },
@@ -738,7 +738,7 @@
       "forecast_date": "2026-09-22",
       "precipitation_mm": 1.7,
       "wind_speed_max_kmh": 8.4,
-      "temperature_max_c": 23.7,
+      "temperature_max_c": 23.9,
       "temperature_min_c": 12.9,
       "alerts": []
     }
