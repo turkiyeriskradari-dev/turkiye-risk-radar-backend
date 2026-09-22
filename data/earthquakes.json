@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T09:02:05.152802+00:00",
-  "record_count": 92,
+  "last_updated": "2026-09-22T09:22:13.027243+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "SP5NF7Im4ebBZ",
@@ -912,16 +912,6 @@
       "latitude": 39.0957,
       "longitude": 28.3487,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "_IUpCkeuH4iwK",
-      "title": "ISIKLI-SILIFKE (MERSIN)",
-      "magnitude": 1.1,
-      "depth_km": 0,
-      "date_utc": "2026-09-21 12:09:48",
-      "latitude": 36.2535,
-      "longitude": 33.7093,
-      "location_name": "Mersin"
     }
   ]
 }
