@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T20:48:54.141463+00:00",
-  "record_count": 91,
+  "last_updated": "2026-09-22T21:02:13.145140+00:00",
+  "record_count": 90,
   "data": [
     {
       "id": "juRfNALrnXmjC",
@@ -902,16 +902,6 @@
       "latitude": 35.1513,
       "longitude": 32.3285,
       "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "i0EFizGUrKeDq",
-      "title": "TEKKEDERE-BERGAMA (IZMIR)",
-      "magnitude": 2,
-      "depth_km": 10.5,
-      "date_utc": "2026-09-21 23:49:00",
-      "latitude": 38.9932,
-      "longitude": 27.064,
-      "location_name": "İzmir"
     }
   ]
 }
