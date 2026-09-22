@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T15:48:14.233888+00:00",
-  "record_count": 96,
+  "last_updated": "2026-09-22T16:02:05.368802+00:00",
+  "record_count": 95,
   "data": [
+    {
+      "id": "Og0PaPhm3xXdE",
+      "title": "SERCELER-ILGAZ (CANKIRI)",
+      "magnitude": 3,
+      "depth_km": 5,
+      "date_utc": "2026-09-22 18:37:23",
+      "latitude": 40.9988,
+      "longitude": 33.6143,
+      "location_name": "Çankırı"
+    },
     {
       "id": "DR0rZ6v9NefTy",
       "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
@@ -942,26 +952,6 @@
       "latitude": 38.0718,
       "longitude": 37.499,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "6jLyrPj5nFYyV",
-      "title": "KARTAL-(KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-21 19:00:41",
-      "latitude": 37.5153,
-      "longitude": 37.0918,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "1lYAMb5k9hPO3",
-      "title": "AKDENIZ",
-      "magnitude": 2.8,
-      "depth_km": 14.2,
-      "date_utc": "2026-09-21 18:52:55",
-      "latitude": 35.4165,
-      "longitude": 27.3403,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
