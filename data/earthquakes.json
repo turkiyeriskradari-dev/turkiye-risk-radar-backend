@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T11:35:37.054472+00:00",
-  "record_count": 94,
+  "last_updated": "2026-09-22T11:47:42.820344+00:00",
+  "record_count": 97,
   "data": [
+    {
+      "id": "7QQNw7vSLA5ks",
+      "title": "YETIMLI-ALADAG (ADANA)",
+      "magnitude": 2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-22 14:28:45",
+      "latitude": 37.6462,
+      "longitude": 35.3747,
+      "location_name": "Adana"
+    },
     {
       "id": "YmW4x5eNkupVB",
       "title": "GOKCEOZ-NALLIHAN (ANKARA)",
@@ -12,6 +22,16 @@
       "latitude": 40.227,
       "longitude": 31.6837,
       "location_name": "Ankara"
+    },
+    {
+      "id": "OyXKpqVTR6QKq",
+      "title": "YAKINCA-YESILYURT (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 16.5,
+      "date_utc": "2026-09-22 13:54:12",
+      "latitude": 38.317,
+      "longitude": 38.2312,
+      "location_name": "Malatya"
     },
     {
       "id": "ciV5d3Qtafgq5",
@@ -62,6 +82,16 @@
       "latitude": 36.7042,
       "longitude": 25.4615,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "fNEVi5xFqPK34",
+      "title": "ASAGIELMALI-KULP (DIYARBAKIR)",
+      "magnitude": 2.3,
+      "depth_km": 9.4,
+      "date_utc": "2026-09-22 12:40:47",
+      "latitude": 38.5388,
+      "longitude": 40.8848,
+      "location_name": "Diyarbakır"
     },
     {
       "id": "tnSfxk2VEKpa4",
