@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T01:47:33.547237+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-22T02:02:15.427994+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "r6fYMyjRb5yms",
@@ -771,46 +771,6 @@
       "date_utc": "2026-09-21 05:03:40",
       "latitude": 37.8323,
       "longitude": 36.1997,
-      "location_name": "Adana"
-    },
-    {
-      "id": "mB8yDBJh6oWFN",
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.3,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-21 04:59:32",
-      "latitude": 39.2128,
-      "longitude": 28.0885,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "StAtKy6rWTuSr",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 3.2,
-      "depth_km": 6,
-      "date_utc": "2026-09-21 04:58:03",
-      "latitude": 37.9245,
-      "longitude": 27.1475,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "XR5Tx5NawXhn_",
-      "title": "GUZELCE-KIRIKHAN (HATAY)",
-      "magnitude": 2.1,
-      "depth_km": 1.2,
-      "date_utc": "2026-09-21 04:53:17",
-      "latitude": 36.5863,
-      "longitude": 36.4182,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "2smCF9pkUdwfr",
-      "title": "MAHMUTLU-SAIMBEYLI (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 10.4,
-      "date_utc": "2026-09-21 04:52:37",
-      "latitude": 37.928,
-      "longitude": 36.0262,
       "location_name": "Adana"
     }
   ]
