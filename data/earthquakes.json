@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T03:35:54.355395+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-22T03:49:17.056241+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "STRxs3PegjFkS",
+      "title": "FAKILI-ERDEMLI (MERSIN)",
+      "magnitude": 1.6,
+      "depth_km": 10.8,
+      "date_utc": "2026-09-22 06:21:08",
+      "latitude": 36.7437,
+      "longitude": 34.188,
+      "location_name": "Mersin"
+    },
     {
       "id": "oJ2GsNHTJdDA4",
       "title": "ALICERI-AKCADAG (MALATYA)",
