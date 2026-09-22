@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T16:49:23.119518+00:00",
-  "record_count": 93,
+  "last_updated": "2026-09-22T17:01:56.066370+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "Og0PaPhm3xXdE",
@@ -912,26 +912,6 @@
       "latitude": 38.6602,
       "longitude": 43.7713,
       "location_name": "Van"
-    },
-    {
-      "id": "LQ3KJ_ry0cils",
-      "title": "UZUNOLUK-BEYAGAC (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 18.3,
-      "date_utc": "2026-09-21 19:49:59",
-      "latitude": 37.1432,
-      "longitude": 28.949,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "H2xIA8IfJxTiZ",
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-21 19:49:14",
-      "latitude": 36.8458,
-      "longitude": 27.0673,
-      "location_name": "Ege Denizi"
     }
   ]
 }
