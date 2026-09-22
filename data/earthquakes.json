@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-22T03:49:17.056241+00:00",
+  "last_updated": "2026-09-22T04:02:00.728110+00:00",
   "record_count": 79,
   "data": [
+    {
+      "id": "urXlbGKFVOciz",
+      "title": "KOCAPINAR-SERINHISAR (DENIZLI)",
+      "magnitude": 1,
+      "depth_km": 3.7,
+      "date_utc": "2026-09-22 06:34:17",
+      "latitude": 37.6285,
+      "longitude": 29.3288,
+      "location_name": "Denizli"
+    },
     {
       "id": "STRxs3PegjFkS",
       "title": "FAKILI-ERDEMLI (MERSIN)",
@@ -782,16 +792,6 @@
       "latitude": 36.4927,
       "longitude": 29.1517,
       "location_name": "Muğla"
-    },
-    {
-      "id": "wBsdGQNm5n5GM",
-      "title": "SULEYMANLI-BERGAMA (IZMIR)",
-      "magnitude": 1.4,
-      "depth_km": 3.7,
-      "date_utc": "2026-09-21 06:57:31",
-      "latitude": 39.0488,
-      "longitude": 27.0598,
-      "location_name": "İzmir"
     }
   ]
 }
