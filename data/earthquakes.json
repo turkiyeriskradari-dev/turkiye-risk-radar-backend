@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T04:02:04.119015+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-23T04:23:36.937950+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "w5S_DV1VSb0At",
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 10.5,
+      "date_utc": "2026-09-23 06:59:43",
+      "latitude": 39.2497,
+      "longitude": 28.9503,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "pB464i6jO_cW3",
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-23 06:50:41",
+      "latitude": 39.2763,
+      "longitude": 28.9527,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "nsiYZpnHEwtoR",
+      "title": "ULUKOY-(MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-23 06:46:55",
+      "latitude": 38.176,
+      "longitude": 38.5243,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "N38SsW4IPwN0U",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.1,
+      "depth_km": 10.7,
+      "date_utc": "2026-09-23 06:41:27",
+      "latitude": 39.2537,
+      "longitude": 29.0468,
+      "location_name": "Kütahya"
+    },
     {
       "id": "6fCfFvgdNLQxk",
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -202,6 +242,16 @@
       "latitude": 38.7723,
       "longitude": 31.1692,
       "location_name": "Afyon"
+    },
+    {
+      "id": "KcPbzixKKb0Kv",
+      "title": "MUSTAFALAR-SARICAM (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 2,
+      "date_utc": "2026-09-23 01:07:52",
+      "latitude": 37.1025,
+      "longitude": 35.519,
+      "location_name": "Adana"
     },
     {
       "id": "ssCurODdy8dxR",
