@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T13:36:09.355112+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-23T13:50:25.155539+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "JwvWlfbWIlnJl",
@@ -732,16 +732,6 @@
       "latitude": 39.445,
       "longitude": 31.5933,
       "location_name": "Eskişehir"
-    },
-    {
-      "id": "whtVmIzFrxk6h",
-      "title": "GULUMUSAGI-(MALATYA)",
-      "magnitude": 1.7,
-      "depth_km": 16.9,
-      "date_utc": "2026-09-22 16:45:44",
-      "latitude": 38.243,
-      "longitude": 38.5493,
-      "location_name": "Malatya"
     }
   ]
 }
