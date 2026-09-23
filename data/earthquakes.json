@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T14:24:12.555131+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-23T14:37:23.524748+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "_Xi5ceTDyia99",
+      "title": "GOLKOY-SIMAV (KUTAHYA)",
+      "magnitude": 1,
+      "depth_km": 13,
+      "date_utc": "2026-09-23 17:25:17",
+      "latitude": 39.1613,
+      "longitude": 28.8755,
+      "location_name": "Kütahya"
+    },
     {
       "id": "yAStBE3WxFZBO",
       "title": "KARAKOY-MUSTAFAKEMALPASA (BURSA)",
@@ -12,6 +22,16 @@
       "latitude": 39.881,
       "longitude": 28.656,
       "location_name": "Bursa"
+    },
+    {
+      "id": "pZrjaueYAfbPB",
+      "title": "TURGUTLAR-MENEMEN (IZMIR)",
+      "magnitude": 1.7,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-23 17:10:48",
+      "latitude": 38.7117,
+      "longitude": 27.1562,
+      "location_name": "İzmir"
     },
     {
       "id": "YMsMKnDy0kgSe",
@@ -752,16 +772,6 @@
       "latitude": 37.6002,
       "longitude": 35.5698,
       "location_name": "Adana"
-    },
-    {
-      "id": "YqGe8z7mu6A_R",
-      "title": "BOGURTLEN-SIVRIHISAR (ESKISEHIR)",
-      "magnitude": 1.4,
-      "depth_km": 1.8,
-      "date_utc": "2026-09-22 17:24:14",
-      "latitude": 39.445,
-      "longitude": 31.5933,
-      "location_name": "Eskişehir"
     }
   ]
 }
