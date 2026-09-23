@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T23:19:00.752726+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-23T23:31:48.044903+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "pSGTse96QUTdr",
+      "title": "ATAKOY-MENDERES (IZMIR)",
+      "magnitude": 1.2,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-24 02:11:58",
+      "latitude": 38.0845,
+      "longitude": 27.1683,
+      "location_name": "İzmir"
+    },
     {
       "id": "9yKbx7ewZGlo8",
       "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
