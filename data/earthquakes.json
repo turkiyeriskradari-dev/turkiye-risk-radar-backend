@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T05:48:40.618557+00:00",
-  "record_count": 84,
+  "last_updated": "2026-09-23T06:02:31.648787+00:00",
+  "record_count": 83,
   "data": [
     {
       "id": "w5S_DV1VSb0At",
@@ -832,16 +832,6 @@
       "latitude": 36.6138,
       "longitude": 28.005,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "CUpFq2fX4Ar_c",
-      "title": "SAHINBEYLER-SINCIK (ADIYAMAN)",
-      "magnitude": 1.3,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-22 08:51:17",
-      "latitude": 38.0755,
-      "longitude": 38.4443,
-      "location_name": "Adıyaman"
     }
   ]
 }
