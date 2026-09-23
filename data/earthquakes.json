@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T06:43:15.052811+00:00",
-  "record_count": 85,
+  "last_updated": "2026-09-23T06:55:00.919994+00:00",
+  "record_count": 84,
   "data": [
     {
       "id": "gDyjoKPLt1cg0",
@@ -842,16 +842,6 @@
       "latitude": 40.5882,
       "longitude": 29.7645,
       "location_name": "Bursa"
-    },
-    {
-      "id": "p_K6aN8w1Eg7a",
-      "title": "KASIKLI-YEDISU (BINGOL)",
-      "magnitude": 2.4,
-      "depth_km": 4.5,
-      "date_utc": "2026-09-22 09:53:42",
-      "latitude": 39.475,
-      "longitude": 40.589,
-      "location_name": "Bingöl"
     }
   ]
 }
