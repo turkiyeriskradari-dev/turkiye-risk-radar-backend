@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T11:02:00.617416+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-23T11:22:49.246087+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "3Ws_SrisJNVM5",
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 14.9,
+      "date_utc": "2026-09-23 13:52:50",
+      "latitude": 39.159,
+      "longitude": 28.2028,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "ztZWWXJtzn9vk",
+      "title": "AKDENIZ",
+      "magnitude": 2.5,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-23 13:43:18",
+      "latitude": 35.4785,
+      "longitude": 27.2378,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "ZjN0TRZsPYCif",
       "title": "EGE DENIZI",
@@ -12,6 +32,16 @@
       "latitude": 40.7968,
       "longitude": 25.5877,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "wdk8dDVveifE1",
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "magnitude": 3.1,
+      "depth_km": 10.1,
+      "date_utc": "2026-09-23 13:01:46",
+      "latitude": 34.1292,
+      "longitude": 25.251,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     },
     {
       "id": "kecq8QGNBikjh",
@@ -772,16 +802,6 @@
       "latitude": 37.6462,
       "longitude": 35.3747,
       "location_name": "Adana"
-    },
-    {
-      "id": "YmW4x5eNkupVB",
-      "title": "GOKCEOZ-NALLIHAN (ANKARA)",
-      "magnitude": 2.2,
-      "depth_km": 12.3,
-      "date_utc": "2026-09-22 14:16:27",
-      "latitude": 40.227,
-      "longitude": 31.6837,
-      "location_name": "Ankara"
     }
   ]
 }
