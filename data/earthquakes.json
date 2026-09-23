@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T10:49:56.456049+00:00",
+  "last_updated": "2026-09-23T11:02:00.617416+00:00",
   "record_count": 78,
   "data": [
+    {
+      "id": "ZjN0TRZsPYCif",
+      "title": "EGE DENIZI",
+      "magnitude": 1.5,
+      "depth_km": 9.2,
+      "date_utc": "2026-09-23 13:37:01",
+      "latitude": 40.7968,
+      "longitude": 25.5877,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "kecq8QGNBikjh",
       "title": "ACIKGUNEY-KIGI (BINGOL)",
@@ -772,16 +782,6 @@
       "latitude": 40.227,
       "longitude": 31.6837,
       "location_name": "Ankara"
-    },
-    {
-      "id": "OyXKpqVTR6QKq",
-      "title": "YAKINCA-YESILYURT (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 16.5,
-      "date_utc": "2026-09-22 13:54:12",
-      "latitude": 38.317,
-      "longitude": 38.2312,
-      "location_name": "Malatya"
     }
   ]
 }
