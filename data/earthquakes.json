@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T15:23:37.446814+00:00",
+  "last_updated": "2026-09-23T15:36:29.179897+00:00",
   "record_count": 79,
   "data": [
+    {
+      "id": "qm5mJNJZHCiOf",
+      "title": "GUCUKSU-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-23 18:17:10",
+      "latitude": 38.0635,
+      "longitude": 36.6388,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "LL5vw6mePyEPM",
       "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
@@ -782,16 +792,6 @@
       "latitude": 40.9988,
       "longitude": 33.6143,
       "location_name": "Çankırı"
-    },
-    {
-      "id": "DR0rZ6v9NefTy",
-      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-      "magnitude": 2.1,
-      "depth_km": 5.8,
-      "date_utc": "2026-09-22 18:26:35",
-      "latitude": 38.1317,
-      "longitude": 37.8343,
-      "location_name": "Malatya"
     }
   ]
 }
