@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T16:02:13.227418+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-23T16:25:00.265582+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "J8CCBe65r8kFj",
+      "title": "KILIMLI-(ERZINCAN)",
+      "magnitude": 2.2,
+      "depth_km": 6,
+      "date_utc": "2026-09-23 19:12:19",
+      "latitude": 39.6812,
+      "longitude": 39.4892,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "g3RbULXhwpWEL",
+      "title": "KULAHLI-GURUN (SIVAS)",
+      "magnitude": 1.8,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-23 18:58:29",
+      "latitude": 38.8398,
+      "longitude": 37.468,
+      "location_name": "Sivas"
+    },
     {
       "id": "7gjsPeHdzErdi",
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
@@ -42,6 +62,16 @@
       "latitude": 40.704,
       "longitude": 29.2363,
       "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "jXbi_Lr1g1PN5",
+      "title": "YUKARIKARAGOZ-PINARBASI (KAYSERI)",
+      "magnitude": 1.8,
+      "depth_km": 16.7,
+      "date_utc": "2026-09-23 18:01:58",
+      "latitude": 38.7255,
+      "longitude": 36.5257,
+      "location_name": "Kayseri"
     },
     {
       "id": "XUASBJCd5NDOc",
