@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T11:22:49.246087+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-23T11:35:23.056608+00:00",
+  "record_count": 79,
   "data": [
     {
       "id": "3Ws_SrisJNVM5",
@@ -792,16 +792,6 @@
       "latitude": 38.1962,
       "longitude": 38.5382,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "7QQNw7vSLA5ks",
-      "title": "YETIMLI-ALADAG (ADANA)",
-      "magnitude": 2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-22 14:28:45",
-      "latitude": 37.6462,
-      "longitude": 35.3747,
-      "location_name": "Adana"
     }
   ]
 }
