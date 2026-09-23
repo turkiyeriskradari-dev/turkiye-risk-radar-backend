@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T18:38:37.953476+00:00",
-  "record_count": 84,
+  "last_updated": "2026-09-23T18:50:45.517227+00:00",
+  "record_count": 85,
   "data": [
+    {
+      "id": "HIaWEO95xk_aR",
+      "title": "MIHMANLI-AKCADAG (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 18.9,
+      "date_utc": "2026-09-23 21:28:42",
+      "latitude": 38.4077,
+      "longitude": 38.0177,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "MM9IpzvC28gf7",
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 13.9,
+      "date_utc": "2026-09-23 21:26:05",
+      "latitude": 39.086,
+      "longitude": 26.3632,
+      "location_name": "Yunanistan"
+    },
     {
       "id": "BWpUFd48aZ9g4",
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -22,6 +42,16 @@
       "latitude": 39.264,
       "longitude": 28.9232,
       "location_name": "Kütahya"
+    },
+    {
+      "id": "lXeZnPawBVyPj",
+      "title": "LETAFET-ORHANELI (BURSA)",
+      "magnitude": 1.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-23 20:58:03",
+      "latitude": 39.8743,
+      "longitude": 28.7357,
+      "location_name": "Bursa"
     },
     {
       "id": "_BexJXMRUOYmP",
@@ -822,26 +852,6 @@
       "latitude": 39.194,
       "longitude": 28.0687,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "LcGMH1kw9cbI5",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 12.5,
-      "date_utc": "2026-09-22 21:44:05",
-      "latitude": 39.2353,
-      "longitude": 29.0403,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "KuWQjWW_sywfc",
-      "title": "BALIKLI-SARIKAMIS (KARS)",
-      "magnitude": 1.7,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-22 21:42:29",
-      "latitude": 40.0132,
-      "longitude": 42.5713,
-      "location_name": "Kars"
     }
   ]
 }
