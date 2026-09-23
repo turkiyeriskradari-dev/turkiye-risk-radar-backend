@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T22:02:01.374300+00:00",
-  "record_count": 85,
+  "last_updated": "2026-09-23T22:21:44.926589+00:00",
+  "record_count": 84,
   "data": [
     {
       "id": "EksxsWJt9zFgy",
@@ -842,16 +842,6 @@
       "latitude": 38.1795,
       "longitude": 30.3505,
       "location_name": "Afyon"
-    },
-    {
-      "id": "KcPbzixKKb0Kv",
-      "title": "MUSTAFALAR-SARICAM (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 2,
-      "date_utc": "2026-09-23 01:07:52",
-      "latitude": 37.1025,
-      "longitude": 35.519,
-      "location_name": "Adana"
     }
   ]
 }
