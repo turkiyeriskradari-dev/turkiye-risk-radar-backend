@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T15:02:03.043687+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-23T15:23:37.446814+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "LL5vw6mePyEPM",
+      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-23 18:10:03",
+      "latitude": 40.704,
+      "longitude": 29.2363,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "XUASBJCd5NDOc",
+      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
+      "magnitude": 1.8,
+      "depth_km": 16,
+      "date_utc": "2026-09-23 18:01:58",
+      "latitude": 38.6517,
+      "longitude": 36.4875,
+      "location_name": "Kayseri"
+    },
     {
       "id": "_Xi5ceTDyia99",
       "title": "GOLKOY-SIMAV (KUTAHYA)",
@@ -12,6 +32,16 @@
       "latitude": 39.1613,
       "longitude": 28.8755,
       "location_name": "Kütahya"
+    },
+    {
+      "id": "c9xIu5iV9lfw5",
+      "title": "SIRINCAVUS-BANDIRMA (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 17.4,
+      "date_utc": "2026-09-23 17:24:49",
+      "latitude": 40.3423,
+      "longitude": 27.7073,
+      "location_name": "Marmara Denizi"
     },
     {
       "id": "yAStBE3WxFZBO",
@@ -762,26 +792,6 @@
       "latitude": 38.1317,
       "longitude": 37.8343,
       "location_name": "Malatya"
-    },
-    {
-      "id": "Nr7K4ax149BUI",
-      "title": "ESKIYASSIPINAR-PINARBASI (KAYSERI)",
-      "magnitude": 1.6,
-      "depth_km": 8.2,
-      "date_utc": "2026-09-22 18:14:10",
-      "latitude": 38.7833,
-      "longitude": 36.5762,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "hV5Wn6WyuAP2P",
-      "title": "KISLAK-ALADAG (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-22 18:09:26",
-      "latitude": 37.6002,
-      "longitude": 35.5698,
-      "location_name": "Adana"
     }
   ]
 }
