@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T23:01:45.343978+00:00",
-  "record_count": 82,
+  "last_updated": "2026-09-23T23:19:00.752726+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "9yKbx7ewZGlo8",
+      "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
+      "magnitude": 0.9,
+      "depth_km": 20.1,
+      "date_utc": "2026-09-24 01:59:31",
+      "latitude": 38.05,
+      "longitude": 37.8362,
+      "location_name": "Malatya"
+    },
     {
       "id": "51MPX8qRlfUzN",
       "title": "PUSUDERE-PASINLER (ERZURUM)",
@@ -802,26 +812,6 @@
       "latitude": 36.0052,
       "longitude": 27.242,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "l8oIzGjqzWfC3",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-23 02:18:07",
-      "latitude": 39.2512,
-      "longitude": 29.0238,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "7G2pDhtB7szh3",
-      "title": "TOPBOGAZI-KIRIKHAN (HATAY)",
-      "magnitude": 1.5,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-23 02:09:34",
-      "latitude": 36.4172,
-      "longitude": 36.29,
-      "location_name": "Hatay"
     }
   ]
 }
