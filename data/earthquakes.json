@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T04:36:11.318328+00:00",
-  "record_count": 85,
+  "last_updated": "2026-09-23T04:49:21.420020+00:00",
+  "record_count": 87,
   "data": [
     {
       "id": "w5S_DV1VSb0At",
@@ -224,6 +224,16 @@
       "location_name": "Kütahya"
     },
     {
+      "id": "7G2pDhtB7szh3",
+      "title": "TOPBOGAZI-KIRIKHAN (HATAY)",
+      "magnitude": 1.5,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-23 02:09:34",
+      "latitude": 36.4172,
+      "longitude": 36.29,
+      "location_name": "Hatay"
+    },
+    {
       "id": "kXzGSKZXQqHx7",
       "title": "KOSEYAHYA-ELBISTAN (KAHRAMANMARAS)",
       "magnitude": 1.8,
@@ -232,6 +242,16 @@
       "latitude": 38.2092,
       "longitude": 37.3837,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "g2xgxcW03Xu28",
+      "title": "KARAYOKUS-BOLVADIN (AFYONKARAHISAR)",
+      "magnitude": 1.8,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-23 01:38:37",
+      "latitude": 38.7773,
+      "longitude": 31.128,
+      "location_name": "Afyon"
     },
     {
       "id": "Hj7zxD3egVwEK",
