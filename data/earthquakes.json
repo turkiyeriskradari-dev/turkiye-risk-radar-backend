@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T00:41:10.431771+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-23T00:52:59.016002+00:00",
+  "record_count": 76,
   "data": [
     {
       "id": "NF0Oy9quQ4gLq",
@@ -762,26 +762,6 @@
       "latitude": 37.8113,
       "longitude": 36.2015,
       "location_name": "Adana"
-    },
-    {
-      "id": "mo6jcnQ9frFmV",
-      "title": "YENIKUYU-KARAPINAR (KONYA)",
-      "magnitude": 1.5,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-22 03:44:29",
-      "latitude": 37.4918,
-      "longitude": 33.3673,
-      "location_name": "Konya"
-    },
-    {
-      "id": "r6fYMyjRb5yms",
-      "title": "YESILOVA-(HATAY)",
-      "magnitude": 2.2,
-      "depth_km": 2.3,
-      "date_utc": "2026-09-22 03:41:44",
-      "latitude": 36.2643,
-      "longitude": 36.2653,
-      "location_name": "Hatay"
     }
   ]
 }
