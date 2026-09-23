@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T17:47:41.127916+00:00",
-  "record_count": 87,
+  "last_updated": "2026-09-23T18:02:20.716016+00:00",
+  "record_count": 86,
   "data": [
+    {
+      "id": "_BexJXMRUOYmP",
+      "title": "PORTAKALLIK-ULA (MUGLA)",
+      "magnitude": 2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-23 20:50:01",
+      "latitude": 37.0392,
+      "longitude": 28.4573,
+      "location_name": "Muğla"
+    },
     {
       "id": "d35EguhszJai6",
       "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -852,26 +862,6 @@
       "latitude": 39.2608,
       "longitude": 28.9105,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "HTxeSNKqbiQMu",
-      "title": "EGE DENIZI",
-      "magnitude": 1.6,
-      "depth_km": 9.9,
-      "date_utc": "2026-09-22 21:01:42",
-      "latitude": 39.3695,
-      "longitude": 25.8527,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "lNdMoieWuCBMm",
-      "title": "BULGARISTAN",
-      "magnitude": 3.2,
-      "depth_km": 7.9,
-      "date_utc": "2026-09-22 20:54:04",
-      "latitude": 42.5367,
-      "longitude": 27.8857,
-      "location_name": "Karadeniz"
     }
   ]
 }
