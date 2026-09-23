@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T19:01:53.638354+00:00",
-  "record_count": 85,
+  "last_updated": "2026-09-23T19:21:27.364182+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "_fbjBf61iETDQ",
+      "title": "ILYASLAR-MENGEN (BOLU)",
+      "magnitude": 1.9,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-23 21:56:30",
+      "latitude": 40.9768,
+      "longitude": 32.3108,
+      "location_name": "Karabük"
+    },
     {
       "id": "HIaWEO95xk_aR",
       "title": "MIHMANLI-AKCADAG (MALATYA)",
@@ -822,36 +832,6 @@
       "latitude": 38.1097,
       "longitude": 37.1332,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "BMjnYGNZ4Ph8A",
-      "title": "KIZILKAYA-DOGUBAYAZIT (AGRI)",
-      "magnitude": 2.2,
-      "depth_km": 5.6,
-      "date_utc": "2026-09-22 22:21:13",
-      "latitude": 39.415,
-      "longitude": 44.052,
-      "location_name": "Ağrı"
-    },
-    {
-      "id": "gILAfNp9WinRJ",
-      "title": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 16.3,
-      "date_utc": "2026-09-22 22:16:53",
-      "latitude": 38.1007,
-      "longitude": 37.1172,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "FR5AVvJuTF4_x",
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 15.4,
-      "date_utc": "2026-09-22 22:05:44",
-      "latitude": 39.194,
-      "longitude": 28.0687,
-      "location_name": "Balıkesir"
     }
   ]
 }
