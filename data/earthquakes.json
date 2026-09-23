@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T11:49:11.020256+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-23T12:02:30.600083+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "3Ws_SrisJNVM5",
@@ -732,46 +732,6 @@
       "latitude": 39.1885,
       "longitude": 28.0278,
       "location_name": "Manisa"
-    },
-    {
-      "id": "8mhM42X_V6mG2",
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "magnitude": 2.7,
-      "depth_km": 10.9,
-      "date_utc": "2026-09-22 15:00:20",
-      "latitude": 39.2323,
-      "longitude": 28.9507,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "dn8jBoOudQLub",
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 9.6,
-      "date_utc": "2026-09-22 14:59:21",
-      "latitude": 39.2128,
-      "longitude": 28.0258,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "NCyEsywzf6I85",
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 18.4,
-      "date_utc": "2026-09-22 14:58:47",
-      "latitude": 39.164,
-      "longitude": 28.0775,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "1SwqT9Mjl_enO",
-      "title": "KERTIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.2,
-      "depth_km": 10,
-      "date_utc": "2026-09-22 14:56:11",
-      "latitude": 39.204,
-      "longitude": 28.065,
-      "location_name": "Balıkesir"
     }
   ]
 }
