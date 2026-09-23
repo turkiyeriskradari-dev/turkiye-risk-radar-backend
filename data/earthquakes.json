@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T08:36:30.520397+00:00",
-  "record_count": 83,
+  "last_updated": "2026-09-23T08:50:15.652200+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "UWlSWsvIlPOKG",
@@ -822,16 +822,6 @@
       "latitude": 39.8662,
       "longitude": 33.045,
       "location_name": "Ankara"
-    },
-    {
-      "id": "SP5NF7Im4ebBZ",
-      "title": "IKIZKOY-MILAS (MUGLA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-22 11:37:52",
-      "latitude": 37.1963,
-      "longitude": 27.8715,
-      "location_name": "Muğla"
     }
   ]
 }
