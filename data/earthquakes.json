@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T22:47:19.345883+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-23T23:01:45.343978+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "51MPX8qRlfUzN",
+      "title": "PUSUDERE-PASINLER (ERZURUM)",
+      "magnitude": 1.5,
+      "depth_km": 14.7,
+      "date_utc": "2026-09-24 01:50:50",
+      "latitude": 39.9583,
+      "longitude": 41.4275,
+      "location_name": "Erzurum"
+    },
     {
       "id": "_Bpytg61lu5L6",
       "title": "HUYUKLU-YALVAC (ISPARTA)",
