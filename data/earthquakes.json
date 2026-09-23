@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T08:02:10.946448+00:00",
+  "last_updated": "2026-09-23T08:24:22.237374+00:00",
   "record_count": 83,
   "data": [
+    {
+      "id": "UWlSWsvIlPOKG",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.5,
+      "depth_km": 18.2,
+      "date_utc": "2026-09-23 11:02:16",
+      "latitude": 39.2162,
+      "longitude": 28.1227,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "uZXTW_L908KTp",
       "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
@@ -822,16 +832,6 @@
       "latitude": 37.1963,
       "longitude": 27.8715,
       "location_name": "Muğla"
-    },
-    {
-      "id": "XK8Q3nsi_gSdm",
-      "title": "YUKARIYENICE-PALANDOKEN (ERZURUM)",
-      "magnitude": 1.9,
-      "depth_km": 7.9,
-      "date_utc": "2026-09-22 11:10:21",
-      "latitude": 39.8555,
-      "longitude": 40.9355,
-      "location_name": "Erzurum"
     }
   ]
 }
