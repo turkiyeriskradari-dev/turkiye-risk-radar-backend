@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T03:02:03.262818+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-23T03:23:04.953641+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "I0k0shCrbFqSr",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-23 05:54:48",
+      "latitude": 39.2462,
+      "longitude": 29.0108,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "ZsfyDaqpdw3PX",
+      "title": "KEMER-KAS (ANTALYA)",
+      "magnitude": 1.7,
+      "depth_km": 7.5,
+      "date_utc": "2026-09-23 05:41:05",
+      "latitude": 36.3438,
+      "longitude": 29.7337,
+      "location_name": "Antalya"
+    },
+    {
+      "id": "BabiX5R7g5i8D",
+      "title": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 3.5,
+      "date_utc": "2026-09-23 05:35:20",
+      "latitude": 38.1172,
+      "longitude": 37.1407,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "tWKDkK8nmSr5u",
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -712,16 +742,6 @@
       "latitude": 37.6285,
       "longitude": 29.3288,
       "location_name": "Denizli"
-    },
-    {
-      "id": "STRxs3PegjFkS",
-      "title": "FAKILI-ERDEMLI (MERSIN)",
-      "magnitude": 1.6,
-      "depth_km": 10.8,
-      "date_utc": "2026-09-22 06:21:08",
-      "latitude": 36.7437,
-      "longitude": 34.188,
-      "location_name": "Mersin"
     }
   ]
 }
