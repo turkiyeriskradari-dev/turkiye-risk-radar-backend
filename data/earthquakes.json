@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T12:02:45.824446+00:00",
-  "record_count": 82,
+  "last_updated": "2026-09-24T12:28:35.833827+00:00",
+  "record_count": 83,
   "data": [
     {
       "id": "J7apnGAYwoTkA",
@@ -14,6 +14,16 @@
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     },
     {
+      "id": "QBunogycr1u81",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 15.8,
+      "date_utc": "2026-09-24 14:43:51",
+      "latitude": 39.2333,
+      "longitude": 28.122,
+      "location_name": "Balıkesir"
+    },
+    {
       "id": "mraoliynWymDM",
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
       "magnitude": 1.7,
@@ -21,6 +31,16 @@
       "date_utc": "2026-09-24 14:40:46",
       "latitude": 39.2498,
       "longitude": 28.087,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "8m2LkrwTd69yp",
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 14.3,
+      "date_utc": "2026-09-24 14:40:10",
+      "latitude": 39.244,
+      "longitude": 28.1047,
       "location_name": "Balıkesir"
     },
     {
@@ -32,6 +52,16 @@
       "latitude": 38.2427,
       "longitude": 38.5133,
       "location_name": "Malatya"
+    },
+    {
+      "id": "ENmPgvSIkFDL_",
+      "title": "KARGACAYIRI-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-24 14:28:23",
+      "latitude": 37.6812,
+      "longitude": 36.4958,
+      "location_name": "Kahramanmaraş"
     },
     {
       "id": "weZ9Ofd7nJa_n",
@@ -801,26 +831,6 @@
       "date_utc": "2026-09-23 15:50:46",
       "latitude": 38.3105,
       "longitude": 38.2352,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "pkf9pGfseFgFi",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 10.1,
-      "date_utc": "2026-09-23 15:10:47",
-      "latitude": 39.2628,
-      "longitude": 28.9522,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "JU8ltPJHcZcak",
-      "title": "DUMUKLU-AKCADAG (MALATYA)",
-      "magnitude": 1.9,
-      "depth_km": 15.5,
-      "date_utc": "2026-09-23 15:08:51",
-      "latitude": 38.3195,
-      "longitude": 37.8405,
       "location_name": "Malatya"
     }
   ]
