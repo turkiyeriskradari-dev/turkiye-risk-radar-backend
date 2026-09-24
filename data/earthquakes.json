@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T19:21:37.962818+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-24T19:33:35.547401+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "lqHpGNeacn3wg",
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 10.8,
+      "date_utc": "2026-09-24 22:17:39",
+      "latitude": 39.1582,
+      "longitude": 28.1877,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "O01wk8YQd0zMm",
       "title": "ADALAR (ISTANBUL)",
