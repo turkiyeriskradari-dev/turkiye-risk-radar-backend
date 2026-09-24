@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T03:22:49.728139+00:00",
+  "last_updated": "2026-09-24T03:36:21.144339+00:00",
   "record_count": 76,
   "data": [
+    {
+      "id": "F6B6u5KaK7jMc",
+      "title": "AKDENIZ",
+      "magnitude": 2.6,
+      "depth_km": 35.9,
+      "date_utc": "2026-09-24 06:16:41",
+      "latitude": 36.4953,
+      "longitude": 28.671,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "7wkhK1XHotOPc",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -751,16 +761,6 @@
       "date_utc": "2026-09-23 06:41:27",
       "latitude": 39.2537,
       "longitude": 29.0468,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "6fCfFvgdNLQxk",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 2.1,
-      "depth_km": 12,
-      "date_utc": "2026-09-23 06:25:17",
-      "latitude": 39.2353,
-      "longitude": 29.0427,
       "location_name": "Kütahya"
     }
   ]
