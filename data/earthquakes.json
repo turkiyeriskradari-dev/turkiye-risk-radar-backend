@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T21:47:03.143659+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-24T22:02:41.122993+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "TeF5V739tnCEc",
+      "title": "HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 12.4,
+      "date_utc": "2026-09-25 00:46:44",
+      "latitude": 38.053,
+      "longitude": 36.5052,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "Ur0BQ6ixX6dtw",
       "title": "SAGLAMTAS-(VAN)",
