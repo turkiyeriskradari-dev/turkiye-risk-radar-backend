@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T18:26:08.628234+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-24T18:39:02.753787+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "953kFgaZNsvTi",
@@ -632,36 +632,6 @@
       "latitude": 37.8717,
       "longitude": 36.1957,
       "location_name": "Adana"
-    },
-    {
-      "id": "f_LBgr9eNcwx0",
-      "title": "KOSELER-OVACIK (TUNCELI)",
-      "magnitude": 1.6,
-      "depth_km": 13.3,
-      "date_utc": "2026-09-23 21:33:22",
-      "latitude": 39.4242,
-      "longitude": 39.1122,
-      "location_name": "Tunceli"
-    },
-    {
-      "id": "HIaWEO95xk_aR",
-      "title": "MIHMANLI-AKCADAG (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 18.9,
-      "date_utc": "2026-09-23 21:28:42",
-      "latitude": 38.4077,
-      "longitude": 38.0177,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "MM9IpzvC28gf7",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 13.9,
-      "date_utc": "2026-09-23 21:26:05",
-      "latitude": 39.086,
-      "longitude": 26.3632,
-      "location_name": "Yunanistan"
     }
   ]
 }
