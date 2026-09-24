@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T23:33:44.853897+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-24T23:46:45.731989+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "FKyzQCqbBnSR8",
+      "title": "AVDUL-CUMRA (KONYA)",
+      "magnitude": 1.3,
+      "depth_km": 9.7,
+      "date_utc": "2026-09-25 02:04:38",
+      "latitude": 37.3427,
+      "longitude": 32.7783,
+      "location_name": "Konya"
+    },
     {
       "id": "IL8RLJl0O7By6",
       "title": "AKDENIZ",
@@ -542,26 +552,6 @@
       "latitude": 39.5942,
       "longitude": 39.8,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "L9r127Nqy4mYW",
-      "title": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 2.1,
-      "date_utc": "2026-09-24 02:45:55",
-      "latitude": 38.0005,
-      "longitude": 36.2752,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ignSlUnCbGO_G",
-      "title": "GUZELHISAR-ALIAGA (IZMIR)",
-      "magnitude": 1.4,
-      "depth_km": 16.8,
-      "date_utc": "2026-09-24 02:41:28",
-      "latitude": 38.7962,
-      "longitude": 27.0505,
-      "location_name": "İzmir"
     }
   ]
 }
