@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T17:47:53.571749+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-24T18:02:20.116024+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "953kFgaZNsvTi",
@@ -682,26 +682,6 @@
       "latitude": 39.264,
       "longitude": 28.9232,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "lXeZnPawBVyPj",
-      "title": "LETAFET-ORHANELI (BURSA)",
-      "magnitude": 1.2,
-      "depth_km": 5,
-      "date_utc": "2026-09-23 20:58:03",
-      "latitude": 39.8743,
-      "longitude": 28.7357,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "_BexJXMRUOYmP",
-      "title": "PORTAKALLIK-ULA (MUGLA)",
-      "magnitude": 2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-23 20:50:01",
-      "latitude": 37.0392,
-      "longitude": 28.4573,
-      "location_name": "Muğla"
     }
   ]
 }
