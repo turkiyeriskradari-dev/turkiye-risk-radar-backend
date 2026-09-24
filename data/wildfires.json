@@ -1,8 +1,89 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-09-24T03:49:36.562090+00:00",
-  "record_count": 0,
-  "data": [],
+  "last_updated": "2026-09-24T04:23:27.176238+00:00",
+  "record_count": 8,
+  "data": [
+    {
+      "latitude": 38.42663,
+      "longitude": 27.2168,
+      "brightness": 304.7,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 38.45665,
+      "longitude": 27.26201,
+      "brightness": 297.05,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 38.73896,
+      "longitude": 26.94604,
+      "brightness": 299.21,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 38.74425,
+      "longitude": 26.94843,
+      "brightness": 300.34,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 39.09169,
+      "longitude": 27.51214,
+      "brightness": 302.98,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 39.86691,
+      "longitude": 26.24565,
+      "brightness": 307.72,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 40.75741,
+      "longitude": 29.76565,
+      "brightness": 305.25,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 41.12064,
+      "longitude": 26.60352,
+      "brightness": 303.48,
+      "confidence": "n",
+      "acquired_date": "2026-09-24",
+      "acquired_time": "107",
+      "satellite": "N",
+      "daynight": "N"
+    }
+  ],
   "meta": {
     "day_range": 1,
     "area_bbox": "25,34,45,43"
