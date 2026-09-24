@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T10:23:27.663234+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-24T10:35:56.417159+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "5STS0ZSq54JiI",
+      "title": "KARAKOCA-SIMAV (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 6.5,
+      "date_utc": "2026-09-24 13:11:00",
+      "latitude": 39.257,
+      "longitude": 28.9442,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "NN1Ef4Y4JDdUP",
+      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
+      "magnitude": 1.6,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-24 13:08:58",
+      "latitude": 39.2508,
+      "longitude": 28.9185,
+      "location_name": "Kütahya"
+    },
     {
       "id": "8ilrjXNeB0a3H",
       "title": "BALCILAR-TASKENT (KONYA)",
