@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-23T23:46:47.446573+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-24T00:02:24.343305+00:00",
+  "record_count": 80,
   "data": [
     {
       "id": "pSGTse96QUTdr",
@@ -802,16 +802,6 @@
       "latitude": 39.713,
       "longitude": 38.8287,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "i31z0V9j9nZM6",
-      "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.5,
-      "depth_km": 5.9,
-      "date_utc": "2026-09-23 02:56:23",
-      "latitude": 37.8917,
-      "longitude": 36.5238,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
