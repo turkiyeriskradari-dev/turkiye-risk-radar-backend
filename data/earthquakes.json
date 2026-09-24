@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T14:24:22.256309+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-24T14:38:11.448251+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "g8zPwbWIhcVjo",
@@ -772,26 +772,6 @@
       "latitude": 38.6517,
       "longitude": 36.4875,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "_Xi5ceTDyia99",
-      "title": "GOLKOY-SIMAV (KUTAHYA)",
-      "magnitude": 1,
-      "depth_km": 13,
-      "date_utc": "2026-09-23 17:25:17",
-      "latitude": 39.1613,
-      "longitude": 28.8755,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "c9xIu5iV9lfw5",
-      "title": "SIRINCAVUS-BANDIRMA (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 17.4,
-      "date_utc": "2026-09-23 17:24:49",
-      "latitude": 40.3423,
-      "longitude": 27.7073,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
