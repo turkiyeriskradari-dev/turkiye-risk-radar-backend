@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T19:47:42.758256+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-24T20:02:28.560246+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "lqHpGNeacn3wg",
@@ -612,26 +612,6 @@
       "latitude": 39.7038,
       "longitude": 38.7253,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "_u7etcTJ5I0Ty",
-      "title": "KAYABAGLARI-SIVRICE (ELAZIG)",
-      "magnitude": 1.8,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-23 22:56:58",
-      "latitude": 38.3802,
-      "longitude": 38.8882,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "fOf3j58Q7s8BG",
-      "title": "EVCIHUYUK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 13.4,
-      "date_utc": "2026-09-23 22:55:41",
-      "latitude": 38.3398,
-      "longitude": 37.2028,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
