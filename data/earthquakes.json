@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T22:34:48.719716+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-24T22:48:46.137352+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "Gz19HgA7PPTBc",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 6.6,
+      "date_utc": "2026-09-25 01:18:51",
+      "latitude": 39.2375,
+      "longitude": 29.0205,
+      "location_name": "Kütahya"
+    },
     {
       "id": "TeF5V739tnCEc",
       "title": "HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
