@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T05:22:07.549830+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-24T05:35:06.749223+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "tuRdr5X7r1HO1",
+      "title": "GOKKOY-(BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 6.8,
+      "date_utc": "2026-09-24 08:14:27",
+      "latitude": 39.5938,
+      "longitude": 27.8033,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "FyuaBI1h52A5A",
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
