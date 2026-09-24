@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T08:02:36.745704+00:00",
+  "last_updated": "2026-09-24T08:25:21.649406+00:00",
   "record_count": 70,
   "data": [
+    {
+      "id": "3O6aBTi04YnAf",
+      "title": "SOGUTLU-HILVAN (SANLIURFA)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-09-24 10:59:37",
+      "latitude": 37.5198,
+      "longitude": 38.7302,
+      "location_name": "Şanlıurfa"
+    },
     {
       "id": "c2prQlclb75FV",
       "title": "PINARBASI-(SANLIURFA)",
@@ -11,6 +21,16 @@
       "date_utc": "2026-09-24 10:40:55",
       "latitude": 37.3682,
       "longitude": 38.8143,
+      "location_name": "Şanlıurfa"
+    },
+    {
+      "id": "EwaPGUUmh4dyc",
+      "title": "PINARBASI-(SANLIURFA)",
+      "magnitude": 5.5,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-24 10:40:55",
+      "latitude": 37.363,
+      "longitude": 38.8185,
       "location_name": "Şanlıurfa"
     },
     {
@@ -682,26 +702,6 @@
       "latitude": 39.2708,
       "longitude": 40.2292,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "rlZMolPPFBj6h",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 3,
-      "depth_km": 29,
-      "date_utc": "2026-09-23 11:20:20",
-      "latitude": 34.5975,
-      "longitude": 26.3095,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "Drjzlkptvisc2",
-      "title": "GOKCEYURT-BERGAMA (IZMIR)",
-      "magnitude": 1.6,
-      "depth_km": 11.7,
-      "date_utc": "2026-09-23 11:17:04",
-      "latitude": 39.1842,
-      "longitude": 27.1882,
-      "location_name": "İzmir"
     }
   ]
 }
