@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T10:35:56.417159+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-24T10:49:57.238546+00:00",
+  "record_count": 75,
   "data": [
     {
       "id": "5STS0ZSq54JiI",
@@ -752,26 +752,6 @@
       "latitude": 39.159,
       "longitude": 28.2028,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "ztZWWXJtzn9vk",
-      "title": "AKDENIZ",
-      "magnitude": 2.5,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-23 13:43:18",
-      "latitude": 35.4785,
-      "longitude": 27.2378,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "ZjN0TRZsPYCif",
-      "title": "EGE DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 9.2,
-      "date_utc": "2026-09-23 13:37:01",
-      "latitude": 40.7968,
-      "longitude": 25.5877,
-      "location_name": "Ege Denizi"
     }
   ]
 }
