@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T08:37:17.450489+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-24T08:51:12.348232+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "ZeRW5ys9GK4Mp",
+      "title": "KOZANLI-SOMA (MANISA)",
+      "magnitude": 1.5,
+      "depth_km": 0,
+      "date_utc": "2026-09-24 11:32:18",
+      "latitude": 39.1612,
+      "longitude": 27.5475,
+      "location_name": "Manisa"
+    },
     {
       "id": "MMBaz07vAhhzR",
       "title": "CAYBASI-ELMALI (ANTALYA)",
