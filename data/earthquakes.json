@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T22:48:46.137352+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-24T23:02:03.880981+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "Gz19HgA7PPTBc",
@@ -572,26 +572,6 @@
       "latitude": 38.0845,
       "longitude": 27.1683,
       "location_name": "İzmir"
-    },
-    {
-      "id": "9yKbx7ewZGlo8",
-      "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 20.1,
-      "date_utc": "2026-09-24 01:59:31",
-      "latitude": 38.05,
-      "longitude": 37.8362,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "51MPX8qRlfUzN",
-      "title": "PUSUDERE-PASINLER (ERZURUM)",
-      "magnitude": 1.5,
-      "depth_km": 14.7,
-      "date_utc": "2026-09-24 01:50:50",
-      "latitude": 39.9583,
-      "longitude": 41.4275,
-      "location_name": "Erzurum"
     }
   ]
 }
