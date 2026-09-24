@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T09:24:20.523443+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-24T09:36:05.353091+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "pQJak7LfsKioR",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-24 12:18:28",
+      "latitude": 36.2638,
+      "longitude": 33.7403,
+      "location_name": "Mersin"
+    },
     {
       "id": "ZeRW5ys9GK4Mp",
       "title": "KOZANLI-SOMA (MANISA)",
