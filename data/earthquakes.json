@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T08:25:21.649406+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-24T08:37:17.450489+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "MMBaz07vAhhzR",
+      "title": "CAYBASI-ELMALI (ANTALYA)",
+      "magnitude": 3.7,
+      "depth_km": 59.1,
+      "date_utc": "2026-09-24 11:19:07",
+      "latitude": 36.6058,
+      "longitude": 29.7757,
+      "location_name": "Antalya"
+    },
+    {
+      "id": "owI5XVEuJd5h8",
+      "title": "CAYBASI-ELMALI (ANTALYA)",
+      "magnitude": 3.7,
+      "depth_km": 58.1,
+      "date_utc": "2026-09-24 11:19:07",
+      "latitude": 36.608,
+      "longitude": 29.7742,
+      "location_name": "Antalya"
+    },
     {
       "id": "3O6aBTi04YnAf",
       "title": "SOGUTLU-HILVAN (SANLIURFA)",
