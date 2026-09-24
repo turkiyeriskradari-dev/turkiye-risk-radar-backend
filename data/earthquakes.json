@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T00:29:32.017962+00:00",
-  "record_count": 80,
+  "last_updated": "2026-09-24T00:44:33.655857+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "fGtmSC7B8DJ6O",
+      "title": "SALKIMOZU-PULUMUR (TUNCELI)",
+      "magnitude": 0.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-24 02:59:14",
+      "latitude": 39.5942,
+      "longitude": 39.8,
+      "location_name": "Erzincan"
+    },
     {
       "id": "pSGTse96QUTdr",
       "title": "ATAKOY-MENDERES (IZMIR)",
