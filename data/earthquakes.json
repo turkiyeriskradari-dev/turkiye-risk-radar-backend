@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T14:52:17.955713+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-24T15:03:21.352730+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "BnuZBeADDTnkK",
+      "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-24 17:48:20",
+      "latitude": 38.0993,
+      "longitude": 37.2097,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "M67N7MGyyfhyh",
       "title": "TEPEKOY-SELCUKLU (KONYA)",
@@ -772,26 +782,6 @@
       "latitude": 40.704,
       "longitude": 29.2363,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "jXbi_Lr1g1PN5",
-      "title": "YUKARIKARAGOZ-PINARBASI (KAYSERI)",
-      "magnitude": 1.8,
-      "depth_km": 16.7,
-      "date_utc": "2026-09-23 18:01:58",
-      "latitude": 38.7255,
-      "longitude": 36.5257,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "XUASBJCd5NDOc",
-      "title": "ASAGIBEYCAYIR-PINARBASI (KAYSERI)",
-      "magnitude": 1.8,
-      "depth_km": 16,
-      "date_utc": "2026-09-23 18:01:58",
-      "latitude": 38.6517,
-      "longitude": 36.4875,
-      "location_name": "Kayseri"
     }
   ]
 }
