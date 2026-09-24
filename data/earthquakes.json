@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T11:22:54.013435+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-24T11:35:33.525840+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "weZ9Ofd7nJa_n",
+      "title": "ESTAGFIRULLAH-(SANLIURFA)",
+      "magnitude": 2.2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-24 14:16:10",
+      "latitude": 37.4395,
+      "longitude": 38.7793,
+      "location_name": "Şanlıurfa"
+    },
+    {
+      "id": "PJjKnjVp8vIhU",
+      "title": "BAHSILI (KIRIKKALE)",
+      "magnitude": 1.2,
+      "depth_km": 4.7,
+      "date_utc": "2026-09-24 13:47:16",
+      "latitude": 39.8275,
+      "longitude": 33.4623,
+      "location_name": "Ankara"
+    },
     {
       "id": "o3_PJJGN5dLol",
       "title": "BAHSILI (KIRIKKALE)",
