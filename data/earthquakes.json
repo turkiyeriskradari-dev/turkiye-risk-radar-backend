@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T10:49:57.238546+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-24T11:02:17.247786+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "5STS0ZSq54JiI",
@@ -742,16 +742,6 @@
       "latitude": 38.3195,
       "longitude": 37.8405,
       "location_name": "Malatya"
-    },
-    {
-      "id": "3Ws_SrisJNVM5",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 14.9,
-      "date_utc": "2026-09-23 13:52:50",
-      "latitude": 39.159,
-      "longitude": 28.2028,
-      "location_name": "Balıkesir"
     }
   ]
 }
