@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T22:02:41.122993+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-24T22:22:46.547987+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "TeF5V739tnCEc",
@@ -582,16 +582,6 @@
       "latitude": 39.9583,
       "longitude": 41.4275,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "_Bpytg61lu5L6",
-      "title": "HUYUKLU-YALVAC (ISPARTA)",
-      "magnitude": 1.8,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-24 01:22:10",
-      "latitude": 38.2417,
-      "longitude": 31.1033,
-      "location_name": "Isparta"
     }
   ]
 }
