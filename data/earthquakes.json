@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T14:38:11.448251+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-24T14:52:17.955713+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "M67N7MGyyfhyh",
+      "title": "TEPEKOY-SELCUKLU (KONYA)",
+      "magnitude": 1.5,
+      "depth_km": 8.8,
+      "date_utc": "2026-09-24 17:30:24",
+      "latitude": 38.0735,
+      "longitude": 32.098,
+      "location_name": "Konya"
+    },
+    {
+      "id": "tG0D7TtjHp3Qh",
+      "title": "YONCABAYIRI-IMRANLI (SIVAS)",
+      "magnitude": 2.1,
+      "depth_km": 10.7,
+      "date_utc": "2026-09-24 17:16:15",
+      "latitude": 39.6542,
+      "longitude": 38.2873,
+      "location_name": "Sivas"
+    },
     {
       "id": "g8zPwbWIhcVjo",
       "title": "GIREGIYENIKOY-ALADAG (ADANA)",
