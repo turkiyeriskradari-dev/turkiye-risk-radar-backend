@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T02:02:05.452636+00:00",
-  "record_count": 83,
+  "last_updated": "2026-09-24T02:22:58.520544+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "BFkIsyg9n9qeZ",
+      "title": "YOKUSBASI-HONAZ (DENIZLI)",
+      "magnitude": 1.9,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-24 05:05:11",
+      "latitude": 37.858,
+      "longitude": 29.4578,
+      "location_name": "Denizli"
+    },
     {
       "id": "TD3RE3CmYk8qi",
       "title": "KOS ADASI (EGE DENIZI)",
@@ -811,26 +821,6 @@
       "date_utc": "2026-09-23 05:35:20",
       "latitude": 38.1172,
       "longitude": 37.1407,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "tWKDkK8nmSr5u",
-      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-23 05:05:54",
-      "latitude": 39.1622,
-      "longitude": 28.158,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "UALMPuH5Mycex",
-      "title": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.1,
-      "depth_km": 1.1,
-      "date_utc": "2026-09-23 05:04:47",
-      "latitude": 37.8803,
-      "longitude": 36.4847,
       "location_name": "Kahramanmaraş"
     }
   ]
