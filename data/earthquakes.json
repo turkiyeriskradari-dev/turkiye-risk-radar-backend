@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T11:49:19.721786+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-24T12:02:45.824446+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "J7apnGAYwoTkA",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 3,
+      "depth_km": 6.8,
+      "date_utc": "2026-09-24 14:49:04",
+      "latitude": 34.9248,
+      "longitude": 25.6435,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "mraoliynWymDM",
+      "title": "KOZLU-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 14.7,
+      "date_utc": "2026-09-24 14:40:46",
+      "latitude": 39.2498,
+      "longitude": 28.087,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "pLoaKLld8UFVJ",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 2.6,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-24 14:39:50",
+      "latitude": 38.2427,
+      "longitude": 38.5133,
+      "location_name": "Malatya"
+    },
     {
       "id": "weZ9Ofd7nJa_n",
       "title": "ESTAGFIRULLAH-(SANLIURFA)",
