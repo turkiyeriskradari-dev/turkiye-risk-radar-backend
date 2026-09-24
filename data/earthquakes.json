@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T23:02:03.880981+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-24T23:21:02.714173+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "Gz19HgA7PPTBc",
@@ -551,26 +551,6 @@
       "date_utc": "2026-09-24 02:41:28",
       "latitude": 38.7962,
       "longitude": 27.0505,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "7uxd5xgEpvAGp",
-      "title": "EGE DENIZI",
-      "magnitude": 2.7,
-      "depth_km": 10.3,
-      "date_utc": "2026-09-24 02:13:58",
-      "latitude": 36.0785,
-      "longitude": 25.256,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "pSGTse96QUTdr",
-      "title": "ATAKOY-MENDERES (IZMIR)",
-      "magnitude": 1.2,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-24 02:11:58",
-      "latitude": 38.0845,
-      "longitude": 27.1683,
       "location_name": "İzmir"
     }
   ]
