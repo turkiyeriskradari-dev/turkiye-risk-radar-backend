@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T10:02:10.366514+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-24T10:23:27.663234+00:00",
+  "record_count": 75,
   "data": [
     {
       "id": "8ilrjXNeB0a3H",
@@ -32,6 +32,16 @@
       "latitude": 36.2638,
       "longitude": 33.7403,
       "location_name": "Mersin"
+    },
+    {
+      "id": "0Db5DZnpdvBdo",
+      "title": "YAYIKTAS-SEHITKAMIL (GAZIANTEP)",
+      "magnitude": 1.6,
+      "depth_km": 0,
+      "date_utc": "2026-09-24 12:12:14",
+      "latitude": 37.2492,
+      "longitude": 37.4255,
+      "location_name": "Gaziantep"
     },
     {
       "id": "ZeRW5ys9GK4Mp",
