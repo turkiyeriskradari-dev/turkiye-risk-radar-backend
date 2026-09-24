@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T13:37:22.232717+00:00",
-  "record_count": 82,
+  "last_updated": "2026-09-24T13:51:26.049908+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "g8zPwbWIhcVjo",
+      "title": "GIREGIYENIKOY-ALADAG (ADANA)",
+      "magnitude": 1.5,
+      "depth_km": 24.9,
+      "date_utc": "2026-09-24 16:11:44",
+      "latitude": 37.517,
+      "longitude": 35.4568,
+      "location_name": "Adana"
+    },
     {
       "id": "J7apnGAYwoTkA",
       "title": "GIRIT ADASI (AKDENIZ)",
