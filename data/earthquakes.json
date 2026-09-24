@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T20:02:28.560246+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-24T20:24:22.346473+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "Ur0BQ6ixX6dtw",
+      "title": "SAGLAMTAS-(VAN)",
+      "magnitude": 1.7,
+      "depth_km": 11,
+      "date_utc": "2026-09-24 22:59:33",
+      "latitude": 38.8817,
+      "longitude": 43.6003,
+      "location_name": "Van"
+    },
+    {
+      "id": "1jNjUQXt2v_HN",
+      "title": "KOCAOZ-COBANLAR (AFYONKARAHISAR)",
+      "magnitude": 1.4,
+      "depth_km": 15.9,
+      "date_utc": "2026-09-24 22:51:56",
+      "latitude": 38.6922,
+      "longitude": 30.8357,
+      "location_name": "Afyon"
+    },
+    {
+      "id": "I78h0_aGOzuom",
+      "title": "EGE DENIZI",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-24 22:48:47",
+      "latitude": 36.6772,
+      "longitude": 25.7783,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "lqHpGNeacn3wg",
       "title": "AKTAS-SINDIRGI (BALIKESIR)",
@@ -602,16 +632,6 @@
       "latitude": 37.7898,
       "longitude": 36.5632,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "rsxnXk4p2izXM",
-      "title": "KARACA-KEMAH (ERZINCAN)",
-      "magnitude": 1.4,
-      "depth_km": 28.5,
-      "date_utc": "2026-09-23 23:16:55",
-      "latitude": 39.7038,
-      "longitude": 38.7253,
-      "location_name": "Erzincan"
     }
   ]
 }
