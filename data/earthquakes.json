@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T16:02:15.721635+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-24T16:24:46.219561+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "Z0tMIJNOuXux1",
+      "title": "KOSELER-OVACIK (TUNCELI)",
+      "magnitude": 1.8,
+      "depth_km": 7.3,
+      "date_utc": "2026-09-24 18:52:22",
+      "latitude": 39.426,
+      "longitude": 39.1367,
+      "location_name": "Tunceli"
+    },
     {
       "id": "434nmKbxWhvy1",
       "title": "MARMARA DENIZI",
@@ -742,26 +752,6 @@
       "latitude": 37.3433,
       "longitude": 36.2253,
       "location_name": "Osmaniye"
-    },
-    {
-      "id": "J8CCBe65r8kFj",
-      "title": "KILIMLI-(ERZINCAN)",
-      "magnitude": 2.2,
-      "depth_km": 6,
-      "date_utc": "2026-09-23 19:12:19",
-      "latitude": 39.6812,
-      "longitude": 39.4892,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "xyXBYcEbjxrHa",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 3,
-      "depth_km": 28.9,
-      "date_utc": "2026-09-23 19:11:53",
-      "latitude": 34.627,
-      "longitude": 26.2915,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
