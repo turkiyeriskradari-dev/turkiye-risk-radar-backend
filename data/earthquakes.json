@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T14:24:37.521790+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-25T14:37:19.946491+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "ZHiRJQStgQr7r",
@@ -662,16 +662,6 @@
       "latitude": 38.0993,
       "longitude": 37.2097,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "M67N7MGyyfhyh",
-      "title": "TEPEKOY-SELCUKLU (KONYA)",
-      "magnitude": 1.5,
-      "depth_km": 8.8,
-      "date_utc": "2026-09-24 17:30:24",
-      "latitude": 38.0735,
-      "longitude": 32.098,
-      "location_name": "Konya"
     }
   ]
 }
