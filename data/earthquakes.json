@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T00:02:47.246528+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-25T00:30:46.227731+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "9tgB8e2d7md62",
+      "title": "TEPEKOY-SARAYKOY (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 4,
+      "date_utc": "2026-09-25 02:35:59",
+      "latitude": 38.0068,
+      "longitude": 28.9998,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "3_WqgY4gfVaMc",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 0.8,
+      "depth_km": 9.1,
+      "date_utc": "2026-09-25 02:15:52",
+      "latitude": 39.233,
+      "longitude": 29.0293,
+      "location_name": "Kütahya"
+    },
     {
       "id": "FKyzQCqbBnSR8",
       "title": "AVDUL-CUMRA (KONYA)",
