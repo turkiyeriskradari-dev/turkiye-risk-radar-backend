@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T12:28:29.537822+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-25T12:43:31.526317+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "BPF6Dri9SnRxn",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 17.8,
+      "date_utc": "2026-09-25 15:19:32",
+      "latitude": 39.2338,
+      "longitude": 28.9697,
+      "location_name": "Kütahya"
+    },
     {
       "id": "N5T0Hl2JeaR4y",
       "title": "ILICA-SINDIRGI (BALIKESIR)",
