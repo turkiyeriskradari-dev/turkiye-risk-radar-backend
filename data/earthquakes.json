@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T18:50:52.658849+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-25T19:02:18.254684+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "Kmfgyec7hU0by",
@@ -632,36 +632,6 @@
       "latitude": 39.1582,
       "longitude": 28.1877,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "O01wk8YQd0zMm",
-      "title": "ADALAR (ISTANBUL)",
-      "magnitude": 1.4,
-      "depth_km": 12.3,
-      "date_utc": "2026-09-24 21:55:50",
-      "latitude": 40.7912,
-      "longitude": 29.082,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "hepgk9_PBNx2y",
-      "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 11.7,
-      "date_utc": "2026-09-24 21:55:04",
-      "latitude": 40.8095,
-      "longitude": 29.0345,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "dqolBaSFYQZe3",
-      "title": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 13.5,
-      "date_utc": "2026-09-24 21:53:39",
-      "latitude": 40.8068,
-      "longitude": 29.0318,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
