@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T18:24:27.545177+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-25T18:37:21.325218+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "Kmfgyec7hU0by",
@@ -22,6 +22,26 @@
       "latitude": 38.8117,
       "longitude": 37.4662,
       "location_name": "Sivas"
+    },
+    {
+      "id": "hMwv_WxqS3QIO",
+      "title": "BUCAKKISLA-AKSEKI (ANTALYA)",
+      "magnitude": 1.7,
+      "depth_km": 17.9,
+      "date_utc": "2026-09-25 20:04:07",
+      "latitude": 37.0778,
+      "longitude": 31.759,
+      "location_name": "Antalya"
+    },
+    {
+      "id": "myaE7akQMPLs3",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 8.6,
+      "date_utc": "2026-09-25 19:22:43",
+      "latitude": 39.2005,
+      "longitude": 28.198,
+      "location_name": "Balıkesir"
     },
     {
       "id": "3tjPrBQPgmYsQ",
