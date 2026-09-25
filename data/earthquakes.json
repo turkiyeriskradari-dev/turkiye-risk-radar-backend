@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T10:02:19.014219+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-25T10:23:45.049388+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "hw7V9leQtVo4c",
+      "title": "AKDENIZ",
+      "magnitude": 2.2,
+      "depth_km": 11.2,
+      "date_utc": "2026-09-25 12:48:57",
+      "latitude": 35.7472,
+      "longitude": 28.5912,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "rn2ZGCssYBE_S",
+      "title": "KOYUNAGILI-BULANIK (MUS)",
+      "magnitude": 1.6,
+      "depth_km": 17.4,
+      "date_utc": "2026-09-25 12:36:17",
+      "latitude": 39.1245,
+      "longitude": 41.9388,
+      "location_name": "Muş"
+    },
     {
       "id": "NMUYX6XmIoK4u",
       "title": "SIGIRLIHACI-CUBUK (ANKARA)",
@@ -12,6 +32,16 @@
       "latitude": 40.1648,
       "longitude": 32.906,
       "location_name": "Ankara"
+    },
+    {
+      "id": "ZtALZfivJHgSi",
+      "title": "PALAMUT-SARKOY (TEKIRDAG)",
+      "magnitude": 1.4,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-25 12:28:34",
+      "latitude": 40.7547,
+      "longitude": 27.174,
+      "location_name": "Tekirdağ"
     },
     {
       "id": "r9NGeeltFFIjM",
@@ -552,26 +582,6 @@
       "latitude": 39.787,
       "longitude": 33.435,
       "location_name": "Kırıkkale"
-    },
-    {
-      "id": "5STS0ZSq54JiI",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-24 13:11:00",
-      "latitude": 39.257,
-      "longitude": 28.9442,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "NN1Ef4Y4JDdUP",
-      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1.6,
-      "depth_km": 7.2,
-      "date_utc": "2026-09-24 13:08:58",
-      "latitude": 39.2508,
-      "longitude": 28.9185,
-      "location_name": "Kütahya"
     }
   ]
 }
