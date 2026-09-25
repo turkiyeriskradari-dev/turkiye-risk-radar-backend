@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-24T23:46:45.731989+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-25T00:02:47.246528+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "FKyzQCqbBnSR8",
@@ -542,16 +542,6 @@
       "latitude": 39.2635,
       "longitude": 28.9923,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "fGtmSC7B8DJ6O",
-      "title": "SALKIMOZU-PULUMUR (TUNCELI)",
-      "magnitude": 0.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-24 02:59:14",
-      "latitude": 39.5942,
-      "longitude": 39.8,
-      "location_name": "Erzincan"
     }
   ]
 }
