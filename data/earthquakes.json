@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T20:35:34.624584+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-25T20:49:34.528004+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "59xvtZRj2np6i",
+      "title": "CINARCIK-ORHANELI (BURSA)",
+      "magnitude": 1.2,
+      "depth_km": 12,
+      "date_utc": "2026-09-25 23:06:36",
+      "latitude": 40.0255,
+      "longitude": 28.7673,
+      "location_name": "Bursa"
+    },
+    {
+      "id": "y63fDg4L6iDes",
+      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
+      "magnitude": 1.2,
+      "depth_km": 9.7,
+      "date_utc": "2026-09-25 22:52:04",
+      "latitude": 37.7815,
+      "longitude": 36.2193,
+      "location_name": "Adana"
+    },
+    {
+      "id": "R6h4WQlU1MNKK",
+      "title": "AKDENIZ",
+      "magnitude": 2,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-25 22:38:45",
+      "latitude": 35.9258,
+      "longitude": 29.3783,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "XcWqEoCoJ36pc",
       "title": "ALAKIR-SINDIRGI (BALIKESIR)",
