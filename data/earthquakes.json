@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T00:30:46.227731+00:00",
+  "last_updated": "2026-09-25T00:51:26.646156+00:00",
   "record_count": 56,
   "data": [
+    {
+      "id": "mxgRNQyEuEviR",
+      "title": "ATALAR-SEHITKAMIL (GAZIANTEP)",
+      "magnitude": 1.9,
+      "depth_km": 1.9,
+      "date_utc": "2026-09-25 02:49:42",
+      "latitude": 37.171,
+      "longitude": 36.9892,
+      "location_name": "Gaziantep"
+    },
     {
       "id": "9tgB8e2d7md62",
       "title": "TEPEKOY-SARAYKOY (DENIZLI)",
@@ -551,16 +561,6 @@
       "date_utc": "2026-09-24 03:58:41",
       "latitude": 39.218,
       "longitude": 28.9252,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "5nHSd20p02GQM",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1.6,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-24 03:46:56",
-      "latitude": 39.2635,
-      "longitude": 28.9923,
       "location_name": "Kütahya"
     }
   ]
