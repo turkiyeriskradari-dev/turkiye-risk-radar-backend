@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T07:23:57.419760+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-25T07:36:10.948978+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "roCY9uRSewmTi",
+      "title": "KAYRAK-GULNAR (MERSIN)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-09-25 10:10:45",
+      "latitude": 36.3458,
+      "longitude": 33.5177,
+      "location_name": "Mersin"
+    },
     {
       "id": "iNb7167IZ678x",
       "title": "DEREKOY-SOMA (MANISA)",
