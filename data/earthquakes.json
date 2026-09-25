@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T16:02:28.251603+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-25T16:24:50.656362+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "ZHiRJQStgQr7r",
@@ -602,16 +602,6 @@
       "latitude": 40.8068,
       "longitude": 29.0318,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "953kFgaZNsvTi",
-      "title": "KOZLUOREN-SOMA (MANISA)",
-      "magnitude": 1.4,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-24 19:14:17",
-      "latitude": 39.2872,
-      "longitude": 27.732,
-      "location_name": "Manisa"
     }
   ]
 }
