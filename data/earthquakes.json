@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T19:48:18.720283+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-25T20:01:56.045730+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "FBBrHUgTJt5xw",
+      "title": "KUYUCAK-KIRKAGAC (MANISA)",
+      "magnitude": 1.4,
+      "depth_km": 5.8,
+      "date_utc": "2026-09-25 21:06:12",
+      "latitude": 39.2425,
+      "longitude": 27.8483,
+      "location_name": "Manisa"
+    },
     {
       "id": "Kmfgyec7hU0by",
       "title": "ELMALI-YEDISU (BINGOL)",
@@ -592,36 +602,6 @@
       "latitude": 38.053,
       "longitude": 36.5052,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "Ur0BQ6ixX6dtw",
-      "title": "SAGLAMTAS-(VAN)",
-      "magnitude": 1.7,
-      "depth_km": 11,
-      "date_utc": "2026-09-24 22:59:33",
-      "latitude": 38.8817,
-      "longitude": 43.6003,
-      "location_name": "Van"
-    },
-    {
-      "id": "1jNjUQXt2v_HN",
-      "title": "KOCAOZ-COBANLAR (AFYONKARAHISAR)",
-      "magnitude": 1.4,
-      "depth_km": 15.9,
-      "date_utc": "2026-09-24 22:51:56",
-      "latitude": 38.6922,
-      "longitude": 30.8357,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "I78h0_aGOzuom",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-24 22:48:47",
-      "latitude": 36.6772,
-      "longitude": 25.7783,
-      "location_name": "Ege Denizi"
     }
   ]
 }
