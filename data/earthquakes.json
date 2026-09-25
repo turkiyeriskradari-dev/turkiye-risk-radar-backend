@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T23:20:36.342658+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-25T23:32:58.539449+00:00",
+  "record_count": 64,
   "data": [
+    {
+      "id": "Oei7WyzRoQaN0",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 4.4,
+      "date_utc": "2026-09-26 02:18:45",
+      "latitude": 37.8193,
+      "longitude": 27.1012,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "c0zMKp_rbi2kx",
       "title": "BOYBEYI-CAYIRLI (ERZINCAN)",
