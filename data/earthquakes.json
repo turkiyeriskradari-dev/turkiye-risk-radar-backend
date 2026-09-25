@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T07:05:31.959668+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-25T07:23:57.419760+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "iNb7167IZ678x",
+      "title": "DEREKOY-SOMA (MANISA)",
+      "magnitude": 0.7,
+      "depth_km": 0,
+      "date_utc": "2026-09-25 09:51:20",
+      "latitude": 39.1217,
+      "longitude": 27.568,
+      "location_name": "Manisa"
+    },
     {
       "id": "dMKpGDYJJlRae",
       "title": "KIRMIZILAR-(BALIKESIR)",
