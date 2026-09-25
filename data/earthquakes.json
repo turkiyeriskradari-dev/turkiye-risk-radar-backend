@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T12:43:31.526317+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-25T12:56:03.121521+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "5GtxoUQ7Kn05F",
+      "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 2.2,
+      "depth_km": 21.1,
+      "date_utc": "2026-09-25 15:28:16",
+      "latitude": 37.6022,
+      "longitude": 37.3208,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "BPF6Dri9SnRxn",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
