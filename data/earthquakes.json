@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T09:50:05.937012+00:00",
+  "last_updated": "2026-09-25T10:02:19.014219+00:00",
   "record_count": 57,
   "data": [
+    {
+      "id": "NMUYX6XmIoK4u",
+      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 12:33:06",
+      "latitude": 40.1648,
+      "longitude": 32.906,
+      "location_name": "Ankara"
+    },
     {
       "id": "r9NGeeltFFIjM",
       "title": "AKDERE-SILIFKE (MERSIN)",
@@ -562,16 +572,6 @@
       "latitude": 39.2508,
       "longitude": 28.9185,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "car6cP1yCGaek",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.1,
-      "depth_km": 11.3,
-      "date_utc": "2026-09-24 12:50:00",
-      "latitude": 39.1803,
-      "longitude": 28.2117,
-      "location_name": "Balıkesir"
     }
   ]
 }
