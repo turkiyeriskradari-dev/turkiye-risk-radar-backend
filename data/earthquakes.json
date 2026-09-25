@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T04:50:43.249037+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-25T05:01:53.616487+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "dMKpGDYJJlRae",
+      "title": "KIRMIZILAR-(BALIKESIR)",
+      "magnitude": 1.9,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-25 07:15:27",
+      "latitude": 39.8165,
+      "longitude": 27.8163,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "Xtk03tA9JO8Tp",
       "title": "ESMEPINAR-CAYIRLI (ERZINCAN)",
