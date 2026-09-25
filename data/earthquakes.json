@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T23:01:56.277845+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-25T23:20:36.342658+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "c0zMKp_rbi2kx",
+      "title": "BOYBEYI-CAYIRLI (ERZINCAN)",
+      "magnitude": 1.8,
+      "depth_km": 13.1,
+      "date_utc": "2026-09-26 01:44:04",
+      "latitude": 39.9282,
+      "longitude": 39.8963,
+      "location_name": "Erzincan"
+    },
     {
       "id": "efU5bTk5lOeZT",
       "title": "YAHSIBEY-DIKILI (IZMIR)",
@@ -622,26 +632,6 @@
       "latitude": 38.0068,
       "longitude": 28.9998,
       "location_name": "Denizli"
-    },
-    {
-      "id": "3_WqgY4gfVaMc",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 0.8,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-25 02:15:52",
-      "latitude": 39.233,
-      "longitude": 29.0293,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "FKyzQCqbBnSR8",
-      "title": "AVDUL-CUMRA (KONYA)",
-      "magnitude": 1.3,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-25 02:04:38",
-      "latitude": 37.3427,
-      "longitude": 32.7783,
-      "location_name": "Konya"
     }
   ]
 }
