@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T01:47:32.041801+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-25T02:01:54.951566+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "gMpWkliS6Wmr7",
@@ -542,16 +542,6 @@
       "latitude": 37.858,
       "longitude": 29.4578,
       "location_name": "Denizli"
-    },
-    {
-      "id": "8ymXvJN20Db7t",
-      "title": "ASAGIKARAOREN-SEYDISEHIR (KONYA)",
-      "magnitude": 0.9,
-      "depth_km": 13.7,
-      "date_utc": "2026-09-24 05:00:40",
-      "latitude": 37.3362,
-      "longitude": 32.0445,
-      "location_name": "Konya"
     }
   ]
 }
