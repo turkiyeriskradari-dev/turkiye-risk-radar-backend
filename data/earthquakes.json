@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T09:24:24.042963+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-25T09:36:52.549399+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "nIz_5XSx39doM",
+      "title": "OKSUZUSAGI-(ELAZIG)",
+      "magnitude": 2.3,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-25 12:25:51",
+      "latitude": 38.4753,
+      "longitude": 39.0438,
+      "location_name": "Elazığ"
+    },
     {
       "id": "ofRe57tBSyqZV",
       "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
@@ -542,26 +552,6 @@
       "latitude": 39.1803,
       "longitude": 28.2117,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "8ilrjXNeB0a3H",
-      "title": "BALCILAR-TASKENT (KONYA)",
-      "magnitude": 1.6,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-24 12:33:19",
-      "latitude": 36.8633,
-      "longitude": 32.6752,
-      "location_name": "Konya"
-    },
-    {
-      "id": "WtZLmbrkZcZSG",
-      "title": "HARUNUSAGI-AKCADAG (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-24 12:30:52",
-      "latitude": 38.2607,
-      "longitude": 37.7115,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
