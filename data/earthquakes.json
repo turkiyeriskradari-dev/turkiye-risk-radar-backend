@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T15:49:17.861645+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-25T16:02:28.251603+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "ZHiRJQStgQr7r",
@@ -612,16 +612,6 @@
       "latitude": 39.2872,
       "longitude": 27.732,
       "location_name": "Manisa"
-    },
-    {
-      "id": "Z0tMIJNOuXux1",
-      "title": "KOSELER-OVACIK (TUNCELI)",
-      "magnitude": 1.8,
-      "depth_km": 7.3,
-      "date_utc": "2026-09-24 18:52:22",
-      "latitude": 39.426,
-      "longitude": 39.1367,
-      "location_name": "Tunceli"
     }
   ]
 }
