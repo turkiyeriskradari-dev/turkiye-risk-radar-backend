@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T10:23:45.049388+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-25T10:36:18.448195+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "hw7V9leQtVo4c",
@@ -12,6 +12,16 @@
       "latitude": 35.7472,
       "longitude": 28.5912,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "tGTC9i13fCsEI",
+      "title": "GULOVA-KUMLU (HATAY)",
+      "magnitude": 1.6,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-25 12:42:40",
+      "latitude": 36.3828,
+      "longitude": 36.3123,
+      "location_name": "Hatay"
     },
     {
       "id": "rn2ZGCssYBE_S",
@@ -72,6 +82,16 @@
       "latitude": 38.4753,
       "longitude": 39.0438,
       "location_name": "Elazığ"
+    },
+    {
+      "id": "GGaJhEhnsmUXH",
+      "title": "YELEK-KAMAN (KIRSEHIR)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 12:19:58",
+      "latitude": 39.314,
+      "longitude": 33.7148,
+      "location_name": "Kırşehir"
     },
     {
       "id": "ofRe57tBSyqZV",
@@ -572,16 +592,6 @@
       "latitude": 39.8275,
       "longitude": 33.4623,
       "location_name": "Ankara"
-    },
-    {
-      "id": "o3_PJJGN5dLol",
-      "title": "BAHSILI (KIRIKKALE)",
-      "magnitude": 1.3,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-24 13:30:05",
-      "latitude": 39.787,
-      "longitude": 33.435,
-      "location_name": "Kırıkkale"
     }
   ]
 }
