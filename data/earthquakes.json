@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T15:24:48.271196+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-25T15:35:35.016877+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "ZHiRJQStgQr7r",
@@ -622,26 +622,6 @@
       "latitude": 39.426,
       "longitude": 39.1367,
       "location_name": "Tunceli"
-    },
-    {
-      "id": "434nmKbxWhvy1",
-      "title": "MARMARA DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-24 18:30:03",
-      "latitude": 40.6098,
-      "longitude": 27.9828,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "i2yXDpPsRRUvA",
-      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 13.7,
-      "date_utc": "2026-09-24 18:26:14",
-      "latitude": 37.8388,
-      "longitude": 36.1488,
-      "location_name": "Adana"
     }
   ]
 }
