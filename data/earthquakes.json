@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T14:02:31.348331+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-25T14:24:37.521790+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "ZHiRJQStgQr7r",
@@ -672,16 +672,6 @@
       "latitude": 38.0735,
       "longitude": 32.098,
       "location_name": "Konya"
-    },
-    {
-      "id": "tG0D7TtjHp3Qh",
-      "title": "YONCABAYIRI-IMRANLI (SIVAS)",
-      "magnitude": 2.1,
-      "depth_km": 10.7,
-      "date_utc": "2026-09-24 17:16:15",
-      "latitude": 39.6542,
-      "longitude": 38.2873,
-      "location_name": "Sivas"
     }
   ]
 }
