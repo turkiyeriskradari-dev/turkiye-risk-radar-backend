@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T03:02:02.556142+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-25T03:21:47.518218+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "wtvY0F3lDCVfW",
+      "title": "ESENCE-AFSIN (KAHRAMANMARAS)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 06:01:34",
+      "latitude": 38.163,
+      "longitude": 36.8925,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "sXRUXsfVJdBzs",
+      "title": "GURCISTAN ACIKLARI (KARADENIZ)",
+      "magnitude": 4.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 05:42:37",
+      "latitude": 42.7857,
+      "longitude": 39.2143,
+      "location_name": "Karadeniz"
+    },
+    {
+      "id": "naQoq0CRwp7CB",
+      "title": "KARAKUZU-ALIAGA (IZMIR)",
+      "magnitude": 1.4,
+      "depth_km": 18.2,
+      "date_utc": "2026-09-25 05:24:18",
+      "latitude": 38.765,
+      "longitude": 27.1312,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "Gn0DqQQuo7NsA",
+      "title": "CAMPINAR-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.1,
+      "depth_km": 16.4,
+      "date_utc": "2026-09-25 05:08:41",
+      "latitude": 38.1515,
+      "longitude": 38.1995,
+      "location_name": "Malatya"
+    },
     {
       "id": "gMpWkliS6Wmr7",
       "title": "KAPIKAYA-KOZAN (ADANA)",
@@ -512,16 +552,6 @@
       "latitude": 40.1882,
       "longitude": 31.7678,
       "location_name": "Ankara"
-    },
-    {
-      "id": "F6B6u5KaK7jMc",
-      "title": "AKDENIZ",
-      "magnitude": 2.6,
-      "depth_km": 35.9,
-      "date_utc": "2026-09-24 06:16:41",
-      "latitude": 36.4953,
-      "longitude": 28.671,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
