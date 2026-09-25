@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T17:50:06.261568+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-25T18:02:13.321304+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "Kmfgyec7hU0by",
+      "title": "ELMALI-YEDISU (BINGOL)",
+      "magnitude": 2.6,
+      "depth_km": 1.4,
+      "date_utc": "2026-09-25 20:51:18",
+      "latitude": 39.3795,
+      "longitude": 40.646,
+      "location_name": "Bingöl"
+    },
     {
       "id": "ZHiRJQStgQr7r",
       "title": "SARISU-KIRAZ (IZMIR)",
