@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-09-25T04:02:04.943936+00:00",
+  "last_updated": "2026-09-25T04:23:47.322506+00:00",
   "record_count": 81,
   "data": [
     {
@@ -222,7 +222,7 @@
     {
       "province": "Erzurum",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 0.0,
+      "precipitation_mm": 0.1,
       "wind_speed_max_kmh": 18.1,
       "temperature_max_c": 22.7,
       "temperature_min_c": 10.8,
@@ -249,7 +249,7 @@
     {
       "province": "Giresun",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 2.8,
+      "precipitation_mm": 2.9,
       "wind_speed_max_kmh": 5.6,
       "temperature_max_c": 19.6,
       "temperature_min_c": 16.3,
@@ -258,7 +258,7 @@
     {
       "province": "Gümüşhane",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 2.2,
+      "precipitation_mm": 3.5,
       "wind_speed_max_kmh": 10.6,
       "temperature_max_c": 22.9,
       "temperature_min_c": 11.6,
@@ -465,7 +465,7 @@
     {
       "province": "Ordu",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 1.6,
+      "precipitation_mm": 0.9,
       "wind_speed_max_kmh": 5.9,
       "temperature_max_c": 19.4,
       "temperature_min_c": 16.1,
@@ -474,7 +474,7 @@
     {
       "province": "Rize",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 4.3,
+      "precipitation_mm": 4.2,
       "wind_speed_max_kmh": 5.1,
       "temperature_max_c": 20.4,
       "temperature_min_c": 17.7,
@@ -492,7 +492,7 @@
     {
       "province": "Samsun",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 1.8,
+      "precipitation_mm": 0.2,
       "wind_speed_max_kmh": 7.6,
       "temperature_max_c": 19.2,
       "temperature_min_c": 16.4,
@@ -546,7 +546,7 @@
     {
       "province": "Trabzon",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 3.4,
+      "precipitation_mm": 3.7,
       "wind_speed_max_kmh": 8.4,
       "temperature_max_c": 21.4,
       "temperature_min_c": 18.1,
@@ -618,7 +618,7 @@
     {
       "province": "Bayburt",
       "forecast_date": "2026-09-25",
-      "precipitation_mm": 0.5,
+      "precipitation_mm": 0.4,
       "wind_speed_max_kmh": 12.5,
       "temperature_max_c": 22.2,
       "temperature_min_c": 11.3,

@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T04:02:03.818582+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-25T04:23:45.156820+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "Xtk03tA9JO8Tp",
@@ -602,16 +602,6 @@
       "latitude": 37.0273,
       "longitude": 28.9307,
       "location_name": "Muğla"
-    },
-    {
-      "id": "93rEVLPA2M3JY",
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-24 07:17:16",
-      "latitude": 40.1882,
-      "longitude": 31.7678,
-      "location_name": "Ankara"
     }
   ]
 }
