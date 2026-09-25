@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T20:21:41.318283+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-25T20:35:34.624584+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "XcWqEoCoJ36pc",
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.9,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-25 22:31:43",
+      "latitude": 39.2125,
+      "longitude": 28.0598,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "QxTa0g1HzQZ4U",
       "title": "COBANLAR-KIRKAGAC (MANISA)",
