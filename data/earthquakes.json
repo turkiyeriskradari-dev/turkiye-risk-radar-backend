@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T07:50:09.847342+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-25T08:02:09.054766+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "roCY9uRSewmTi",
@@ -592,16 +592,6 @@
       "latitude": 36.608,
       "longitude": 29.7742,
       "location_name": "Antalya"
-    },
-    {
-      "id": "3O6aBTi04YnAf",
-      "title": "SOGUTLU-HILVAN (SANLIURFA)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-24 10:59:37",
-      "latitude": 37.5198,
-      "longitude": 38.7302,
-      "location_name": "Şanlıurfa"
     }
   ]
 }
