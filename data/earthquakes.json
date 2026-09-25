@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T13:05:35.949336+00:00",
+  "last_updated": "2026-09-25T13:24:43.522190+00:00",
   "record_count": 63,
   "data": [
+    {
+      "id": "SRCwzBnTJz5jB",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 2.4,
+      "depth_km": 2,
+      "date_utc": "2026-09-25 16:09:30",
+      "latitude": 38.2763,
+      "longitude": 37.727,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "5GtxoUQ7Kn05F",
       "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
@@ -622,16 +632,6 @@
       "latitude": 39.6542,
       "longitude": 38.2873,
       "location_name": "Sivas"
-    },
-    {
-      "id": "g8zPwbWIhcVjo",
-      "title": "GIREGIYENIKOY-ALADAG (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 24.9,
-      "date_utc": "2026-09-24 16:11:44",
-      "latitude": 37.517,
-      "longitude": 35.4568,
-      "location_name": "Adana"
     }
   ]
 }
