@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T01:02:36.252178+00:00",
+  "last_updated": "2026-09-25T01:21:22.720446+00:00",
   "record_count": 55,
   "data": [
+    {
+      "id": "gMpWkliS6Wmr7",
+      "title": "KAPIKAYA-KOZAN (ADANA)",
+      "magnitude": 2.7,
+      "depth_km": 4.1,
+      "date_utc": "2026-09-25 04:05:43",
+      "latitude": 37.722,
+      "longitude": 35.6105,
+      "location_name": "Adana"
+    },
     {
       "id": "mxgRNQyEuEviR",
       "title": "ATALAR-SEHITKAMIL (GAZIANTEP)",
@@ -542,16 +552,6 @@
       "latitude": 37.3362,
       "longitude": 32.0445,
       "location_name": "Konya"
-    },
-    {
-      "id": "TD3RE3CmYk8qi",
-      "title": "KOS ADASI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-24 04:06:42",
-      "latitude": 36.8933,
-      "longitude": 27.1262,
-      "location_name": "Ege Denizi"
     }
   ]
 }
