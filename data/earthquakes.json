@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T21:35:22.076058+00:00",
+  "last_updated": "2026-09-25T21:49:09.955448+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "efU5bTk5lOeZT",
+      "title": "YAHSIBEY-DIKILI (IZMIR)",
+      "magnitude": 1.5,
+      "depth_km": 9,
+      "date_utc": "2026-09-26 00:14:53",
+      "latitude": 39.0363,
+      "longitude": 26.8457,
+      "location_name": "İzmir"
+    },
     {
       "id": "ltw5yTJaW6mKI",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -652,16 +662,6 @@
       "latitude": 39.2375,
       "longitude": 29.0205,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "TeF5V739tnCEc",
-      "title": "HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.2,
-      "depth_km": 12.4,
-      "date_utc": "2026-09-25 00:46:44",
-      "latitude": 38.053,
-      "longitude": 36.5052,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
