@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T08:25:10.827654+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-25T08:37:23.524038+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "UrwnaG0eBGIxm",
@@ -572,16 +572,6 @@
       "latitude": 37.2492,
       "longitude": 37.4255,
       "location_name": "Gaziantep"
-    },
-    {
-      "id": "ZeRW5ys9GK4Mp",
-      "title": "KOZANLI-SOMA (MANISA)",
-      "magnitude": 1.5,
-      "depth_km": 0,
-      "date_utc": "2026-09-24 11:32:18",
-      "latitude": 39.1612,
-      "longitude": 27.5475,
-      "location_name": "Manisa"
     }
   ]
 }
