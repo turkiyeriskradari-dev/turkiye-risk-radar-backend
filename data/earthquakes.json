@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T02:01:54.951566+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-25T02:21:43.257923+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "gMpWkliS6Wmr7",
@@ -532,16 +532,6 @@
       "latitude": 39.2605,
       "longitude": 28.9807,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "BFkIsyg9n9qeZ",
-      "title": "YOKUSBASI-HONAZ (DENIZLI)",
-      "magnitude": 1.9,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-24 05:05:11",
-      "latitude": 37.858,
-      "longitude": 29.4578,
-      "location_name": "Denizli"
     }
   ]
 }
