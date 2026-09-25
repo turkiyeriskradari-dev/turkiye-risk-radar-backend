@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T08:50:53.817491+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-25T09:02:34.625301+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "ofRe57tBSyqZV",
+      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 12.1,
+      "date_utc": "2026-09-25 11:53:47",
+      "latitude": 38.1105,
+      "longitude": 37.0273,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "JFgt0YvRmJHrr",
+      "title": "EGE DENIZI",
+      "magnitude": 3,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-25 11:24:53",
+      "latitude": 36.6678,
+      "longitude": 25.6753,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "UrwnaG0eBGIxm",
       "title": "HAMZALI-ORHANGAZI (BURSA)",
