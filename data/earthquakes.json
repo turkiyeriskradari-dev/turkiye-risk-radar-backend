@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T12:02:32.747106+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-25T12:28:29.537822+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "N5T0Hl2JeaR4y",
@@ -52,6 +52,16 @@
       "latitude": 35.7472,
       "longitude": 28.5912,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "x4HxgyRR0W_iz",
+      "title": "PINARBASI-EZINE (CANAKKALE)",
+      "magnitude": 1.2,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 12:48:36",
+      "latitude": 39.8828,
+      "longitude": 26.264,
+      "location_name": "Çanakkale"
     },
     {
       "id": "tGTC9i13fCsEI",
@@ -132,6 +142,26 @@
       "latitude": 39.314,
       "longitude": 33.7148,
       "location_name": "Kırşehir"
+    },
+    {
+      "id": "bUlm6N2MFoxHS",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-25 12:18:10",
+      "latitude": 39.1995,
+      "longitude": 28.1435,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "smfT0ZdMEouUj",
+      "title": "SUGOZU-BESNI (ADIYAMAN)",
+      "magnitude": 2,
+      "depth_km": 4.5,
+      "date_utc": "2026-09-25 12:07:35",
+      "latitude": 37.6607,
+      "longitude": 37.8077,
+      "location_name": "Adıyaman"
     },
     {
       "id": "ofRe57tBSyqZV",
