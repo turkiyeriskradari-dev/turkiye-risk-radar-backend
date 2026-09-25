@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T03:36:25.019259+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-25T03:49:49.647058+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "wtvY0F3lDCVfW",
@@ -12,6 +12,16 @@
       "latitude": 38.163,
       "longitude": 36.8925,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "kHoVYiDjt1ujB",
+      "title": "TURKMEN-(SANLIURFA)",
+      "magnitude": 1.2,
+      "depth_km": 16.3,
+      "date_utc": "2026-09-25 05:50:50",
+      "latitude": 37.4388,
+      "longitude": 38.9412,
+      "location_name": "Şanlıurfa"
     },
     {
       "id": "sXRUXsfVJdBzs",
@@ -52,6 +62,16 @@
       "latitude": 38.1278,
       "longitude": 37.2603,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "J372wzM6vFe73",
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-25 05:05:42",
+      "latitude": 40.2035,
+      "longitude": 31.7327,
+      "location_name": "Ankara"
     },
     {
       "id": "wNdUMRh8W3K8h",
