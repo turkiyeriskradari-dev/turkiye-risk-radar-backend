@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T14:51:25.721221+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-25T15:02:46.357951+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "ZHiRJQStgQr7r",
@@ -642,16 +642,6 @@
       "latitude": 37.8388,
       "longitude": 36.1488,
       "location_name": "Adana"
-    },
-    {
-      "id": "op2WeZ6tfWj7d",
-      "title": "RIZEKENT-AZIZIYE (ERZURUM)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-24 18:02:22",
-      "latitude": 40.134,
-      "longitude": 40.9885,
-      "location_name": "Erzurum"
     }
   ]
 }
