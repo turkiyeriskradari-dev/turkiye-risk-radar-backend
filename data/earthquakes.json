@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T11:36:17.118718+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-25T11:50:09.118124+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "N5T0Hl2JeaR4y",
@@ -582,56 +582,6 @@
       "latitude": 37.517,
       "longitude": 35.4568,
       "location_name": "Adana"
-    },
-    {
-      "id": "J7apnGAYwoTkA",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 3,
-      "depth_km": 6.8,
-      "date_utc": "2026-09-24 14:49:04",
-      "latitude": 34.9248,
-      "longitude": 25.6435,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "QBunogycr1u81",
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 15.8,
-      "date_utc": "2026-09-24 14:43:51",
-      "latitude": 39.2333,
-      "longitude": 28.122,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "mraoliynWymDM",
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 14.7,
-      "date_utc": "2026-09-24 14:40:46",
-      "latitude": 39.2498,
-      "longitude": 28.087,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "8m2LkrwTd69yp",
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 14.3,
-      "date_utc": "2026-09-24 14:40:10",
-      "latitude": 39.244,
-      "longitude": 28.1047,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "pLoaKLld8UFVJ",
-      "title": "GULUMUSAGI-(MALATYA)",
-      "magnitude": 2.6,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-24 14:39:50",
-      "latitude": 38.2427,
-      "longitude": 38.5133,
-      "location_name": "Malatya"
     }
   ]
 }
