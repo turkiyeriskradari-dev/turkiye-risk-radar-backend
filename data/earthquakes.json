@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T23:32:58.539449+00:00",
+  "last_updated": "2026-09-25T23:47:23.888271+00:00",
   "record_count": 64,
   "data": [
+    {
+      "id": "JSPPf5Ledkjw0",
+      "title": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
+      "magnitude": 2,
+      "depth_km": 6.8,
+      "date_utc": "2026-09-26 02:25:49",
+      "latitude": 38.232,
+      "longitude": 26.2793,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "Oei7WyzRoQaN0",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -632,16 +642,6 @@
       "latitude": 37.171,
       "longitude": 36.9892,
       "location_name": "Gaziantep"
-    },
-    {
-      "id": "9tgB8e2d7md62",
-      "title": "TEPEKOY-SARAYKOY (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 4,
-      "date_utc": "2026-09-25 02:35:59",
-      "latitude": 38.0068,
-      "longitude": 28.9998,
-      "location_name": "Denizli"
     }
   ]
 }
