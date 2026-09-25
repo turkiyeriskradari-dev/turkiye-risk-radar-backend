@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T18:02:13.321304+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-25T18:24:27.545177+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "Kmfgyec7hU0by",
@@ -12,6 +12,36 @@
       "latitude": 39.3795,
       "longitude": 40.646,
       "location_name": "Bingöl"
+    },
+    {
+      "id": "orqSJrUT94W7a",
+      "title": "BAGLICAY-GURUN (SIVAS)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 20:19:08",
+      "latitude": 38.8117,
+      "longitude": 37.4662,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "3tjPrBQPgmYsQ",
+      "title": "MAHMUDIYE-KADINHANI (KONYA)",
+      "magnitude": 1.3,
+      "depth_km": 15.6,
+      "date_utc": "2026-09-25 19:17:05",
+      "latitude": 38.4745,
+      "longitude": 32.0958,
+      "location_name": "Konya"
+    },
+    {
+      "id": "M_RdcR8k4_6dn",
+      "title": "EGE DENIZI",
+      "magnitude": 1.1,
+      "depth_km": 20.7,
+      "date_utc": "2026-09-25 18:14:40",
+      "latitude": 39.7122,
+      "longitude": 25.9657,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "ZHiRJQStgQr7r",
