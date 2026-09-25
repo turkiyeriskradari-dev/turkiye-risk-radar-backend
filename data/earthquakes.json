@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T03:21:47.518218+00:00",
-  "record_count": 55,
+  "last_updated": "2026-09-25T03:36:25.019259+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "wtvY0F3lDCVfW",
@@ -42,6 +42,36 @@
       "latitude": 38.1515,
       "longitude": 38.1995,
       "location_name": "Malatya"
+    },
+    {
+      "id": "UdFTdDhyb5b8z",
+      "title": "OZCANLI-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 05:05:49",
+      "latitude": 38.1278,
+      "longitude": 37.2603,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "wNdUMRh8W3K8h",
+      "title": "BASPINAR-NURDAGI (GAZIANTEP)",
+      "magnitude": 1.6,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-25 04:46:00",
+      "latitude": 37.1923,
+      "longitude": 36.7352,
+      "location_name": "Gaziantep"
+    },
+    {
+      "id": "XCGRz7kQppKob",
+      "title": "HACIALI-ERBAA (TOKAT)",
+      "magnitude": 1.9,
+      "depth_km": 6,
+      "date_utc": "2026-09-25 04:24:33",
+      "latitude": 40.5583,
+      "longitude": 36.5605,
+      "location_name": "Tokat"
     },
     {
       "id": "gMpWkliS6Wmr7",
