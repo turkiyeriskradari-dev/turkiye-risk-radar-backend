@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T03:49:49.647058+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-25T04:02:03.818582+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "Xtk03tA9JO8Tp",
+      "title": "ESMEPINAR-CAYIRLI (ERZINCAN)",
+      "magnitude": 2.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-25 06:40:13",
+      "latitude": 39.8955,
+      "longitude": 39.912,
+      "location_name": "Erzincan"
+    },
     {
       "id": "wtvY0F3lDCVfW",
       "title": "ESENCE-AFSIN (KAHRAMANMARAS)",
