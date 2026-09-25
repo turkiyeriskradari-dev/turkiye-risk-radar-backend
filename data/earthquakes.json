@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-25T19:02:18.254684+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-25T19:20:51.841933+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "Kmfgyec7hU0by",
@@ -622,16 +622,6 @@
       "latitude": 36.6772,
       "longitude": 25.7783,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "lqHpGNeacn3wg",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 10.8,
-      "date_utc": "2026-09-24 22:17:39",
-      "latitude": 39.1582,
-      "longitude": 28.1877,
-      "location_name": "Balıkesir"
     }
   ]
 }
