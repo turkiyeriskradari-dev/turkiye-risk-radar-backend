@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T12:02:17.841257+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-26T12:26:15.277586+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "4OEGtFqWAvIc_",
@@ -582,16 +582,6 @@
       "latitude": 37.6022,
       "longitude": 37.3208,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "BPF6Dri9SnRxn",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 17.8,
-      "date_utc": "2026-09-25 15:19:32",
-      "latitude": 39.2338,
-      "longitude": 28.9697,
-      "location_name": "Kütahya"
     }
   ]
 }
