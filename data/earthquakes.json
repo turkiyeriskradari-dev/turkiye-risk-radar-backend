@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T13:01:50.730323+00:00",
+  "last_updated": "2026-09-26T13:21:07.421560+00:00",
   "record_count": 55,
   "data": [
+    {
+      "id": "kMSC_kGwcgcHV",
+      "title": "AMBARCIK-YAZIHAN (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 15.2,
+      "date_utc": "2026-09-26 15:22:54",
+      "latitude": 38.5907,
+      "longitude": 38.3488,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "6dMik_hrUXHVp",
+      "title": "HAYRANGOL-ELESKIRT (AGRI)",
+      "magnitude": 2.3,
+      "depth_km": 6.7,
+      "date_utc": "2026-09-26 14:27:32",
+      "latitude": 39.7665,
+      "longitude": 42.4558,
+      "location_name": "Ağrı"
+    },
     {
       "id": "4OEGtFqWAvIc_",
       "title": "YUKARIKOPUZ-ELESKIRT (AGRI)",
@@ -82,6 +102,16 @@
       "latitude": 36.3152,
       "longitude": 34.4493,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "QMWK4gorQNq8X",
+      "title": "KUCUKCAMILI-BALA (ANKARA)",
+      "magnitude": 1.3,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-26 12:16:10",
+      "latitude": 39.3257,
+      "longitude": 33.4148,
+      "location_name": "Kırıkkale"
     },
     {
       "id": "H9jV12Him8TI2",
@@ -522,36 +552,6 @@
       "latitude": 38.2727,
       "longitude": 28.328,
       "location_name": "İzmir"
-    },
-    {
-      "id": "0CeoFodQhffLx",
-      "title": "EGE DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-25 16:12:58",
-      "latitude": 36.6455,
-      "longitude": 25.6203,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "oNmQvOAavsNnp",
-      "title": "KARLISU-(HATAY)",
-      "magnitude": 2.1,
-      "depth_km": 2.1,
-      "date_utc": "2026-09-25 16:11:24",
-      "latitude": 36.2807,
-      "longitude": 36.0887,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "SRCwzBnTJz5jB",
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "magnitude": 2.4,
-      "depth_km": 2,
-      "date_utc": "2026-09-25 16:09:30",
-      "latitude": 38.2763,
-      "longitude": 37.727,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
