@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T02:22:18.775255+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-26T02:35:05.024100+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "jFrLr3NBGxlio",
@@ -672,16 +672,6 @@
       "latitude": 42.7857,
       "longitude": 39.2143,
       "location_name": "Karadeniz"
-    },
-    {
-      "id": "naQoq0CRwp7CB",
-      "title": "KARAKUZU-ALIAGA (IZMIR)",
-      "magnitude": 1.4,
-      "depth_km": 18.2,
-      "date_utc": "2026-09-25 05:24:18",
-      "latitude": 38.765,
-      "longitude": 27.1312,
-      "location_name": "İzmir"
     }
   ]
 }
