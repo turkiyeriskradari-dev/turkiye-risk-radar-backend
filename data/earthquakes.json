@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T03:01:49.647721+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-26T03:22:03.853915+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "Q9DLGBFrvYIMQ",
@@ -672,16 +672,6 @@
       "latitude": 39.8955,
       "longitude": 39.912,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "wtvY0F3lDCVfW",
-      "title": "ESENCE-AFSIN (KAHRAMANMARAS)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-25 06:01:34",
-      "latitude": 38.163,
-      "longitude": 36.8925,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
