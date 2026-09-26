@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T00:28:45.355475+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-26T00:43:42.729550+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "yGdPrwzi7U48V",
@@ -11,6 +11,16 @@
       "date_utc": "2026-09-26 02:43:21",
       "latitude": 38.3353,
       "longitude": 42.7985,
+      "location_name": "Van"
+    },
+    {
+      "id": "aHFqgmT4ByxTT",
+      "title": "BAHCESARAY (VAN)",
+      "magnitude": 1.4,
+      "depth_km": 8,
+      "date_utc": "2026-09-26 02:38:15",
+      "latitude": 38.1938,
+      "longitude": 42.8198,
       "location_name": "Van"
     },
     {
@@ -52,6 +62,16 @@
       "latitude": 39.9282,
       "longitude": 39.8963,
       "location_name": "Erzincan"
+    },
+    {
+      "id": "Ix7jcdcDOHT9Z",
+      "title": "TORELI-GEVAS (VAN)",
+      "magnitude": 1.7,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-26 01:29:31",
+      "latitude": 38.2702,
+      "longitude": 42.8095,
+      "location_name": "Van"
     },
     {
       "id": "efU5bTk5lOeZT",
