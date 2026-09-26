@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T01:20:56.717049+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-26T01:33:55.057461+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "m3O_WSZF0Hhle",
@@ -692,16 +692,6 @@
       "latitude": 37.1923,
       "longitude": 36.7352,
       "location_name": "Gaziantep"
-    },
-    {
-      "id": "XCGRz7kQppKob",
-      "title": "HACIALI-ERBAA (TOKAT)",
-      "magnitude": 1.9,
-      "depth_km": 6,
-      "date_utc": "2026-09-25 04:24:33",
-      "latitude": 40.5583,
-      "longitude": 36.5605,
-      "location_name": "Tokat"
     }
   ]
 }
