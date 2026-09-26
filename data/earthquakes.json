@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T02:48:55.155387+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-26T03:01:49.647721+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "Q9DLGBFrvYIMQ",
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "magnitude": 2.2,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-26 05:39:55",
+      "latitude": 39.2495,
+      "longitude": 28.9528,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "Y3WLLfxzECZIV",
+      "title": "UCPINAR-GONEN (BALIKESIR)",
+      "magnitude": 1.3,
+      "depth_km": 13.5,
+      "date_utc": "2026-09-26 05:26:54",
+      "latitude": 40.0297,
+      "longitude": 27.6582,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "FHZ2XqArQl_5I",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -662,16 +682,6 @@
       "latitude": 38.163,
       "longitude": 36.8925,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "kHoVYiDjt1ujB",
-      "title": "TURKMEN-(SANLIURFA)",
-      "magnitude": 1.2,
-      "depth_km": 16.3,
-      "date_utc": "2026-09-25 05:50:50",
-      "latitude": 37.4388,
-      "longitude": 38.9412,
-      "location_name": "Şanlıurfa"
     }
   ]
 }
