@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T07:47:39.624402+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-26T08:03:53.648764+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "BSz7eP2AHWTur",
@@ -652,26 +652,6 @@
       "latitude": 36.6678,
       "longitude": 25.6753,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "RrK24qziimImx",
-      "title": "BELENCE-CIVRIL (DENIZLI)",
-      "magnitude": 1.5,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-25 10:53:24",
-      "latitude": 38.4007,
-      "longitude": 29.8237,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "DKIbZuVBa6boz",
-      "title": "OREN-TAVSANLI (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 0,
-      "date_utc": "2026-09-25 10:49:53",
-      "latitude": 39.5318,
-      "longitude": 29.7185,
-      "location_name": "Kütahya"
     }
   ]
 }
