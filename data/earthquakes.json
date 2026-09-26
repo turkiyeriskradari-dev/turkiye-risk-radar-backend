@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T20:21:28.753865+00:00",
+  "last_updated": "2026-09-26T20:34:31.143019+00:00",
   "record_count": 56,
   "data": [
+    {
+      "id": "Yqzkry8Fq5koa",
+      "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.1,
+      "depth_km": 14,
+      "date_utc": "2026-09-26 23:16:02",
+      "latitude": 38.0868,
+      "longitude": 38.3328,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "jhACOyt6DwWcd",
       "title": "IBECIK-GOLHISAR (BURDUR)",
@@ -552,16 +562,6 @@
       "latitude": 39.0363,
       "longitude": 26.8457,
       "location_name": "İzmir"
-    },
-    {
-      "id": "ltw5yTJaW6mKI",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 2,
-      "depth_km": 3.1,
-      "date_utc": "2026-09-25 23:21:49",
-      "latitude": 40.2118,
-      "longitude": 31.7087,
-      "location_name": "Ankara"
     }
   ]
 }
