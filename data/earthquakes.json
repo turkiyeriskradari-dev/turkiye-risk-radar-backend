@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T23:02:21.526263+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-26T23:20:45.820036+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "y6hrWIOnakzos",
@@ -552,26 +552,6 @@
       "latitude": 38.232,
       "longitude": 26.2793,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Oei7WyzRoQaN0",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 4.4,
-      "date_utc": "2026-09-26 02:18:45",
-      "latitude": 37.8193,
-      "longitude": 27.1012,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "oMZOrNRtgHltR",
-      "title": "GOZPINAR-EKINOZU (KAHRAMANMARAS)",
-      "magnitude": 1,
-      "depth_km": 17.3,
-      "date_utc": "2026-09-26 02:15:40",
-      "latitude": 38.0408,
-      "longitude": 37.2358,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
