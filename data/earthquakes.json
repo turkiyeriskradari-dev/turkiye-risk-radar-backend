@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T02:02:03.174013+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-26T02:22:18.775255+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "jFrLr3NBGxlio",
+      "title": "CANTIRLI-BEYPAZARI (ANKARA)",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-26 05:06:25",
+      "latitude": 40.1508,
+      "longitude": 31.7637,
+      "location_name": "Ankara"
+    },
     {
       "id": "JBQaFBRCiOaj5",
       "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
@@ -672,36 +682,6 @@
       "latitude": 38.765,
       "longitude": 27.1312,
       "location_name": "İzmir"
-    },
-    {
-      "id": "Gn0DqQQuo7NsA",
-      "title": "CAMPINAR-CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.1,
-      "depth_km": 16.4,
-      "date_utc": "2026-09-25 05:08:41",
-      "latitude": 38.1515,
-      "longitude": 38.1995,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "UdFTdDhyb5b8z",
-      "title": "OZCANLI-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-25 05:05:49",
-      "latitude": 38.1278,
-      "longitude": 37.2603,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "J372wzM6vFe73",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 1.6,
-      "depth_km": 4.9,
-      "date_utc": "2026-09-25 05:05:42",
-      "latitude": 40.2035,
-      "longitude": 31.7327,
-      "location_name": "Ankara"
     }
   ]
 }
