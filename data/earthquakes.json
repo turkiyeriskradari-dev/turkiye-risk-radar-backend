@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T09:21:57.546028+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-26T09:34:14.861502+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "uZbR3o6ZM6v8G",
@@ -582,56 +582,6 @@
       "latitude": 39.1245,
       "longitude": 41.9388,
       "location_name": "Muş"
-    },
-    {
-      "id": "NMUYX6XmIoK4u",
-      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-25 12:33:06",
-      "latitude": 40.1648,
-      "longitude": 32.906,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "ZtALZfivJHgSi",
-      "title": "PALAMUT-SARKOY (TEKIRDAG)",
-      "magnitude": 1.4,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-25 12:28:34",
-      "latitude": 40.7547,
-      "longitude": 27.174,
-      "location_name": "Tekirdağ"
-    },
-    {
-      "id": "r9NGeeltFFIjM",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 1.3,
-      "depth_km": 0,
-      "date_utc": "2026-09-25 12:26:34",
-      "latitude": 36.1933,
-      "longitude": 33.7812,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "HOeCh3BqHzvqV",
-      "title": "BALCILAR-KOYCEGIZ (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 22.3,
-      "date_utc": "2026-09-25 12:26:21",
-      "latitude": 37.054,
-      "longitude": 28.6257,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "nIz_5XSx39doM",
-      "title": "OKSUZUSAGI-(ELAZIG)",
-      "magnitude": 2.3,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-25 12:25:51",
-      "latitude": 38.4753,
-      "longitude": 39.0438,
-      "location_name": "Elazığ"
     }
   ]
 }
