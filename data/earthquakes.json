@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T19:46:44.747405+00:00",
+  "last_updated": "2026-09-26T20:02:00.073955+00:00",
   "record_count": 56,
   "data": [
+    {
+      "id": "1K28ufpZKzal6",
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "magnitude": 1.4,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-26 22:30:00",
+      "latitude": 40.4408,
+      "longitude": 26.0802,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "IFkV49yhy2dy5",
       "title": "KERIMLI-DARENDE (MALATYA)",
@@ -552,16 +562,6 @@
       "latitude": 40.0255,
       "longitude": 28.7673,
       "location_name": "Bursa"
-    },
-    {
-      "id": "y63fDg4L6iDes",
-      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.2,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-25 22:52:04",
-      "latitude": 37.7815,
-      "longitude": 36.2193,
-      "location_name": "Adana"
     }
   ]
 }
