@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T10:47:38.958056+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-26T11:02:08.030225+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "4OEGtFqWAvIc_",
+      "title": "YUKARIKOPUZ-ELESKIRT (AGRI)",
+      "magnitude": 1.8,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-26 13:37:48",
+      "latitude": 39.9062,
+      "longitude": 42.6427,
+      "location_name": "Ağrı"
+    },
     {
       "id": "Dbs2h8G41xaEk",
       "title": "AKDENIZ",
