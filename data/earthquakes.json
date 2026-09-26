@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T11:21:11.453353+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-26T11:34:38.263763+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "4OEGtFqWAvIc_",
@@ -42,6 +42,26 @@
       "latitude": 41.5347,
       "longitude": 41.6718,
       "location_name": "Gürcistan"
+    },
+    {
+      "id": "3h9HSp5pf7dvP",
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 10.3,
+      "date_utc": "2026-09-26 13:01:32",
+      "latitude": 39.2228,
+      "longitude": 28.1482,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "dCHqUnVSt71kk",
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "magnitude": 2.4,
+      "depth_km": 11,
+      "date_utc": "2026-09-26 12:57:07",
+      "latitude": 40.1823,
+      "longitude": 31.7632,
+      "location_name": "Ankara"
     },
     {
       "id": "Dbs2h8G41xaEk",
