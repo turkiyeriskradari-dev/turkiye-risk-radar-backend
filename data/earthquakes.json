@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T13:33:38.958127+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-26T13:47:08.945599+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "isjyFbfMjXmam",
+      "title": "CALTI-GELENDOST (ISPARTA)",
+      "magnitude": 1.6,
+      "depth_km": 14.7,
+      "date_utc": "2026-09-26 16:34:52",
+      "latitude": 38.217,
+      "longitude": 30.999,
+      "location_name": "Isparta"
+    },
     {
       "id": "kMSC_kGwcgcHV",
       "title": "AMBARCIK-YAZIHAN (MALATYA)",
@@ -162,6 +172,16 @@
       "latitude": 37.7603,
       "longitude": 27.1778,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "IcvQYEgrIat5A",
+      "title": "ULUKOY-NALLIHAN (ANKARA)",
+      "magnitude": 2.3,
+      "depth_km": 5,
+      "date_utc": "2026-09-26 11:00:52",
+      "latitude": 40.1383,
+      "longitude": 31.7025,
+      "location_name": "Ankara"
     },
     {
       "id": "oALvpQf50rYRJ",
@@ -552,16 +572,6 @@
       "latitude": 39.7122,
       "longitude": 25.9657,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "ZHiRJQStgQr7r",
-      "title": "SARISU-KIRAZ (IZMIR)",
-      "magnitude": 2.5,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-25 16:39:28",
-      "latitude": 38.2727,
-      "longitude": 28.328,
-      "location_name": "İzmir"
     }
   ]
 }
