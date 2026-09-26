@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T21:02:00.651801+00:00",
+  "last_updated": "2026-09-26T21:21:52.220215+00:00",
   "record_count": 56,
   "data": [
+    {
+      "id": "pqGoB6bFjSelh",
+      "title": "GARIPCE-SINANPASA (AFYONKARAHISAR)",
+      "magnitude": 1.9,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-27 00:01:28",
+      "latitude": 38.7752,
+      "longitude": 30.3552,
+      "location_name": "Afyon"
+    },
     {
       "id": "Yqzkry8Fq5koa",
       "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
@@ -552,16 +562,6 @@
       "latitude": 38.2702,
       "longitude": 42.8095,
       "location_name": "Van"
-    },
-    {
-      "id": "efU5bTk5lOeZT",
-      "title": "YAHSIBEY-DIKILI (IZMIR)",
-      "magnitude": 1.5,
-      "depth_km": 9,
-      "date_utc": "2026-09-26 00:14:53",
-      "latitude": 39.0363,
-      "longitude": 26.8457,
-      "location_name": "İzmir"
     }
   ]
 }
