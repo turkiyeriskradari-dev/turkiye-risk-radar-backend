@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T17:01:56.317927+00:00",
-  "record_count": 60,
+  "last_updated": "2026-09-26T17:20:40.939833+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "xx9wMyPfFKqi8",
@@ -582,26 +582,6 @@
       "latitude": 39.3795,
       "longitude": 40.646,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "orqSJrUT94W7a",
-      "title": "BAGLICAY-GURUN (SIVAS)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-09-25 20:19:08",
-      "latitude": 38.8117,
-      "longitude": 37.4662,
-      "location_name": "Sivas"
-    },
-    {
-      "id": "hMwv_WxqS3QIO",
-      "title": "BUCAKKISLA-AKSEKI (ANTALYA)",
-      "magnitude": 1.7,
-      "depth_km": 17.9,
-      "date_utc": "2026-09-25 20:04:07",
-      "latitude": 37.0778,
-      "longitude": 31.759,
-      "location_name": "Antalya"
     }
   ]
 }
