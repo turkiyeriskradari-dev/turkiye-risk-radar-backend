@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T03:48:43.561832+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-26T04:02:06.123422+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "EIAFk6eYtwlBB",
+      "title": "OMCALI-VARTO (MUS)",
+      "magnitude": 1.8,
+      "depth_km": 7,
+      "date_utc": "2026-09-26 06:42:41",
+      "latitude": 39.1065,
+      "longitude": 41.6582,
+      "location_name": "Muş"
+    },
     {
       "id": "OcaQk98xbPTqJ",
       "title": "SINDIRGI (BALIKESIR)",
