@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T17:20:40.939833+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-26T17:34:44.424669+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "RkxF61zrHkYm9",
+      "title": "ZEYTINELI-URLA (IZMIR)",
+      "magnitude": 2.2,
+      "depth_km": 5.8,
+      "date_utc": "2026-09-26 20:05:02",
+      "latitude": 38.2257,
+      "longitude": 26.5348,
+      "location_name": "İzmir"
+    },
     {
       "id": "xx9wMyPfFKqi8",
       "title": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
