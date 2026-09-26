@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T16:22:50.013846+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-26T16:35:38.846432+00:00",
+  "record_count": 60,
   "data": [
+    {
+      "id": "xx9wMyPfFKqi8",
+      "title": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
+      "magnitude": 1.9,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-26 19:25:28",
+      "latitude": 38.14,
+      "longitude": 37.0007,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "kiihKPaf4gpUI",
+      "title": "KOSELER-SIMAV (KUTAHYA)",
+      "magnitude": 1.3,
+      "depth_km": 16.9,
+      "date_utc": "2026-09-26 19:21:12",
+      "latitude": 39.517,
+      "longitude": 28.9293,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "nTwJtDF02uWQw",
       "title": "YAKINCA-YESILYURT (MALATYA)",
@@ -582,16 +602,6 @@
       "latitude": 37.0778,
       "longitude": 31.759,
       "location_name": "Antalya"
-    },
-    {
-      "id": "myaE7akQMPLs3",
-      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 8.6,
-      "date_utc": "2026-09-25 19:22:43",
-      "latitude": 39.2005,
-      "longitude": 28.198,
-      "location_name": "Balıkesir"
     }
   ]
 }
