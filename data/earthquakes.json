@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T01:01:46.649139+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-26T01:20:56.717049+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "m3O_WSZF0Hhle",
+      "title": "GIRLEVIK-(ERZINCAN)",
+      "magnitude": 0.7,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-26 03:39:36",
+      "latitude": 39.5837,
+      "longitude": 39.7425,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "r2OlTe5JT_2_X",
+      "title": "BAYIR-MARMARIS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 21.7,
+      "date_utc": "2026-09-26 03:28:22",
+      "latitude": 36.7252,
+      "longitude": 28.1783,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "kcxblk38QBsHJ",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-26 03:22:34",
+      "latitude": 38.8317,
+      "longitude": 26.8292,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "yGdPrwzi7U48V",
       "title": "KUSLUK-GEVAS (VAN)",
@@ -672,16 +702,6 @@
       "latitude": 40.5583,
       "longitude": 36.5605,
       "location_name": "Tokat"
-    },
-    {
-      "id": "gMpWkliS6Wmr7",
-      "title": "KAPIKAYA-KOZAN (ADANA)",
-      "magnitude": 2.7,
-      "depth_km": 4.1,
-      "date_utc": "2026-09-25 04:05:43",
-      "latitude": 37.722,
-      "longitude": 35.6105,
-      "location_name": "Adana"
     }
   ]
 }
