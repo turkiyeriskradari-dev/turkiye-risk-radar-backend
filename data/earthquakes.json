@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T09:47:42.452363+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-26T10:02:06.956221+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "Dbs2h8G41xaEk",
+      "title": "AKDENIZ",
+      "magnitude": 1.3,
+      "depth_km": 28.1,
+      "date_utc": "2026-09-26 12:37:43",
+      "latitude": 36.3152,
+      "longitude": 34.4493,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "H9jV12Him8TI2",
       "title": "AKKOCALI-AKHISAR (MANISA)",
@@ -552,26 +562,6 @@
       "latitude": 39.1897,
       "longitude": 28.2422,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "hw7V9leQtVo4c",
-      "title": "AKDENIZ",
-      "magnitude": 2.2,
-      "depth_km": 11.2,
-      "date_utc": "2026-09-25 12:48:57",
-      "latitude": 35.7472,
-      "longitude": 28.5912,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "x4HxgyRR0W_iz",
-      "title": "PINARBASI-EZINE (CANAKKALE)",
-      "magnitude": 1.2,
-      "depth_km": 5,
-      "date_utc": "2026-09-25 12:48:36",
-      "latitude": 39.8828,
-      "longitude": 26.264,
-      "location_name": "Çanakkale"
     }
   ]
 }
