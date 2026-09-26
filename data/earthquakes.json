@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-26T07:21:35.655533+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-26T07:34:04.929706+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "BSz7eP2AHWTur",
@@ -682,16 +682,6 @@
       "latitude": 40.5187,
       "longitude": 29.2658,
       "location_name": "Bursa"
-    },
-    {
-      "id": "W904zdxna9iZb",
-      "title": "GURPINAR-CIVRIL (DENIZLI)",
-      "magnitude": 1.5,
-      "depth_km": 24.8,
-      "date_utc": "2026-09-25 10:24:00",
-      "latitude": 38.3908,
-      "longitude": 29.6912,
-      "location_name": "Denizli"
     }
   ]
 }
