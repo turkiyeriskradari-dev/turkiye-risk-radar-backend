@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T07:03:02.634996+00:00",
+  "last_updated": "2026-09-27T07:22:14.645692+00:00",
   "record_count": 52,
   "data": [
+    {
+      "id": "ytvg6IqIZokXK",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 2,
+      "date_utc": "2026-09-27 09:58:08",
+      "latitude": 37.9068,
+      "longitude": 27.0155,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "5CkcOWeBzzSFg",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -512,16 +522,6 @@
       "latitude": 39.1023,
       "longitude": 28.001,
       "location_name": "Manisa"
-    },
-    {
-      "id": "BSz7eP2AHWTur",
-      "title": "HACILAR-KARLIOVA (BINGOL)",
-      "magnitude": 2.1,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-26 10:09:08",
-      "latitude": 39.1027,
-      "longitude": 40.7852,
-      "location_name": "Bingöl"
     }
   ]
 }
