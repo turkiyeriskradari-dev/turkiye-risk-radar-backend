@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T22:01:55.159747+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-27T22:22:18.544299+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "cI8icTXl9WizR",
+      "title": "VAN GOLU",
+      "magnitude": 1.8,
+      "depth_km": 2.3,
+      "date_utc": "2026-09-28 01:03:08",
+      "latitude": 38.5422,
+      "longitude": 43.0242,
+      "location_name": "Van"
+    },
     {
       "id": "tL1uSF2ycDlOl",
       "title": "SOGUTLU-ELBISTAN (KAHRAMANMARAS)",
@@ -452,26 +462,6 @@
       "latitude": 37.9345,
       "longitude": 27.6608,
       "location_name": "Aydın"
-    },
-    {
-      "id": "nrBqZiUVIPuq7",
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 13.8,
-      "date_utc": "2026-09-27 01:14:50",
-      "latitude": 38.2437,
-      "longitude": 37.7613,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "sJUBa1QCrR4TJ",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 10.3,
-      "date_utc": "2026-09-27 01:09:06",
-      "latitude": 39.2213,
-      "longitude": 29.0395,
-      "location_name": "Kütahya"
     }
   ]
 }
