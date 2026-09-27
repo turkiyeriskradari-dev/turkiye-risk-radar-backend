@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T10:01:58.621241+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-27T10:21:53.144274+00:00",
+  "record_count": 42,
   "data": [
     {
       "id": "tEfkPTZKUy3_g",
@@ -422,26 +422,6 @@
       "latitude": 40.0248,
       "longitude": 27.3525,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "r7SdNIUsarFXK",
-      "title": "KARAKOY-NALLIHAN (ANKARA)",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-09-26 13:16:10",
-      "latitude": 40.2073,
-      "longitude": 31.6137,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "_FXuzOZ9fs7UJ",
-      "title": "TURKIYE-GURCISTAN SINIR BOLGESI",
-      "magnitude": 1.8,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-26 13:15:44",
-      "latitude": 41.5347,
-      "longitude": 41.6718,
-      "location_name": "Gürcistan"
     }
   ]
 }
