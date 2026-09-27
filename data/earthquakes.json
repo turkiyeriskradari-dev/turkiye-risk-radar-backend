@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T08:35:53.123203+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-27T08:49:16.922012+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "ytvg6IqIZokXK",
@@ -452,36 +452,6 @@
       "latitude": 39.3257,
       "longitude": 33.4148,
       "location_name": "Kırıkkale"
-    },
-    {
-      "id": "H9jV12Him8TI2",
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "magnitude": 1.7,
-      "depth_km": 9.6,
-      "date_utc": "2026-09-26 11:48:36",
-      "latitude": 39.1668,
-      "longitude": 27.9518,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "uZbR3o6ZM6v8G",
-      "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 14.4,
-      "date_utc": "2026-09-26 11:39:40",
-      "latitude": 39.707,
-      "longitude": 26.0825,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "EYLItdEs7WLhX",
-      "title": "KARBASAN-HISARCIK (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 12,
-      "date_utc": "2026-09-26 11:38:09",
-      "latitude": 39.2137,
-      "longitude": 29.4035,
-      "location_name": "Kütahya"
     }
   ]
 }
