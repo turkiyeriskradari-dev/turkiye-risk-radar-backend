@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T14:01:55.252370+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T14:21:31.245984+00:00",
+  "record_count": 44,
   "data": [
     {
       "id": "ElMuOO0IoixI2",
@@ -442,16 +442,6 @@
       "latitude": 39.9145,
       "longitude": 42.6287,
       "location_name": "Ağrı"
-    },
-    {
-      "id": "k28xw1m2x9eLA",
-      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.1,
-      "depth_km": 9.2,
-      "date_utc": "2026-09-26 17:05:05",
-      "latitude": 39.2523,
-      "longitude": 28.2133,
-      "location_name": "Balıkesir"
     }
   ]
 }
