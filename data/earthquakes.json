@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T00:02:41.923518+00:00",
+  "last_updated": "2026-09-27T00:30:45.870889+00:00",
   "record_count": 51,
   "data": [
+    {
+      "id": "5lA67FqEo43tk",
+      "title": "BAGLICAY-GURUN (SIVAS)",
+      "magnitude": 2.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-27 03:00:13",
+      "latitude": 38.8403,
+      "longitude": 37.4778,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "sJUBa1QCrR4TJ",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1.4,
+      "depth_km": 10.3,
+      "date_utc": "2026-09-27 01:09:06",
+      "latitude": 39.2213,
+      "longitude": 29.0395,
+      "location_name": "Kütahya"
+    },
     {
       "id": "y6hrWIOnakzos",
       "title": "KARATEPE-KADIRLI (OSMANIYE)",
@@ -492,26 +512,6 @@
       "latitude": 39.5837,
       "longitude": 39.7425,
       "location_name": "Erzincan"
-    },
-    {
-      "id": "r2OlTe5JT_2_X",
-      "title": "BAYIR-MARMARIS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 21.7,
-      "date_utc": "2026-09-26 03:28:22",
-      "latitude": 36.7252,
-      "longitude": 28.1783,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "kcxblk38QBsHJ",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 7.7,
-      "date_utc": "2026-09-26 03:22:34",
-      "latitude": 38.8317,
-      "longitude": 26.8292,
-      "location_name": "Ege Denizi"
     }
   ]
 }
