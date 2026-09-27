@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T20:48:14.345343+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-27T21:02:18.136243+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "brgxWgohX6FlP",
@@ -452,26 +452,6 @@
       "latitude": 37.0978,
       "longitude": 28.013,
       "location_name": "Muğla"
-    },
-    {
-      "id": "pqGoB6bFjSelh",
-      "title": "GARIPCE-SINANPASA (AFYONKARAHISAR)",
-      "magnitude": 1.9,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-27 00:01:28",
-      "latitude": 38.7752,
-      "longitude": 30.3552,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "1gYwTn8lfrQXl",
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 10.3,
-      "date_utc": "2026-09-26 23:55:35",
-      "latitude": 40.417,
-      "longitude": 26.0797,
-      "location_name": "Ege Denizi"
     }
   ]
 }
