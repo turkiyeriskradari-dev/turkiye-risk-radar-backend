@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T09:35:15.146731+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T09:48:35.521436+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "tEfkPTZKUy3_g",
+      "title": "EGE DENIZI",
+      "magnitude": 2.1,
+      "depth_km": 5,
+      "date_utc": "2026-09-27 12:23:30",
+      "latitude": 35.9023,
+      "longitude": 27.15,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "j_4Q7DNoRAGgb",
+      "title": "KIZILAGIL-(BOLU)",
+      "magnitude": 2.4,
+      "depth_km": 8.3,
+      "date_utc": "2026-09-27 12:18:27",
+      "latitude": 40.8052,
+      "longitude": 31.5178,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "b9Wf5blTSYEB_",
+      "title": "ASAGICATMA-SERIK (ANTALYA)",
+      "magnitude": 2,
+      "depth_km": 84.4,
+      "date_utc": "2026-09-27 12:12:49",
+      "latitude": 36.9027,
+      "longitude": 31.0367,
+      "location_name": "Antalya"
+    },
     {
       "id": "tLHhp5emecHTU",
       "title": "SOGUKYURT-ALASEHIR (MANISA)",
@@ -432,26 +462,6 @@
       "latitude": 40.1823,
       "longitude": 31.7632,
       "location_name": "Ankara"
-    },
-    {
-      "id": "PgDKWq_lftbfT",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 2.5,
-      "depth_km": 18.5,
-      "date_utc": "2026-09-26 12:44:34",
-      "latitude": 40.1798,
-      "longitude": 31.7015,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "Dbs2h8G41xaEk",
-      "title": "AKDENIZ",
-      "magnitude": 1.3,
-      "depth_km": 28.1,
-      "date_utc": "2026-09-26 12:37:43",
-      "latitude": 36.3152,
-      "longitude": 34.4493,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
