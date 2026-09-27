@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T11:21:46.021829+00:00",
-  "record_count": 41,
+  "last_updated": "2026-09-27T11:35:05.124983+00:00",
+  "record_count": 42,
   "data": [
+    {
+      "id": "PVcnCE6VSOly5",
+      "title": "ARITOPRAK-PUTURGE (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 12.3,
+      "date_utc": "2026-09-27 13:35:26",
+      "latitude": 38.1862,
+      "longitude": 38.6435,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "ON4eap5VRQSB1",
+      "title": "KANTARMA-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 15.3,
+      "date_utc": "2026-09-27 13:12:13",
+      "latitude": 38.17,
+      "longitude": 37.533,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ju80T8rvjQnCQ",
       "title": "SOGUKYURT-ALASEHIR (MANISA)",
@@ -402,16 +422,6 @@
       "latitude": 38.5907,
       "longitude": 38.3488,
       "location_name": "Malatya"
-    },
-    {
-      "id": "6dMik_hrUXHVp",
-      "title": "HAYRANGOL-ELESKIRT (AGRI)",
-      "magnitude": 2.3,
-      "depth_km": 6.7,
-      "date_utc": "2026-09-26 14:27:32",
-      "latitude": 39.7665,
-      "longitude": 42.4558,
-      "location_name": "Ağrı"
     }
   ]
 }
