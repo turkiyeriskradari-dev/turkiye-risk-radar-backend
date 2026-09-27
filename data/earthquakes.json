@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T20:02:15.347535+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-27T20:21:59.120347+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "oaOl1LxXNfowk",
@@ -452,16 +452,6 @@
       "latitude": 40.417,
       "longitude": 26.0797,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Yqzkry8Fq5koa",
-      "title": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.1,
-      "depth_km": 14,
-      "date_utc": "2026-09-26 23:16:02",
-      "latitude": 38.0868,
-      "longitude": 38.3328,
-      "location_name": "Adıyaman"
     }
   ]
 }
