@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T18:37:57.647042+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-27T18:50:46.519032+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "xghkbrt6SUAuu",
+      "title": "TOPALLI-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 19.9,
+      "date_utc": "2026-09-27 21:25:33",
+      "latitude": 38.2813,
+      "longitude": 37.6387,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "WE5FzgLn74FdS",
       "title": "SEYITUSAGI-YESILYURT (MALATYA)",
