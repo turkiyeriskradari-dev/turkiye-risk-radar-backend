@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T16:23:11.135011+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-27T16:35:56.922085+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "CNBwCnqU7Y1Z6",
@@ -452,16 +452,6 @@
       "latitude": 38.2257,
       "longitude": 26.5348,
       "location_name": "İzmir"
-    },
-    {
-      "id": "xx9wMyPfFKqi8",
-      "title": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
-      "magnitude": 1.9,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-26 19:25:28",
-      "latitude": 38.14,
-      "longitude": 37.0007,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
