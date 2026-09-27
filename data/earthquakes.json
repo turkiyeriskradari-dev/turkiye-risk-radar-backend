@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T17:01:49.221397+00:00",
+  "last_updated": "2026-09-27T17:21:08.317395+00:00",
   "record_count": 46,
   "data": [
+    {
+      "id": "k65UEzM0D6fwx",
+      "title": "HAKVERDI-ARGUVAN (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-09-27 19:56:59",
+      "latitude": 38.8237,
+      "longitude": 38.1392,
+      "location_name": "Malatya"
+    },
     {
       "id": "STKj5NvwiBJq9",
       "title": "BASKAVAK-HEKIMHAN (MALATYA)",
@@ -452,16 +462,6 @@
       "latitude": 37.1833,
       "longitude": 28.0387,
       "location_name": "Muğla"
-    },
-    {
-      "id": "RkxF61zrHkYm9",
-      "title": "ZEYTINELI-URLA (IZMIR)",
-      "magnitude": 2.2,
-      "depth_km": 5.8,
-      "date_utc": "2026-09-26 20:05:02",
-      "latitude": 38.2257,
-      "longitude": 26.5348,
-      "location_name": "İzmir"
     }
   ]
 }
