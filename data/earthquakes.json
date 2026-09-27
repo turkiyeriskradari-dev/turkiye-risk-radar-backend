@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T03:36:37.727155+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T03:49:51.236811+00:00",
+  "record_count": 44,
   "data": [
     {
       "id": "5lA67FqEo43tk",
@@ -442,16 +442,6 @@
       "latitude": 39.9115,
       "longitude": 42.6213,
       "location_name": "Ağrı"
-    },
-    {
-      "id": "EIAFk6eYtwlBB",
-      "title": "OMCALI-VARTO (MUS)",
-      "magnitude": 1.8,
-      "depth_km": 7,
-      "date_utc": "2026-09-26 06:42:41",
-      "latitude": 39.1065,
-      "longitude": 41.6582,
-      "location_name": "Muş"
     }
   ]
 }
