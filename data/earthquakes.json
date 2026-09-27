@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T20:21:59.120347+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T20:34:42.343634+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "brgxWgohX6FlP",
+      "title": "AKDENIZ",
+      "magnitude": 2.8,
+      "depth_km": 49.1,
+      "date_utc": "2026-09-27 23:11:22",
+      "latitude": 35.5797,
+      "longitude": 29.651,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "oaOl1LxXNfowk",
       "title": "HAMZALAR-TEKMAN (ERZURUM)",
@@ -32,6 +42,16 @@
       "latitude": 38.2573,
       "longitude": 38.2035,
       "location_name": "Malatya"
+    },
+    {
+      "id": "6g9xwfVMNhuo0",
+      "title": "CATALAGZI-AHLAT (BITLIS)",
+      "magnitude": 1.6,
+      "depth_km": 8.8,
+      "date_utc": "2026-09-27 20:31:58",
+      "latitude": 38.7812,
+      "longitude": 42.4138,
+      "location_name": "Bitlis"
     },
     {
       "id": "k65UEzM0D6fwx",
