@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T03:49:51.236811+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-27T04:02:02.154572+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "QOUbQ9rUWjlKb",
+      "title": "DOGU AKDENIZ",
+      "magnitude": 1.6,
+      "depth_km": 11.1,
+      "date_utc": "2026-09-27 03:47:55",
+      "latitude": 35.934,
+      "longitude": 35.0505,
+      "location_name": "Kıbrıs Açıkları"
+    },
     {
       "id": "5lA67FqEo43tk",
       "title": "BAGLICAY-GURUN (SIVAS)",
