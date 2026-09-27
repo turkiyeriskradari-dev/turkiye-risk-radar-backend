@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T16:49:09.548248+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T17:01:49.221397+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "STKj5NvwiBJq9",
+      "title": "BASKAVAK-HEKIMHAN (MALATYA)",
+      "magnitude": 2.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-27 19:42:30",
+      "latitude": 38.8393,
+      "longitude": 38.085,
+      "location_name": "Malatya"
+    },
     {
       "id": "CNBwCnqU7Y1Z6",
       "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
