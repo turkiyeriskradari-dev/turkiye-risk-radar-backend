@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T23:34:17.422633+00:00",
-  "record_count": 54,
+  "last_updated": "2026-09-27T23:47:35.217325+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "m4a_CtxUVG5fk",
+      "title": "YUVAKLI-TEKMAN (ERZURUM)",
+      "magnitude": 1.2,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-28 02:29:22",
+      "latitude": 39.449,
+      "longitude": 41.177,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "KMWL_7LFDIZYp",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 11.6,
+      "date_utc": "2026-09-28 02:20:29",
+      "latitude": 39.2298,
+      "longitude": 28.1282,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "zjj1UA6hCfE11",
       "title": "CICEKLIKELLER-SUNGURLU (CORUM)",
@@ -21,6 +41,16 @@
       "date_utc": "2026-09-28 02:18:15",
       "latitude": 39.1922,
       "longitude": 28.1172,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "FEthMeZSkK54y",
+      "title": "CAYGOREN-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 14.3,
+      "date_utc": "2026-09-28 02:16:40",
+      "latitude": 39.2478,
+      "longitude": 28.195,
       "location_name": "Balıkesir"
     },
     {
