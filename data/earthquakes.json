@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T22:22:18.544299+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-27T22:35:43.336101+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "lw75i5Cv1UEUE",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 2.9,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-28 01:18:11",
+      "latitude": 38.9442,
+      "longitude": 26.6913,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "cI8icTXl9WizR",
       "title": "VAN GOLU",
