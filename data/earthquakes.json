@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T12:52:58.114688+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T13:02:03.822176+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "ElMuOO0IoixI2",
+      "title": "ESKIPOLAT-AZIZIYE (ERZURUM)",
+      "magnitude": 2.1,
+      "depth_km": 10.4,
+      "date_utc": "2026-09-27 15:29:26",
+      "latitude": 40.0883,
+      "longitude": 40.925,
+      "location_name": "Erzurum"
+    },
     {
       "id": "nc6xsx82C3ydg",
       "title": "OSMANLAR-SINDIRGI (BALIKESIR)",
