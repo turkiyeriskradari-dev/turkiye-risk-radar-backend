@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T11:01:58.044201+00:00",
-  "record_count": 40,
+  "last_updated": "2026-09-27T11:21:46.021829+00:00",
+  "record_count": 41,
   "data": [
+    {
+      "id": "ju80T8rvjQnCQ",
+      "title": "SOGUKYURT-ALASEHIR (MANISA)",
+      "magnitude": 1.6,
+      "depth_km": 13.3,
+      "date_utc": "2026-09-27 12:43:46",
+      "latitude": 38.3575,
+      "longitude": 28.396,
+      "location_name": "Manisa"
+    },
     {
       "id": "tEfkPTZKUy3_g",
       "title": "EGE DENIZI",
