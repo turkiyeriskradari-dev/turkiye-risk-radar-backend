@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T02:36:03.525179+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-27T02:49:44.622021+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "5lA67FqEo43tk",
@@ -462,16 +462,6 @@
       "latitude": 39.25,
       "longitude": 28.1688,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "Q9DLGBFrvYIMQ",
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "magnitude": 2.2,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-26 05:39:55",
-      "latitude": 39.2495,
-      "longitude": 28.9528,
-      "location_name": "Kütahya"
     }
   ]
 }
