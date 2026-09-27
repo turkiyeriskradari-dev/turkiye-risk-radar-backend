@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T07:34:54.448053+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-27T07:48:40.473028+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "ytvg6IqIZokXK",
@@ -512,16 +512,6 @@
       "latitude": 40.1383,
       "longitude": 31.7025,
       "location_name": "Ankara"
-    },
-    {
-      "id": "oALvpQf50rYRJ",
-      "title": "SARILAR-AKHISAR (MANISA)",
-      "magnitude": 1.3,
-      "depth_km": 23.9,
-      "date_utc": "2026-09-26 10:39:14",
-      "latitude": 39.1023,
-      "longitude": 28.001,
-      "location_name": "Manisa"
     }
   ]
 }
