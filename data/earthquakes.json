@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T10:21:53.144274+00:00",
-  "record_count": 42,
+  "last_updated": "2026-09-27T10:34:45.746332+00:00",
+  "record_count": 41,
   "data": [
     {
       "id": "tEfkPTZKUy3_g",
@@ -412,16 +412,6 @@
       "latitude": 39.9062,
       "longitude": 42.6427,
       "location_name": "Ağrı"
-    },
-    {
-      "id": "sPeWNmclbVbkR",
-      "title": "SOGUCAK-YENICE (CANAKKALE)",
-      "magnitude": 1.4,
-      "depth_km": 13,
-      "date_utc": "2026-09-26 13:29:09",
-      "latitude": 40.0248,
-      "longitude": 27.3525,
-      "location_name": "Çanakkale"
     }
   ]
 }
