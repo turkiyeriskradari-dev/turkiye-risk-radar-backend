@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T15:48:06.120205+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-27T16:02:14.042534+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "ifB1z65H7UnRP",
+      "title": "ORNEKKOY-ULA (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 11,
+      "date_utc": "2026-09-27 18:27:41",
+      "latitude": 37.0342,
+      "longitude": 28.5023,
+      "location_name": "Muğla"
+    },
     {
       "id": "BQpIKRv2RP07z",
       "title": "BUYUKOBA-ILGIN (KONYA)",
