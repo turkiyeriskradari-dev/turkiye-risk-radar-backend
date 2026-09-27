@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T09:01:56.921538+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T09:22:29.847752+00:00",
+  "record_count": 44,
   "data": [
     {
       "id": "ytvg6IqIZokXK",
@@ -442,16 +442,6 @@
       "latitude": 36.3152,
       "longitude": 34.4493,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "QMWK4gorQNq8X",
-      "title": "KUCUKCAMILI-BALA (ANKARA)",
-      "magnitude": 1.3,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-26 12:16:10",
-      "latitude": 39.3257,
-      "longitude": 33.4148,
-      "location_name": "Kırıkkale"
     }
   ]
 }
