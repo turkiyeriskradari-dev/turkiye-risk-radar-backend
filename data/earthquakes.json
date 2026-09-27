@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T15:02:12.555842+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-27T15:21:53.837848+00:00",
+  "record_count": 45,
   "data": [
+    {
+      "id": "BQpIKRv2RP07z",
+      "title": "BUYUKOBA-ILGIN (KONYA)",
+      "magnitude": 2.2,
+      "depth_km": 8.1,
+      "date_utc": "2026-09-27 17:58:56",
+      "latitude": 38.5118,
+      "longitude": 31.9572,
+      "location_name": "Konya"
+    },
+    {
+      "id": "FowpUsb9nvbmM",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.5,
+      "depth_km": 15.1,
+      "date_utc": "2026-09-27 17:53:27",
+      "latitude": 39.173,
+      "longitude": 28.1275,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "zVU5kKciPX03R",
       "title": "YESILOZ-POLATLI (ANKARA)",
@@ -432,16 +452,6 @@
       "latitude": 38.3305,
       "longitude": 38.2165,
       "location_name": "Malatya"
-    },
-    {
-      "id": "Yc5pVckrJ3do0",
-      "title": "CATKOSEDAG-ELESKIRT (AGRI)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-09-26 18:18:51",
-      "latitude": 39.908,
-      "longitude": 42.6092,
-      "location_name": "Ağrı"
     }
   ]
 }
