@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T22:35:43.336101+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-27T22:48:18.320394+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "1QPtGCcH7LJvK",
+      "title": "DENIZKOY-DIKILI (IZMIR)",
+      "magnitude": 1.8,
+      "depth_km": 8.4,
+      "date_utc": "2026-09-28 01:31:16",
+      "latitude": 38.9308,
+      "longitude": 26.7177,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "IqatktUI5HCBE",
+      "title": "DENIZKOY-DIKILI (IZMIR)",
+      "magnitude": 1.7,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-28 01:26:02",
+      "latitude": 38.9128,
+      "longitude": 26.7112,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "lw75i5Cv1UEUE",
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
