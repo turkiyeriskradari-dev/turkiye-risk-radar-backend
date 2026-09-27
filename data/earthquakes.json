@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T13:34:21.952722+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-27T13:48:02.225856+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "ElMuOO0IoixI2",
@@ -452,16 +452,6 @@
       "latitude": 39.2523,
       "longitude": 28.2133,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "isjyFbfMjXmam",
-      "title": "CALTI-GELENDOST (ISPARTA)",
-      "magnitude": 1.6,
-      "depth_km": 14.7,
-      "date_utc": "2026-09-26 16:34:52",
-      "latitude": 38.217,
-      "longitude": 30.999,
-      "location_name": "Isparta"
     }
   ]
 }
