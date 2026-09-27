@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T04:36:17.726317+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-27T04:49:39.039592+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "2vOWyQ9xgWg3q",
+      "title": "CAMDIBI-HAVRAN (BALIKESIR)",
+      "magnitude": 2.9,
+      "depth_km": 17,
+      "date_utc": "2026-09-27 07:37:38",
+      "latitude": 39.5703,
+      "longitude": 27.0682,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "aZo1e6nwX4o5b",
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
