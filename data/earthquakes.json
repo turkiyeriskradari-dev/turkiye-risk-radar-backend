@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T16:02:14.042534+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T16:23:11.135011+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "CNBwCnqU7Y1Z6",
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "magnitude": 2.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-27 19:10:49",
+      "latitude": 40.1832,
+      "longitude": 31.7795,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "SD_V3nGrjKHmY",
+      "title": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 5.5,
+      "date_utc": "2026-09-27 18:57:20",
+      "latitude": 37.9693,
+      "longitude": 36.3627,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "ifB1z65H7UnRP",
       "title": "ORNEKKOY-ULA (MUGLA)",
@@ -442,16 +462,6 @@
       "latitude": 38.14,
       "longitude": 37.0007,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "kiihKPaf4gpUI",
-      "title": "KOSELER-SIMAV (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 16.9,
-      "date_utc": "2026-09-26 19:21:12",
-      "latitude": 39.517,
-      "longitude": 28.9293,
-      "location_name": "Balıkesir"
     }
   ]
 }
