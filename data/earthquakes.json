@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T07:48:40.473028+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-27T08:02:06.546138+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "ytvg6IqIZokXK",
@@ -502,16 +502,6 @@
       "latitude": 37.7603,
       "longitude": 27.1778,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "IcvQYEgrIat5A",
-      "title": "ULUKOY-NALLIHAN (ANKARA)",
-      "magnitude": 2.3,
-      "depth_km": 5,
-      "date_utc": "2026-09-26 11:00:52",
-      "latitude": 40.1383,
-      "longitude": 31.7025,
-      "location_name": "Ankara"
     }
   ]
 }
