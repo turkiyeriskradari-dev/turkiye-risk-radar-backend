@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T19:33:22.853020+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-27T19:46:47.420436+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "xghkbrt6SUAuu",
@@ -452,16 +452,6 @@
       "latitude": 38.0868,
       "longitude": 38.3328,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "jhACOyt6DwWcd",
-      "title": "IBECIK-GOLHISAR (BURDUR)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-26 22:37:46",
-      "latitude": 36.9708,
-      "longitude": 29.4248,
-      "location_name": "Burdur"
     }
   ]
 }
