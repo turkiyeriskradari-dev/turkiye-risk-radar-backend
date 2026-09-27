@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T01:02:35.255455+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-27T01:21:17.242089+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "5lA67FqEo43tk",
@@ -512,16 +512,6 @@
       "latitude": 38.0717,
       "longitude": 37.4032,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ZEU9xszdbQeu9",
-      "title": "ELMALI-(BINGOL)",
-      "magnitude": 1.5,
-      "depth_km": 6.1,
-      "date_utc": "2026-09-26 04:14:35",
-      "latitude": 39.025,
-      "longitude": 40.7752,
-      "location_name": "Bingöl"
     }
   ]
 }
