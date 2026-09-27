@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T01:21:17.242089+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-27T01:34:54.845083+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "5lA67FqEo43tk",
@@ -502,16 +502,6 @@
       "latitude": 40.1508,
       "longitude": 31.7637,
       "location_name": "Ankara"
-    },
-    {
-      "id": "JBQaFBRCiOaj5",
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "magnitude": 1.1,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-26 04:29:36",
-      "latitude": 38.0717,
-      "longitude": 37.4032,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
