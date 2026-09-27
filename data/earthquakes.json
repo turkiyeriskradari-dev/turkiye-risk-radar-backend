@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T12:02:20.852335+00:00",
-  "record_count": 42,
+  "last_updated": "2026-09-27T12:27:07.523031+00:00",
+  "record_count": 41,
   "data": [
     {
       "id": "PVcnCE6VSOly5",
@@ -412,16 +412,6 @@
       "latitude": 38.217,
       "longitude": 30.999,
       "location_name": "Isparta"
-    },
-    {
-      "id": "kMSC_kGwcgcHV",
-      "title": "AMBARCIK-YAZIHAN (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 15.2,
-      "date_utc": "2026-09-26 15:22:54",
-      "latitude": 38.5907,
-      "longitude": 38.3488,
-      "location_name": "Malatya"
     }
   ]
 }
