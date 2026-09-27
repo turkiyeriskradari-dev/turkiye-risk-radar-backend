@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T17:21:08.317395+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-27T17:34:06.744918+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "k65UEzM0D6fwx",
@@ -12,6 +12,16 @@
       "latitude": 38.8237,
       "longitude": 38.1392,
       "location_name": "Malatya"
+    },
+    {
+      "id": "5gwllIUYKqV3m",
+      "title": "KISACIKLI-FEKE (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 7,
+      "date_utc": "2026-09-27 19:56:10",
+      "latitude": 37.7847,
+      "longitude": 35.8632,
+      "location_name": "Adana"
     },
     {
       "id": "STKj5NvwiBJq9",
