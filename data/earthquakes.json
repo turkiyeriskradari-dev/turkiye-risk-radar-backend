@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T06:41:58.625976+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-27T06:53:52.517741+00:00",
+  "record_count": 51,
   "data": [
     {
       "id": "uruC0vtpVaDkx",
@@ -512,16 +512,6 @@
       "latitude": 35.9813,
       "longitude": 27.8368,
       "location_name": "Yunanistan"
-    },
-    {
-      "id": "szYFTqeDhhAd5",
-      "title": "ORHANGAZI (BURSA)",
-      "magnitude": 1.2,
-      "depth_km": 2.6,
-      "date_utc": "2026-09-26 09:48:06",
-      "latitude": 40.4845,
-      "longitude": 29.3043,
-      "location_name": "Bursa"
     }
   ]
 }
