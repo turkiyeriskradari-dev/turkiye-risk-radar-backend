@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T21:21:41.653218+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-27T21:34:31.619347+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "2DWv2REo6KA9E",
@@ -462,16 +462,6 @@
       "latitude": 39.2213,
       "longitude": 29.0395,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "y6hrWIOnakzos",
-      "title": "KARATEPE-KADIRLI (OSMANIYE)",
-      "magnitude": 2.4,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-27 00:26:57",
-      "latitude": 37.26,
-      "longitude": 36.2185,
-      "location_name": "Osmaniye"
     }
   ]
 }
