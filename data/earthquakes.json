@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T04:02:02.154572+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T04:23:33.121802+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "aZo1e6nwX4o5b",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 11.9,
+      "date_utc": "2026-09-27 07:03:43",
+      "latitude": 39.1445,
+      "longitude": 28.2847,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "AkDEDz4RiNogQ",
+      "title": "KIZILOREN-CUBUK (ANKARA)",
+      "magnitude": 1.8,
+      "depth_km": 14.5,
+      "date_utc": "2026-09-27 06:29:30",
+      "latitude": 40.4683,
+      "longitude": 32.9713,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "fljhNbQRlpBFm",
+      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 12.7,
+      "date_utc": "2026-09-27 05:58:12",
+      "latitude": 40.706,
+      "longitude": 29.2347,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "Cv9NAoNdOKiSX",
+      "title": "KALBURCU-KEPSUT (BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 14.4,
+      "date_utc": "2026-09-27 05:33:25",
+      "latitude": 39.5623,
+      "longitude": 28.1198,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "ru9mp1HKvybRM",
+      "title": "SARICAOGLU-BERGAMA (IZMIR)",
+      "magnitude": 2.1,
+      "depth_km": 6.2,
+      "date_utc": "2026-09-27 05:07:37",
+      "latitude": 39.3233,
+      "longitude": 27.3673,
+      "location_name": "İzmir"
+    },
     {
       "id": "QOUbQ9rUWjlKb",
       "title": "DOGU AKDENIZ",
@@ -442,16 +492,6 @@
       "latitude": 40.4845,
       "longitude": 29.3043,
       "location_name": "Bursa"
-    },
-    {
-      "id": "ZpwBxCgr4cf4Z",
-      "title": "CATKOSEDAG-ELESKIRT (AGRI)",
-      "magnitude": 2.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-26 07:19:52",
-      "latitude": 39.9115,
-      "longitude": 42.6213,
-      "location_name": "Ağrı"
     }
   ]
 }
