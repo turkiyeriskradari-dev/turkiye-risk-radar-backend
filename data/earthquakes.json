@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T12:27:07.523031+00:00",
-  "record_count": 41,
+  "last_updated": "2026-09-27T12:41:14.437902+00:00",
+  "record_count": 42,
   "data": [
+    {
+      "id": "nc6xsx82C3ydg",
+      "title": "OSMANLAR-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 16.9,
+      "date_utc": "2026-09-27 15:18:54",
+      "latitude": 39.2393,
+      "longitude": 28.291,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "PVcnCE6VSOly5",
       "title": "ARITOPRAK-PUTURGE (MALATYA)",
