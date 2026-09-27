@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T06:53:52.517741+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-27T07:03:02.634996+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "5CkcOWeBzzSFg",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-27 09:49:21",
+      "latitude": 37.93,
+      "longitude": 27.1568,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "xDPbzGWWDjBsi",
+      "title": "BAGYAKA-(MUGLA)",
+      "magnitude": 1.5,
+      "depth_km": 11.2,
+      "date_utc": "2026-09-27 09:44:40",
+      "latitude": 37.1217,
+      "longitude": 28.1497,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "42TtQs4rackhz",
+      "title": "SARIOGLAN (KAYSERI)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-27 09:43:41",
+      "latitude": 39.0815,
+      "longitude": 35.9253,
+      "location_name": "Kayseri"
+    },
     {
       "id": "uruC0vtpVaDkx",
       "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
@@ -492,26 +522,6 @@
       "latitude": 39.1027,
       "longitude": 40.7852,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "o5nxXXdiaDG9g",
-      "title": "EGE DENIZI",
-      "magnitude": 2,
-      "depth_km": 19,
-      "date_utc": "2026-09-26 10:02:06",
-      "latitude": 39.657,
-      "longitude": 25.4825,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "qRIHM1KwvnsD9",
-      "title": "RODOS ADASI (AKDENIZ)",
-      "magnitude": 2,
-      "depth_km": 73.6,
-      "date_utc": "2026-09-26 09:55:01",
-      "latitude": 35.9813,
-      "longitude": 27.8368,
-      "location_name": "Yunanistan"
     }
   ]
 }
