@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T19:46:47.420436+00:00",
-  "record_count": 45,
+  "last_updated": "2026-09-27T20:02:15.347535+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "oaOl1LxXNfowk",
+      "title": "HAMZALAR-TEKMAN (ERZURUM)",
+      "magnitude": 1.4,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-27 22:35:10",
+      "latitude": 39.43,
+      "longitude": 41.2285,
+      "location_name": "Erzurum"
+    },
     {
       "id": "xghkbrt6SUAuu",
       "title": "TOPALLI-ELBISTAN (KAHRAMANMARAS)",
