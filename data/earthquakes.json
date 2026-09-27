@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T23:01:55.946922+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-27T23:21:12.931481+00:00",
+  "record_count": 53,
   "data": [
+    {
+      "id": "gCBYeUy50A72i",
+      "title": "BAHARLAR-SARIGOL (MANISA)",
+      "magnitude": 1.8,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-28 01:53:15",
+      "latitude": 38.2055,
+      "longitude": 28.785,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "sq8FymmKADIA6",
+      "title": "INKOY-GEVAS (VAN)",
+      "magnitude": 1.6,
+      "depth_km": 6.8,
+      "date_utc": "2026-09-28 01:45:23",
+      "latitude": 38.5297,
+      "longitude": 42.7978,
+      "location_name": "Bitlis"
+    },
+    {
+      "id": "4X0Dcr1EGgReg",
+      "title": "EGE DENIZI",
+      "magnitude": 1.8,
+      "depth_km": 10.1,
+      "date_utc": "2026-09-28 01:38:43",
+      "latitude": 39.2442,
+      "longitude": 25.7665,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "1QPtGCcH7LJvK",
       "title": "DENIZKOY-DIKILI (IZMIR)",
