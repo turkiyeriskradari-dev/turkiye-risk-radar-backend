@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T22:48:18.320394+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-27T23:01:55.946922+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "1QPtGCcH7LJvK",
@@ -32,6 +32,16 @@
       "latitude": 38.9442,
       "longitude": 26.6913,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "iEPQOK4r4A2PM",
+      "title": "ANTALYA KORFEZI (AKDENIZ)",
+      "magnitude": 1.2,
+      "depth_km": 16,
+      "date_utc": "2026-09-28 01:08:52",
+      "latitude": 36.5593,
+      "longitude": 31.2713,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
     },
     {
       "id": "cI8icTXl9WizR",
