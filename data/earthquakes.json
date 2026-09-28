@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T03:52:10.871531+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-28T04:03:09.625825+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "fkJungnvOGmRY",
+      "title": "EMIRLER-HAYMANA (ANKARA)",
+      "magnitude": 2.3,
+      "depth_km": 8.5,
+      "date_utc": "2026-09-28 06:42:40",
+      "latitude": 39.0868,
+      "longitude": 32.3245,
+      "location_name": "Ankara"
+    },
     {
       "id": "Jc_Xc3HKHoA03",
       "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
