@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T22:49:09.103349+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-28T23:01:58.261271+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "7u3wHtNEGOZnI",
@@ -652,16 +652,6 @@
       "latitude": 39.2478,
       "longitude": 28.195,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "gCBYeUy50A72i",
-      "title": "BAHARLAR-SARIGOL (MANISA)",
-      "magnitude": 1.8,
-      "depth_km": 7.2,
-      "date_utc": "2026-09-28 01:53:15",
-      "latitude": 38.2055,
-      "longitude": 28.785,
-      "location_name": "Manisa"
     }
   ]
 }
