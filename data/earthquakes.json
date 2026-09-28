@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T23:35:43.031207+00:00",
-  "record_count": 61,
+  "last_updated": "2026-09-28T23:49:30.686087+00:00",
+  "record_count": 63,
   "data": [
+    {
+      "id": "gFuNEgyJwY_ss",
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "magnitude": 2.1,
+      "depth_km": 13,
+      "date_utc": "2026-09-29 02:40:32",
+      "latitude": 39.2412,
+      "longitude": 28.95,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "CsboNg460TbLk",
+      "title": "MESUDIYE-SEYDISEHIR (KONYA)",
+      "magnitude": 1.5,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-29 02:29:33",
+      "latitude": 37.5882,
+      "longitude": 32.0858,
+      "location_name": "Konya"
+    },
+    {
+      "id": "BfN348g53tKZy",
+      "title": "ANTALYA KORFEZI (AKDENIZ)",
+      "magnitude": 1.6,
+      "depth_km": 7.1,
+      "date_utc": "2026-09-29 02:25:58",
+      "latitude": 36.1937,
+      "longitude": 31.3268,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "H8DL7qS9apV89",
+      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1,
+      "depth_km": 8.4,
+      "date_utc": "2026-09-29 02:23:20",
+      "latitude": 39.1975,
+      "longitude": 28.043,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "2VWr9W1y3IjWb",
       "title": "MESTAN-(ADIYAMAN)",
@@ -12,6 +52,16 @@
       "latitude": 38.006,
       "longitude": 38.2137,
       "location_name": "Adıyaman"
+    },
+    {
+      "id": "5f_63sLPG93he",
+      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 16.4,
+      "date_utc": "2026-09-29 02:06:42",
+      "latitude": 38.3307,
+      "longitude": 37.3343,
+      "location_name": "Kahramanmaraş"
     },
     {
       "id": "7u3wHtNEGOZnI",
@@ -582,36 +632,6 @@
       "latitude": 37.359,
       "longitude": 33.2595,
       "location_name": "Karaman"
-    },
-    {
-      "id": "eGBOZEkWLqzhu",
-      "title": "DOGUSBELEN-KOYCEGIZ (MUGLA)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-28 02:48:11",
-      "latitude": 36.9578,
-      "longitude": 28.5448,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "hwX9TmxJBgrAX",
-      "title": "KIRLANGIC-YESILYURT (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 25.4,
-      "date_utc": "2026-09-28 02:46:06",
-      "latitude": 38.2375,
-      "longitude": 38.0727,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "E12YRNTeHHnUX",
-      "title": "CAMOLUK-SUNGURLU (CORUM)",
-      "magnitude": 1.5,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-28 02:35:48",
-      "latitude": 39.9868,
-      "longitude": 34.293,
-      "location_name": "Çorum"
     }
   ]
 }
