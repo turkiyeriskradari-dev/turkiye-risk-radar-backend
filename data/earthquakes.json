@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T15:53:35.879540+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-28T16:04:08.667656+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -692,16 +692,6 @@
       "latitude": 40.1832,
       "longitude": 31.7795,
       "location_name": "Ankara"
-    },
-    {
-      "id": "SD_V3nGrjKHmY",
-      "title": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 5.5,
-      "date_utc": "2026-09-27 18:57:20",
-      "latitude": 37.9693,
-      "longitude": 36.3627,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
