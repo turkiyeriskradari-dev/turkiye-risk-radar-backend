@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T09:41:00.084636+00:00",
+  "last_updated": "2026-09-28T09:53:24.886974+00:00",
   "record_count": 72,
   "data": [
+    {
+      "id": "lIAXwSjzstels",
+      "title": "AKKAYA-FEKE (ADANA)",
+      "magnitude": 2.7,
+      "depth_km": 5,
+      "date_utc": "2026-09-28 12:29:22",
+      "latitude": 37.77,
+      "longitude": 35.8728,
+      "location_name": "Adana"
+    },
     {
       "id": "EHQYlKTw2komK",
       "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -712,16 +722,6 @@
       "latitude": 38.17,
       "longitude": 37.533,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ju80T8rvjQnCQ",
-      "title": "SOGUKYURT-ALASEHIR (MANISA)",
-      "magnitude": 1.6,
-      "depth_km": 13.3,
-      "date_utc": "2026-09-27 12:43:46",
-      "latitude": 38.3575,
-      "longitude": 28.396,
-      "location_name": "Manisa"
     }
   ]
 }
