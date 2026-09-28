@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T02:02:39.558848+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-28T02:23:52.619084+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "Gl3_1YLG6y0Xy",
@@ -662,16 +662,6 @@
       "latitude": 39.5623,
       "longitude": 28.1198,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "ru9mp1HKvybRM",
-      "title": "SARICAOGLU-BERGAMA (IZMIR)",
-      "magnitude": 2.1,
-      "depth_km": 6.2,
-      "date_utc": "2026-09-27 05:07:37",
-      "latitude": 39.3233,
-      "longitude": 27.3673,
-      "location_name": "İzmir"
     }
   ]
 }
