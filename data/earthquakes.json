@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T20:52:07.701454+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-28T21:03:12.674907+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "RyIYgXduwP1ax",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 10.9,
+      "date_utc": "2026-09-28 22:41:43",
+      "latitude": 39.235,
+      "longitude": 28.1055,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "jEtMYOeG5DsUL",
       "title": "KOZLU-(BOLU)",
