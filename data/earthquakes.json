@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T03:38:34.419445+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-28T03:52:10.871531+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "Jc_Xc3HKHoA03",
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 14.3,
+      "date_utc": "2026-09-28 06:36:54",
+      "latitude": 38.379,
+      "longitude": 37.401,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "Olqrl15tvBmlc",
       "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
@@ -12,6 +22,16 @@
       "latitude": 38.0233,
       "longitude": 37.5472,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "n0XKK7gmj8Ak8",
+      "title": "SAZAK-KOYCEGIZ (MUGLA)",
+      "magnitude": 1,
+      "depth_km": 17.1,
+      "date_utc": "2026-09-28 05:52:32",
+      "latitude": 36.9723,
+      "longitude": 28.894,
+      "location_name": "Muğla"
     },
     {
       "id": "JP_xOIOVLInOr",
