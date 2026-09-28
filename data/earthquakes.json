@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T14:04:58.074129+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-28T14:27:42.659508+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "VoJHEZqOkA1ar",
+      "title": "CALTI-GELENDOST (ISPARTA)",
+      "magnitude": 1.7,
+      "depth_km": 15,
+      "date_utc": "2026-09-28 16:58:18",
+      "latitude": 38.2163,
+      "longitude": 31.0463,
+      "location_name": "Isparta"
+    },
     {
       "id": "Lo5ca25fztWd5",
       "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
