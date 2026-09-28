@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T08:40:54.754334+00:00",
+  "last_updated": "2026-09-28T08:53:05.478743+00:00",
   "record_count": 72,
   "data": [
     {
@@ -51,6 +51,16 @@
       "date_utc": "2026-09-28 10:15:32",
       "latitude": 39.3378,
       "longitude": 26.0345,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "rzk7fhLnjaStA",
+      "title": "COKERTME-MILAS (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 11.7,
+      "date_utc": "2026-09-28 09:58:10",
+      "latitude": 36.9855,
+      "longitude": 27.7967,
       "location_name": "Ege Denizi"
     },
     {
@@ -712,16 +722,6 @@
       "latitude": 36.9027,
       "longitude": 31.0367,
       "location_name": "Antalya"
-    },
-    {
-      "id": "tLHhp5emecHTU",
-      "title": "SOGUKYURT-ALASEHIR (MANISA)",
-      "magnitude": 2.3,
-      "depth_km": 5.7,
-      "date_utc": "2026-09-27 11:43:38",
-      "latitude": 38.3492,
-      "longitude": 28.3917,
-      "location_name": "Manisa"
     }
   ]
 }
