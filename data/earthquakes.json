@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T23:22:29.935072+00:00",
+  "last_updated": "2026-09-28T23:35:43.031207+00:00",
   "record_count": 61,
   "data": [
+    {
+      "id": "2VWr9W1y3IjWb",
+      "title": "MESTAN-(ADIYAMAN)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-29 02:08:49",
+      "latitude": 38.006,
+      "longitude": 38.2137,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "7u3wHtNEGOZnI",
       "title": "TEKIR-(KAHRAMANMARAS)",
@@ -602,16 +612,6 @@
       "latitude": 39.9868,
       "longitude": 34.293,
       "location_name": "Çorum"
-    },
-    {
-      "id": "m4a_CtxUVG5fk",
-      "title": "YUVAKLI-TEKMAN (ERZURUM)",
-      "magnitude": 1.2,
-      "depth_km": 7.2,
-      "date_utc": "2026-09-28 02:29:22",
-      "latitude": 39.449,
-      "longitude": 41.177,
-      "location_name": "Erzurum"
     }
   ]
 }
