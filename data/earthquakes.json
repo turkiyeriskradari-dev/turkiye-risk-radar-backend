@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-27T23:47:35.217325+00:00",
-  "record_count": 57,
+  "last_updated": "2026-09-28T00:02:51.667832+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "eGBOZEkWLqzhu",
+      "title": "DOGUSBELEN-KOYCEGIZ (MUGLA)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-09-28 02:48:11",
+      "latitude": 36.9578,
+      "longitude": 28.5448,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "hwX9TmxJBgrAX",
+      "title": "KIRLANGIC-YESILYURT (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 25.4,
+      "date_utc": "2026-09-28 02:46:06",
+      "latitude": 38.2375,
+      "longitude": 38.0727,
+      "location_name": "Malatya"
+    },
     {
       "id": "m4a_CtxUVG5fk",
       "title": "YUVAKLI-TEKMAN (ERZURUM)",
@@ -562,16 +582,6 @@
       "latitude": 35.934,
       "longitude": 35.0505,
       "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "5lA67FqEo43tk",
-      "title": "BAGLICAY-GURUN (SIVAS)",
-      "magnitude": 2.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-27 03:00:13",
-      "latitude": 38.8403,
-      "longitude": 37.4778,
-      "location_name": "Sivas"
     }
   ]
 }
