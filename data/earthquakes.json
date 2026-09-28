@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T01:03:25.020318+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-28T01:23:09.253138+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "bmi33X3tPX4za",
+      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+      "magnitude": 1,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-28 03:56:58",
+      "latitude": 38.091,
+      "longitude": 37.3792,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "AmOeGO2txCmxZ",
       "title": "KARSIYAKA-PUTURGE (MALATYA)",
