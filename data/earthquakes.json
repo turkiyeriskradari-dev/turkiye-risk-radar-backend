@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T10:03:54.305968+00:00",
+  "last_updated": "2026-09-28T10:25:56.807436+00:00",
   "record_count": 73,
   "data": [
+    {
+      "id": "5MuCNSwNLiRpb",
+      "title": "CAY (AFYONKARAHISAR)",
+      "magnitude": 1.7,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-28 12:59:06",
+      "latitude": 38.6375,
+      "longitude": 31.004,
+      "location_name": "Afyon"
+    },
     {
       "id": "lIAXwSjzstels",
       "title": "AKKAYA-FEKE (ADANA)",
@@ -722,16 +732,6 @@
       "latitude": 38.1862,
       "longitude": 38.6435,
       "location_name": "Malatya"
-    },
-    {
-      "id": "ON4eap5VRQSB1",
-      "title": "KANTARMA-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 15.3,
-      "date_utc": "2026-09-27 13:12:13",
-      "latitude": 38.17,
-      "longitude": 37.533,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
