@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T05:37:13.307812+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-28T05:50:49.754750+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "qAD7CGUYdj1oi",
+      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-28 08:04:13",
+      "latitude": 38.2167,
+      "longitude": 37.7813,
+      "location_name": "Malatya"
+    },
     {
       "id": "Z6eKLwLqCtmU7",
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
