@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T11:52:11.113077+00:00",
-  "record_count": 75,
+  "last_updated": "2026-09-28T12:02:25.856551+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "EFamQHIoVfWfk",
@@ -742,16 +742,6 @@
       "latitude": 38.3837,
       "longitude": 28.404,
       "location_name": "Manisa"
-    },
-    {
-      "id": "4o_KSy1fKxYNO",
-      "title": "ALATEPE-MILAS (MUGLA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-27 14:52:57",
-      "latitude": 37.0603,
-      "longitude": 27.988,
-      "location_name": "Muğla"
     }
   ]
 }
