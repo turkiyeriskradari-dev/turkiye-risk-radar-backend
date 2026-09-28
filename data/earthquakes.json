@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T17:24:02.714687+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-28T17:36:18.859102+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -642,16 +642,6 @@
       "latitude": 38.2573,
       "longitude": 38.2035,
       "location_name": "Malatya"
-    },
-    {
-      "id": "6g9xwfVMNhuo0",
-      "title": "CATALAGZI-AHLAT (BITLIS)",
-      "magnitude": 1.6,
-      "depth_km": 8.8,
-      "date_utc": "2026-09-27 20:31:58",
-      "latitude": 38.7812,
-      "longitude": 42.4138,
-      "location_name": "Bitlis"
     }
   ]
 }
