@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T03:25:09.429896+00:00",
+  "last_updated": "2026-09-28T03:38:34.419445+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "Olqrl15tvBmlc",
+      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
+      "magnitude": 1,
+      "depth_km": 2.6,
+      "date_utc": "2026-09-28 06:24:14",
+      "latitude": 38.0233,
+      "longitude": 37.5472,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "JP_xOIOVLInOr",
       "title": "EGE DENIZI",
@@ -652,16 +662,6 @@
       "latitude": 39.1445,
       "longitude": 28.2847,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "AkDEDz4RiNogQ",
-      "title": "KIZILOREN-CUBUK (ANKARA)",
-      "magnitude": 1.8,
-      "depth_km": 14.5,
-      "date_utc": "2026-09-27 06:29:30",
-      "latitude": 40.4683,
-      "longitude": 32.9713,
-      "location_name": "Ankara"
     }
   ]
 }
