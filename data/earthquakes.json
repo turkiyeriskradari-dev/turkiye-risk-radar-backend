@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T03:02:43.120077+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-28T03:25:09.429896+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "JP_xOIOVLInOr",
@@ -662,16 +662,6 @@
       "latitude": 40.4683,
       "longitude": 32.9713,
       "location_name": "Ankara"
-    },
-    {
-      "id": "Gy_VUN3mIgVMH",
-      "title": "YALOVA ACIKLARI (MARMARA DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-27 06:12:02",
-      "latitude": 40.7123,
-      "longitude": 29.2488,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
