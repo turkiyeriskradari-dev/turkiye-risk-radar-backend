@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T21:23:15.049172+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-28T21:35:16.125216+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "Z6tlg5O7vCRAE",
@@ -662,16 +662,6 @@
       "latitude": 38.5422,
       "longitude": 43.0242,
       "location_name": "Van"
-    },
-    {
-      "id": "tL1uSF2ycDlOl",
-      "title": "SOGUTLU-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 3.7,
-      "date_utc": "2026-09-28 00:29:01",
-      "latitude": 38.2292,
-      "longitude": 37.3073,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
