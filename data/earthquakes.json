@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T04:25:19.058704+00:00",
+  "last_updated": "2026-09-28T04:39:11.174792+00:00",
   "record_count": 68,
   "data": [
+    {
+      "id": "Z6eKLwLqCtmU7",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.7,
+      "depth_km": 8.8,
+      "date_utc": "2026-09-28 07:19:52",
+      "latitude": 36.9798,
+      "longitude": 27.7568,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "fkJungnvOGmRY",
       "title": "EMIRLER-HAYMANA (ANKARA)",
@@ -672,16 +682,6 @@
       "latitude": 34.9457,
       "longitude": 25.9545,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "2vOWyQ9xgWg3q",
-      "title": "CAMDIBI-HAVRAN (BALIKESIR)",
-      "magnitude": 2.9,
-      "depth_km": 17,
-      "date_utc": "2026-09-27 07:37:38",
-      "latitude": 39.5703,
-      "longitude": 27.0682,
-      "location_name": "Balıkesir"
     }
   ]
 }
