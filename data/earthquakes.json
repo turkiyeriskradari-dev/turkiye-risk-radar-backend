@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T11:39:02.758574+00:00",
-  "record_count": 74,
+  "last_updated": "2026-09-28T11:52:11.113077+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "EFamQHIoVfWfk",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 3.6,
+      "date_utc": "2026-09-28 14:05:42",
+      "latitude": 37.9727,
+      "longitude": 27.205,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "5MuCNSwNLiRpb",
       "title": "CAY (AFYONKARAHISAR)",
