@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T21:03:12.674907+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-28T21:23:15.049172+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "Z6tlg5O7vCRAE",
+      "title": "KALEKOY-GOKCEADA (CANAKKALE)",
+      "magnitude": 1.5,
+      "depth_km": 4.8,
+      "date_utc": "2026-09-28 22:53:57",
+      "latitude": 40.3878,
+      "longitude": 25.8935,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "RyIYgXduwP1ax",
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
