@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T22:02:05.942079+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-28T22:22:37.404758+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "ynFvHajeH2Am0",
@@ -652,36 +652,6 @@
       "latitude": 38.9128,
       "longitude": 26.7112,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "lw75i5Cv1UEUE",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 2.9,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-28 01:18:11",
-      "latitude": 38.9442,
-      "longitude": 26.6913,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "iEPQOK4r4A2PM",
-      "title": "ANTALYA KORFEZI (AKDENIZ)",
-      "magnitude": 1.2,
-      "depth_km": 16,
-      "date_utc": "2026-09-28 01:08:52",
-      "latitude": 36.5593,
-      "longitude": 31.2713,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "cI8icTXl9WizR",
-      "title": "VAN GOLU",
-      "magnitude": 1.8,
-      "depth_km": 2.3,
-      "date_utc": "2026-09-28 01:03:08",
-      "latitude": 38.5422,
-      "longitude": 43.0242,
-      "location_name": "Van"
     }
   ]
 }
