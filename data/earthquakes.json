@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T17:36:18.859102+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-28T17:51:02.439051+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -632,16 +632,6 @@
       "latitude": 38.2813,
       "longitude": 37.6387,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "WE5FzgLn74FdS",
-      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-27 20:45:40",
-      "latitude": 38.2573,
-      "longitude": 38.2035,
-      "location_name": "Malatya"
     }
   ]
 }
