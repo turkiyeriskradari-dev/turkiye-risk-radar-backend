@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T22:34:54.528125+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-28T22:49:09.103349+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "7u3wHtNEGOZnI",
+      "title": "TEKIR-(KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 11.7,
+      "date_utc": "2026-09-29 01:32:43",
+      "latitude": 37.8842,
+      "longitude": 36.6115,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "uDceZuJeMNdGN",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 17.6,
+      "date_utc": "2026-09-29 01:21:29",
+      "latitude": 38.2145,
+      "longitude": 38.488,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "fK82NR6RjH84H",
+      "title": "AKDENIZ",
+      "magnitude": 1.9,
+      "depth_km": 7.8,
+      "date_utc": "2026-09-29 01:11:48",
+      "latitude": 35.3407,
+      "longitude": 27.6685,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "sedbg1tMP8nHk",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
@@ -632,26 +662,6 @@
       "latitude": 38.2055,
       "longitude": 28.785,
       "location_name": "Manisa"
-    },
-    {
-      "id": "sq8FymmKADIA6",
-      "title": "INKOY-GEVAS (VAN)",
-      "magnitude": 1.6,
-      "depth_km": 6.8,
-      "date_utc": "2026-09-28 01:45:23",
-      "latitude": 38.5297,
-      "longitude": 42.7978,
-      "location_name": "Bitlis"
-    },
-    {
-      "id": "4X0Dcr1EGgReg",
-      "title": "EGE DENIZI",
-      "magnitude": 1.8,
-      "depth_km": 10.1,
-      "date_utc": "2026-09-28 01:38:43",
-      "latitude": 39.2442,
-      "longitude": 25.7665,
-      "location_name": "Ege Denizi"
     }
   ]
 }
