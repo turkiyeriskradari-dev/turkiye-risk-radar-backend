@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T00:02:51.667832+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-28T00:32:01.750317+00:00",
+  "record_count": 62,
   "data": [
+    {
+      "id": "Fb2YJpM0o7Lj_",
+      "title": "BEYDILI-(KARAMAN)",
+      "magnitude": 1.5,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-28 03:17:31",
+      "latitude": 37.345,
+      "longitude": 33.2913,
+      "location_name": "Karaman"
+    },
+    {
+      "id": "gpFqmbAJtFFby",
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-28 03:12:34",
+      "latitude": 39.2138,
+      "longitude": 28.2352,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "4lroyeXc2UPbz",
+      "title": "HAMIDIYE-(KARAMAN)",
+      "magnitude": 1.9,
+      "depth_km": 6.4,
+      "date_utc": "2026-09-28 03:10:27",
+      "latitude": 37.3463,
+      "longitude": 33.2707,
+      "location_name": "Karaman"
+    },
+    {
+      "id": "bmtLtSTUz0LoT",
+      "title": "DINEK-(KARAMAN)",
+      "magnitude": 2.1,
+      "depth_km": 6.9,
+      "date_utc": "2026-09-28 02:59:13",
+      "latitude": 37.359,
+      "longitude": 33.2595,
+      "location_name": "Karaman"
+    },
     {
       "id": "eGBOZEkWLqzhu",
       "title": "DOGUSBELEN-KOYCEGIZ (MUGLA)",
