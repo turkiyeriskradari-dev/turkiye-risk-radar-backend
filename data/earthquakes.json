@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T20:36:59.916420+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-28T20:52:07.701454+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "jEtMYOeG5DsUL",
+      "title": "KOZLU-(BOLU)",
+      "magnitude": 1.4,
+      "depth_km": 28.6,
+      "date_utc": "2026-09-28 22:34:55",
+      "latitude": 40.8062,
+      "longitude": 31.5588,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "_2uIXPaQiDFDi",
+      "title": "CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.2,
+      "depth_km": 10.2,
+      "date_utc": "2026-09-28 22:12:54",
+      "latitude": 38.0508,
+      "longitude": 38.2495,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "jc7G63gPL_w7n",
+      "title": "AKDENIZ",
+      "magnitude": 2,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-28 21:12:00",
+      "latitude": 35.9278,
+      "longitude": 28.0787,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "oDHJ_O2knh0QL",
       "title": "KASPINAR-AGIN (ELAZIG)",
@@ -622,26 +652,6 @@
       "latitude": 38.2292,
       "longitude": 37.3073,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "2DWv2REo6KA9E",
-      "title": "MARMARA DENIZI",
-      "magnitude": 2.7,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-27 23:48:59",
-      "latitude": 40.7508,
-      "longitude": 28.1418,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "SgsEMs__qIy0Q",
-      "title": "MARMARA DENIZI",
-      "magnitude": 2.3,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-27 23:48:59",
-      "latitude": 40.7508,
-      "longitude": 28.1418,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
