@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T15:27:19.089268+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-28T15:40:35.324817+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -702,16 +702,6 @@
       "latitude": 37.9693,
       "longitude": 36.3627,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ifB1z65H7UnRP",
-      "title": "ORNEKKOY-ULA (MUGLA)",
-      "magnitude": 1.3,
-      "depth_km": 11,
-      "date_utc": "2026-09-27 18:27:41",
-      "latitude": 37.0342,
-      "longitude": 28.5023,
-      "location_name": "Muğla"
     }
   ]
 }
