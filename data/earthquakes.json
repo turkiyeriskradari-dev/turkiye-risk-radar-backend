@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T09:03:48.348773+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-28T09:27:33.118070+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "qdWQo1Yv2uYCB",
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "magnitude": 2.9,
+      "depth_km": 8.6,
+      "date_utc": "2026-09-28 11:26:10",
+      "latitude": 39.3112,
+      "longitude": 26.066,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "reEPPNaIPHmsB",
       "title": "BASMEZRA-PUTURGE (MALATYA)",
@@ -702,36 +712,6 @@
       "latitude": 38.3575,
       "longitude": 28.396,
       "location_name": "Manisa"
-    },
-    {
-      "id": "tEfkPTZKUy3_g",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-09-27 12:23:30",
-      "latitude": 35.9023,
-      "longitude": 27.15,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "j_4Q7DNoRAGgb",
-      "title": "KIZILAGIL-(BOLU)",
-      "magnitude": 2.4,
-      "depth_km": 8.3,
-      "date_utc": "2026-09-27 12:18:27",
-      "latitude": 40.8052,
-      "longitude": 31.5178,
-      "location_name": "Bolu"
-    },
-    {
-      "id": "b9Wf5blTSYEB_",
-      "title": "ASAGICATMA-SERIK (ANTALYA)",
-      "magnitude": 2,
-      "depth_km": 84.4,
-      "date_utc": "2026-09-27 12:12:49",
-      "latitude": 36.9027,
-      "longitude": 31.0367,
-      "location_name": "Antalya"
     }
   ]
 }
