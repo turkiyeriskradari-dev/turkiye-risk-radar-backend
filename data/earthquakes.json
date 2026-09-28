@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T07:39:49.247981+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-28T07:52:25.878514+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "Cp4sVTf5XmxjG",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 6.5,
+      "date_utc": "2026-09-28 10:17:18",
+      "latitude": 39.2305,
+      "longitude": 28.1097,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "HI4vGGcoNy_rA",
       "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
