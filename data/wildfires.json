@@ -1,8 +1,19 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-09-28T05:24:27.432400+00:00",
-  "record_count": 0,
-  "data": [],
+  "last_updated": "2026-09-28T05:37:14.066051+00:00",
+  "record_count": 1,
+  "data": [
+    {
+      "latitude": 41.07688,
+      "longitude": 27.0912,
+      "brightness": 296.79,
+      "confidence": "n",
+      "acquired_date": "2026-09-28",
+      "acquired_time": "132",
+      "satellite": "N",
+      "daynight": "N"
+    }
+  ],
   "meta": {
     "day_range": 1,
     "area_bbox": "25,34,45,43"
