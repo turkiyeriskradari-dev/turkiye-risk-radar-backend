@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T04:03:09.625825+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-28T04:25:19.058704+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "fkJungnvOGmRY",
@@ -681,16 +681,6 @@
       "date_utc": "2026-09-27 07:37:38",
       "latitude": 39.5703,
       "longitude": 27.0682,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "aZo1e6nwX4o5b",
-      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 11.9,
-      "date_utc": "2026-09-27 07:03:43",
-      "latitude": 39.1445,
-      "longitude": 28.2847,
       "location_name": "Balıkesir"
     }
   ]
