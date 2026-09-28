@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T01:49:28.345785+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-28T02:02:39.558848+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "Gl3_1YLG6y0Xy",
+      "title": "BERKKOY-DODURGA (CORUM)",
+      "magnitude": 1.2,
+      "depth_km": 8.3,
+      "date_utc": "2026-09-28 04:20:21",
+      "latitude": 40.829,
+      "longitude": 34.7925,
+      "location_name": "Çorum"
+    },
     {
       "id": "bmi33X3tPX4za",
       "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
