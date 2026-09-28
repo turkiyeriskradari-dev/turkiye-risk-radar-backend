@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T16:39:56.380869+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-28T16:53:01.118910+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -672,16 +672,6 @@
       "latitude": 37.7847,
       "longitude": 35.8632,
       "location_name": "Adana"
-    },
-    {
-      "id": "STKj5NvwiBJq9",
-      "title": "BASKAVAK-HEKIMHAN (MALATYA)",
-      "magnitude": 2.4,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-27 19:42:30",
-      "latitude": 38.8393,
-      "longitude": 38.085,
-      "location_name": "Malatya"
     }
   ]
 }
