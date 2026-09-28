@@ -1,14 +1,14 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-09-28T16:53:03.861692+00:00",
-  "record_count": 96,
+  "last_updated": "2026-09-28T17:03:18.567607+00:00",
+  "record_count": 86,
   "data": [
     {
       "name": "ÇAMLIGÖZE",
       "havza": "Yeşilırmak",
       "province": "SİVAS",
       "fill_percentage": 97.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 32.0
     },
     {
@@ -16,7 +16,7 @@
       "havza": "Antalya",
       "province": "BURDUR",
       "fill_percentage": 96.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 47.2
     },
     {
@@ -24,7 +24,7 @@
       "havza": "Kızılırmak",
       "province": "ANKARA",
       "fill_percentage": 94.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 76.0
     },
     {
@@ -32,7 +32,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 92.1,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 317.0
     },
     {
@@ -40,7 +40,7 @@
       "havza": "Ceyhan",
       "province": "OSMANİYE",
       "fill_percentage": 91.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 510.0
     },
     {
@@ -48,7 +48,7 @@
       "havza": "Kızılırmak",
       "province": "KIRIKKALE",
       "fill_percentage": 88.1,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 54.0
     },
     {
@@ -56,7 +56,7 @@
       "havza": "Yeşilırmak",
       "province": "TOKAT",
       "fill_percentage": 86.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 5.5
     },
     {
@@ -64,7 +64,7 @@
       "havza": "Antalya",
       "province": "ISPARTA",
       "fill_percentage": 85.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 13.8
     },
     {
@@ -72,23 +72,15 @@
       "havza": "Yeşilırmak",
       "province": "YOZGAT",
       "fill_percentage": 85.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 16.4
-    },
-    {
-      "name": "ÜRKMEZ BARAJI",
-      "havza": "KÜÇÜK MENDERES",
-      "province": null,
-      "fill_percentage": 83.2,
-      "measured_date": "24 Temmuz 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "MANAVGAT",
       "havza": "Antalya",
       "province": "ANTALYA",
       "fill_percentage": 80.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 48.0
     },
     {
@@ -96,7 +88,7 @@
       "havza": "Büyük Menderes",
       "province": "AFYON",
       "fill_percentage": 79.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 3.0
     },
     {
@@ -104,7 +96,7 @@
       "havza": "Kızılırmak",
       "province": "SİVAS",
       "fill_percentage": 78.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 25.0
     },
     {
@@ -112,7 +104,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 76.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 124.0
     },
     {
@@ -120,7 +112,7 @@
       "havza": "Van Gölü",
       "province": null,
       "fill_percentage": 75.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": null
     },
     {
@@ -128,15 +120,7 @@
       "havza": "Yeşilırmak",
       "province": null,
       "fill_percentage": 74.8,
-      "measured_date": "25 Eylül 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "BALÇOVA BARAJI",
-      "havza": "KÜÇÜK MENDERES",
-      "province": null,
-      "fill_percentage": 74.2,
-      "measured_date": "24 Temmuz 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": null
     },
     {
@@ -144,7 +128,7 @@
       "havza": "Doğu Akdeniz",
       "province": "İÇEL",
       "fill_percentage": 72.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 15.0
     },
     {
@@ -152,7 +136,7 @@
       "havza": "Antalya",
       "province": "ANTALYA",
       "fill_percentage": 72.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 540.0
     },
     {
@@ -160,7 +144,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 71.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 95.0
     },
     {
@@ -168,7 +152,7 @@
       "havza": "Doğu Akdeniz",
       "province": "KARAMAN",
       "fill_percentage": 71.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 302.4
     },
     {
@@ -176,7 +160,7 @@
       "havza": "Seyhan",
       "province": "KAYSERİ",
       "fill_percentage": 70.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 5.0
     },
     {
@@ -184,7 +168,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 70.2,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 122.2
     },
     {
@@ -192,7 +176,7 @@
       "havza": "Kızılırmak",
       "province": "KAYSERİ",
       "fill_percentage": 69.2,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 100.0
     },
     {
@@ -200,7 +184,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 68.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 54.0
     },
     {
@@ -208,7 +192,7 @@
       "havza": "Yeşilırmak",
       "province": "SAMSUN",
       "fill_percentage": 68.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 69.0
     },
     {
@@ -216,7 +200,7 @@
       "havza": "Asi",
       "province": "HATAY",
       "fill_percentage": 66.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 3.3
     },
     {
@@ -224,7 +208,7 @@
       "havza": "Yeşilırmak",
       "province": "TOKAT",
       "fill_percentage": 66.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 27.0
     },
     {
@@ -232,7 +216,7 @@
       "havza": "Kızılırmak",
       "province": "SAMSUN",
       "fill_percentage": 65.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 56.4
     },
     {
@@ -240,7 +224,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 63.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 283.5
     },
     {
@@ -248,7 +232,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 63.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 76.0
     },
     {
@@ -256,7 +240,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 63.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 69.3
     },
     {
@@ -264,7 +248,7 @@
       "havza": "Yeşilırmak",
       "province": "SİVAS",
       "fill_percentage": 63.2,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 124.0
     },
     {
@@ -272,7 +256,7 @@
       "havza": "Sakarya",
       "province": "ESKİŞEHİR",
       "fill_percentage": 63.1,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 160.0
     },
     {
@@ -280,7 +264,7 @@
       "havza": "Ceyhan",
       "province": "ADANA",
       "fill_percentage": 62.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 4.8
     },
     {
@@ -288,7 +272,7 @@
       "havza": "Van Gölü",
       "province": "VAN",
       "fill_percentage": 62.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 4.5
     },
     {
@@ -296,7 +280,7 @@
       "havza": "Kızılırmak",
       "province": null,
       "fill_percentage": 62.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": null
     },
     {
@@ -304,23 +288,15 @@
       "havza": "Sakarya",
       "province": "ANKARA",
       "fill_percentage": 61.1,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 39.6
-    },
-    {
-      "name": "ALAÇATI KUTLU AKTAŞ BARAJI",
-      "havza": "KÜÇÜK MENDERES",
-      "province": null,
-      "fill_percentage": 60.4,
-      "measured_date": "24 Temmuz 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "ALAKÖPRÜ",
       "havza": "Doğu Akdeniz",
       "province": "İÇEL",
       "fill_percentage": 58.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 32.0
     },
     {
@@ -328,7 +304,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 57.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 4.0
     },
     {
@@ -336,7 +312,7 @@
       "havza": "Kızılırmak",
       "province": "NEVŞEHİR",
       "fill_percentage": 57.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 48.5
     },
     {
@@ -344,7 +320,7 @@
       "havza": "Ceyhan",
       "province": "ADANA",
       "fill_percentage": 57.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 138.0
     },
     {
@@ -352,7 +328,7 @@
       "havza": "Sakarya",
       "province": "ANKARA",
       "fill_percentage": 56.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 97.0
     },
     {
@@ -360,7 +336,7 @@
       "havza": "Batı Karadeniz",
       "province": "BOLU",
       "fill_percentage": 55.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 74.0
     },
     {
@@ -368,7 +344,7 @@
       "havza": "Doğu Akdeniz",
       "province": "İÇEL",
       "fill_percentage": 55.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 159.4
     },
     {
@@ -376,7 +352,7 @@
       "havza": "Doğu Karadeniz",
       "province": "GÜMÜŞHANE",
       "fill_percentage": 54.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 232.0
     },
     {
@@ -384,7 +360,7 @@
       "havza": "Yeşilırmak",
       "province": "SİVAS",
       "fill_percentage": 54.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 1.1
     },
     {
@@ -392,7 +368,7 @@
       "havza": "Sakarya",
       "province": "ESKİŞEHİR",
       "fill_percentage": 53.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 278.4
     },
     {
@@ -400,7 +376,7 @@
       "havza": "Yeşilırmak",
       "province": "SAMSUN",
       "fill_percentage": 53.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 500.0
     },
     {
@@ -408,7 +384,7 @@
       "havza": "Büyük Menderes",
       "province": "AYDIN",
       "fill_percentage": 52.1,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 47.2
     },
     {
@@ -416,7 +392,7 @@
       "havza": "Seyhan",
       "province": "KAYSERİ",
       "fill_percentage": 52.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 4.0
     },
     {
@@ -424,7 +400,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 51.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 199.0
     },
     {
@@ -432,23 +408,15 @@
       "havza": "Kızılırmak",
       "province": "ANKARA",
       "fill_percentage": 50.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 128.0
-    },
-    {
-      "name": "TAHTALI BARAJI",
-      "havza": "KÜÇÜK MENDERES",
-      "province": null,
-      "fill_percentage": 50.6,
-      "measured_date": "24 Temmuz 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "MANYAS",
       "havza": "Susurluk",
       "province": "BALIKESİR",
       "fill_percentage": 49.2,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 19.0
     },
     {
@@ -456,7 +424,7 @@
       "havza": "Ceyhan",
       "province": "KAHRAMANMARAŞ",
       "fill_percentage": 47.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 8.0
     },
     {
@@ -464,7 +432,7 @@
       "havza": "Doğu Karadeniz",
       "province": "GÜMÜŞHANE",
       "fill_percentage": 47.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 80.0
     },
     {
@@ -472,7 +440,7 @@
       "havza": "Batı Akdeniz",
       "province": "ANTALYA",
       "fill_percentage": 45.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 4.8
     },
     {
@@ -480,7 +448,7 @@
       "havza": "Kızılırmak",
       "province": "ÇORUM",
       "fill_percentage": 43.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 202.8
     },
     {
@@ -488,7 +456,7 @@
       "havza": "Gediz",
       "province": "MANİSA",
       "fill_percentage": 43.2,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 69.0
     },
     {
@@ -496,7 +464,7 @@
       "havza": "Antalya",
       "province": "BURDUR",
       "fill_percentage": 42.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 32.0
     },
     {
@@ -504,23 +472,15 @@
       "havza": "Kızılırmak",
       "province": "SAMSUN",
       "fill_percentage": 41.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 700.0
-    },
-    {
-      "name": "GÜRSÖĞÜT-1 BARAJI",
-      "havza": "Sakarya",
-      "province": "ANKARA",
-      "fill_percentage": 40.4,
-      "measured_date": "08 Nisan 2026",
-      "hes_capacity_mw": 39.6
     },
     {
       "name": "TOPÇAM-ORDU",
       "havza": "Doğu Karadeniz",
       "province": "ORDU",
       "fill_percentage": 40.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 60.0
     },
     {
@@ -528,7 +488,7 @@
       "havza": "Doğu Akdeniz",
       "province": "ANTALYA",
       "fill_percentage": 39.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 2.5
     },
     {
@@ -536,7 +496,7 @@
       "havza": "Kızılırmak",
       "province": "ÇANKIRI",
       "fill_percentage": 38.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 1.2
     },
     {
@@ -544,23 +504,15 @@
       "havza": "Susurluk",
       "province": "BURSA",
       "fill_percentage": 37.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 100.0
-    },
-    {
-      "name": "GÖRDES BARAJI",
-      "havza": "GEDİZ",
-      "province": null,
-      "fill_percentage": 36.1,
-      "measured_date": "24 Temmuz 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "BOĞAZKÖY",
       "havza": "Sakarya",
       "province": "BURSA",
       "fill_percentage": 35.7,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 10.6
     },
     {
@@ -568,7 +520,7 @@
       "havza": "Doğu Akdeniz",
       "province": "İÇEL",
       "fill_percentage": 35.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 10.2
     },
     {
@@ -576,7 +528,7 @@
       "havza": "Doğu Akdeniz",
       "province": null,
       "fill_percentage": 33.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": null
     },
     {
@@ -584,7 +536,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 32.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 185.8
     },
     {
@@ -592,7 +544,7 @@
       "havza": "Kızılırmak",
       "province": "ÇORUM",
       "fill_percentage": 29.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 103.0
     },
     {
@@ -600,7 +552,7 @@
       "havza": "Doğu Akdeniz",
       "province": null,
       "fill_percentage": 28.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": null
     },
     {
@@ -608,7 +560,7 @@
       "havza": "Susurluk",
       "province": "BALIKESİR",
       "fill_percentage": 28.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 4.6
     },
     {
@@ -616,7 +568,7 @@
       "havza": "Batı Karadeniz",
       "province": "DÜZCE",
       "fill_percentage": 25.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 9.4
     },
     {
@@ -624,7 +576,7 @@
       "havza": "Sakarya",
       "province": "ANKARA",
       "fill_percentage": 25.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 18.5
     },
     {
@@ -632,7 +584,7 @@
       "havza": "Büyük Menderes",
       "province": "DENİZLİ",
       "fill_percentage": 23.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 27.8
     },
     {
@@ -640,7 +592,7 @@
       "havza": "Van Gölü",
       "province": "VAN",
       "fill_percentage": 21.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 3.4
     },
     {
@@ -648,7 +600,7 @@
       "havza": "Büyük Menderes",
       "province": "AYDIN",
       "fill_percentage": 21.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 48.0
     },
     {
@@ -656,7 +608,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 19.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 155.8
     },
     {
@@ -664,7 +616,7 @@
       "havza": "Batı Karadeniz",
       "province": "KASTAMONU",
       "fill_percentage": 19.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 5.0
     },
     {
@@ -672,7 +624,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 17.9,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 168.9
     },
     {
@@ -680,7 +632,7 @@
       "havza": "Susurluk",
       "province": "BURSA",
       "fill_percentage": 15.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 28.9
     },
     {
@@ -688,7 +640,7 @@
       "havza": "Marmara",
       "province": "BALIKESİR",
       "fill_percentage": 15.3,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 10.6
     },
     {
@@ -696,7 +648,7 @@
       "havza": "Batı Akdeniz",
       "province": "MUĞLA",
       "fill_percentage": 15.2,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 60.0
     },
     {
@@ -704,7 +656,7 @@
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 14.6,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 86.8
     },
     {
@@ -712,23 +664,15 @@
       "havza": "Kuzey Ege",
       "province": "ÇANAKKALE",
       "fill_percentage": 10.8,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 1.8
-    },
-    {
-      "name": "ALADEREÇAM",
-      "havza": "Doğu Karadeniz",
-      "province": "GÜMÜŞHANE",
-      "fill_percentage": 6.7,
-      "measured_date": "20 Ağustos 2026",
-      "hes_capacity_mw": 7.0
     },
     {
       "name": "TORUL",
       "havza": "Doğu Karadeniz",
       "province": "GÜMÜŞHANE",
       "fill_percentage": 2.5,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 103.2
     },
     {
@@ -736,39 +680,15 @@
       "havza": "Batı Karadeniz",
       "province": "BARTIN",
       "fill_percentage": 2.4,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 8.0
-    },
-    {
-      "name": "ADIGÜZEL-2 HES",
-      "havza": "Büyük Menderes",
-      "province": "DENİZLİ",
-      "fill_percentage": 0.2,
-      "measured_date": "22 Eylül 2026",
-      "hes_capacity_mw": 30.1
-    },
-    {
-      "name": "ADIGÜZEL",
-      "havza": "Büyük Menderes",
-      "province": "DENİZLİ",
-      "fill_percentage": 0.1,
-      "measured_date": "30 Haziran 2026",
-      "hes_capacity_mw": 62.0
-    },
-    {
-      "name": "AKKÖPRÜ",
-      "havza": "Batı Akdeniz",
-      "province": "MUĞLA",
-      "fill_percentage": 0.1,
-      "measured_date": "16 Eylül 2026",
-      "hes_capacity_mw": 118.6
     },
     {
       "name": "YENİCE",
       "havza": "Sakarya",
       "province": "ESKİŞEHİR",
       "fill_percentage": 0.0,
-      "measured_date": "25 Eylül 2026",
+      "measured_date": "28 Eylül 2026",
       "hes_capacity_mw": 37.9
     }
   ],

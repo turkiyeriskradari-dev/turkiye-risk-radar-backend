@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T16:53:01.118910+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-28T17:03:15.367802+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -652,26 +652,6 @@
       "latitude": 38.7812,
       "longitude": 42.4138,
       "location_name": "Bitlis"
-    },
-    {
-      "id": "k65UEzM0D6fwx",
-      "title": "HAKVERDI-ARGUVAN (MALATYA)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-09-27 19:56:59",
-      "latitude": 38.8237,
-      "longitude": 38.1392,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "5gwllIUYKqV3m",
-      "title": "KISACIKLI-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 7,
-      "date_utc": "2026-09-27 19:56:10",
-      "latitude": 37.7847,
-      "longitude": 35.8632,
-      "location_name": "Adana"
     }
   ]
 }
