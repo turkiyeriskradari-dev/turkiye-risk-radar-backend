@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T00:32:01.750317+00:00",
-  "record_count": 62,
+  "last_updated": "2026-09-28T00:54:05.122134+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "AmOeGO2txCmxZ",
+      "title": "KARSIYAKA-PUTURGE (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 14.8,
+      "date_utc": "2026-09-28 03:41:45",
+      "latitude": 38.2952,
+      "longitude": 38.7712,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "hcsO1tKIFmkkE",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-28 03:36:02",
+      "latitude": 37.9295,
+      "longitude": 27.146,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "ol63lDYsOOmrL",
+      "title": "KARAAHMET-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 8.6,
+      "date_utc": "2026-09-28 03:35:26",
+      "latitude": 38.0028,
+      "longitude": 36.5813,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "Fb2YJpM0o7Lj_",
       "title": "BEYDILI-(KARAMAN)",
@@ -62,6 +92,16 @@
       "latitude": 38.2375,
       "longitude": 38.0727,
       "location_name": "Malatya"
+    },
+    {
+      "id": "E12YRNTeHHnUX",
+      "title": "CAMOLUK-SUNGURLU (CORUM)",
+      "magnitude": 1.5,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-28 02:35:48",
+      "latitude": 39.9868,
+      "longitude": 34.293,
+      "location_name": "Çorum"
     },
     {
       "id": "m4a_CtxUVG5fk",
@@ -612,16 +652,6 @@
       "latitude": 39.3233,
       "longitude": 27.3673,
       "location_name": "İzmir"
-    },
-    {
-      "id": "QOUbQ9rUWjlKb",
-      "title": "DOGU AKDENIZ",
-      "magnitude": 1.6,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-27 03:47:55",
-      "latitude": 35.934,
-      "longitude": 35.0505,
-      "location_name": "Kıbrıs Açıkları"
     }
   ]
 }
