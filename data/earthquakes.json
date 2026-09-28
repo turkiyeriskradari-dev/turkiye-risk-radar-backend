@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T21:49:20.976709+00:00",
-  "record_count": 66,
+  "last_updated": "2026-09-28T22:02:05.942079+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "ynFvHajeH2Am0",
+      "title": "DEGIRMENOZU-(VAN)",
+      "magnitude": 2.8,
+      "depth_km": 6,
+      "date_utc": "2026-09-29 00:16:05",
+      "latitude": 38.7567,
+      "longitude": 43.5325,
+      "location_name": "Van"
+    },
+    {
+      "id": "fH482RhWkwwNp",
+      "title": "KEMER-BIGA (CANAKKALE)",
+      "magnitude": 1.9,
+      "depth_km": 14.4,
+      "date_utc": "2026-09-29 00:13:28",
+      "latitude": 40.4402,
+      "longitude": 27.0222,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "Z6tlg5O7vCRAE",
       "title": "KALEKOY-GOKCEADA (CANAKKALE)",
