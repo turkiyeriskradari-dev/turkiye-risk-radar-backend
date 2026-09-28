@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T14:56:28.499749+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-28T15:07:56.476620+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "VoJHEZqOkA1ar",
@@ -712,16 +712,6 @@
       "latitude": 37.0342,
       "longitude": 28.5023,
       "location_name": "Muğla"
-    },
-    {
-      "id": "BQpIKRv2RP07z",
-      "title": "BUYUKOBA-ILGIN (KONYA)",
-      "magnitude": 2.2,
-      "depth_km": 8.1,
-      "date_utc": "2026-09-27 17:58:56",
-      "latitude": 38.5118,
-      "longitude": 31.9572,
-      "location_name": "Konya"
     }
   ]
 }
