@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T09:26:03.098456+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-29T09:39:52.541608+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "oRf4rNPupncpi",
+      "title": "IMAMUSAGI-SILIFKE (MERSIN)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-29 12:17:57",
+      "latitude": 36.2785,
+      "longitude": 33.7538,
+      "location_name": "Mersin"
+    },
     {
       "id": "qQWB13uIzd68a",
       "title": "KARAKUYU-SAIMBEYLI (ADANA)",
@@ -662,26 +672,6 @@
       "latitude": 38.6375,
       "longitude": 31.004,
       "location_name": "Afyon"
-    },
-    {
-      "id": "4PdOcD_pVC12m",
-      "title": "BAGCILI-SUNGURLU (CORUM)",
-      "magnitude": 2,
-      "depth_km": 9.5,
-      "date_utc": "2026-09-28 12:35:07",
-      "latitude": 40.0783,
-      "longitude": 34.2438,
-      "location_name": "Çorum"
-    },
-    {
-      "id": "lIAXwSjzstels",
-      "title": "AKKAYA-FEKE (ADANA)",
-      "magnitude": 2.7,
-      "depth_km": 5,
-      "date_utc": "2026-09-28 12:29:22",
-      "latitude": 37.77,
-      "longitude": 35.8728,
-      "location_name": "Adana"
     }
   ]
 }
