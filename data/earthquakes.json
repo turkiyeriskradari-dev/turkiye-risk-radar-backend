@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T22:02:05.914710+00:00",
-  "record_count": 79,
+  "last_updated": "2026-09-29T22:24:03.074100+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "_hTZdVnNbRekk",
+      "title": "AKTARLA-DOGUBAYAZIT (AGRI)",
+      "magnitude": 1.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-30 01:15:35",
+      "latitude": 39.701,
+      "longitude": 43.5932,
+      "location_name": "Ağrı"
+    },
+    {
+      "id": "YucDICW6se3PW",
+      "title": "KALEM-MILAS (MUGLA)",
+      "magnitude": 0.9,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-30 01:02:49",
+      "latitude": 37.087,
+      "longitude": 28.002,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "YPVY2ja_GEAIq",
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.3,
+      "depth_km": 12.2,
+      "date_utc": "2026-09-30 00:52:20",
+      "latitude": 39.2352,
+      "longitude": 28.1312,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "MJ2R4pdZqUc6i",
+      "title": "YIGITLER-TEKMAN (ERZURUM)",
+      "magnitude": 1.2,
+      "depth_km": 18.5,
+      "date_utc": "2026-09-30 00:50:45",
+      "latitude": 39.5277,
+      "longitude": 41.1408,
+      "location_name": "Erzurum"
+    },
     {
       "id": "7359lMj1Qwa2J",
       "title": "YENIKOY-(MUGLA)",
@@ -772,26 +812,6 @@
       "latitude": 37.8842,
       "longitude": 36.6115,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "uDceZuJeMNdGN",
-      "title": "GULUMUSAGI-(MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 17.6,
-      "date_utc": "2026-09-29 01:21:29",
-      "latitude": 38.2145,
-      "longitude": 38.488,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "fK82NR6RjH84H",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 7.8,
-      "date_utc": "2026-09-29 01:11:48",
-      "latitude": 35.3407,
-      "longitude": 27.6685,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
