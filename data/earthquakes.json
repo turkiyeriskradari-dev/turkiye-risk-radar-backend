@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T03:25:03.811383+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-29T03:38:26.633522+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "oQ5uvttT8hAUI",
+      "title": "KECELER-GONEN (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 13.7,
+      "date_utc": "2026-09-29 06:30:06",
+      "latitude": 40.063,
+      "longitude": 27.6623,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "eGIaojdjrtmtt",
+      "title": "KALEM-MILAS (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 13.9,
+      "date_utc": "2026-09-29 06:27:07",
+      "latitude": 37.0833,
+      "longitude": 28.0022,
+      "location_name": "Muğla"
+    },
     {
       "id": "3PREWzEWkUgOm",
       "title": "KEMER-BIGA (CANAKKALE)",
@@ -692,16 +712,6 @@
       "latitude": 39.0868,
       "longitude": 32.3245,
       "location_name": "Ankara"
-    },
-    {
-      "id": "Jc_Xc3HKHoA03",
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 14.3,
-      "date_utc": "2026-09-28 06:36:54",
-      "latitude": 38.379,
-      "longitude": 37.401,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
