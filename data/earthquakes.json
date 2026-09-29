@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T06:47:17.052297+00:00",
+  "last_updated": "2026-09-29T07:05:17.360342+00:00",
   "record_count": 72,
   "data": [
+    {
+      "id": "3adijfmz8A3NO",
+      "title": "KALEM-MILAS (MUGLA)",
+      "magnitude": 2,
+      "depth_km": 11.4,
+      "date_utc": "2026-09-29 09:43:22",
+      "latitude": 37.093,
+      "longitude": 28.006,
+      "location_name": "Muğla"
+    },
     {
       "id": "4dgWvSNXBYz1X",
       "title": "ORENTAS-KOPRUKOY (ERZURUM)",
@@ -711,16 +721,6 @@
       "date_utc": "2026-09-28 10:15:32",
       "latitude": 39.3378,
       "longitude": 26.0345,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "rzk7fhLnjaStA",
-      "title": "COKERTME-MILAS (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 11.7,
-      "date_utc": "2026-09-28 09:58:10",
-      "latitude": 36.9855,
-      "longitude": 27.7967,
       "location_name": "Ege Denizi"
     }
   ]
