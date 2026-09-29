@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T17:37:21.409018+00:00",
+  "last_updated": "2026-09-29T17:51:44.684262+00:00",
   "record_count": 72,
   "data": [
+    {
+      "id": "XHgmDyBLcIx7f",
+      "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
+      "magnitude": 2.2,
+      "depth_km": 3.2,
+      "date_utc": "2026-09-29 20:38:52",
+      "latitude": 38.0092,
+      "longitude": 37.7045,
+      "location_name": "Malatya"
+    },
     {
       "id": "tCdeOiDusVfUA",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -712,16 +722,6 @@
       "latitude": 35.9278,
       "longitude": 28.0787,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "oDHJ_O2knh0QL",
-      "title": "KASPINAR-AGIN (ELAZIG)",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-09-28 20:42:00",
-      "latitude": 38.9095,
-      "longitude": 38.751,
-      "location_name": "Elazığ"
     }
   ]
 }
