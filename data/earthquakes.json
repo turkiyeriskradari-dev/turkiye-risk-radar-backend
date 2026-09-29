@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T00:54:44.002621+00:00",
+  "last_updated": "2026-09-29T01:04:36.055546+00:00",
   "record_count": 63,
   "data": [
+    {
+      "id": "reua0XgnQiC15",
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 0.9,
+      "depth_km": 13,
+      "date_utc": "2026-09-29 03:47:40",
+      "latitude": 39.1665,
+      "longitude": 28.2297,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "AIsLa1PH7bDSi",
       "title": "KARACAY-HONAZ (DENIZLI)",
@@ -622,16 +632,6 @@
       "latitude": 40.829,
       "longitude": 34.7925,
       "location_name": "Çorum"
-    },
-    {
-      "id": "bmi33X3tPX4za",
-      "title": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-      "magnitude": 1,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-28 03:56:58",
-      "latitude": 38.091,
-      "longitude": 37.3792,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
