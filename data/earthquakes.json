@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T20:03:34.181534+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-29T20:25:21.734588+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "xt6mMNCxsu5la",
+      "title": "BARIS-NURHAK (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 4.2,
+      "date_utc": "2026-09-29 23:01:28",
+      "latitude": 38.012,
+      "longitude": 37.4082,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "NPSfQMUbdjg6H",
       "title": "SANLIYURT-ALTINTAS (KUTAHYA)",
@@ -112,6 +122,16 @@
       "latitude": 38.117,
       "longitude": 36.5998,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "efJuaGxlLVrH6",
+      "title": "KAYNAK-KARLIOVA (BINGOL)",
+      "magnitude": 1.9,
+      "depth_km": 12.8,
+      "date_utc": "2026-09-29 17:06:25",
+      "latitude": 39.2843,
+      "longitude": 40.8612,
+      "location_name": "Bingöl"
     },
     {
       "id": "o6vOgSqNQg3HN",
