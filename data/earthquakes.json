@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T09:53:32.605773+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-29T10:03:24.334629+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "n5_0QqLYALLg_",
@@ -672,16 +672,6 @@
       "latitude": 37.7598,
       "longitude": 35.9263,
       "location_name": "Adana"
-    },
-    {
-      "id": "5MuCNSwNLiRpb",
-      "title": "CAY (AFYONKARAHISAR)",
-      "magnitude": 1.7,
-      "depth_km": 8.2,
-      "date_utc": "2026-09-28 12:59:06",
-      "latitude": 38.6375,
-      "longitude": 31.004,
-      "location_name": "Afyon"
     }
   ]
 }
