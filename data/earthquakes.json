@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-28T23:49:30.686087+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-29T00:02:45.487481+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "gFuNEgyJwY_ss",
@@ -621,16 +621,6 @@
       "date_utc": "2026-09-28 03:10:27",
       "latitude": 37.3463,
       "longitude": 33.2707,
-      "location_name": "Karaman"
-    },
-    {
-      "id": "bmtLtSTUz0LoT",
-      "title": "DINEK-(KARAMAN)",
-      "magnitude": 2.1,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-28 02:59:13",
-      "latitude": 37.359,
-      "longitude": 33.2595,
       "location_name": "Karaman"
     }
   ]
