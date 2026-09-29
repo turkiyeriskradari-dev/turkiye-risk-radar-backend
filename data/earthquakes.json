@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T10:39:49.511535+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-29T10:52:55.570214+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "2s6mEnoySdK2t",
+      "title": "ADALAR (ISTANBUL)",
+      "magnitude": 1.6,
+      "depth_km": 11.8,
+      "date_utc": "2026-09-29 13:29:44",
+      "latitude": 40.788,
+      "longitude": 29.0853,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "1QxEsCA10naVN",
       "title": "KALEM-MILAS (MUGLA)",
