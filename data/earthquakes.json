@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T08:26:47.897565+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-29T08:40:33.954281+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "nXiOvl_FBYR2A",
+      "title": "BUYUKYAYLAKOYU-CAYIRLI (ERZINCAN)",
+      "magnitude": 2.2,
+      "depth_km": 12.1,
+      "date_utc": "2026-09-29 11:27:16",
+      "latitude": 39.7198,
+      "longitude": 39.9512,
+      "location_name": "Erzincan"
+    },
     {
       "id": "Gv5GnNvKfVKEO",
       "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
