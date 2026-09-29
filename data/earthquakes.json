@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T02:49:56.753998+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-29T03:02:48.408596+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "3PREWzEWkUgOm",
+      "title": "KEMER-BIGA (CANAKKALE)",
+      "magnitude": 1.7,
+      "depth_km": 11.8,
+      "date_utc": "2026-09-29 05:52:40",
+      "latitude": 40.4403,
+      "longitude": 27.0455,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "awnfrkrtEC9o1",
+      "title": "DUTLUCA-BURHANIYE (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 17.4,
+      "date_utc": "2026-09-29 05:43:39",
+      "latitude": 39.4915,
+      "longitude": 27.0607,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "bCQGZ1dAATcKE",
       "title": "KARAPINAR (KONYA)",
@@ -692,16 +712,6 @@
       "latitude": 38.0233,
       "longitude": 37.5472,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "n0XKK7gmj8Ak8",
-      "title": "SAZAK-KOYCEGIZ (MUGLA)",
-      "magnitude": 1,
-      "depth_km": 17.1,
-      "date_utc": "2026-09-28 05:52:32",
-      "latitude": 36.9723,
-      "longitude": 28.894,
-      "location_name": "Muğla"
     }
   ]
 }
