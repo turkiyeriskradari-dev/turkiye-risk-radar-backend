@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T18:04:27.102302+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-29T18:28:39.392877+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "XHgmDyBLcIx7f",
@@ -712,16 +712,6 @@
       "latitude": 38.0508,
       "longitude": 38.2495,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "jc7G63gPL_w7n",
-      "title": "AKDENIZ",
-      "magnitude": 2,
-      "depth_km": 7.7,
-      "date_utc": "2026-09-28 21:12:00",
-      "latitude": 35.9278,
-      "longitude": 28.0787,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
