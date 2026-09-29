@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T01:35:17.322888+00:00",
-  "record_count": 65,
+  "last_updated": "2026-09-29T01:51:54.642922+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "6M2MNOvpFxC49",
+      "title": "KARAKENT-DOGUBAYAZIT (AGRI)",
+      "magnitude": 1.7,
+      "depth_km": 8,
+      "date_utc": "2026-09-29 04:29:36",
+      "latitude": 39.4398,
+      "longitude": 43.9693,
+      "location_name": "Ağrı"
+    },
+    {
+      "id": "MXapeNRFfZQn1",
+      "title": "KUCUKGECIT-ASKALE (ERZURUM)",
+      "magnitude": 1.1,
+      "depth_km": 16.5,
+      "date_utc": "2026-09-29 04:22:12",
+      "latitude": 39.9412,
+      "longitude": 40.7922,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "VxqX2fe0ILEtq",
+      "title": "KARAKUZU-ALIAGA (IZMIR)",
+      "magnitude": 1.3,
+      "depth_km": 4.6,
+      "date_utc": "2026-09-29 04:17:24",
+      "latitude": 38.7662,
+      "longitude": 27.1122,
+      "location_name": "İzmir"
+    },
     {
       "id": "xEUHRoDSK8WFI",
       "title": "KILCANLAR-GOLMARMARA (MANISA)",
