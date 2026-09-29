@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T11:02:42.421458+00:00",
+  "last_updated": "2026-09-29T11:23:51.043885+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "qJMGjrqJNGrc2",
+      "title": "ZAHMAN-(USAK)",
+      "magnitude": 1.5,
+      "depth_km": 12.4,
+      "date_utc": "2026-09-29 14:03:02",
+      "latitude": 38.8402,
+      "longitude": 29.1257,
+      "location_name": "Kütahya"
+    },
     {
       "id": "2s6mEnoySdK2t",
       "title": "ADALAR (ISTANBUL)",
@@ -682,16 +692,6 @@
       "latitude": 40.7357,
       "longitude": 27.5202,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "EFamQHIoVfWfk",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 2.2,
-      "depth_km": 3.6,
-      "date_utc": "2026-09-28 14:05:42",
-      "latitude": 37.9727,
-      "longitude": 27.205,
-      "location_name": "Ege Denizi"
     }
   ]
 }
