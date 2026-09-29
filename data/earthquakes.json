@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T23:33:57.901132+00:00",
-  "record_count": 78,
+  "last_updated": "2026-09-29T23:48:33.029488+00:00",
+  "record_count": 76,
   "data": [
     {
       "id": "qCwAnCeHDxoL0",
@@ -762,26 +762,6 @@
       "latitude": 39.2248,
       "longitude": 28.1328,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "KHzczyvoiDpPj",
-      "title": "UZUNARK-PASINLER (ERZURUM)",
-      "magnitude": 1.2,
-      "depth_km": 18.5,
-      "date_utc": "2026-09-29 02:45:20",
-      "latitude": 39.9123,
-      "longitude": 41.7912,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "gFuNEgyJwY_ss",
-      "title": "YENILER-SIMAV (KUTAHYA)",
-      "magnitude": 2.1,
-      "depth_km": 13,
-      "date_utc": "2026-09-29 02:40:32",
-      "latitude": 39.2412,
-      "longitude": 28.95,
-      "location_name": "Kütahya"
     }
   ]
 }
