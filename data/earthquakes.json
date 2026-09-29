@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T16:27:28.927886+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-29T16:41:23.399397+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "iiO1xc1oHuoXt",
+      "title": "SURGUDEN-GOLE (ARDAHAN)",
+      "magnitude": 1.8,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-29 19:08:52",
+      "latitude": 40.9407,
+      "longitude": 42.6467,
+      "location_name": "Ardahan"
+    },
     {
       "id": "yv4HIxBvwZtuD",
       "title": "GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)",
