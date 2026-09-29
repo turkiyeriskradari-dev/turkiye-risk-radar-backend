@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T05:02:39.731695+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-29T05:24:02.107497+00:00",
+  "record_count": 72,
   "data": [
     {
       "id": "kECqwzL_IrtxS",
@@ -722,16 +722,6 @@
       "latitude": 35.811,
       "longitude": 26.7693,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "qAD7CGUYdj1oi",
-      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-28 08:04:13",
-      "latitude": 38.2167,
-      "longitude": 37.7813,
-      "location_name": "Malatya"
     }
   ]
 }
