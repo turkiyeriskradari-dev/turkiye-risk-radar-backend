@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T14:26:36.083889+00:00",
+  "last_updated": "2026-09-29T14:40:18.057683+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "DU8Dy6bjubjRK",
+      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-29 17:13:51",
+      "latitude": 38.117,
+      "longitude": 36.5998,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "o6vOgSqNQg3HN",
       "title": "AKYUREK-PALU (ELAZIG)",
@@ -682,16 +692,6 @@
       "latitude": 37.1053,
       "longitude": 27.9745,
       "location_name": "Muğla"
-    },
-    {
-      "id": "HiNvQDe86vGUe",
-      "title": "HARUNUSAGI-AKCADAG (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 14.6,
-      "date_utc": "2026-09-28 17:26:22",
-      "latitude": 38.2328,
-      "longitude": 37.7268,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
