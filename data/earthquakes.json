@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T12:31:03.284673+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-29T12:56:18.146642+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "nafuy7mbR7NGO",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 11.1,
+      "date_utc": "2026-09-29 14:51:53",
+      "latitude": 36.8973,
+      "longitude": 27.637,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "qJMGjrqJNGrc2",
       "title": "ZAHMAN-(USAK)",
@@ -32,6 +42,16 @@
       "latitude": 37.107,
       "longitude": 28.0043,
       "location_name": "Muğla"
+    },
+    {
+      "id": "HTj_eLw8OnP_s",
+      "title": "SELCIK-OSMANELI (BILECIK)",
+      "magnitude": 1.5,
+      "depth_km": 5.2,
+      "date_utc": "2026-09-29 13:17:05",
+      "latitude": 40.3995,
+      "longitude": 30.005,
+      "location_name": "Bilecik"
     },
     {
       "id": "5QestDaMVEgyd",
@@ -672,16 +692,6 @@
       "latitude": 38.2163,
       "longitude": 31.0463,
       "location_name": "Isparta"
-    },
-    {
-      "id": "Lo5ca25fztWd5",
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "magnitude": 2,
-      "depth_km": 3.8,
-      "date_utc": "2026-09-28 15:33:41",
-      "latitude": 40.7412,
-      "longitude": 27.4997,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
