@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T20:25:21.734588+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-29T20:38:16.999127+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "xt6mMNCxsu5la",
@@ -112,6 +112,26 @@
       "latitude": 37.0978,
       "longitude": 28.002,
       "location_name": "Muğla"
+    },
+    {
+      "id": "RovjTMkAPbaPU",
+      "title": "KARGALI-GOLHISAR (BURDUR)",
+      "magnitude": 1.4,
+      "depth_km": 24,
+      "date_utc": "2026-09-29 17:53:38",
+      "latitude": 37.082,
+      "longitude": 29.5847,
+      "location_name": "Burdur"
+    },
+    {
+      "id": "AJBO22yQsImnO",
+      "title": "BEDESTEN-YAHSIHAN (KIRIKKALE)",
+      "magnitude": 1,
+      "depth_km": 5,
+      "date_utc": "2026-09-29 17:24:53",
+      "latitude": 39.804,
+      "longitude": 33.4062,
+      "location_name": "Ankara"
     },
     {
       "id": "DU8Dy6bjubjRK",
