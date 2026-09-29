@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T10:03:24.334629+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-29T10:26:14.006497+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "5QestDaMVEgyd",
+      "title": "KALEM-MILAS (MUGLA)",
+      "magnitude": 1.5,
+      "depth_km": 0,
+      "date_utc": "2026-09-29 13:08:34",
+      "latitude": 37.0925,
+      "longitude": 28.0025,
+      "location_name": "Muğla"
+    },
     {
       "id": "n5_0QqLYALLg_",
       "title": "AKDENIZ",
