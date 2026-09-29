@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T07:38:36.741561+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-29T07:52:15.979184+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "k5fmqXnLzMEL4",
@@ -702,16 +702,6 @@
       "latitude": 40.7338,
       "longitude": 27.5015,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "cvn1XfuhOUaP_",
-      "title": "DOGUSBELEN-KOYCEGIZ (MUGLA)",
-      "magnitude": 2.6,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-28 10:40:13",
-      "latitude": 36.9543,
-      "longitude": 28.5535,
-      "location_name": "Muğla"
     }
   ]
 }
