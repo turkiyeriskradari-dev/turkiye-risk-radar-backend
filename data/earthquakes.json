@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T07:26:05.556865+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-29T07:38:36.741561+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "k5fmqXnLzMEL4",
@@ -22,6 +22,16 @@
       "latitude": 37.093,
       "longitude": 28.006,
       "location_name": "Muğla"
+    },
+    {
+      "id": "9yvBxWrgLLXs_",
+      "title": "KIZILAGIL-(BOLU)",
+      "magnitude": 1.2,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-29 09:39:51",
+      "latitude": 40.7905,
+      "longitude": 31.5235,
+      "location_name": "Bolu"
     },
     {
       "id": "4dgWvSNXBYz1X",
