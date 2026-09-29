@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T15:05:54.740702+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-29T15:27:40.183323+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "yv4HIxBvwZtuD",
+      "title": "GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 11,
+      "date_utc": "2026-09-29 18:11:09",
+      "latitude": 38.0837,
+      "longitude": 37.2427,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "2JEORDQBNkVAh",
+      "title": "KALEM-MILAS (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 9.2,
+      "date_utc": "2026-09-29 17:58:47",
+      "latitude": 37.0978,
+      "longitude": 28.002,
+      "location_name": "Muğla"
+    },
     {
       "id": "DU8Dy6bjubjRK",
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
