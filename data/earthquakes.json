@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T06:03:18.338198+00:00",
-  "record_count": 71,
+  "last_updated": "2026-09-29T06:29:49.881587+00:00",
+  "record_count": 72,
   "data": [
+    {
+      "id": "4dgWvSNXBYz1X",
+      "title": "ORENTAS-KOPRUKOY (ERZURUM)",
+      "magnitude": 1.7,
+      "depth_km": 2.8,
+      "date_utc": "2026-09-29 08:46:49",
+      "latitude": 40.0867,
+      "longitude": 41.8552,
+      "location_name": "Erzurum"
+    },
     {
       "id": "5qgyXEj6aaoTt",
       "title": "AKDENIZ",
@@ -12,6 +22,16 @@
       "latitude": 35.5225,
       "longitude": 35.3062,
       "location_name": "Akdeniz Açıkları (Suriye)"
+    },
+    {
+      "id": "mX74EAB_ZSco1",
+      "title": "KEMER-BIGA (CANAKKALE)",
+      "magnitude": 1.7,
+      "depth_km": 14.7,
+      "date_utc": "2026-09-29 08:27:27",
+      "latitude": 40.4365,
+      "longitude": 27.0165,
+      "location_name": "Marmara Denizi"
     },
     {
       "id": "kECqwzL_IrtxS",
@@ -702,16 +722,6 @@
       "latitude": 36.9855,
       "longitude": 27.7967,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "L0D96DXbovX3u",
-      "title": "DUMANKOY-DINAR (AFYONKARAHISAR)",
-      "magnitude": 1.3,
-      "depth_km": 2.5,
-      "date_utc": "2026-09-28 09:25:29",
-      "latitude": 38.1702,
-      "longitude": 30.0265,
-      "location_name": "Afyon"
     }
   ]
 }
