@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T19:50:58.039079+00:00",
+  "last_updated": "2026-09-29T20:03:34.181534+00:00",
   "record_count": 70,
   "data": [
+    {
+      "id": "NPSfQMUbdjg6H",
+      "title": "SANLIYURT-ALTINTAS (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 7,
+      "date_utc": "2026-09-29 22:33:21",
+      "latitude": 39.0663,
+      "longitude": 29.9365,
+      "location_name": "Kütahya"
+    },
     {
       "id": "ljOkdlokPrhll",
       "title": "YESILDERE-SIMAV (KUTAHYA)",
@@ -692,16 +702,6 @@
       "latitude": 40.4402,
       "longitude": 27.0222,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "Z6tlg5O7vCRAE",
-      "title": "KALEKOY-GOKCEADA (CANAKKALE)",
-      "magnitude": 1.5,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-28 22:53:57",
-      "latitude": 40.3878,
-      "longitude": 25.8935,
-      "location_name": "Ege Denizi"
     }
   ]
 }
