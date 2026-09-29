@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T16:54:51.316245+00:00",
+  "last_updated": "2026-09-29T17:03:10.562188+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "arzjEJ6UWmsCX",
+      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 10.3,
+      "date_utc": "2026-09-29 19:35:41",
+      "latitude": 40.7293,
+      "longitude": 27.4882,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "adE09SUrnUcMK",
       "title": "ISIKLI-YESILYURT (MALATYA)",
@@ -702,16 +712,6 @@
       "latitude": 38.9095,
       "longitude": 38.751,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "NN2e91IZkbQBC",
-      "title": "SOGUTLU-AKHISAR (MANISA)",
-      "magnitude": 1.7,
-      "depth_km": 10.6,
-      "date_utc": "2026-09-28 20:02:22",
-      "latitude": 39.1573,
-      "longitude": 28.0243,
-      "location_name": "Manisa"
     }
   ]
 }
