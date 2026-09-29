@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T13:08:02.517343+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-29T13:29:26.032405+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "o6vOgSqNQg3HN",
+      "title": "AKYUREK-PALU (ELAZIG)",
+      "magnitude": 2.3,
+      "depth_km": 3.9,
+      "date_utc": "2026-09-29 16:17:07",
+      "latitude": 38.5827,
+      "longitude": 39.9025,
+      "location_name": "Elazığ"
+    },
     {
       "id": "nafuy7mbR7NGO",
       "title": "GOKOVA KORFEZI (EGE DENIZI)",
