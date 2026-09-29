@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T08:04:17.244596+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-29T08:26:47.897565+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "Gv5GnNvKfVKEO",
+      "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 14,
+      "date_utc": "2026-09-29 11:04:41",
+      "latitude": 38.1533,
+      "longitude": 36.6225,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "k5fmqXnLzMEL4",
       "title": "AKDENIZ",
@@ -662,36 +672,6 @@
       "latitude": 39.366,
       "longitude": 26.0508,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "qdWQo1Yv2uYCB",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 2.9,
-      "depth_km": 8.6,
-      "date_utc": "2026-09-28 11:26:10",
-      "latitude": 39.3112,
-      "longitude": 26.066,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "BH9D8a4OAnSjL",
-      "title": "HAMITLI-KIRKAGAC (MANISA)",
-      "magnitude": 1.3,
-      "depth_km": 12.3,
-      "date_utc": "2026-09-28 11:24:04",
-      "latitude": 39.1532,
-      "longitude": 27.8022,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "reEPPNaIPHmsB",
-      "title": "BASMEZRA-PUTURGE (MALATYA)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-09-28 11:20:21",
-      "latitude": 38.1393,
-      "longitude": 38.673,
-      "location_name": "Malatya"
     }
   ]
 }
