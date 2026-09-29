@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T21:02:26.733152+00:00",
-  "record_count": 76,
+  "last_updated": "2026-09-29T21:23:51.122980+00:00",
+  "record_count": 75,
   "data": [
     {
       "id": "xt6mMNCxsu5la",
@@ -22,6 +22,16 @@
       "latitude": 39.0663,
       "longitude": 29.9365,
       "location_name": "Kütahya"
+    },
+    {
+      "id": "Ol4XMrAwvbHQW",
+      "title": "KARAAHMET-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 7.4,
+      "date_utc": "2026-09-29 22:00:38",
+      "latitude": 38.0098,
+      "longitude": 36.5603,
+      "location_name": "Kahramanmaraş"
     },
     {
       "id": "ljOkdlokPrhll",
@@ -742,26 +752,6 @@
       "latitude": 39.2205,
       "longitude": 28.0883,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "ynFvHajeH2Am0",
-      "title": "DEGIRMENOZU-(VAN)",
-      "magnitude": 2.8,
-      "depth_km": 6,
-      "date_utc": "2026-09-29 00:16:05",
-      "latitude": 38.7567,
-      "longitude": 43.5325,
-      "location_name": "Van"
-    },
-    {
-      "id": "fH482RhWkwwNp",
-      "title": "KEMER-BIGA (CANAKKALE)",
-      "magnitude": 1.9,
-      "depth_km": 14.4,
-      "date_utc": "2026-09-29 00:13:28",
-      "latitude": 40.4402,
-      "longitude": 27.0222,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
