@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T16:41:23.399397+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-29T16:54:51.316245+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "adE09SUrnUcMK",
+      "title": "ISIKLI-YESILYURT (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 5.9,
+      "date_utc": "2026-09-29 19:23:34",
+      "latitude": 38.2182,
+      "longitude": 38.1188,
+      "location_name": "Malatya"
+    },
     {
       "id": "iiO1xc1oHuoXt",
       "title": "SURGUDEN-GOLE (ARDAHAN)",
