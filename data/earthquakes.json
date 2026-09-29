@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T02:22:20.077570+00:00",
-  "record_count": 69,
+  "last_updated": "2026-09-29T02:35:44.228852+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "vT6EkMGuBzSgs",
+      "title": "GIRESUN ACIKLARI (KARADENIZ)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-29 04:58:24",
+      "latitude": 41.0805,
+      "longitude": 38.5502,
+      "location_name": "Karadeniz"
+    },
     {
       "id": "9zejo4C39sOjQ",
       "title": "DIMBAZLAR-BULDAN (DENIZLI)",
@@ -672,26 +682,6 @@
       "latitude": 36.9723,
       "longitude": 28.894,
       "location_name": "Muğla"
-    },
-    {
-      "id": "JP_xOIOVLInOr",
-      "title": "EGE DENIZI",
-      "magnitude": 2,
-      "depth_km": 6.9,
-      "date_utc": "2026-09-28 05:32:35",
-      "latitude": 36.0343,
-      "longitude": 26.8997,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "YBETjWvLxYB5e",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 9.7,
-      "date_utc": "2026-09-28 05:26:36",
-      "latitude": 39.2377,
-      "longitude": 29.0022,
-      "location_name": "Kütahya"
     }
   ]
 }
