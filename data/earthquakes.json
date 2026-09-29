@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T23:21:42.511847+00:00",
-  "record_count": 81,
+  "last_updated": "2026-09-29T23:33:57.901132+00:00",
+  "record_count": 78,
   "data": [
     {
       "id": "qCwAnCeHDxoL0",
@@ -782,36 +782,6 @@
       "latitude": 39.2412,
       "longitude": 28.95,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "CsboNg460TbLk",
-      "title": "MESUDIYE-SEYDISEHIR (KONYA)",
-      "magnitude": 1.5,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-29 02:29:33",
-      "latitude": 37.5882,
-      "longitude": 32.0858,
-      "location_name": "Konya"
-    },
-    {
-      "id": "BfN348g53tKZy",
-      "title": "ANTALYA KORFEZI (AKDENIZ)",
-      "magnitude": 1.6,
-      "depth_km": 7.1,
-      "date_utc": "2026-09-29 02:25:58",
-      "latitude": 36.1937,
-      "longitude": 31.3268,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "H8DL7qS9apV89",
-      "title": "SAHINKAYA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 8.4,
-      "date_utc": "2026-09-29 02:23:20",
-      "latitude": 39.1975,
-      "longitude": 28.043,
-      "location_name": "Balıkesir"
     }
   ]
 }
