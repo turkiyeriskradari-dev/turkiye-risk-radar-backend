@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T07:05:17.360342+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-29T07:26:05.556865+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "k5fmqXnLzMEL4",
+      "title": "AKDENIZ",
+      "magnitude": 3.6,
+      "depth_km": 26,
+      "date_utc": "2026-09-29 10:10:13",
+      "latitude": 35.5298,
+      "longitude": 27.414,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "3adijfmz8A3NO",
       "title": "KALEM-MILAS (MUGLA)",
@@ -692,36 +702,6 @@
       "latitude": 36.9543,
       "longitude": 28.5535,
       "location_name": "Muğla"
-    },
-    {
-      "id": "pc8GDKdMeFXDB",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 2.6,
-      "depth_km": 4,
-      "date_utc": "2026-09-28 10:21:11",
-      "latitude": 39.3185,
-      "longitude": 26.0658,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Cp4sVTf5XmxjG",
-      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 6.5,
-      "date_utc": "2026-09-28 10:17:18",
-      "latitude": 39.2305,
-      "longitude": 28.1097,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "HI4vGGcoNy_rA",
-      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-28 10:15:32",
-      "latitude": 39.3378,
-      "longitude": 26.0345,
-      "location_name": "Ege Denizi"
     }
   ]
 }
