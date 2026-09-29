@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T02:35:44.228852+00:00",
-  "record_count": 68,
+  "last_updated": "2026-09-29T02:49:56.753998+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "bCQGZ1dAATcKE",
+      "title": "KARAPINAR (KONYA)",
+      "magnitude": 1.3,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-29 05:22:06",
+      "latitude": 37.8302,
+      "longitude": 33.4235,
+      "location_name": "Konya"
+    },
+    {
+      "id": "nmbaW1uvmp11M",
+      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
+      "magnitude": 1.5,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-29 05:04:51",
+      "latitude": 37.8343,
+      "longitude": 36.1157,
+      "location_name": "Adana"
+    },
     {
       "id": "vT6EkMGuBzSgs",
       "title": "GIRESUN ACIKLARI (KARADENIZ)",
