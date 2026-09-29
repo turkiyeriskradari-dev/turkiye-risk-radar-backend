@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T21:50:52.095895+00:00",
-  "record_count": 77,
+  "last_updated": "2026-09-29T22:02:05.914710+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "7359lMj1Qwa2J",
+      "title": "YENIKOY-(MUGLA)",
+      "magnitude": 1,
+      "depth_km": 14.4,
+      "date_utc": "2026-09-30 00:48:49",
+      "latitude": 37.1432,
+      "longitude": 28.3887,
+      "location_name": "Muğla"
+    },
     {
       "id": "7kOMgQf9r3L4r",
       "title": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
@@ -12,6 +22,16 @@
       "latitude": 38.1217,
       "longitude": 37.1368,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "6WP1e5l5rFW6I",
+      "title": "KIBRIS-ISKELE",
+      "magnitude": 1.8,
+      "depth_km": 13.3,
+      "date_utc": "2026-09-30 00:23:28",
+      "latitude": 35.3502,
+      "longitude": 33.7495,
+      "location_name": "Kıbrıs"
     },
     {
       "id": "wGR9M3kkclK99",
