@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T04:24:34.785386+00:00",
-  "record_count": 72,
+  "last_updated": "2026-09-29T04:37:28.996936+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "kECqwzL_IrtxS",
+      "title": "SULUCAOVA-CAMARDI (NIGDE)",
+      "magnitude": 1.6,
+      "depth_km": 9,
+      "date_utc": "2026-09-29 07:16:23",
+      "latitude": 37.9832,
+      "longitude": 35.2097,
+      "location_name": "Niğde"
+    },
     {
       "id": "mhZwrQokZePhl",
       "title": "HATUNKOY-CAT (ERZURUM)",
