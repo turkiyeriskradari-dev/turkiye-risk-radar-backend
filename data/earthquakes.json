@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T15:27:40.183323+00:00",
-  "record_count": 70,
+  "last_updated": "2026-09-29T15:41:51.259011+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "yv4HIxBvwZtuD",
@@ -692,16 +692,6 @@
       "latitude": 39.1573,
       "longitude": 28.0243,
       "location_name": "Manisa"
-    },
-    {
-      "id": "MWShz28Kjp4mY",
-      "title": "KIZILDERE-BUHARKENT (AYDIN)",
-      "magnitude": 1.7,
-      "depth_km": 7.6,
-      "date_utc": "2026-09-28 18:32:42",
-      "latitude": 37.9703,
-      "longitude": 28.8033,
-      "location_name": "Aydın"
     }
   ]
 }
