@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T03:38:26.633522+00:00",
+  "last_updated": "2026-09-29T03:51:53.333798+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "o6b4nruvrp1qV",
+      "title": "KEMER-BIGA (CANAKKALE)",
+      "magnitude": 2.4,
+      "depth_km": 11.2,
+      "date_utc": "2026-09-29 06:43:18",
+      "latitude": 40.4325,
+      "longitude": 27.0213,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "oQ5uvttT8hAUI",
       "title": "KECELER-GONEN (BALIKESIR)",
@@ -702,16 +712,6 @@
       "latitude": 36.9798,
       "longitude": 27.7568,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "fkJungnvOGmRY",
-      "title": "EMIRLER-HAYMANA (ANKARA)",
-      "magnitude": 2.3,
-      "depth_km": 8.5,
-      "date_utc": "2026-09-28 06:42:40",
-      "latitude": 39.0868,
-      "longitude": 32.3245,
-      "location_name": "Ankara"
     }
   ]
 }
