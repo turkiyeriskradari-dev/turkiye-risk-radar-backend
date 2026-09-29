@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T05:51:31.721385+00:00",
+  "last_updated": "2026-09-29T06:03:18.338198+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "5qgyXEj6aaoTt",
+      "title": "AKDENIZ",
+      "magnitude": 2.9,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-29 08:41:24",
+      "latitude": 35.5225,
+      "longitude": 35.3062,
+      "location_name": "Akdeniz Açıkları (Suriye)"
+    },
     {
       "id": "kECqwzL_IrtxS",
       "title": "SULUCAOVA-CAMARDI (NIGDE)",
@@ -702,16 +712,6 @@
       "latitude": 38.1702,
       "longitude": 30.0265,
       "location_name": "Afyon"
-    },
-    {
-      "id": "LsnMVOGXavCEw",
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-28 09:00:42",
-      "latitude": 40.7325,
-      "longitude": 27.5027,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
