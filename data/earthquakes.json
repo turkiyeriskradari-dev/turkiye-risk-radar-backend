@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T09:39:52.541608+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-29T09:53:32.605773+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "n5_0QqLYALLg_",
+      "title": "AKDENIZ",
+      "magnitude": 1.9,
+      "depth_km": 94.4,
+      "date_utc": "2026-09-29 12:33:43",
+      "latitude": 35.6993,
+      "longitude": 33.3218,
+      "location_name": "Kıbrıs Açıkları"
+    },
     {
       "id": "oRf4rNPupncpi",
       "title": "IMAMUSAGI-SILIFKE (MERSIN)",
