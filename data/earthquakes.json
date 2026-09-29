@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T01:04:36.055546+00:00",
-  "record_count": 63,
+  "last_updated": "2026-09-29T01:22:55.220155+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "xEUHRoDSK8WFI",
+      "title": "KILCANLAR-GOLMARMARA (MANISA)",
+      "magnitude": 1.3,
+      "depth_km": 3.8,
+      "date_utc": "2026-09-29 04:06:09",
+      "latitude": 38.6638,
+      "longitude": 27.974,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "0FLGNNZgbrcYW",
+      "title": "MUGLA",
+      "magnitude": 1.7,
+      "depth_km": 6.1,
+      "date_utc": "2026-09-29 04:00:15",
+      "latitude": 37.1997,
+      "longitude": 28.3467,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "NA3wZ9r8AVVPU",
+      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 5.1,
+      "date_utc": "2026-09-29 03:53:11",
+      "latitude": 40.4145,
+      "longitude": 28.8678,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "reua0XgnQiC15",
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -622,16 +652,6 @@
       "latitude": 38.3572,
       "longitude": 27.1705,
       "location_name": "İzmir"
-    },
-    {
-      "id": "Gl3_1YLG6y0Xy",
-      "title": "BERKKOY-DODURGA (CORUM)",
-      "magnitude": 1.2,
-      "depth_km": 8.3,
-      "date_utc": "2026-09-28 04:20:21",
-      "latitude": 40.829,
-      "longitude": 34.7925,
-      "location_name": "Çorum"
     }
   ]
 }
