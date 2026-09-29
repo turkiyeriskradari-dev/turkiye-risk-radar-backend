@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T19:07:32.720128+00:00",
+  "last_updated": "2026-09-29T19:25:28.094370+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "ljOkdlokPrhll",
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "magnitude": 0.8,
+      "depth_km": 13.2,
+      "date_utc": "2026-09-29 21:55:54",
+      "latitude": 39.2637,
+      "longitude": 28.9803,
+      "location_name": "Kütahya"
+    },
     {
       "id": "XHgmDyBLcIx7f",
       "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
@@ -702,16 +712,6 @@
       "latitude": 40.8062,
       "longitude": 31.5588,
       "location_name": "Bolu"
-    },
-    {
-      "id": "_2uIXPaQiDFDi",
-      "title": "CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.2,
-      "depth_km": 10.2,
-      "date_utc": "2026-09-28 22:12:54",
-      "latitude": 38.0508,
-      "longitude": 38.2495,
-      "location_name": "Adıyaman"
     }
   ]
 }
