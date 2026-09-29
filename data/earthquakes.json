@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T08:53:17.874163+00:00",
+  "last_updated": "2026-09-29T09:04:02.301833+00:00",
   "record_count": 68,
   "data": [
+    {
+      "id": "qQWB13uIzd68a",
+      "title": "KARAKUYU-SAIMBEYLI (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 5.3,
+      "date_utc": "2026-09-29 11:58:02",
+      "latitude": 37.8448,
+      "longitude": 36.1823,
+      "location_name": "Adana"
+    },
     {
       "id": "nXiOvl_FBYR2A",
       "title": "BUYUKYAYLAKOYU-CAYIRLI (ERZINCAN)",
@@ -12,6 +22,16 @@
       "latitude": 39.7198,
       "longitude": 39.9512,
       "location_name": "Erzincan"
+    },
+    {
+      "id": "PeQCC8wgJLEDm",
+      "title": "GENCALI-(BARTIN)",
+      "magnitude": 1.8,
+      "depth_km": 8.6,
+      "date_utc": "2026-09-29 11:11:08",
+      "latitude": 41.6672,
+      "longitude": 32.4828,
+      "location_name": "Bartın"
     },
     {
       "id": "Gv5GnNvKfVKEO",
@@ -662,26 +682,6 @@
       "latitude": 37.77,
       "longitude": 35.8728,
       "location_name": "Adana"
-    },
-    {
-      "id": "yc12pQm9Du33l",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 1,
-      "depth_km": 0,
-      "date_utc": "2026-09-28 11:55:38",
-      "latitude": 36.2767,
-      "longitude": 33.7317,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "EHQYlKTw2komK",
-      "title": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 2,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-28 11:54:11",
-      "latitude": 39.366,
-      "longitude": 26.0508,
-      "location_name": "Ege Denizi"
     }
   ]
 }
