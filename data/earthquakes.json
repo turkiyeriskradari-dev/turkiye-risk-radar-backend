@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T02:03:06.938313+00:00",
+  "last_updated": "2026-09-30T02:23:29.227105+00:00",
   "record_count": 64,
   "data": [
+    {
+      "id": "fKh_gXJ5NZ0EW",
+      "title": "CAMLICA-YATAGAN (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 13.8,
+      "date_utc": "2026-09-30 04:58:16",
+      "latitude": 37.1643,
+      "longitude": 28.0395,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "TV7MBNJJ6D5Bf",
+      "title": "MENTESE-HONAZ (DENIZLI)",
+      "magnitude": 1.5,
+      "depth_km": 1.7,
+      "date_utc": "2026-09-30 04:56:41",
+      "latitude": 37.7355,
+      "longitude": 29.3185,
+      "location_name": "Denizli"
+    },
     {
       "id": "RBnXON576OnW8",
       "title": "EGE DENIZI",
@@ -622,26 +642,6 @@
       "latitude": 37.8292,
       "longitude": 29.2618,
       "location_name": "Denizli"
-    },
-    {
-      "id": "bCQGZ1dAATcKE",
-      "title": "KARAPINAR (KONYA)",
-      "magnitude": 1.3,
-      "depth_km": 6.1,
-      "date_utc": "2026-09-29 05:22:06",
-      "latitude": 37.8302,
-      "longitude": 33.4235,
-      "location_name": "Konya"
-    },
-    {
-      "id": "nmbaW1uvmp11M",
-      "title": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-29 05:04:51",
-      "latitude": 37.8343,
-      "longitude": 36.1157,
-      "location_name": "Adana"
     }
   ]
 }
