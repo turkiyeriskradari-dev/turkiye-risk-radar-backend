@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T00:32:46.298231+00:00",
-  "record_count": 73,
+  "last_updated": "2026-09-30T00:56:51.032188+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "TV4MD16ZZBhdl",
+      "title": "EGE DENIZI",
+      "magnitude": 2.7,
+      "depth_km": 8,
+      "date_utc": "2026-09-30 03:30:44",
+      "latitude": 36.6988,
+      "longitude": 25.794,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "Yg2Y1t_aNFYci",
       "title": "KAYNAK-SENKAYA (ERZURUM)",
@@ -692,46 +702,6 @@
       "latitude": 37.1997,
       "longitude": 28.3467,
       "location_name": "Muğla"
-    },
-    {
-      "id": "NA3wZ9r8AVVPU",
-      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-29 03:53:11",
-      "latitude": 40.4145,
-      "longitude": 28.8678,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "reua0XgnQiC15",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 0.9,
-      "depth_km": 13,
-      "date_utc": "2026-09-29 03:47:40",
-      "latitude": 39.1665,
-      "longitude": 28.2297,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "AIsLa1PH7bDSi",
-      "title": "KARACAY-HONAZ (DENIZLI)",
-      "magnitude": 1.2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-29 03:41:26",
-      "latitude": 37.7098,
-      "longitude": 29.4785,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "bEyl2PXPr_OPg",
-      "title": "SALKONAK-YESILYURT (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 18.8,
-      "date_utc": "2026-09-29 03:38:09",
-      "latitude": 38.1583,
-      "longitude": 38.3832,
-      "location_name": "Adıyaman"
     }
   ]
 }
