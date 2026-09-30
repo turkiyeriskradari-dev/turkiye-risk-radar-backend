@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T14:08:21.836841+00:00",
-  "record_count": 52,
+  "last_updated": "2026-09-30T14:28:31.542773+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "FBBjZkJJUys4J",
@@ -502,26 +502,6 @@
       "latitude": 37.082,
       "longitude": 29.5847,
       "location_name": "Burdur"
-    },
-    {
-      "id": "AJBO22yQsImnO",
-      "title": "BEDESTEN-YAHSIHAN (KIRIKKALE)",
-      "magnitude": 1,
-      "depth_km": 5,
-      "date_utc": "2026-09-29 17:24:53",
-      "latitude": 39.804,
-      "longitude": 33.4062,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "DU8Dy6bjubjRK",
-      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-29 17:13:51",
-      "latitude": 38.117,
-      "longitude": 36.5998,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
