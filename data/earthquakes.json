@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T16:28:29.854535+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-30T16:42:01.777933+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "g4YlX1Gr9KDpc",
@@ -502,16 +502,6 @@
       "latitude": 39.236,
       "longitude": 28.9812,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "arzjEJ6UWmsCX",
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 10.3,
-      "date_utc": "2026-09-29 19:35:41",
-      "latitude": 40.7293,
-      "longitude": 27.4882,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
