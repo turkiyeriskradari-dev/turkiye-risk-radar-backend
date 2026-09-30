@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T16:42:01.777933+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-30T16:53:40.405418+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "g4YlX1Gr9KDpc",
@@ -482,26 +482,6 @@
       "latitude": 38.0092,
       "longitude": 37.7045,
       "location_name": "Malatya"
-    },
-    {
-      "id": "d6XW8XI2Xc4a5",
-      "title": "CAMELI (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 26.8,
-      "date_utc": "2026-09-29 19:50:37",
-      "latitude": 37.078,
-      "longitude": 29.3602,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "tCdeOiDusVfUA",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.1,
-      "depth_km": 14.8,
-      "date_utc": "2026-09-29 19:46:32",
-      "latitude": 39.236,
-      "longitude": 28.9812,
-      "location_name": "Kütahya"
     }
   ]
 }
