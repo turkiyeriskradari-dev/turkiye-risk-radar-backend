@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T15:40:20.872014+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-30T15:54:23.961310+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "qNkf9QG1Qdyqe",
+      "title": "COKERTME-MILAS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-09-30 17:54:13",
+      "latitude": 37.0082,
+      "longitude": 27.7797,
+      "location_name": "Muğla"
+    },
     {
       "id": "Zs1Z27zjiStyx",
       "title": "GOKBEL-(MANISA)",
