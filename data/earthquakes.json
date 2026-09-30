@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T10:26:06.674392+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-30T10:39:29.685624+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "eF_MPeiMfutty",
@@ -502,16 +502,6 @@
       "latitude": 38.8402,
       "longitude": 29.1257,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "2s6mEnoySdK2t",
-      "title": "ADALAR (ISTANBUL)",
-      "magnitude": 1.6,
-      "depth_km": 11.8,
-      "date_utc": "2026-09-29 13:29:44",
-      "latitude": 40.788,
-      "longitude": 29.0853,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
