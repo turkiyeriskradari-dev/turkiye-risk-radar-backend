@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T21:25:16.620604+00:00",
-  "record_count": 41,
+  "last_updated": "2026-09-30T21:38:27.174394+00:00",
+  "record_count": 42,
   "data": [
+    {
+      "id": "QtyQHKLRR2gkT",
+      "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
+      "magnitude": 3.2,
+      "depth_km": 3.9,
+      "date_utc": "2026-10-01 00:20:07",
+      "latitude": 38.6668,
+      "longitude": 30.8775,
+      "location_name": "Afyon"
+    },
+    {
+      "id": "PT9IEakVWgiLF",
+      "title": "KADIKOY-CAY (AFYONKARAHISAR)",
+      "magnitude": 2.6,
+      "depth_km": 6.2,
+      "date_utc": "2026-10-01 00:15:46",
+      "latitude": 38.6642,
+      "longitude": 30.8982,
+      "location_name": "Afyon"
+    },
     {
       "id": "8UKxFeru_Ck4I",
       "title": "YOLCATI-KELKIT (GUMUSHANE)",
@@ -402,16 +422,6 @@
       "latitude": 37.1432,
       "longitude": 28.3887,
       "location_name": "Muğla"
-    },
-    {
-      "id": "7kOMgQf9r3L4r",
-      "title": "GUPLUCE-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-30 00:26:00",
-      "latitude": 38.1217,
-      "longitude": 37.1368,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
