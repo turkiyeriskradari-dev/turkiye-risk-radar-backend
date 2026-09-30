@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T03:38:18.766542+00:00",
-  "record_count": 59,
+  "last_updated": "2026-09-30T03:52:23.164986+00:00",
+  "record_count": 58,
   "data": [
     {
       "id": "fKh_gXJ5NZ0EW",
@@ -582,16 +582,6 @@
       "latitude": 39.5235,
       "longitude": 41.0912,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "o6b4nruvrp1qV",
-      "title": "KEMER-BIGA (CANAKKALE)",
-      "magnitude": 2.4,
-      "depth_km": 11.2,
-      "date_utc": "2026-09-29 06:43:18",
-      "latitude": 40.4325,
-      "longitude": 27.0213,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
