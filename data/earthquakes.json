@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-29T23:48:33.029488+00:00",
+  "last_updated": "2026-09-30T00:02:48.649759+00:00",
   "record_count": 76,
   "data": [
+    {
+      "id": "Yg2Y1t_aNFYci",
+      "title": "KAYNAK-SENKAYA (ERZURUM)",
+      "magnitude": 1.3,
+      "depth_km": 9.8,
+      "date_utc": "2026-09-30 02:42:38",
+      "latitude": 40.4322,
+      "longitude": 42.4185,
+      "location_name": "Erzurum"
+    },
     {
       "id": "qCwAnCeHDxoL0",
       "title": "NUSHETIYE-KESTEL (BURSA)",
@@ -752,16 +762,6 @@
       "latitude": 39.457,
       "longitude": 40.6005,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "CyKxF49vXglqj",
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-29 02:53:37",
-      "latitude": 39.2248,
-      "longitude": 28.1328,
-      "location_name": "Balıkesir"
     }
   ]
 }
