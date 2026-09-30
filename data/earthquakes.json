@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T08:04:48.510476+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-30T08:28:03.739792+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "iArX14eLNJoXq",
@@ -502,36 +502,6 @@
       "latitude": 37.8448,
       "longitude": 36.1823,
       "location_name": "Adana"
-    },
-    {
-      "id": "nXiOvl_FBYR2A",
-      "title": "BUYUKYAYLAKOYU-CAYIRLI (ERZINCAN)",
-      "magnitude": 2.2,
-      "depth_km": 12.1,
-      "date_utc": "2026-09-29 11:27:16",
-      "latitude": 39.7198,
-      "longitude": 39.9512,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "PeQCC8wgJLEDm",
-      "title": "GENCALI-(BARTIN)",
-      "magnitude": 1.8,
-      "depth_km": 8.6,
-      "date_utc": "2026-09-29 11:11:08",
-      "latitude": 41.6672,
-      "longitude": 32.4828,
-      "location_name": "Bartın"
-    },
-    {
-      "id": "Gv5GnNvKfVKEO",
-      "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 14,
-      "date_utc": "2026-09-29 11:04:41",
-      "latitude": 38.1533,
-      "longitude": 36.6225,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
