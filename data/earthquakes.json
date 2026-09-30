@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T16:05:12.133034+00:00",
+  "last_updated": "2026-09-30T16:28:29.854535+00:00",
   "record_count": 51,
   "data": [
+    {
+      "id": "g4YlX1Gr9KDpc",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 8.2,
+      "date_utc": "2026-09-30 18:20:52",
+      "latitude": 37.8243,
+      "longitude": 27.1782,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "JLsPjgROcP1PB",
+      "title": "SELCUKLU (KONYA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-09-30 18:19:52",
+      "latitude": 37.9733,
+      "longitude": 32.4212,
+      "location_name": "Konya"
+    },
     {
       "id": "zfoDvkkGO2s7F",
       "title": "GECITLI-SINCIK (ADIYAMAN)",
@@ -492,26 +512,6 @@
       "latitude": 40.7293,
       "longitude": 27.4882,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "adE09SUrnUcMK",
-      "title": "ISIKLI-YESILYURT (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 5.9,
-      "date_utc": "2026-09-29 19:23:34",
-      "latitude": 38.2182,
-      "longitude": 38.1188,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "iiO1xc1oHuoXt",
-      "title": "SURGUDEN-GOLE (ARDAHAN)",
-      "magnitude": 1.8,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-29 19:08:52",
-      "latitude": 40.9407,
-      "longitude": 42.6467,
-      "location_name": "Ardahan"
     }
   ]
 }
