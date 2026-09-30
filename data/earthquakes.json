@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T15:54:23.961310+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-30T16:05:12.133034+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "zfoDvkkGO2s7F",
+      "title": "GECITLI-SINCIK (ADIYAMAN)",
+      "magnitude": 1.6,
+      "depth_km": 11.8,
+      "date_utc": "2026-09-30 18:03:12",
+      "latitude": 38.1412,
+      "longitude": 38.5502,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "FP5UNuVp5ciVx",
+      "title": "KAGITHANE (ISTANBUL)",
+      "magnitude": 1,
+      "depth_km": 0,
+      "date_utc": "2026-09-30 17:55:27",
+      "latitude": 41.0918,
+      "longitude": 28.949,
+      "location_name": "İstanbul"
+    },
     {
       "id": "qNkf9QG1Qdyqe",
       "title": "COKERTME-MILAS (MUGLA)",
