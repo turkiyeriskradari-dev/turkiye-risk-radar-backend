@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T21:02:28.629054+00:00",
-  "record_count": 44,
+  "last_updated": "2026-09-30T21:25:16.620604+00:00",
+  "record_count": 41,
   "data": [
     {
       "id": "8UKxFeru_Ck4I",
@@ -411,36 +411,6 @@
       "date_utc": "2026-09-30 00:26:00",
       "latitude": 38.1217,
       "longitude": 37.1368,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "6WP1e5l5rFW6I",
-      "title": "KIBRIS-ISKELE",
-      "magnitude": 1.8,
-      "depth_km": 13.3,
-      "date_utc": "2026-09-30 00:23:28",
-      "latitude": 35.3502,
-      "longitude": 33.7495,
-      "location_name": "Kıbrıs"
-    },
-    {
-      "id": "wGR9M3kkclK99",
-      "title": "KALEM-MILAS (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-30 00:17:55",
-      "latitude": 37.1098,
-      "longitude": 27.9945,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "iIf7Lt0i25Hu0",
-      "title": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
-      "magnitude": 1.3,
-      "depth_km": 4.8,
-      "date_utc": "2026-09-30 00:03:24",
-      "latitude": 38.0952,
-      "longitude": 37.1165,
       "location_name": "Kahramanmaraş"
     }
   ]
