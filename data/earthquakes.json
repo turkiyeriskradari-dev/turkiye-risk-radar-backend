@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T02:37:02.970174+00:00",
-  "record_count": 64,
+  "last_updated": "2026-09-30T02:51:27.520067+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "fKh_gXJ5NZ0EW",
@@ -622,26 +622,6 @@
       "latitude": 40.4403,
       "longitude": 27.0455,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "awnfrkrtEC9o1",
-      "title": "DUTLUCA-BURHANIYE (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 17.4,
-      "date_utc": "2026-09-29 05:43:39",
-      "latitude": 39.4915,
-      "longitude": 27.0607,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "LMW50SrSYsgou",
-      "title": "GURLEYIK-HONAZ (DENIZLI)",
-      "magnitude": 1.3,
-      "depth_km": 24.2,
-      "date_utc": "2026-09-29 05:37:08",
-      "latitude": 37.8292,
-      "longitude": 29.2618,
-      "location_name": "Denizli"
     }
   ]
 }
