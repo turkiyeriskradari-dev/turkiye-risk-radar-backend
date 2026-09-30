@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T14:44:13.923742+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-30T14:59:54.200044+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "Zs1Z27zjiStyx",
+      "title": "GOKBEL-(MANISA)",
+      "magnitude": 2.6,
+      "depth_km": 12.1,
+      "date_utc": "2026-09-30 17:46:38",
+      "latitude": 38.8325,
+      "longitude": 27.415,
+      "location_name": "Manisa"
+    },
     {
       "id": "FBBjZkJJUys4J",
       "title": "SAROS KORFEZI (EGE DENIZI)",
@@ -482,26 +492,6 @@
       "latitude": 38.0837,
       "longitude": 37.2427,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "2JEORDQBNkVAh",
-      "title": "KALEM-MILAS (MUGLA)",
-      "magnitude": 1.7,
-      "depth_km": 9.2,
-      "date_utc": "2026-09-29 17:58:47",
-      "latitude": 37.0978,
-      "longitude": 28.002,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "RovjTMkAPbaPU",
-      "title": "KARGALI-GOLHISAR (BURDUR)",
-      "magnitude": 1.4,
-      "depth_km": 24,
-      "date_utc": "2026-09-29 17:53:38",
-      "latitude": 37.082,
-      "longitude": 29.5847,
-      "location_name": "Burdur"
     }
   ]
 }
