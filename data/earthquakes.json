@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T04:52:48.436746+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-30T05:03:25.119295+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "iArX14eLNJoXq",
+      "title": "ALTINBOGA-OZALP (VAN)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-09-30 07:38:37",
+      "latitude": 38.7055,
+      "longitude": 43.9755,
+      "location_name": "Van"
+    },
     {
       "id": "LM3tAv4fpuagD",
       "title": "EGIRLER-SIMAV (KUTAHYA)",
