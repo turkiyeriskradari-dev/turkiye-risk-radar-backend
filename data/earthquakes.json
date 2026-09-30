@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T06:30:14.740141+00:00",
-  "record_count": 56,
+  "last_updated": "2026-09-30T06:55:30.105461+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "iArX14eLNJoXq",
@@ -542,26 +542,6 @@
       "latitude": 35.5298,
       "longitude": 27.414,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "3adijfmz8A3NO",
-      "title": "KALEM-MILAS (MUGLA)",
-      "magnitude": 2,
-      "depth_km": 11.4,
-      "date_utc": "2026-09-29 09:43:22",
-      "latitude": 37.093,
-      "longitude": 28.006,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "9yvBxWrgLLXs_",
-      "title": "KIZILAGIL-(BOLU)",
-      "magnitude": 1.2,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-29 09:39:51",
-      "latitude": 40.7905,
-      "longitude": 31.5235,
-      "location_name": "Bolu"
     }
   ]
 }
