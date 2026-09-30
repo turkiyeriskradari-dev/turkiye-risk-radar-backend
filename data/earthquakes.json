@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T19:50:41.030487+00:00",
-  "record_count": 46,
+  "last_updated": "2026-09-30T20:02:49.631164+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "8UKxFeru_Ck4I",
@@ -452,16 +452,6 @@
       "latitude": 39.241,
       "longitude": 29.0245,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "xt6mMNCxsu5la",
-      "title": "BARIS-NURHAK (KAHRAMANMARAS)",
-      "magnitude": 1.2,
-      "depth_km": 4.2,
-      "date_utc": "2026-09-29 23:01:28",
-      "latitude": 38.012,
-      "longitude": 37.4082,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
