@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T08:55:02.495667+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-30T09:03:16.649140+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "c49bTuRckv0X6",
@@ -502,16 +502,6 @@
       "latitude": 36.2785,
       "longitude": 33.7538,
       "location_name": "Mersin"
-    },
-    {
-      "id": "qQWB13uIzd68a",
-      "title": "KARAKUYU-SAIMBEYLI (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 5.3,
-      "date_utc": "2026-09-29 11:58:02",
-      "latitude": 37.8448,
-      "longitude": 36.1823,
-      "location_name": "Adana"
     }
   ]
 }
