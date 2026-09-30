@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T05:37:21.309185+00:00",
-  "record_count": 58,
+  "last_updated": "2026-09-30T05:52:10.629403+00:00",
+  "record_count": 56,
   "data": [
     {
       "id": "iArX14eLNJoXq",
@@ -562,26 +562,6 @@
       "latitude": 40.7905,
       "longitude": 31.5235,
       "location_name": "Bolu"
-    },
-    {
-      "id": "4dgWvSNXBYz1X",
-      "title": "ORENTAS-KOPRUKOY (ERZURUM)",
-      "magnitude": 1.7,
-      "depth_km": 2.8,
-      "date_utc": "2026-09-29 08:46:49",
-      "latitude": 40.0867,
-      "longitude": 41.8552,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "5qgyXEj6aaoTt",
-      "title": "AKDENIZ",
-      "magnitude": 2.9,
-      "depth_km": 9.8,
-      "date_utc": "2026-09-29 08:41:24",
-      "latitude": 35.5225,
-      "longitude": 35.3062,
-      "location_name": "Akdeniz Açıkları (Suriye)"
     }
   ]
 }
