@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T10:04:05.351312+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-30T10:26:06.674392+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "eF_MPeiMfutty",
+      "title": "AKCAKAYA-MILAS (MUGLA)",
+      "magnitude": 1.5,
+      "depth_km": 0,
+      "date_utc": "2026-09-30 13:16:16",
+      "latitude": 37.0552,
+      "longitude": 27.8612,
+      "location_name": "Muğla"
+    },
     {
       "id": "KR5TiWjnveJrB",
       "title": "GOKGOZ-KOZAN (ADANA)",
@@ -502,36 +512,6 @@
       "latitude": 40.788,
       "longitude": 29.0853,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "1QxEsCA10naVN",
-      "title": "KALEM-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 0,
-      "date_utc": "2026-09-29 13:23:59",
-      "latitude": 37.107,
-      "longitude": 28.0043,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "HTj_eLw8OnP_s",
-      "title": "SELCIK-OSMANELI (BILECIK)",
-      "magnitude": 1.5,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-29 13:17:05",
-      "latitude": 40.3995,
-      "longitude": 30.005,
-      "location_name": "Bilecik"
-    },
-    {
-      "id": "5QestDaMVEgyd",
-      "title": "KALEM-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 0,
-      "date_utc": "2026-09-29 13:08:34",
-      "latitude": 37.0925,
-      "longitude": 28.0025,
-      "location_name": "Muğla"
     }
   ]
 }
