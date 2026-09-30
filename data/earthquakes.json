@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T13:13:02.354792+00:00",
+  "last_updated": "2026-09-30T13:29:58.222709+00:00",
   "record_count": 53,
   "data": [
+    {
+      "id": "FBBjZkJJUys4J",
+      "title": "SAROS KORFEZI (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 8.8,
+      "date_utc": "2026-09-30 16:00:42",
+      "latitude": 40.4028,
+      "longitude": 26.0567,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "PQYUSTPJyP_QG",
       "title": "GEZLER-SINANPASA (AFYONKARAHISAR)",
@@ -522,16 +532,6 @@
       "latitude": 39.2843,
       "longitude": 40.8612,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "o6vOgSqNQg3HN",
-      "title": "AKYUREK-PALU (ELAZIG)",
-      "magnitude": 2.3,
-      "depth_km": 3.9,
-      "date_utc": "2026-09-29 16:17:07",
-      "latitude": 38.5827,
-      "longitude": 39.9025,
-      "location_name": "Elazığ"
     }
   ]
 }
