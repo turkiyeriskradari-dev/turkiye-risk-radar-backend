@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T22:24:53.829323+00:00",
+  "last_updated": "2026-09-30T22:37:28.302220+00:00",
   "record_count": 39,
   "data": [
     {
@@ -12,6 +12,16 @@
       "latitude": 38.6667,
       "longitude": 30.8632,
       "location_name": "Afyon"
+    },
+    {
+      "id": "gAP2WSSJnmoPF",
+      "title": "KISACIKLI-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 1.8,
+      "date_utc": "2026-10-01 00:46:03",
+      "latitude": 37.7762,
+      "longitude": 35.8463,
+      "location_name": "Adana"
     },
     {
       "id": "_dIyOhPEf7CMm",
@@ -382,16 +392,6 @@
       "latitude": 40.1548,
       "longitude": 31.717,
       "location_name": "Ankara"
-    },
-    {
-      "id": "r8YM5UwCw7oNB",
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 9.1,
-      "date_utc": "2026-09-30 01:28:50",
-      "latitude": 39.205,
-      "longitude": 28.1282,
-      "location_name": "Balıkesir"
     }
   ]
 }
