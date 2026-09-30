@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T03:52:23.164986+00:00",
+  "last_updated": "2026-09-30T04:03:04.908050+00:00",
   "record_count": 58,
   "data": [
+    {
+      "id": "c03f9ZmELnpkV",
+      "title": "VAN GOLU",
+      "magnitude": 2.1,
+      "depth_km": 5.4,
+      "date_utc": "2026-09-30 06:30:53",
+      "latitude": 38.6628,
+      "longitude": 42.9497,
+      "location_name": "Bitlis"
+    },
     {
       "id": "fKh_gXJ5NZ0EW",
       "title": "CAMLICA-YATAGAN (MUGLA)",
@@ -572,16 +582,6 @@
       "latitude": 37.9832,
       "longitude": 35.2097,
       "location_name": "Niğde"
-    },
-    {
-      "id": "mhZwrQokZePhl",
-      "title": "HATUNKOY-CAT (ERZURUM)",
-      "magnitude": 2.2,
-      "depth_km": 6.4,
-      "date_utc": "2026-09-29 06:56:25",
-      "latitude": 39.5235,
-      "longitude": 41.0912,
-      "location_name": "Erzurum"
     }
   ]
 }
