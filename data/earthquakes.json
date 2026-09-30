@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T22:37:28.302220+00:00",
-  "record_count": 39,
+  "last_updated": "2026-09-30T22:51:46.653707+00:00",
+  "record_count": 41,
   "data": [
+    {
+      "id": "ITCWIiNPi9Z7D",
+      "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 2.2,
+      "depth_km": 13.7,
+      "date_utc": "2026-10-01 01:19:34",
+      "latitude": 38.1572,
+      "longitude": 36.6767,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "6ypiTDJjztzhW",
+      "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
+      "magnitude": 3.2,
+      "depth_km": 5.4,
+      "date_utc": "2026-10-01 01:17:49",
+      "latitude": 38.6728,
+      "longitude": 30.8633,
+      "location_name": "Afyon"
+    },
+    {
+      "id": "qPSEsx1Eyy1b9",
+      "title": "GOZSUZLU-(AFYONKARAHISAR)",
+      "magnitude": 2.1,
+      "depth_km": 7,
+      "date_utc": "2026-10-01 01:07:05",
+      "latitude": 38.6415,
+      "longitude": 30.8655,
+      "location_name": "Afyon"
+    },
+    {
+      "id": "zfFH2WsMXx0Mj",
+      "title": "KADIKOY-CAY (AFYONKARAHISAR)",
+      "magnitude": 1.5,
+      "depth_km": 5.4,
+      "date_utc": "2026-10-01 01:02:57",
+      "latitude": 38.6462,
+      "longitude": 30.8877,
+      "location_name": "Afyon"
+    },
     {
       "id": "m7zGW3rE1qB84",
       "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
@@ -372,26 +412,6 @@
       "latitude": 40.4322,
       "longitude": 42.4185,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "qCwAnCeHDxoL0",
-      "title": "NUSHETIYE-KESTEL (BURSA)",
-      "magnitude": 1.2,
-      "depth_km": 5.1,
-      "date_utc": "2026-09-30 01:46:24",
-      "latitude": 40.3033,
-      "longitude": 29.3497,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "KkQIqVB8DWGj6",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 2,
-      "depth_km": 3.7,
-      "date_utc": "2026-09-30 01:41:54",
-      "latitude": 40.1548,
-      "longitude": 31.717,
-      "location_name": "Ankara"
     }
   ]
 }
