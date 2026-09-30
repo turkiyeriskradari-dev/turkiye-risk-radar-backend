@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T18:57:57.029534+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-30T19:10:03.698820+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "8UKxFeru_Ck4I",
@@ -472,16 +472,6 @@
       "latitude": 39.0663,
       "longitude": 29.9365,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "Ol4XMrAwvbHQW",
-      "title": "KARAAHMET-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 7.4,
-      "date_utc": "2026-09-29 22:00:38",
-      "latitude": 38.0098,
-      "longitude": 36.5603,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
