@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T01:25:09.959645+00:00",
-  "record_count": 67,
+  "last_updated": "2026-09-30T01:36:10.606937+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "0bcitIN8QK68a",
@@ -662,16 +662,6 @@
       "latitude": 38.2523,
       "longitude": 37.7963,
       "location_name": "Malatya"
-    },
-    {
-      "id": "6M2MNOvpFxC49",
-      "title": "KARAKENT-DOGUBAYAZIT (AGRI)",
-      "magnitude": 1.7,
-      "depth_km": 8,
-      "date_utc": "2026-09-29 04:29:36",
-      "latitude": 39.4398,
-      "longitude": 43.9693,
-      "location_name": "Ağrı"
     }
   ]
 }
