@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T19:25:26.691733+00:00",
-  "record_count": 47,
+  "last_updated": "2026-09-30T19:36:24.071257+00:00",
+  "record_count": 46,
   "data": [
     {
       "id": "8UKxFeru_Ck4I",
@@ -462,16 +462,6 @@
       "latitude": 38.012,
       "longitude": 37.4082,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "NPSfQMUbdjg6H",
-      "title": "SANLIYURT-ALTINTAS (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 7,
-      "date_utc": "2026-09-29 22:33:21",
-      "latitude": 39.0663,
-      "longitude": 29.9365,
-      "location_name": "Kütahya"
     }
   ]
 }
