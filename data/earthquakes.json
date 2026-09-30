@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T17:03:49.907412+00:00",
-  "record_count": 48,
+  "last_updated": "2026-09-30T17:25:16.314292+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "IDg6jBXZkmCYC",
+      "title": "OZEKLI-SUR (DIYARBAKIR)",
+      "magnitude": 1.6,
+      "depth_km": 15.7,
+      "date_utc": "2026-09-30 19:43:50",
+      "latitude": 38.2352,
+      "longitude": 40.4037,
+      "location_name": "Diyarbakır"
+    },
+    {
+      "id": "8EoEEDwjYrPPt",
+      "title": "HACIBEBEK-TURKOGLU (KAHRAMANMARAS)",
+      "magnitude": 1.1,
+      "depth_km": 4.9,
+      "date_utc": "2026-09-30 19:07:55",
+      "latitude": 37.338,
+      "longitude": 36.9145,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "g4YlX1Gr9KDpc",
       "title": "KUSADASI KORFEZI (EGE DENIZI)",
