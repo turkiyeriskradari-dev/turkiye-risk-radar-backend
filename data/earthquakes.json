@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T11:03:22.740913+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-30T11:23:21.359140+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "uxFzdpsfo1XmB",
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 12,
+      "date_utc": "2026-09-30 14:12:49",
+      "latitude": 39.178,
+      "longitude": 28.1725,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "bQnUa_lvK_6gD",
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "magnitude": 3.9,
+      "depth_km": 7.2,
+      "date_utc": "2026-09-30 14:00:15",
+      "latitude": 39.3217,
+      "longitude": 26.0593,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "eF_MPeiMfutty",
       "title": "AKCAKAYA-MILAS (MUGLA)",
