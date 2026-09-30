@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T22:02:46.645972+00:00",
-  "record_count": 40,
+  "last_updated": "2026-09-30T22:24:53.829323+00:00",
+  "record_count": 39,
   "data": [
+    {
+      "id": "m7zGW3rE1qB84",
+      "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
+      "magnitude": 2.9,
+      "depth_km": 3.2,
+      "date_utc": "2026-10-01 00:50:20",
+      "latitude": 38.6667,
+      "longitude": 30.8632,
+      "location_name": "Afyon"
+    },
     {
       "id": "_dIyOhPEf7CMm",
       "title": "KADIKOY-CAY (AFYONKARAHISAR)",
@@ -382,26 +392,6 @@
       "latitude": 39.205,
       "longitude": 28.1282,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "_hTZdVnNbRekk",
-      "title": "AKTARLA-DOGUBAYAZIT (AGRI)",
-      "magnitude": 1.6,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-30 01:15:35",
-      "latitude": 39.701,
-      "longitude": 43.5932,
-      "location_name": "Ağrı"
-    },
-    {
-      "id": "YucDICW6se3PW",
-      "title": "KALEM-MILAS (MUGLA)",
-      "magnitude": 0.9,
-      "depth_km": 5.2,
-      "date_utc": "2026-09-30 01:02:49",
-      "latitude": 37.087,
-      "longitude": 28.002,
-      "location_name": "Muğla"
     }
   ]
 }
