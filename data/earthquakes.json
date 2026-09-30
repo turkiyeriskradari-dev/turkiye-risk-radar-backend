@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T17:36:56.428825+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-30T17:51:25.674151+00:00",
+  "record_count": 49,
   "data": [
     {
       "id": "Mav_ThhlyfoLJ",
@@ -492,26 +492,6 @@
       "latitude": 39.1772,
       "longitude": 28.1942,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "hORxIdyOPZNxm",
-      "title": "GUCUKSU-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 11.5,
-      "date_utc": "2026-09-29 20:45:32",
-      "latitude": 38.0702,
-      "longitude": 36.6517,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "XHgmDyBLcIx7f",
-      "title": "KUCUKLU-DOGANSEHIR (MALATYA)",
-      "magnitude": 2.2,
-      "depth_km": 3.2,
-      "date_utc": "2026-09-29 20:38:52",
-      "latitude": 38.0092,
-      "longitude": 37.7045,
-      "location_name": "Malatya"
     }
   ]
 }
