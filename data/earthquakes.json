@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T21:38:27.174394+00:00",
-  "record_count": 42,
+  "last_updated": "2026-09-30T21:52:49.209187+00:00",
+  "record_count": 40,
   "data": [
+    {
+      "id": "_dIyOhPEf7CMm",
+      "title": "KADIKOY-CAY (AFYONKARAHISAR)",
+      "magnitude": 1.7,
+      "depth_km": 7.6,
+      "date_utc": "2026-10-01 00:33:23",
+      "latitude": 38.6565,
+      "longitude": 30.8873,
+      "location_name": "Afyon"
+    },
     {
       "id": "QtyQHKLRR2gkT",
       "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
@@ -391,36 +401,6 @@
       "date_utc": "2026-09-30 01:02:49",
       "latitude": 37.087,
       "longitude": 28.002,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "YPVY2ja_GEAIq",
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 12.2,
-      "date_utc": "2026-09-30 00:52:20",
-      "latitude": 39.2352,
-      "longitude": 28.1312,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "MJ2R4pdZqUc6i",
-      "title": "YIGITLER-TEKMAN (ERZURUM)",
-      "magnitude": 1.2,
-      "depth_km": 18.5,
-      "date_utc": "2026-09-30 00:50:45",
-      "latitude": 39.5277,
-      "longitude": 41.1408,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "7359lMj1Qwa2J",
-      "title": "YENIKOY-(MUGLA)",
-      "magnitude": 1,
-      "depth_km": 14.4,
-      "date_utc": "2026-09-30 00:48:49",
-      "latitude": 37.1432,
-      "longitude": 28.3887,
       "location_name": "Muğla"
     }
   ]
