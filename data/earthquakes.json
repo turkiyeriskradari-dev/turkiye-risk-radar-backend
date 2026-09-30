@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T04:03:04.908050+00:00",
+  "last_updated": "2026-09-30T04:25:56.222298+00:00",
   "record_count": 58,
   "data": [
+    {
+      "id": "LM3tAv4fpuagD",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1,
+      "depth_km": 14.2,
+      "date_utc": "2026-09-30 07:02:23",
+      "latitude": 39.2187,
+      "longitude": 29.0123,
+      "location_name": "Kütahya"
+    },
     {
       "id": "c03f9ZmELnpkV",
       "title": "VAN GOLU",
@@ -572,16 +582,6 @@
       "latitude": 40.4365,
       "longitude": 27.0165,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "kECqwzL_IrtxS",
-      "title": "SULUCAOVA-CAMARDI (NIGDE)",
-      "magnitude": 1.6,
-      "depth_km": 9,
-      "date_utc": "2026-09-29 07:16:23",
-      "latitude": 37.9832,
-      "longitude": 35.2097,
-      "location_name": "Niğde"
     }
   ]
 }
