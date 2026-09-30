@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T09:25:49.143579+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-30T09:40:04.637655+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "CycbEreDHqej8",
+      "title": "GORGU-YESILYURT (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-30 12:22:35",
+      "latitude": 38.2643,
+      "longitude": 38.0877,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "uhzTMQW4bQDTX",
+      "title": "PINARLI-BASKIL (ELAZIG)",
+      "magnitude": 0.9,
+      "depth_km": 24.9,
+      "date_utc": "2026-09-30 12:11:06",
+      "latitude": 38.4397,
+      "longitude": 38.724,
+      "location_name": "Elazığ"
+    },
     {
       "id": "zq5B9l9usvun9",
       "title": "AKDERE-SILIFKE (MERSIN)",
@@ -502,16 +522,6 @@
       "latitude": 37.0925,
       "longitude": 28.0025,
       "location_name": "Muğla"
-    },
-    {
-      "id": "n5_0QqLYALLg_",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 94.4,
-      "date_utc": "2026-09-29 12:33:43",
-      "latitude": 35.6993,
-      "longitude": 33.3218,
-      "location_name": "Kıbrıs Açıkları"
     }
   ]
 }
