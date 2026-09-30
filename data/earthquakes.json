@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T11:36:29.820019+00:00",
-  "record_count": 51,
+  "last_updated": "2026-09-30T11:52:37.641949+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "I1wbJGvjuzx_T",
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "magnitude": 2.1,
+      "depth_km": 7.7,
+      "date_utc": "2026-09-30 14:44:07",
+      "latitude": 39.3183,
+      "longitude": 26.0472,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "TDtT1OMlWSVKl",
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 7.6,
+      "date_utc": "2026-09-30 14:20:22",
+      "latitude": 39.3168,
+      "longitude": 26.0633,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "uxFzdpsfo1XmB",
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -502,16 +522,6 @@
       "latitude": 38.5827,
       "longitude": 39.9025,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "nafuy7mbR7NGO",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 11.1,
-      "date_utc": "2026-09-29 14:51:53",
-      "latitude": 36.8973,
-      "longitude": 27.637,
-      "location_name": "Ege Denizi"
     }
   ]
 }
