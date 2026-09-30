@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T09:03:16.649140+00:00",
-  "record_count": 50,
+  "last_updated": "2026-09-30T09:25:49.143579+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "zq5B9l9usvun9",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.5,
+      "depth_km": 0,
+      "date_utc": "2026-09-30 12:09:48",
+      "latitude": 36.2535,
+      "longitude": 33.7453,
+      "location_name": "Mersin"
+    },
     {
       "id": "c49bTuRckv0X6",
       "title": "GERDEKKAYA-PASINLER (ERZURUM)",
@@ -12,6 +22,16 @@
       "latitude": 39.8788,
       "longitude": 41.4088,
       "location_name": "Erzurum"
+    },
+    {
+      "id": "rDL7RnpljsdXb",
+      "title": "RIFATIYE-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 2.1,
+      "depth_km": 9.3,
+      "date_utc": "2026-09-30 08:49:34",
+      "latitude": 37.6688,
+      "longitude": 36.3065,
+      "location_name": "Kahramanmaraş"
     },
     {
       "id": "iArX14eLNJoXq",
@@ -492,16 +512,6 @@
       "latitude": 35.6993,
       "longitude": 33.3218,
       "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "oRf4rNPupncpi",
-      "title": "IMAMUSAGI-SILIFKE (MERSIN)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-29 12:17:57",
-      "latitude": 36.2785,
-      "longitude": 33.7538,
-      "location_name": "Mersin"
     }
   ]
 }
