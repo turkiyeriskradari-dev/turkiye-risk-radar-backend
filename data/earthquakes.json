@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T13:56:22.082519+00:00",
-  "record_count": 53,
+  "last_updated": "2026-09-30T14:08:21.836841+00:00",
+  "record_count": 52,
   "data": [
     {
       "id": "FBBjZkJJUys4J",
@@ -522,16 +522,6 @@
       "latitude": 38.117,
       "longitude": 36.5998,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "efJuaGxlLVrH6",
-      "title": "KAYNAK-KARLIOVA (BINGOL)",
-      "magnitude": 1.9,
-      "depth_km": 12.8,
-      "date_utc": "2026-09-29 17:06:25",
-      "latitude": 39.2843,
-      "longitude": 40.8612,
-      "location_name": "Bingöl"
     }
   ]
 }
