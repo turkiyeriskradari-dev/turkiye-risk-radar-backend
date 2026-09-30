@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T14:59:54.200044+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-30T15:16:40.065690+00:00",
+  "record_count": 48,
   "data": [
     {
       "id": "Zs1Z27zjiStyx",
@@ -482,16 +482,6 @@
       "latitude": 40.9407,
       "longitude": 42.6467,
       "location_name": "Ardahan"
-    },
-    {
-      "id": "yv4HIxBvwZtuD",
-      "title": "GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 11,
-      "date_utc": "2026-09-29 18:11:09",
-      "latitude": 38.0837,
-      "longitude": 37.2427,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
