@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-09-30T17:51:25.674151+00:00",
-  "record_count": 49,
+  "last_updated": "2026-09-30T18:03:28.393207+00:00",
+  "record_count": 50,
   "data": [
+    {
+      "id": "8UKxFeru_Ck4I",
+      "title": "YOLCATI-KELKIT (GUMUSHANE)",
+      "magnitude": 2,
+      "depth_km": 5.7,
+      "date_utc": "2026-09-30 20:37:16",
+      "latitude": 40.0308,
+      "longitude": 39.1755,
+      "location_name": "Gümüşhane"
+    },
     {
       "id": "Mav_ThhlyfoLJ",
       "title": "BADEMLI-SUHUT (AFYONKARAHISAR)",
