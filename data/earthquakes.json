@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T12:32:09.105320+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-01T12:57:32.540954+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "VmduqrJBWtak3",
@@ -672,16 +672,6 @@
       "latitude": 40.4028,
       "longitude": 26.0567,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "PQYUSTPJyP_QG",
-      "title": "GEZLER-SINANPASA (AFYONKARAHISAR)",
-      "magnitude": 2.3,
-      "depth_km": 3.6,
-      "date_utc": "2026-09-30 15:40:35",
-      "latitude": 38.7482,
-      "longitude": 30.4338,
-      "location_name": "Afyon"
     }
   ]
 }
