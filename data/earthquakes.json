@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T22:02:19.988560+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-01T22:22:34.563028+00:00",
+  "record_count": 78,
   "data": [
     {
       "id": "QMPw4ayxARWSg",
@@ -782,46 +782,6 @@
       "latitude": 39.5727,
       "longitude": 29.2628,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "ITCWIiNPi9Z7D",
-      "title": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 2.2,
-      "depth_km": 13.7,
-      "date_utc": "2026-10-01 01:19:34",
-      "latitude": 38.1572,
-      "longitude": 36.6767,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "6ypiTDJjztzhW",
-      "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
-      "magnitude": 3.2,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-01 01:17:49",
-      "latitude": 38.6728,
-      "longitude": 30.8633,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "qPSEsx1Eyy1b9",
-      "title": "GOZSUZLU-(AFYONKARAHISAR)",
-      "magnitude": 2.1,
-      "depth_km": 7,
-      "date_utc": "2026-10-01 01:07:05",
-      "latitude": 38.6415,
-      "longitude": 30.8655,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "zfFH2WsMXx0Mj",
-      "title": "KADIKOY-CAY (AFYONKARAHISAR)",
-      "magnitude": 1.5,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-01 01:02:57",
-      "latitude": 38.6462,
-      "longitude": 30.8877,
-      "location_name": "Afyon"
     }
   ]
 }
