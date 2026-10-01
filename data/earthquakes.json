@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T16:37:22.240741+00:00",
-  "record_count": 72,
+  "last_updated": "2026-10-01T16:52:02.036309+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "XNnKLI5fy1K54",
@@ -712,16 +712,6 @@
       "latitude": 38.409,
       "longitude": 30.5825,
       "location_name": "Afyon"
-    },
-    {
-      "id": "IDg6jBXZkmCYC",
-      "title": "OZEKLI-SUR (DIYARBAKIR)",
-      "magnitude": 1.6,
-      "depth_km": 15.7,
-      "date_utc": "2026-09-30 19:43:50",
-      "latitude": 38.2352,
-      "longitude": 40.4037,
-      "location_name": "Diyarbakır"
     }
   ]
 }
