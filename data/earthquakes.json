@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T22:36:31.419950+00:00",
-  "record_count": 78,
+  "last_updated": "2026-10-01T22:50:51.663864+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "QMPw4ayxARWSg",
@@ -772,16 +772,6 @@
       "latitude": 36.4703,
       "longitude": 28.7335,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "h1WGPLXeoR62t",
-      "title": "CAMALAN-TAVSANLI (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 8.3,
-      "date_utc": "2026-10-01 01:45:35",
-      "latitude": 39.5727,
-      "longitude": 29.2628,
-      "location_name": "Kütahya"
     }
   ]
 }
