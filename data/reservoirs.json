@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-01T07:09:36.043322+00:00",
+  "last_updated": "2026-10-01T07:28:24.414849+00:00",
   "record_count": 121,
   "data": [
     {
@@ -708,18 +708,18 @@
       "hes_capacity_mw": null
     },
     {
-      "name": "Gördes Barajı",
-      "havza": "Gediz",
-      "province": "İZMİR",
+      "name": "GÖRDES BARAJI",
+      "havza": "GEDİZ",
+      "province": "MANİSA",
       "fill_percentage": 30.2,
       "measured_date": "01 Ekim 2026",
       "hes_capacity_mw": null
     },
     {
-      "name": "GÖRDES BARAJI",
-      "havza": "GEDİZ",
-      "province": "MANİSA",
-      "fill_percentage": 30.2,
+      "name": "Gördes Barajı",
+      "havza": "Gediz",
+      "province": "İZMİR",
+      "fill_percentage": 30.1,
       "measured_date": "01 Ekim 2026",
       "hes_capacity_mw": null
     },
