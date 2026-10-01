@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T04:26:23.902508+00:00",
-  "record_count": 51,
+  "last_updated": "2026-10-01T04:41:06.166269+00:00",
+  "record_count": 50,
   "data": [
     {
       "id": "pto8dIzgw7nM7",
@@ -502,16 +502,6 @@
       "latitude": 37.6688,
       "longitude": 36.3065,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "iArX14eLNJoXq",
-      "title": "ALTINBOGA-OZALP (VAN)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-09-30 07:38:37",
-      "latitude": 38.7055,
-      "longitude": 43.9755,
-      "location_name": "Van"
     }
   ]
 }
