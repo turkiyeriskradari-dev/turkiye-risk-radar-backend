@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T04:04:04.527267+00:00",
-  "record_count": 46,
+  "last_updated": "2026-10-01T04:26:23.902508+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "pto8dIzgw7nM7",
+      "title": "AKCAKOY-(BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 8.9,
+      "date_utc": "2026-10-01 06:59:20",
+      "latitude": 39.4462,
+      "longitude": 27.9283,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "5FjlaCgQRfaRs",
+      "title": "KARAKUYU-SAIMBEYLI (ADANA)",
+      "magnitude": 2.1,
+      "depth_km": 5.2,
+      "date_utc": "2026-10-01 06:43:20",
+      "latitude": 37.8547,
+      "longitude": 36.2167,
+      "location_name": "Adana"
+    },
+    {
+      "id": "pDPJRfnM5rfis",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "magnitude": 2.2,
+      "depth_km": 2.9,
+      "date_utc": "2026-10-01 06:40:02",
+      "latitude": 38.2115,
+      "longitude": 38.591,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "7UPs9U0u_0keQ",
+      "title": "AKDENIZ",
+      "magnitude": 1.9,
+      "depth_km": 6.6,
+      "date_utc": "2026-10-01 06:27:32",
+      "latitude": 35.8705,
+      "longitude": 31.0822,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "YuY9sNkUqwk6q",
+      "title": "AKDENIZ",
+      "magnitude": 2.2,
+      "depth_km": 55.9,
+      "date_utc": "2026-10-01 05:50:39",
+      "latitude": 34.7288,
+      "longitude": 31.6978,
+      "location_name": "Kıbrıs Açıkları"
+    },
     {
       "id": "xzK0rGGMCFA2J",
       "title": "YEDIKARDES-SIVRICE (ELAZIG)",
