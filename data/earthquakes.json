@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T01:08:40.151830+00:00",
-  "record_count": 46,
+  "last_updated": "2026-10-01T01:25:55.068268+00:00",
+  "record_count": 48,
   "data": [
+    {
+      "id": "ceJglz3N1fTbn",
+      "title": "SELCUKLU (KONYA)",
+      "magnitude": 1.1,
+      "depth_km": 5.3,
+      "date_utc": "2026-10-01 03:17:04",
+      "latitude": 37.973,
+      "longitude": 32.4203,
+      "location_name": "Konya"
+    },
+    {
+      "id": "9vsitQiKyBO1M",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.3,
+      "depth_km": 8.8,
+      "date_utc": "2026-10-01 03:07:51",
+      "latitude": 36.9463,
+      "longitude": 27.4568,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "ncoAdwP8NBL2n",
       "title": "AYDOGMUS-KECIBORLU (ISPARTA)",
