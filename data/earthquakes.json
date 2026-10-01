@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T13:10:53.484831+00:00",
-  "record_count": 66,
+  "last_updated": "2026-10-01T13:30:13.504965+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "hZF8HO2DX98V6",
+      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 5.7,
+      "date_utc": "2026-10-01 16:16:05",
+      "latitude": 38.2427,
+      "longitude": 38.1792,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "6IrCfaO6oGFYb",
+      "title": "SEFERIHISAR ACIKLARI-IZMIR (EGE DENIZI)",
+      "magnitude": 2.5,
+      "depth_km": 4,
+      "date_utc": "2026-10-01 16:13:58",
+      "latitude": 38.13,
+      "longitude": 26.7063,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "UnQ6kGlite62r",
+      "title": "ULUKOY-(MALATYA)",
+      "magnitude": 2.7,
+      "depth_km": 5,
+      "date_utc": "2026-10-01 16:13:27",
+      "latitude": 38.1533,
+      "longitude": 38.5543,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "VmduqrJBWtak3",
       "title": "DUMUKLU-AKCADAG (MALATYA)",
