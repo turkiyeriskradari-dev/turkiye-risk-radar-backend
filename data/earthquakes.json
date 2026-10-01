@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T09:27:07.093863+00:00",
+  "last_updated": "2026-10-01T09:41:14.984270+00:00",
   "record_count": 59,
   "data": [
+    {
+      "id": "6BEgOud2RLt6x",
+      "title": "BULUCALANI-DINAR (AFYONKARAHISAR)",
+      "magnitude": 1.5,
+      "depth_km": 6.7,
+      "date_utc": "2026-10-01 11:22:47",
+      "latitude": 38.045,
+      "longitude": 30.1747,
+      "location_name": "Afyon"
+    },
     {
       "id": "eyISnNKtOnDG5",
       "title": "KOROGLU-SENKAYA (ERZURUM)",
@@ -582,16 +592,6 @@
       "latitude": 37.0552,
       "longitude": 27.8612,
       "location_name": "Muğla"
-    },
-    {
-      "id": "KR5TiWjnveJrB",
-      "title": "GOKGOZ-KOZAN (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 2.5,
-      "date_utc": "2026-09-30 12:37:04",
-      "latitude": 37.597,
-      "longitude": 35.6153,
-      "location_name": "Adana"
     }
   ]
 }
