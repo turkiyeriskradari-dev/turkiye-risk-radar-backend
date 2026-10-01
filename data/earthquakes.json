@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T19:50:20.488966+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-01T20:02:38.257936+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "pJ4_5_Lzkaqhk",
+      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 8.8,
+      "date_utc": "2026-10-01 22:34:32",
+      "latitude": 38.875,
+      "longitude": 26.4592,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "FhGENxoJKcd3q",
       "title": "KIZILKAYA-DALAMAN (MUGLA)",
