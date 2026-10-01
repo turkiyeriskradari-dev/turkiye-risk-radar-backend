@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T03:25:46.903075+00:00",
-  "record_count": 48,
+  "last_updated": "2026-10-01T03:39:52.631044+00:00",
+  "record_count": 47,
   "data": [
     {
       "id": "xzK0rGGMCFA2J",
@@ -472,16 +472,6 @@
       "latitude": 39.2187,
       "longitude": 29.0123,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "c03f9ZmELnpkV",
-      "title": "VAN GOLU",
-      "magnitude": 2.1,
-      "depth_km": 5.4,
-      "date_utc": "2026-09-30 06:30:53",
-      "latitude": 38.6628,
-      "longitude": 42.9497,
-      "location_name": "Bitlis"
     }
   ]
 }
