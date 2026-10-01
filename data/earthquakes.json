@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T11:25:10.267250+00:00",
-  "record_count": 64,
+  "last_updated": "2026-10-01T11:37:39.242808+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "9HmGzruELpd34",
+      "title": "KUCUKYAYA-KIRKAGAC (MANISA)",
+      "magnitude": 1.7,
+      "depth_km": 0,
+      "date_utc": "2026-10-01 14:10:18",
+      "latitude": 39.1588,
+      "longitude": 27.7483,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "je2u43PvEWib5",
+      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
+      "magnitude": 2.6,
+      "depth_km": 7.5,
+      "date_utc": "2026-10-01 14:05:04",
+      "latitude": 37.0312,
+      "longitude": 28.8883,
+      "location_name": "Muğla"
+    },
     {
       "id": "DQCDIrbErmHu0",
       "title": "KAHYALI-AKCADAG (MALATYA)",
