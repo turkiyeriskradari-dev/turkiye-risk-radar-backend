@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T14:43:34.802251+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-01T14:56:31.030952+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "sS9SQS_3SwLx5",
+      "title": "CEVREKAYA-KEBAN (ELAZIG)",
+      "magnitude": 1.9,
+      "depth_km": 19.8,
+      "date_utc": "2026-10-01 17:34:14",
+      "latitude": 38.7218,
+      "longitude": 38.7042,
+      "location_name": "Elazığ"
+    },
     {
       "id": "00SOBPBDokiXE",
       "title": "GECITLI-SINCIK (ADIYAMAN)",
@@ -732,36 +742,6 @@
       "latitude": 38.1412,
       "longitude": 38.5502,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "FP5UNuVp5ciVx",
-      "title": "KAGITHANE (ISTANBUL)",
-      "magnitude": 1,
-      "depth_km": 0,
-      "date_utc": "2026-09-30 17:55:27",
-      "latitude": 41.0918,
-      "longitude": 28.949,
-      "location_name": "İstanbul"
-    },
-    {
-      "id": "qNkf9QG1Qdyqe",
-      "title": "COKERTME-MILAS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-09-30 17:54:13",
-      "latitude": 37.0082,
-      "longitude": 27.7797,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "Zs1Z27zjiStyx",
-      "title": "GOKBEL-(MANISA)",
-      "magnitude": 2.6,
-      "depth_km": 12.1,
-      "date_utc": "2026-09-30 17:46:38",
-      "latitude": 38.8325,
-      "longitude": 27.415,
-      "location_name": "Manisa"
     }
   ]
 }
