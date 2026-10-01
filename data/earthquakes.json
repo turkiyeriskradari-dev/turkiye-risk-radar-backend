@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T14:28:20.991999+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-01T14:43:34.802251+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "00SOBPBDokiXE",
+      "title": "GECITLI-SINCIK (ADIYAMAN)",
+      "magnitude": 1.9,
+      "depth_km": 11.9,
+      "date_utc": "2026-10-01 17:32:23",
+      "latitude": 38.1485,
+      "longitude": 38.5528,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "eCKAKHK_mSxKz",
+      "title": "ARPASEKI-KINIK (IZMIR)",
+      "magnitude": 1.3,
+      "depth_km": 5,
+      "date_utc": "2026-10-01 17:19:30",
+      "latitude": 39.0912,
+      "longitude": 27.4922,
+      "location_name": "İzmir"
+    },
     {
       "id": "yKvsaM0QLPSEI",
       "title": "ULUKOY-(MALATYA)",
