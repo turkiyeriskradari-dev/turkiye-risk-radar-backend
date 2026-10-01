@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T21:02:44.371541+00:00",
-  "record_count": 86,
+  "last_updated": "2026-10-01T21:24:20.610296+00:00",
+  "record_count": 84,
   "data": [
     {
       "id": "pJ4_5_Lzkaqhk",
@@ -841,26 +841,6 @@
       "date_utc": "2026-10-01 00:33:23",
       "latitude": 38.6565,
       "longitude": 30.8873,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "QtyQHKLRR2gkT",
-      "title": "HAMIDIYE-BOLVADIN (AFYONKARAHISAR)",
-      "magnitude": 3.2,
-      "depth_km": 3.9,
-      "date_utc": "2026-10-01 00:20:07",
-      "latitude": 38.6668,
-      "longitude": 30.8775,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "PT9IEakVWgiLF",
-      "title": "KADIKOY-CAY (AFYONKARAHISAR)",
-      "magnitude": 2.6,
-      "depth_km": 6.2,
-      "date_utc": "2026-10-01 00:15:46",
-      "latitude": 38.6642,
-      "longitude": 30.8982,
       "location_name": "Afyon"
     }
   ]
