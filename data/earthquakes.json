@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T10:53:01.255652+00:00",
-  "record_count": 64,
+  "last_updated": "2026-10-01T11:04:15.424035+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "DQCDIrbErmHu0",
+      "title": "KAHYALI-AKCADAG (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 11.3,
+      "date_utc": "2026-10-01 13:36:22",
+      "latitude": 38.3123,
+      "longitude": 37.8297,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "E55dn98peYCXn",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 9.6,
+      "date_utc": "2026-10-01 13:13:50",
+      "latitude": 36.9332,
+      "longitude": 27.3488,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "W5haURITtffuA",
       "title": "EVCIHUYUK-ELBISTAN (KAHRAMANMARAS)",
@@ -12,6 +32,16 @@
       "latitude": 38.3308,
       "longitude": 37.2385,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "qZbgxov68fY02",
+      "title": "ZAFERIYE-BUYUKORHAN (BURSA)",
+      "magnitude": 1.8,
+      "depth_km": 0,
+      "date_utc": "2026-10-01 12:47:32",
+      "latitude": 39.7642,
+      "longitude": 28.8438,
+      "location_name": "Bursa"
     },
     {
       "id": "wLSh3nHEv0Go9",
@@ -632,16 +662,6 @@
       "latitude": 39.178,
       "longitude": 28.1725,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "bQnUa_lvK_6gD",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 3.9,
-      "depth_km": 7.2,
-      "date_utc": "2026-09-30 14:00:15",
-      "latitude": 39.3217,
-      "longitude": 26.0593,
-      "location_name": "Ege Denizi"
     }
   ]
 }
