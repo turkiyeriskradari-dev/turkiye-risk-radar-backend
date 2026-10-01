@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T10:40:09.559139+00:00",
-  "record_count": 63,
+  "last_updated": "2026-10-01T10:53:01.255652+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "W5haURITtffuA",
@@ -12,6 +12,16 @@
       "latitude": 38.3308,
       "longitude": 37.2385,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "wLSh3nHEv0Go9",
+      "title": "OZKENT-SARAYONU (KONYA)",
+      "magnitude": 1.3,
+      "depth_km": 10.2,
+      "date_utc": "2026-10-01 12:42:31",
+      "latitude": 38.4082,
+      "longitude": 32.5382,
+      "location_name": "Konya"
     },
     {
       "id": "O2tqlu81mszns",
