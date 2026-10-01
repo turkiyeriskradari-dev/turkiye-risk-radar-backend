@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T08:56:00.120357+00:00",
-  "record_count": 59,
+  "last_updated": "2026-10-01T09:05:40.063286+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "eyISnNKtOnDG5",
@@ -32,6 +32,16 @@
       "latitude": 38.0908,
       "longitude": 38.0915,
       "location_name": "Malatya"
+    },
+    {
+      "id": "neOqVNpXI3oDS",
+      "title": "BESIRI (BATMAN)",
+      "magnitude": 1.9,
+      "depth_km": 6.4,
+      "date_utc": "2026-10-01 09:33:03",
+      "latitude": 37.9242,
+      "longitude": 41.288,
+      "location_name": "Batman"
     },
     {
       "id": "IdubqZ1NJ2HYT",
