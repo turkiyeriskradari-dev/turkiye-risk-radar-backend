@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T09:41:14.984270+00:00",
-  "record_count": 59,
+  "last_updated": "2026-10-01T09:54:44.168189+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "O2tqlu81mszns",
+      "title": "IMAMUSAGI-SILIFKE (MERSIN)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-10-01 11:57:21",
+      "latitude": 36.282,
+      "longitude": 33.8138,
+      "location_name": "Mersin"
+    },
+    {
+      "id": "NGU4SB9s9UReN",
+      "title": "KIBRIS-BESPARMAK",
+      "magnitude": 1.1,
+      "depth_km": 4.1,
+      "date_utc": "2026-10-01 11:54:36",
+      "latitude": 35.2837,
+      "longitude": 33.5857,
+      "location_name": "Kıbrıs"
+    },
     {
       "id": "6BEgOud2RLt6x",
       "title": "BULUCALANI-DINAR (AFYONKARAHISAR)",
