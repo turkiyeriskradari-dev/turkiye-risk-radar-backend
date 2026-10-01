@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T12:05:14.430488+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-01T12:32:09.105320+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "VmduqrJBWtak3",
+      "title": "DUMUKLU-AKCADAG (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 14.4,
+      "date_utc": "2026-10-01 14:57:28",
+      "latitude": 38.3295,
+      "longitude": 37.8553,
+      "location_name": "Malatya"
+    },
     {
       "id": "w0cz91Cc0LHnV",
       "title": "KALFA-MANYAS (BALIKESIR)",
