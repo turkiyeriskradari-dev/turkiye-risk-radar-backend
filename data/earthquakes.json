@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T01:51:35.665316+00:00",
-  "record_count": 47,
+  "last_updated": "2026-10-01T02:03:25.828219+00:00",
+  "record_count": 45,
   "data": [
     {
       "id": "ceJglz3N1fTbn",
@@ -452,26 +452,6 @@
       "latitude": 38.6628,
       "longitude": 42.9497,
       "location_name": "Bitlis"
-    },
-    {
-      "id": "fKh_gXJ5NZ0EW",
-      "title": "CAMLICA-YATAGAN (MUGLA)",
-      "magnitude": 1.3,
-      "depth_km": 13.8,
-      "date_utc": "2026-09-30 04:58:16",
-      "latitude": 37.1643,
-      "longitude": 28.0395,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "TV7MBNJJ6D5Bf",
-      "title": "MENTESE-HONAZ (DENIZLI)",
-      "magnitude": 1.5,
-      "depth_km": 1.7,
-      "date_utc": "2026-09-30 04:56:41",
-      "latitude": 37.7355,
-      "longitude": 29.3185,
-      "location_name": "Denizli"
     }
   ]
 }
