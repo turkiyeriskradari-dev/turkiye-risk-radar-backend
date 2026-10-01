@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T05:37:50.146409+00:00",
-  "record_count": 55,
+  "last_updated": "2026-10-01T05:53:15.356108+00:00",
+  "record_count": 54,
   "data": [
     {
       "id": "1bCZOcqLtfXFh",
@@ -542,16 +542,6 @@
       "latitude": 39.8788,
       "longitude": 41.4088,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "rDL7RnpljsdXb",
-      "title": "RIFATIYE-ANDIRIN (KAHRAMANMARAS)",
-      "magnitude": 2.1,
-      "depth_km": 9.3,
-      "date_utc": "2026-09-30 08:49:34",
-      "latitude": 37.6688,
-      "longitude": 36.3065,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
