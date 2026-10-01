@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T12:57:32.540954+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-01T13:10:53.484831+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "VmduqrJBWtak3",
@@ -662,16 +662,6 @@
       "latitude": 38.8325,
       "longitude": 27.415,
       "location_name": "Manisa"
-    },
-    {
-      "id": "FBBjZkJJUys4J",
-      "title": "SAROS KORFEZI (EGE DENIZI)",
-      "magnitude": 1.9,
-      "depth_km": 8.8,
-      "date_utc": "2026-09-30 16:00:42",
-      "latitude": 40.4028,
-      "longitude": 26.0567,
-      "location_name": "Ege Denizi"
     }
   ]
 }
