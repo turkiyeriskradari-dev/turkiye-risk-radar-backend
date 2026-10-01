@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T16:52:02.036309+00:00",
+  "last_updated": "2026-10-01T17:05:05.277594+00:00",
   "record_count": 71,
   "data": [
+    {
+      "id": "7GL_uWBAUcBF1",
+      "title": "KALEKOY-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.5,
+      "depth_km": 7.2,
+      "date_utc": "2026-10-01 19:42:46",
+      "latitude": 38.0402,
+      "longitude": 36.6058,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "XNnKLI5fy1K54",
       "title": "EGE DENIZI",
@@ -702,16 +712,6 @@
       "latitude": 40.0308,
       "longitude": 39.1755,
       "location_name": "Gümüşhane"
-    },
-    {
-      "id": "Mav_ThhlyfoLJ",
-      "title": "BADEMLI-SUHUT (AFYONKARAHISAR)",
-      "magnitude": 2.1,
-      "depth_km": 7.7,
-      "date_utc": "2026-09-30 19:58:14",
-      "latitude": 38.409,
-      "longitude": 30.5825,
-      "location_name": "Afyon"
     }
   ]
 }
