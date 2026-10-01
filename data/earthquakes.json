@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T07:42:30.758691+00:00",
-  "record_count": 54,
+  "last_updated": "2026-10-01T07:53:57.615361+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "KjscDmKFPJZOk",
@@ -12,6 +12,16 @@
       "latitude": 38.0908,
       "longitude": 38.0915,
       "location_name": "Malatya"
+    },
+    {
+      "id": "IdubqZ1NJ2HYT",
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 18.5,
+      "date_utc": "2026-10-01 08:57:06",
+      "latitude": 39.2103,
+      "longitude": 28.2563,
+      "location_name": "Balıkesir"
     },
     {
       "id": "1bCZOcqLtfXFh",
