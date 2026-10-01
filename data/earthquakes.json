@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T14:56:31.030952+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-01T15:06:26.978501+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "sS9SQS_3SwLx5",
@@ -732,16 +732,6 @@
       "latitude": 37.9733,
       "longitude": 32.4212,
       "location_name": "Konya"
-    },
-    {
-      "id": "zfoDvkkGO2s7F",
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "magnitude": 1.6,
-      "depth_km": 11.8,
-      "date_utc": "2026-09-30 18:03:12",
-      "latitude": 38.1412,
-      "longitude": 38.5502,
-      "location_name": "Adıyaman"
     }
   ]
 }
