@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T13:45:41.391815+00:00",
-  "record_count": 72,
+  "last_updated": "2026-10-01T14:05:24.336082+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "yKvsaM0QLPSEI",
@@ -62,6 +62,16 @@
       "latitude": 35.8073,
       "longitude": 33.9775,
       "location_name": "Kıbrıs Açıkları"
+    },
+    {
+      "id": "AOiQxykslN8lL",
+      "title": "GUMUSKOL-ULUBEY (USAK)",
+      "magnitude": 1.6,
+      "depth_km": 21,
+      "date_utc": "2026-10-01 15:24:50",
+      "latitude": 38.4703,
+      "longitude": 29.1417,
+      "location_name": "Uşak"
     },
     {
       "id": "VmduqrJBWtak3",
@@ -152,6 +162,16 @@
       "latitude": 39.7642,
       "longitude": 28.8438,
       "location_name": "Bursa"
+    },
+    {
+      "id": "HiCUVpPIA59sI",
+      "title": "SALKONAK-YESILYURT (MALATYA)",
+      "magnitude": 0.8,
+      "depth_km": 13.1,
+      "date_utc": "2026-10-01 12:44:40",
+      "latitude": 38.165,
+      "longitude": 38.4022,
+      "location_name": "Adıyaman"
     },
     {
       "id": "wLSh3nHEv0Go9",
