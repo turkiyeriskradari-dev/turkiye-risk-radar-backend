@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T04:54:26.972316+00:00",
-  "record_count": 53,
+  "last_updated": "2026-10-01T05:03:32.775429+00:00",
+  "record_count": 55,
   "data": [
+    {
+      "id": "1bCZOcqLtfXFh",
+      "title": "KUCUKBAHCE-KARABURUN (IZMIR)",
+      "magnitude": 2.2,
+      "depth_km": 6.4,
+      "date_utc": "2026-10-01 07:53:32",
+      "latitude": 38.5057,
+      "longitude": 26.3505,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "JCr7u06WzVZTK",
+      "title": "CEVIZDERE-(ELAZIG)",
+      "magnitude": 1.7,
+      "depth_km": 1,
+      "date_utc": "2026-10-01 07:45:03",
+      "latitude": 38.5285,
+      "longitude": 39.3755,
+      "location_name": "Elazığ"
+    },
     {
       "id": "mCvteA0ywAhUa",
       "title": "CORUS-ULA (MUGLA)",
