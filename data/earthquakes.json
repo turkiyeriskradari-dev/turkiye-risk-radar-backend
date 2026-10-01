@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T00:57:14.014897+00:00",
-  "record_count": 42,
+  "last_updated": "2026-10-01T01:08:40.151830+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "ncoAdwP8NBL2n",
+      "title": "AYDOGMUS-KECIBORLU (ISPARTA)",
+      "magnitude": 1.5,
+      "depth_km": 16.6,
+      "date_utc": "2026-10-01 02:50:33",
+      "latitude": 37.9695,
+      "longitude": 30.239,
+      "location_name": "Isparta"
+    },
+    {
+      "id": "7DH_R3sIZ_lGK",
+      "title": "KALECIK-(ERZINCAN)",
+      "magnitude": 1.4,
+      "depth_km": 3,
+      "date_utc": "2026-10-01 02:44:42",
+      "latitude": 39.5272,
+      "longitude": 39.6988,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "dFe3XP_vaaF74",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 7.9,
+      "date_utc": "2026-10-01 02:42:43",
+      "latitude": 36.9527,
+      "longitude": 27.481,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "5nv6d2l8C2lMq",
+      "title": "ULUKOY-(MALATYA)",
+      "magnitude": 2.5,
+      "depth_km": 2,
+      "date_utc": "2026-10-01 02:42:20",
+      "latitude": 38.1945,
+      "longitude": 38.5565,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "DI44h8pOop4bn",
       "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
