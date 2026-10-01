@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T18:47:03.920080+00:00",
-  "record_count": 79,
+  "last_updated": "2026-10-01T19:03:20.181688+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "2VvjIVAlmE86P",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 2.3,
+      "depth_km": 1.2,
+      "date_utc": "2026-10-01 21:42:51",
+      "latitude": 36.975,
+      "longitude": 27.7687,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "KMqkiPcfu1lMm",
       "title": "GULUMUSAGI-(MALATYA)",
