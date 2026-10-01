@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T17:38:40.967150+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-01T17:53:04.699489+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "KMqkiPcfu1lMm",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 2.3,
+      "depth_km": 5.6,
+      "date_utc": "2026-10-01 20:32:42",
+      "latitude": 38.2078,
+      "longitude": 38.5635,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "TeFdmqh39AYLb",
       "title": "CEVIRME-AKCADAG (MALATYA)",
@@ -12,6 +22,16 @@
       "latitude": 38.2832,
       "longitude": 37.7618,
       "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "9lVktmTum98rP",
+      "title": "GOKOVA KORFEZI (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 15.4,
+      "date_utc": "2026-10-01 20:11:15",
+      "latitude": 36.8727,
+      "longitude": 27.5633,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "7GL_uWBAUcBF1",
