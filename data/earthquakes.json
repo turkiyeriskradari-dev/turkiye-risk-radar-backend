@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T08:43:30.338608+00:00",
-  "record_count": 58,
+  "last_updated": "2026-10-01T08:56:00.120357+00:00",
+  "record_count": 59,
   "data": [
+    {
+      "id": "eyISnNKtOnDG5",
+      "title": "KOROGLU-SENKAYA (ERZURUM)",
+      "magnitude": 2.1,
+      "depth_km": 13,
+      "date_utc": "2026-10-01 10:46:28",
+      "latitude": 40.6442,
+      "longitude": 42.5543,
+      "location_name": "Ardahan"
+    },
     {
       "id": "j6CWzpEfm0NO6",
       "title": "KUCUKKABACA-ULUBORLU (ISPARTA)",
