@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T20:02:38.257936+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-01T20:26:32.436876+00:00",
+  "record_count": 86,
   "data": [
     {
       "id": "pJ4_5_Lzkaqhk",
@@ -32,6 +32,36 @@
       "latitude": 37.9158,
       "longitude": 27.6605,
       "location_name": "Aydın"
+    },
+    {
+      "id": "B91IKONDqUBtM",
+      "title": "KIZILKAYA-DALAMAN (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 9.8,
+      "date_utc": "2026-10-01 22:18:38",
+      "latitude": 36.8745,
+      "longitude": 28.8875,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "TrS9UWpkT8zsO",
+      "title": "OZLUCE-(MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 11.5,
+      "date_utc": "2026-10-01 22:03:46",
+      "latitude": 37.2757,
+      "longitude": 28.508,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "PcvES88uzZ4RS",
+      "title": "KIZILKAYA-DALAMAN (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 11.5,
+      "date_utc": "2026-10-01 22:01:46",
+      "latitude": 36.8803,
+      "longitude": 28.898,
+      "location_name": "Muğla"
     },
     {
       "id": "2VvjIVAlmE86P",
