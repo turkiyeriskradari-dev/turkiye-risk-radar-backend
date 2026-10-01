@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T07:28:22.019211+00:00",
-  "record_count": 53,
+  "last_updated": "2026-10-01T07:42:30.758691+00:00",
+  "record_count": 54,
   "data": [
+    {
+      "id": "KjscDmKFPJZOk",
+      "title": "YALINKAYA-YESILYURT (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 6.8,
+      "date_utc": "2026-10-01 10:20:15",
+      "latitude": 38.0908,
+      "longitude": 38.0915,
+      "location_name": "Malatya"
+    },
     {
       "id": "1bCZOcqLtfXFh",
       "title": "KUCUKBAHCE-KARABURUN (IZMIR)",
