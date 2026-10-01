@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T15:06:26.978501+00:00",
+  "last_updated": "2026-10-01T15:27:19.486051+00:00",
   "record_count": 73,
   "data": [
+    {
+      "id": "XNnKLI5fy1K54",
+      "title": "EGE DENIZI",
+      "magnitude": 2.1,
+      "depth_km": 18.8,
+      "date_utc": "2026-10-01 18:07:03",
+      "latitude": 36.5563,
+      "longitude": 25.4022,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "YqrcXFQpN2aQ3",
+      "title": "CAYKOY-PUTURGE (MALATYA)",
+      "magnitude": 3,
+      "depth_km": 1.7,
+      "date_utc": "2026-10-01 18:02:35",
+      "latitude": 38.244,
+      "longitude": 38.6825,
+      "location_name": "Malatya"
+    },
     {
       "id": "sS9SQS_3SwLx5",
       "title": "CEVREKAYA-KEBAN (ELAZIG)",
@@ -712,26 +732,6 @@
       "latitude": 37.338,
       "longitude": 36.9145,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "g4YlX1Gr9KDpc",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 8.2,
-      "date_utc": "2026-09-30 18:20:52",
-      "latitude": 37.8243,
-      "longitude": 27.1782,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "JLsPjgROcP1PB",
-      "title": "SELCUKLU (KONYA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-09-30 18:19:52",
-      "latitude": 37.9733,
-      "longitude": 32.4212,
-      "location_name": "Konya"
     }
   ]
 }
