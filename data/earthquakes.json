@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T07:53:57.615361+00:00",
-  "record_count": 55,
+  "last_updated": "2026-10-01T08:05:34.030407+00:00",
+  "record_count": 58,
   "data": [
+    {
+      "id": "j6CWzpEfm0NO6",
+      "title": "KUCUKKABACA-ULUBORLU (ISPARTA)",
+      "magnitude": 1.9,
+      "depth_km": 8,
+      "date_utc": "2026-10-01 10:41:12",
+      "latitude": 38.1037,
+      "longitude": 30.495,
+      "location_name": "Isparta"
+    },
     {
       "id": "KjscDmKFPJZOk",
       "title": "YALINKAYA-YESILYURT (MALATYA)",
@@ -22,6 +32,26 @@
       "latitude": 39.2103,
       "longitude": 28.2563,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "UdIfJjpfP0HcS",
+      "title": "GUMUSKOY-GERMENCIK (AYDIN)",
+      "magnitude": 1.8,
+      "depth_km": 19.9,
+      "date_utc": "2026-10-01 08:51:35",
+      "latitude": 37.8477,
+      "longitude": 27.4952,
+      "location_name": "Aydın"
+    },
+    {
+      "id": "SjvYeaI3HNZ88",
+      "title": "YAKACIK-(TOKAT)",
+      "magnitude": 1.8,
+      "depth_km": 5,
+      "date_utc": "2026-10-01 08:37:46",
+      "latitude": 40.4885,
+      "longitude": 36.7,
+      "location_name": "Tokat"
     },
     {
       "id": "1bCZOcqLtfXFh",
