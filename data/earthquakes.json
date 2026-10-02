@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T00:32:29.090798+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-02T00:55:26.728630+00:00",
+  "record_count": 75,
   "data": [
     {
       "id": "6RN8G3VWvKFLq",
@@ -752,16 +752,6 @@
       "latitude": 38.3768,
       "longitude": 37.7475,
       "location_name": "Malatya"
-    },
-    {
-      "id": "Hb4ImZkAfpOC3",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1,
-      "depth_km": 9.5,
-      "date_utc": "2026-10-01 03:46:56",
-      "latitude": 36.9317,
-      "longitude": 27.4453,
-      "location_name": "Ege Denizi"
     }
   ]
 }
