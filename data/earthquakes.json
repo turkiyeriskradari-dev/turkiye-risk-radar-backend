@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T08:40:09.702920+00:00",
+  "last_updated": "2026-10-02T08:52:17.245372+00:00",
   "record_count": 77,
   "data": [
+    {
+      "id": "i31nTfscugR15",
+      "title": "ARSLANTAS-BOZKIR (KONYA)",
+      "magnitude": 1.7,
+      "depth_km": 7.2,
+      "date_utc": "2026-10-02 11:24:35",
+      "latitude": 37.109,
+      "longitude": 32.2188,
+      "location_name": "Konya"
+    },
     {
       "id": "KjB1rFpcqyRjd",
       "title": "KULAHLI-GURUN (SIVAS)",
@@ -762,16 +772,6 @@
       "latitude": 35.2837,
       "longitude": 33.5857,
       "location_name": "Kıbrıs"
-    },
-    {
-      "id": "OFDl6ltodMJH9",
-      "title": "KARACAAGAC-MILAS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 0,
-      "date_utc": "2026-10-01 11:46:40",
-      "latitude": 37.164,
-      "longitude": 27.8867,
-      "location_name": "Muğla"
     }
   ]
 }
