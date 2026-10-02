@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T06:49:10.951021+00:00",
-  "record_count": 81,
+  "last_updated": "2026-10-02T07:05:24.862223+00:00",
+  "record_count": 82,
   "data": [
+    {
+      "id": "U9Y6vz8qO3P2W",
+      "title": "SARICALAR-SELCUKLU (KONYA)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-10-02 09:40:19",
+      "latitude": 38.108,
+      "longitude": 32.6077,
+      "location_name": "Konya"
+    },
     {
       "id": "OAO9PFcpjjUZQ",
       "title": "GULUMUSAGI-(MALATYA)",
