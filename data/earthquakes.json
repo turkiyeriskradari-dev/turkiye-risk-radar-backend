@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T22:23:29.157511+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-02T22:36:44.372619+00:00",
+  "record_count": 72,
   "data": [
     {
       "id": "HbFaVSsdJxOTJ",
@@ -722,16 +722,6 @@
       "latitude": 40.2715,
       "longitude": 29.0082,
       "location_name": "Bursa"
-    },
-    {
-      "id": "awyF4udHUk7Nw",
-      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
-      "magnitude": 1.8,
-      "depth_km": 13.7,
-      "date_utc": "2026-10-02 01:33:50",
-      "latitude": 37.0447,
-      "longitude": 28.9245,
-      "location_name": "Muğla"
     }
   ]
 }
