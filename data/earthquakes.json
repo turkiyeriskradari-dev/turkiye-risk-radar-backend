@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T18:28:45.516956+00:00",
-  "record_count": 72,
+  "last_updated": "2026-10-02T18:44:39.233422+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "uJhbN5sCiZRfl",
@@ -712,16 +712,6 @@
       "latitude": 36.8803,
       "longitude": 28.898,
       "location_name": "Muğla"
-    },
-    {
-      "id": "2VvjIVAlmE86P",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 1.2,
-      "date_utc": "2026-10-01 21:42:51",
-      "latitude": 36.975,
-      "longitude": 27.7687,
-      "location_name": "Ege Denizi"
     }
   ]
 }
