@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T15:08:23.202727+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-02T15:27:46.705697+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "jACrPAVaPLQ13",
+      "title": "CEKMEKOY (ISTANBUL)",
+      "magnitude": 1.2,
+      "depth_km": 10,
+      "date_utc": "2026-10-02 17:48:45",
+      "latitude": 41.0227,
+      "longitude": 29.1828,
+      "location_name": "İstanbul"
+    },
     {
       "id": "giY5FV__VtZI1",
       "title": "EGE DENIZI",
