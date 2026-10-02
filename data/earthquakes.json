@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T03:52:47.660707+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-02T04:03:27.743960+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "OJImesgB6jRT6",
@@ -822,16 +822,6 @@
       "latitude": 42.2117,
       "longitude": 26.148,
       "location_name": "Bulgaristan"
-    },
-    {
-      "id": "pto8dIzgw7nM7",
-      "title": "AKCAKOY-(BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 8.9,
-      "date_utc": "2026-10-01 06:59:20",
-      "latitude": 39.4462,
-      "longitude": 27.9283,
-      "location_name": "Balıkesir"
     }
   ]
 }
