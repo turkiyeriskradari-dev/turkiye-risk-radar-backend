@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-01T23:50:38.478479+00:00",
-  "record_count": 72,
+  "last_updated": "2026-10-02T00:02:36.351502+00:00",
+  "record_count": 75,
   "data": [
+    {
+      "id": "8RIFTDKrmDdSl",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 2.2,
+      "depth_km": 3.5,
+      "date_utc": "2026-10-02 01:52:52",
+      "latitude": 38.2035,
+      "longitude": 38.5572,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "Q2zjAKKbrTYr_",
+      "title": "AHMETBEY-OSMANGAZI (BURSA)",
+      "magnitude": 1.3,
+      "depth_km": 14.2,
+      "date_utc": "2026-10-02 01:45:58",
+      "latitude": 40.2715,
+      "longitude": 29.0082,
+      "location_name": "Bursa"
+    },
+    {
+      "id": "awyF4udHUk7Nw",
+      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
+      "magnitude": 1.8,
+      "depth_km": 13.7,
+      "date_utc": "2026-10-02 01:33:50",
+      "latitude": 37.0447,
+      "longitude": 28.9245,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "hx3rbpqhqXRaD",
+      "title": "ESKIBAGLAR-KEMAH (ERZINCAN)",
+      "magnitude": 1.5,
+      "depth_km": 16.4,
+      "date_utc": "2026-10-02 01:22:39",
+      "latitude": 39.5478,
+      "longitude": 39.0297,
+      "location_name": "Erzincan"
+    },
     {
       "id": "T5t68dofhBYyL",
       "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
@@ -712,16 +752,6 @@
       "latitude": 36.9463,
       "longitude": 27.4568,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "ncoAdwP8NBL2n",
-      "title": "AYDOGMUS-KECIBORLU (ISPARTA)",
-      "magnitude": 1.5,
-      "depth_km": 16.6,
-      "date_utc": "2026-10-01 02:50:33",
-      "latitude": 37.9695,
-      "longitude": 30.239,
-      "location_name": "Isparta"
     }
   ]
 }
