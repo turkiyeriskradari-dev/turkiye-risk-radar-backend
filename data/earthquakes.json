@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T20:02:26.702594+00:00",
-  "record_count": 66,
+  "last_updated": "2026-10-02T20:23:20.301105+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "Uuuu5KXtbAmTW",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.8,
+      "depth_km": 15.3,
+      "date_utc": "2026-10-02 23:10:57",
+      "latitude": 39.193,
+      "longitude": 28.17,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "P22p3cLeMd0Zk",
+      "title": "SOYSALLI-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 2.3,
+      "depth_km": 1.9,
+      "date_utc": "2026-10-02 23:06:07",
+      "latitude": 38.0758,
+      "longitude": 37.0647,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "5gmQx5dnGtamL",
+      "title": "SOYSALLI-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 2.6,
+      "depth_km": 4.9,
+      "date_utc": "2026-10-02 22:58:00",
+      "latitude": 38.0812,
+      "longitude": 37.0598,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "kGAsr0shZ8t2g",
       "title": "KARACAOREN-(MUGLA)",
