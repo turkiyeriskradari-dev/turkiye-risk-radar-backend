@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T16:25:48.041503+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-02T16:40:43.583243+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "dx9N63T1f4xh9",
+      "title": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+      "magnitude": 1.4,
+      "depth_km": 17.7,
+      "date_utc": "2026-10-02 19:04:01",
+      "latitude": 40.9252,
+      "longitude": 28.701,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "2Jt4kRmtDWgGp",
       "title": "SOGUTLU-PUTURGE (MALATYA)",
