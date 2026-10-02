@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T03:03:33.501171+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-02T03:25:29.196532+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "jaMlIg64Pk2p4",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 3.4,
+      "depth_km": 10.4,
+      "date_utc": "2026-10-02 06:01:25",
+      "latitude": 35.6023,
+      "longitude": 26.1328,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "Nep4VApU5jjyC",
       "title": "KARAKOSE-SINCIK (ADIYAMAN)",
