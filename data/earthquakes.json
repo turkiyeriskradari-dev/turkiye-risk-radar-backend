@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T10:24:48.535783+00:00",
-  "record_count": 78,
+  "last_updated": "2026-10-02T10:37:50.596115+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "IfeIbHek72ljs",
@@ -772,16 +772,6 @@
       "latitude": 37.0312,
       "longitude": 28.8883,
       "location_name": "Muğla"
-    },
-    {
-      "id": "DQCDIrbErmHu0",
-      "title": "KAHYALI-AKCADAG (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 11.3,
-      "date_utc": "2026-10-01 13:36:22",
-      "latitude": 38.3123,
-      "longitude": 37.8297,
-      "location_name": "Malatya"
     }
   ]
 }
