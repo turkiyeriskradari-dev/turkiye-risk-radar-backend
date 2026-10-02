@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T05:37:29.022062+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-02T05:52:04.664397+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "8D4M4mdRMV6BT",
+      "title": "KAVAKLIDERE-AZIZIYE (ERZURUM)",
+      "magnitude": 1.1,
+      "depth_km": 15.8,
+      "date_utc": "2026-10-02 08:27:37",
+      "latitude": 40.1247,
+      "longitude": 41.1677,
+      "location_name": "Erzurum"
+    },
     {
       "id": "38ObQuYr755P6",
       "title": "KIZILKAYA-DALAMAN (MUGLA)",
@@ -802,26 +812,6 @@
       "latitude": 39.2103,
       "longitude": 28.2563,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "UdIfJjpfP0HcS",
-      "title": "GUMUSKOY-GERMENCIK (AYDIN)",
-      "magnitude": 1.8,
-      "depth_km": 19.9,
-      "date_utc": "2026-10-01 08:51:35",
-      "latitude": 37.8477,
-      "longitude": 27.4952,
-      "location_name": "Aydın"
-    },
-    {
-      "id": "SjvYeaI3HNZ88",
-      "title": "YAKACIK-(TOKAT)",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-01 08:37:46",
-      "latitude": 40.4885,
-      "longitude": 36.7,
-      "location_name": "Tokat"
     }
   ]
 }
