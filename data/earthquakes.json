@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T16:40:43.583243+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-02T16:53:25.365499+00:00",
+  "record_count": 66,
   "data": [
     {
       "id": "dx9N63T1f4xh9",
@@ -662,26 +662,6 @@
       "latitude": 36.8727,
       "longitude": 27.5633,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "uj2JwGOaA7QwE",
-      "title": "CANTIRLI-BEYPAZARI (ANKARA)",
-      "magnitude": 2.3,
-      "depth_km": 15.1,
-      "date_utc": "2026-10-01 19:50:59",
-      "latitude": 40.1492,
-      "longitude": 31.7463,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "7GL_uWBAUcBF1",
-      "title": "KALEKOY-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 7.2,
-      "date_utc": "2026-10-01 19:42:46",
-      "latitude": 38.0402,
-      "longitude": 36.6058,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
