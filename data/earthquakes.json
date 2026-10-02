@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T22:01:54.160035+00:00",
-  "record_count": 75,
+  "last_updated": "2026-10-02T22:23:29.157511+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "HbFaVSsdJxOTJ",
@@ -732,26 +732,6 @@
       "latitude": 37.0447,
       "longitude": 28.9245,
       "location_name": "Muğla"
-    },
-    {
-      "id": "hx3rbpqhqXRaD",
-      "title": "ESKIBAGLAR-KEMAH (ERZINCAN)",
-      "magnitude": 1.5,
-      "depth_km": 16.4,
-      "date_utc": "2026-10-02 01:22:39",
-      "latitude": 39.5478,
-      "longitude": 39.0297,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "T5t68dofhBYyL",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 2.1,
-      "depth_km": 15.1,
-      "date_utc": "2026-10-02 01:13:53",
-      "latitude": 38.994,
-      "longitude": 26.0157,
-      "location_name": "Ege Denizi"
     }
   ]
 }
