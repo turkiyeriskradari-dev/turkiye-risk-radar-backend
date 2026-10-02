@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T23:20:56.754540+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-02T23:35:08.379609+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "c2RCctir_hn1Z",
@@ -732,16 +732,6 @@
       "latitude": 38.2918,
       "longitude": 38.2675,
       "location_name": "Malatya"
-    },
-    {
-      "id": "6RN8G3VWvKFLq",
-      "title": "SARISU-KIRAZ (IZMIR)",
-      "magnitude": 1.2,
-      "depth_km": 14.2,
-      "date_utc": "2026-10-02 02:31:58",
-      "latitude": 38.2625,
-      "longitude": 28.3422,
-      "location_name": "İzmir"
     }
   ]
 }
