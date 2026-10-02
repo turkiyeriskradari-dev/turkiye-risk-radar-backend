@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T10:02:22.221286+00:00",
-  "record_count": 77,
+  "last_updated": "2026-10-02T10:24:48.535783+00:00",
+  "record_count": 78,
   "data": [
+    {
+      "id": "IfeIbHek72ljs",
+      "title": "KARACAAGAC-MILAS (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-10-02 12:56:35",
+      "latitude": 37.154,
+      "longitude": 27.924,
+      "location_name": "Muğla"
+    },
     {
       "id": "SsfQnUF_TtjWd",
       "title": "BODRUM (MUGLA)",
@@ -12,6 +22,16 @@
       "latitude": 36.9853,
       "longitude": 27.4535,
       "location_name": "Muğla"
+    },
+    {
+      "id": "8sCa_MX4t11DU",
+      "title": "KARSIYAKA-PUTURGE (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 5.2,
+      "date_utc": "2026-10-02 12:19:20",
+      "latitude": 38.2822,
+      "longitude": 38.7887,
+      "location_name": "Malatya"
     },
     {
       "id": "LynIfMyZ9uFCG",
@@ -762,16 +782,6 @@
       "latitude": 38.3123,
       "longitude": 37.8297,
       "location_name": "Malatya"
-    },
-    {
-      "id": "E55dn98peYCXn",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 9.6,
-      "date_utc": "2026-10-01 13:13:50",
-      "latitude": 36.9332,
-      "longitude": 27.3488,
-      "location_name": "Ege Denizi"
     }
   ]
 }
