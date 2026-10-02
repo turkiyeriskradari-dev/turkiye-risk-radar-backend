@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T13:27:29.493999+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-02T13:41:54.224325+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "m6qmArE9p3XYf",
@@ -742,26 +742,6 @@
       "latitude": 39.0912,
       "longitude": 27.4922,
       "location_name": "İzmir"
-    },
-    {
-      "id": "yKvsaM0QLPSEI",
-      "title": "ULUKOY-(MALATYA)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-10-01 16:37:15",
-      "latitude": 38.1815,
-      "longitude": 38.4607,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "favAGNwTaPg9y",
-      "title": "ARMUTLU-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 3,
-      "depth_km": 6.8,
-      "date_utc": "2026-10-01 16:35:42",
-      "latitude": 37.532,
-      "longitude": 37.2258,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
