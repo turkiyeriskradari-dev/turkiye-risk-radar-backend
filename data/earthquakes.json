@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T11:52:28.016149+00:00",
+  "last_updated": "2026-10-02T12:03:31.405895+00:00",
   "record_count": 75,
   "data": [
     {
@@ -22,6 +22,16 @@
       "latitude": 40.1857,
       "longitude": 31.6752,
       "location_name": "Ankara"
+    },
+    {
+      "id": "EsL8QuYQR5Npg",
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "magnitude": 1.2,
+      "depth_km": 14.6,
+      "date_utc": "2026-10-02 14:08:04",
+      "latitude": 38.1442,
+      "longitude": 38.4488,
+      "location_name": "Adıyaman"
     },
     {
       "id": "IfeIbHek72ljs",
@@ -742,16 +752,6 @@
       "latitude": 38.4703,
       "longitude": 29.1417,
       "location_name": "Uşak"
-    },
-    {
-      "id": "VmduqrJBWtak3",
-      "title": "DUMUKLU-AKCADAG (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 14.4,
-      "date_utc": "2026-10-01 14:57:28",
-      "latitude": 38.3295,
-      "longitude": 37.8553,
-      "location_name": "Malatya"
     }
   ]
 }
