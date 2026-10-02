@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T03:39:23.254944+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-02T03:52:47.660707+00:00",
+  "record_count": 83,
   "data": [
     {
       "id": "OJImesgB6jRT6",
@@ -832,26 +832,6 @@
       "latitude": 39.4462,
       "longitude": 27.9283,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "5FjlaCgQRfaRs",
-      "title": "KARAKUYU-SAIMBEYLI (ADANA)",
-      "magnitude": 2.1,
-      "depth_km": 5.2,
-      "date_utc": "2026-10-01 06:43:20",
-      "latitude": 37.8547,
-      "longitude": 36.2167,
-      "location_name": "Adana"
-    },
-    {
-      "id": "pDPJRfnM5rfis",
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "magnitude": 2.2,
-      "depth_km": 2.9,
-      "date_utc": "2026-10-01 06:40:02",
-      "latitude": 38.2115,
-      "longitude": 38.591,
-      "location_name": "Adıyaman"
     }
   ]
 }
