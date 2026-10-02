@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T08:52:17.245372+00:00",
+  "last_updated": "2026-10-02T09:04:06.799281+00:00",
   "record_count": 77,
   "data": [
+    {
+      "id": "ZUQJmCQYHyKMw",
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "magnitude": 2.1,
+      "depth_km": 7.8,
+      "date_utc": "2026-10-02 11:56:00",
+      "latitude": 36.4775,
+      "longitude": 27.1507,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "bsRO2PnWNjwJF",
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "magnitude": 2.6,
+      "depth_km": 122.9,
+      "date_utc": "2026-10-02 11:43:06",
+      "latitude": 36.6022,
+      "longitude": 26.919,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "i31nTfscugR15",
       "title": "ARSLANTAS-BOZKIR (KONYA)",
@@ -752,26 +772,6 @@
       "latitude": 38.4082,
       "longitude": 32.5382,
       "location_name": "Konya"
-    },
-    {
-      "id": "O2tqlu81mszns",
-      "title": "IMAMUSAGI-SILIFKE (MERSIN)",
-      "magnitude": 1.1,
-      "depth_km": 0,
-      "date_utc": "2026-10-01 11:57:21",
-      "latitude": 36.282,
-      "longitude": 33.8138,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "NGU4SB9s9UReN",
-      "title": "KIBRIS-BESPARMAK",
-      "magnitude": 1.1,
-      "depth_km": 4.1,
-      "date_utc": "2026-10-01 11:54:36",
-      "latitude": 35.2837,
-      "longitude": 33.5857,
-      "location_name": "Kıbrıs"
     }
   ]
 }
