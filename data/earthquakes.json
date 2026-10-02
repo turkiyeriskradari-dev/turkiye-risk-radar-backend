@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T09:52:54.051236+00:00",
-  "record_count": 78,
+  "last_updated": "2026-10-02T10:02:22.221286+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "SsfQnUF_TtjWd",
@@ -772,16 +772,6 @@
       "latitude": 36.9332,
       "longitude": 27.3488,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "W5haURITtffuA",
-      "title": "EVCIHUYUK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.8,
-      "depth_km": 2.1,
-      "date_utc": "2026-10-01 12:59:03",
-      "latitude": 38.3308,
-      "longitude": 37.2385,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
