@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T13:06:09.622155+00:00",
-  "record_count": 77,
+  "last_updated": "2026-10-02T13:27:29.493999+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "m6qmArE9p3XYf",
+      "title": "DEDEPINARI-(ELAZIG)",
+      "magnitude": 2.1,
+      "depth_km": 12.1,
+      "date_utc": "2026-10-02 16:08:32",
+      "latitude": 38.4907,
+      "longitude": 39.1553,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "7M_ltJTbMhmjn",
+      "title": "CATKOSEDAG-ELESKIRT (AGRI)",
+      "magnitude": 2.5,
+      "depth_km": 6.8,
+      "date_utc": "2026-10-02 16:04:24",
+      "latitude": 39.9108,
+      "longitude": 42.6232,
+      "location_name": "Ağrı"
+    },
     {
       "id": "wpqbWaYWWI_3a",
       "title": "ULUPINAR-KEMER (ANTALYA)",
@@ -742,36 +762,6 @@
       "latitude": 37.532,
       "longitude": 37.2258,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "hZF8HO2DX98V6",
-      "title": "SEYITUSAGI-YESILYURT (MALATYA)",
-      "magnitude": 1.6,
-      "depth_km": 5.7,
-      "date_utc": "2026-10-01 16:16:05",
-      "latitude": 38.2427,
-      "longitude": 38.1792,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "6IrCfaO6oGFYb",
-      "title": "SEFERIHISAR ACIKLARI-IZMIR (EGE DENIZI)",
-      "magnitude": 2.5,
-      "depth_km": 4,
-      "date_utc": "2026-10-01 16:13:58",
-      "latitude": 38.13,
-      "longitude": 26.7063,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "UnQ6kGlite62r",
-      "title": "ULUKOY-(MALATYA)",
-      "magnitude": 2.7,
-      "depth_km": 5,
-      "date_utc": "2026-10-01 16:13:27",
-      "latitude": 38.1533,
-      "longitude": 38.5543,
-      "location_name": "Adıyaman"
     }
   ]
 }
