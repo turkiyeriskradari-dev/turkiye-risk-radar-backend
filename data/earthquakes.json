@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T06:03:31.316409+00:00",
-  "record_count": 80,
+  "last_updated": "2026-10-02T06:29:59.466810+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "HTiYLHHVrXBQS",
+      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 3.7,
+      "date_utc": "2026-10-02 08:43:51",
+      "latitude": 40.4147,
+      "longitude": 28.8788,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "8D4M4mdRMV6BT",
       "title": "KAVAKLIDERE-AZIZIYE (ERZURUM)",
