@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T01:24:59.974502+00:00",
-  "record_count": 75,
+  "last_updated": "2026-10-02T01:37:09.194898+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "6RN8G3VWvKFLq",
@@ -742,16 +742,6 @@
       "latitude": 38.4023,
       "longitude": 39.288,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "QSEzrVMOQPAYY",
-      "title": "DEMIRCILER-AKCADAG (MALATYA)",
-      "magnitude": 1.9,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-01 04:34:19",
-      "latitude": 38.3768,
-      "longitude": 37.7475,
-      "location_name": "Malatya"
     }
   ]
 }
