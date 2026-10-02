@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T14:27:43.631310+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-02T14:42:53.011647+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "m6qmArE9p3XYf",
@@ -702,36 +702,6 @@
       "latitude": 37.717,
       "longitude": 35.6063,
       "location_name": "Adana"
-    },
-    {
-      "id": "VIe_7t0tRsE4d",
-      "title": "CANDARLI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 6.5,
-      "date_utc": "2026-10-01 17:36:56",
-      "latitude": 38.9165,
-      "longitude": 26.9968,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "sS9SQS_3SwLx5",
-      "title": "CEVREKAYA-KEBAN (ELAZIG)",
-      "magnitude": 1.9,
-      "depth_km": 19.8,
-      "date_utc": "2026-10-01 17:34:14",
-      "latitude": 38.7218,
-      "longitude": 38.7042,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "00SOBPBDokiXE",
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "magnitude": 1.9,
-      "depth_km": 11.9,
-      "date_utc": "2026-10-01 17:32:23",
-      "latitude": 38.1485,
-      "longitude": 38.5528,
-      "location_name": "Adıyaman"
     }
   ]
 }
