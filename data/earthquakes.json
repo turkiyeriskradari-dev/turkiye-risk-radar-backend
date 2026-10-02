@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T03:25:29.196532+00:00",
-  "record_count": 84,
+  "last_updated": "2026-10-02T03:39:23.254944+00:00",
+  "record_count": 85,
   "data": [
+    {
+      "id": "OJImesgB6jRT6",
+      "title": "KARSIYAKA-PUTURGE (MALATYA)",
+      "magnitude": 2.3,
+      "depth_km": 1.6,
+      "date_utc": "2026-10-02 06:18:22",
+      "latitude": 38.3003,
+      "longitude": 38.7743,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "MTXFzJOejF9MX",
+      "title": "AKDENIZ",
+      "magnitude": 2.4,
+      "depth_km": 14.5,
+      "date_utc": "2026-10-02 06:16:54",
+      "latitude": 34.4422,
+      "longitude": 32.2245,
+      "location_name": "Kıbrıs Açıkları"
+    },
     {
       "id": "jaMlIg64Pk2p4",
       "title": "GIRIT ADASI (AKDENIZ)",
@@ -832,16 +852,6 @@
       "latitude": 38.2115,
       "longitude": 38.591,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "7UPs9U0u_0keQ",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 6.6,
-      "date_utc": "2026-10-01 06:27:32",
-      "latitude": 35.8705,
-      "longitude": 31.0822,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
