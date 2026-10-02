@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T02:51:23.738016+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-02T03:03:33.501171+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "Nep4VApU5jjyC",
+      "title": "KARAKOSE-SINCIK (ADIYAMAN)",
+      "magnitude": 1.6,
+      "depth_km": 6.9,
+      "date_utc": "2026-10-02 05:44:15",
+      "latitude": 38.0998,
+      "longitude": 38.4988,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "zbMtD_6qE99Re",
       "title": "KARAKUYU-SAIMBEYLI (ADANA)",
