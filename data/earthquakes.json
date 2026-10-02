@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T20:37:33.163689+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-02T20:52:24.967459+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "0zcVDmZdVEir0",
+      "title": "KUCUKUNGUT-CAGLAYANCERIT (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 8.8,
+      "date_utc": "2026-10-02 23:25:59",
+      "latitude": 37.709,
+      "longitude": 37.3885,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "UuO00pLfHWkJF",
       "title": "BOZELI-EZINE (CANAKKALE)",
@@ -62,6 +72,16 @@
       "latitude": 37.2428,
       "longitude": 28.7622,
       "location_name": "Muğla"
+    },
+    {
+      "id": "rNfy7_TuOntVl",
+      "title": "GOYNEM-DEREBUCAK (KONYA)",
+      "magnitude": 1.5,
+      "depth_km": 7.2,
+      "date_utc": "2026-10-02 21:55:07",
+      "latitude": 37.4482,
+      "longitude": 31.4772,
+      "location_name": "Konya"
     },
     {
       "id": "uJhbN5sCiZRfl",
