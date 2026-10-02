@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T14:57:06.740751+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-02T15:08:23.202727+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "giY5FV__VtZI1",
@@ -672,36 +672,6 @@
       "latitude": 37.3717,
       "longitude": 37.1293,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "XNnKLI5fy1K54",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 18.8,
-      "date_utc": "2026-10-01 18:07:03",
-      "latitude": 36.5563,
-      "longitude": 25.4022,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "YqrcXFQpN2aQ3",
-      "title": "CAYKOY-PUTURGE (MALATYA)",
-      "magnitude": 3,
-      "depth_km": 1.7,
-      "date_utc": "2026-10-01 18:02:35",
-      "latitude": 38.244,
-      "longitude": 38.6825,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "03ib_F9BFZNNw",
-      "title": "ARMUTALAN-MARMARIS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 5,
-      "date_utc": "2026-10-01 18:01:33",
-      "latitude": 36.8438,
-      "longitude": 28.2008,
-      "location_name": "Muğla"
     }
   ]
 }
