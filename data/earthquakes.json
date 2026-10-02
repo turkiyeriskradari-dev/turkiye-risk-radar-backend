@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T22:36:44.372619+00:00",
-  "record_count": 72,
+  "last_updated": "2026-10-02T22:51:12.713699+00:00",
+  "record_count": 74,
   "data": [
+    {
+      "id": "HMensxAJnHDYg",
+      "title": "KAVAK-ISKILIP (CORUM)",
+      "magnitude": 2.8,
+      "depth_km": 5.5,
+      "date_utc": "2026-10-03 01:42:40",
+      "latitude": 40.777,
+      "longitude": 34.4433,
+      "location_name": "Çorum"
+    },
+    {
+      "id": "LOOI3G5K1HSAM",
+      "title": "BOSTANBASI-YESILYURT (MALATYA)",
+      "magnitude": 2.1,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-03 01:36:37",
+      "latitude": 38.3143,
+      "longitude": 38.2513,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "ydkIE8DtAu301",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 14.3,
+      "date_utc": "2026-10-03 01:32:47",
+      "latitude": 39.2092,
+      "longitude": 28.1512,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "HbFaVSsdJxOTJ",
       "title": "KUYULU-YESILYURT (MALATYA)",
@@ -712,16 +742,6 @@
       "latitude": 38.2035,
       "longitude": 38.5572,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "Q2zjAKKbrTYr_",
-      "title": "AHMETBEY-OSMANGAZI (BURSA)",
-      "magnitude": 1.3,
-      "depth_km": 14.2,
-      "date_utc": "2026-10-02 01:45:58",
-      "latitude": 40.2715,
-      "longitude": 29.0082,
-      "location_name": "Bursa"
     }
   ]
 }
