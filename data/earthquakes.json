@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T14:42:53.011647+00:00",
+  "last_updated": "2026-10-02T14:57:06.740751+00:00",
   "record_count": 70,
   "data": [
+    {
+      "id": "giY5FV__VtZI1",
+      "title": "EGE DENIZI",
+      "magnitude": 2.5,
+      "depth_km": 8.7,
+      "date_utc": "2026-10-02 17:40:01",
+      "latitude": 36.666,
+      "longitude": 25.6663,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "m6qmArE9p3XYf",
       "title": "DEDEPINARI-(ELAZIG)",
@@ -692,16 +702,6 @@
       "latitude": 36.8438,
       "longitude": 28.2008,
       "location_name": "Muğla"
-    },
-    {
-      "id": "5TIBhr0empWKL",
-      "title": "KAPIKAYA-KOZAN (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-01 17:51:04",
-      "latitude": 37.717,
-      "longitude": 35.6063,
-      "location_name": "Adana"
     }
   ]
 }
