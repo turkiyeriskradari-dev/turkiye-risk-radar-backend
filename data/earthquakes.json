@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T17:25:24.042698+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-02T17:37:18.758032+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "uJhbN5sCiZRfl",
+      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 14.9,
+      "date_utc": "2026-10-02 19:54:51",
+      "latitude": 39.228,
+      "longitude": 28.1348,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "SC5mh2dj3MFAl",
+      "title": "CEMALLI-KELKIT (GUMUSHANE)",
+      "magnitude": 1.9,
+      "depth_km": 22.2,
+      "date_utc": "2026-10-02 19:48:53",
+      "latitude": 39.9423,
+      "longitude": 39.2652,
+      "location_name": "Gümüşhane"
+    },
     {
       "id": "Ke6MjKc5sMcR4",
       "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
@@ -22,6 +42,16 @@
       "latitude": 40.9252,
       "longitude": 28.701,
       "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "iPHMe1ix3GIo6",
+      "title": "AKSU-SINCIK (ADIYAMAN)",
+      "magnitude": 1.1,
+      "depth_km": 14.3,
+      "date_utc": "2026-10-02 18:44:21",
+      "latitude": 38.1132,
+      "longitude": 38.4618,
+      "location_name": "Adıyaman"
     },
     {
       "id": "2Jt4kRmtDWgGp",
@@ -672,16 +702,6 @@
       "latitude": 36.975,
       "longitude": 27.7687,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "KMqkiPcfu1lMm",
-      "title": "GULUMUSAGI-(MALATYA)",
-      "magnitude": 2.3,
-      "depth_km": 5.6,
-      "date_utc": "2026-10-01 20:32:42",
-      "latitude": 38.2078,
-      "longitude": 38.5635,
-      "location_name": "Adıyaman"
     }
   ]
 }
