@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T04:52:48.473440+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-02T05:03:06.380492+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "38ObQuYr755P6",
@@ -822,16 +822,6 @@
       "latitude": 40.4885,
       "longitude": 36.7,
       "location_name": "Tokat"
-    },
-    {
-      "id": "1bCZOcqLtfXFh",
-      "title": "KUCUKBAHCE-KARABURUN (IZMIR)",
-      "magnitude": 2.2,
-      "depth_km": 6.4,
-      "date_utc": "2026-10-01 07:53:32",
-      "latitude": 38.5057,
-      "longitude": 26.3505,
-      "location_name": "Ege Denizi"
     }
   ]
 }
