@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T02:03:41.476002+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-02T02:23:25.190857+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "6RN8G3VWvKFLq",
@@ -732,16 +732,6 @@
       "latitude": 34.7288,
       "longitude": 31.6978,
       "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "xzK0rGGMCFA2J",
-      "title": "YEDIKARDES-SIVRICE (ELAZIG)",
-      "magnitude": 1.4,
-      "depth_km": 3.6,
-      "date_utc": "2026-10-01 05:09:55",
-      "latitude": 38.4023,
-      "longitude": 39.288,
-      "location_name": "Elazığ"
     }
   ]
 }
