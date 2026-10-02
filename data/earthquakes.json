@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T07:40:26.816839+00:00",
-  "record_count": 80,
+  "last_updated": "2026-10-02T07:53:03.649213+00:00",
+  "record_count": 77,
   "data": [
+    {
+      "id": "4eqj_Z355K0lO",
+      "title": "TASEVI-YALVAC (ISPARTA)",
+      "magnitude": 2.3,
+      "depth_km": 14.7,
+      "date_utc": "2026-10-02 10:40:40",
+      "latitude": 38.2737,
+      "longitude": 30.7837,
+      "location_name": "Isparta"
+    },
     {
       "id": "U9Y6vz8qO3P2W",
       "title": "SARICALAR-SELCUKLU (KONYA)",
@@ -762,46 +772,6 @@
       "latitude": 38.045,
       "longitude": 30.1747,
       "location_name": "Afyon"
-    },
-    {
-      "id": "eyISnNKtOnDG5",
-      "title": "KOROGLU-SENKAYA (ERZURUM)",
-      "magnitude": 2.1,
-      "depth_km": 13,
-      "date_utc": "2026-10-01 10:46:28",
-      "latitude": 40.6442,
-      "longitude": 42.5543,
-      "location_name": "Ardahan"
-    },
-    {
-      "id": "3C_LStDBGD6XB",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 17.5,
-      "date_utc": "2026-10-01 10:45:53",
-      "latitude": 39.1598,
-      "longitude": 28.1953,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "aDtPQoq3knMez",
-      "title": "KARACAOREN-SEHITKAMIL (GAZIANTEP)",
-      "magnitude": 1.4,
-      "depth_km": 0,
-      "date_utc": "2026-10-01 10:43:10",
-      "latitude": 37.229,
-      "longitude": 37.3898,
-      "location_name": "Gaziantep"
-    },
-    {
-      "id": "j6CWzpEfm0NO6",
-      "title": "KUCUKKABACA-ULUBORLU (ISPARTA)",
-      "magnitude": 1.9,
-      "depth_km": 8,
-      "date_utc": "2026-10-01 10:41:12",
-      "latitude": 38.1037,
-      "longitude": 30.495,
-      "location_name": "Isparta"
     }
   ]
 }
