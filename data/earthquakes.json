@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T17:37:18.758032+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-02T17:50:54.950190+00:00",
+  "record_count": 72,
   "data": [
     {
       "id": "uJhbN5sCiZRfl",
@@ -54,6 +54,16 @@
       "location_name": "Adıyaman"
     },
     {
+      "id": "QrXxQiEF90xnE",
+      "title": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 19.5,
+      "date_utc": "2026-10-02 18:33:55",
+      "latitude": 37.6085,
+      "longitude": 37.3138,
+      "location_name": "Kahramanmaraş"
+    },
+    {
       "id": "2Jt4kRmtDWgGp",
       "title": "SOGUTLU-PUTURGE (MALATYA)",
       "magnitude": 2,
@@ -62,6 +72,16 @@
       "latitude": 38.2103,
       "longitude": 38.5928,
       "location_name": "Adıyaman"
+    },
+    {
+      "id": "RQ85Hg5XOqV3F",
+      "title": "AKDENIZ",
+      "magnitude": 1.8,
+      "depth_km": 7.6,
+      "date_utc": "2026-10-02 17:52:28",
+      "latitude": 35.9138,
+      "longitude": 30.1295,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
     },
     {
       "id": "jACrPAVaPLQ13",
