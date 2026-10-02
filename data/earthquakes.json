@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T15:54:50.236390+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-02T16:03:18.693794+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "2Jt4kRmtDWgGp",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "magnitude": 2,
+      "depth_km": 3.4,
+      "date_utc": "2026-10-02 18:27:47",
+      "latitude": 38.2103,
+      "longitude": 38.5928,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "jACrPAVaPLQ13",
       "title": "CEKMEKOY (ISTANBUL)",
