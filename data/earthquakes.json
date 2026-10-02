@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T19:08:42.999399+00:00",
-  "record_count": 69,
+  "last_updated": "2026-10-02T19:25:29.368975+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "uJhbN5sCiZRfl",
@@ -671,26 +671,6 @@
       "date_utc": "2026-10-01 22:30:09",
       "latitude": 36.8917,
       "longitude": 28.877,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "gHY_nfE54P8S0",
-      "title": "KIZILCAGEDIK-GERMENCIK (AYDIN)",
-      "magnitude": 2.1,
-      "depth_km": 3.8,
-      "date_utc": "2026-10-01 22:22:38",
-      "latitude": 37.9158,
-      "longitude": 27.6605,
-      "location_name": "Aydın"
-    },
-    {
-      "id": "B91IKONDqUBtM",
-      "title": "KIZILKAYA-DALAMAN (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 9.8,
-      "date_utc": "2026-10-01 22:18:38",
-      "latitude": 36.8745,
-      "longitude": 28.8875,
       "location_name": "Muğla"
     }
   ]
