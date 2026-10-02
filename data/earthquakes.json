@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T04:03:27.743960+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-02T04:25:26.750616+00:00",
+  "record_count": 85,
   "data": [
+    {
+      "id": "38ObQuYr755P6",
+      "title": "KIZILKAYA-DALAMAN (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-10-02 07:01:24",
+      "latitude": 36.8978,
+      "longitude": 28.8923,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "vUH0WCJDokB1G",
+      "title": "KALE-ARSUZ (HATAY)",
+      "magnitude": 2,
+      "depth_km": 12.1,
+      "date_utc": "2026-10-02 06:56:29",
+      "latitude": 36.2037,
+      "longitude": 35.826,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "MHLSYJ1A1YzVM",
+      "title": "PURSUNLER-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.3,
+      "depth_km": 8.6,
+      "date_utc": "2026-10-02 06:55:42",
+      "latitude": 39.2253,
+      "longitude": 28.1907,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "diVuLgQjSmiKF",
+      "title": "YESILYURT-(BALIKESIR)",
+      "magnitude": 1.2,
+      "depth_km": 23.3,
+      "date_utc": "2026-10-02 06:35:45",
+      "latitude": 39.608,
+      "longitude": 27.7592,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "umj15YaMLDwDX",
+      "title": "ANAMUR ACIKLARI-MERSIN (AKDENIZ)",
+      "magnitude": 1.6,
+      "depth_km": 26.1,
+      "date_utc": "2026-10-02 06:34:59",
+      "latitude": 35.976,
+      "longitude": 32.6553,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "OJImesgB6jRT6",
       "title": "KARSIYAKA-PUTURGE (MALATYA)",
@@ -802,26 +852,6 @@
       "latitude": 36.9747,
       "longitude": 28.4963,
       "location_name": "Muğla"
-    },
-    {
-      "id": "UvbfX1DmUU8Uf",
-      "title": "BAYAT-(BALIKESIR)",
-      "magnitude": 1.8,
-      "depth_km": 7.9,
-      "date_utc": "2026-10-01 07:24:30",
-      "latitude": 39.4348,
-      "longitude": 27.9043,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "HeMaaQb98rTRl",
-      "title": "BULGARISTAN",
-      "magnitude": 2.7,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-01 07:24:20",
-      "latitude": 42.2117,
-      "longitude": 26.148,
-      "location_name": "Bulgaristan"
     }
   ]
 }
