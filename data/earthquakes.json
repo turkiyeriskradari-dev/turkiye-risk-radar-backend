@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T23:01:26.508368+00:00",
+  "last_updated": "2026-10-02T23:20:56.754540+00:00",
   "record_count": 74,
   "data": [
+    {
+      "id": "c2RCctir_hn1Z",
+      "title": "TORTULU-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 9.9,
+      "date_utc": "2026-10-03 02:01:19",
+      "latitude": 37.8005,
+      "longitude": 35.8277,
+      "location_name": "Adana"
+    },
+    {
+      "id": "TeMvB6rjFU0_E",
+      "title": "TORTULU-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-03 02:01:18",
+      "latitude": 37.7975,
+      "longitude": 35.8288,
+      "location_name": "Adana"
+    },
     {
       "id": "Vh6Ch2q3aCKIf",
       "title": "AKBUDAK-KEMAH (ERZINCAN)",
@@ -722,26 +742,6 @@
       "latitude": 38.2625,
       "longitude": 28.3422,
       "location_name": "İzmir"
-    },
-    {
-      "id": "vhjbxguTs1UYi",
-      "title": "IKIZCE-YESILYURT (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 11,
-      "date_utc": "2026-10-02 02:15:26",
-      "latitude": 38.2952,
-      "longitude": 38.1857,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "SWgMamgr1APIq",
-      "title": "SEBEPLI-GONEN (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 15.1,
-      "date_utc": "2026-10-02 02:03:08",
-      "latitude": 39.9702,
-      "longitude": 27.6355,
-      "location_name": "Balıkesir"
     }
   ]
 }
