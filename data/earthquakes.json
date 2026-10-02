@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T14:04:37.689886+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-02T14:27:43.631310+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "m6qmArE9p3XYf",
@@ -732,16 +732,6 @@
       "latitude": 38.1485,
       "longitude": 38.5528,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "eCKAKHK_mSxKz",
-      "title": "ARPASEKI-KINIK (IZMIR)",
-      "magnitude": 1.3,
-      "depth_km": 5,
-      "date_utc": "2026-10-01 17:19:30",
-      "latitude": 39.0912,
-      "longitude": 27.4922,
-      "location_name": "İzmir"
     }
   ]
 }
