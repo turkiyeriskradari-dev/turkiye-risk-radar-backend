@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T12:30:40.254821+00:00",
+  "last_updated": "2026-10-02T12:55:39.622542+00:00",
   "record_count": 77,
   "data": [
     {
@@ -12,6 +12,16 @@
       "latitude": 36.4633,
       "longitude": 30.4582,
       "location_name": "Antalya"
+    },
+    {
+      "id": "WpvQLzdWkKv5_",
+      "title": "COKERTME-MILAS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-02 14:54:54",
+      "latitude": 36.989,
+      "longitude": 27.7695,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "ukPzTbnJjsqot",
@@ -762,16 +772,6 @@
       "latitude": 38.1533,
       "longitude": 38.5543,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "0rn1yVYoP9Dxp",
-      "title": "AKDENIZ",
-      "magnitude": 1.7,
-      "depth_km": 26.2,
-      "date_utc": "2026-10-01 15:45:59",
-      "latitude": 35.8073,
-      "longitude": 33.9775,
-      "location_name": "Kıbrıs Açıkları"
     }
   ]
 }
