@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-02T19:25:29.368975+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-02T19:38:37.978074+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "kGAsr0shZ8t2g",
+      "title": "KARACAOREN-(MUGLA)",
+      "magnitude": 1.8,
+      "depth_km": 12.4,
+      "date_utc": "2026-10-02 22:01:28",
+      "latitude": 37.2428,
+      "longitude": 28.7622,
+      "location_name": "Muğla"
+    },
     {
       "id": "uJhbN5sCiZRfl",
       "title": "MANDIRA-SINDIRGI (BALIKESIR)",
@@ -652,26 +662,6 @@
       "latitude": 39.3948,
       "longitude": 40.6325,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "pJ4_5_Lzkaqhk",
-      "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 8.8,
-      "date_utc": "2026-10-01 22:34:32",
-      "latitude": 38.875,
-      "longitude": 26.4592,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "FhGENxoJKcd3q",
-      "title": "KIZILKAYA-DALAMAN (MUGLA)",
-      "magnitude": 2.7,
-      "depth_km": 7.4,
-      "date_utc": "2026-10-01 22:30:09",
-      "latitude": 36.8917,
-      "longitude": 28.877,
-      "location_name": "Muğla"
     }
   ]
 }
