@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T06:08:52.504944+00:00",
-  "record_count": 63,
+  "last_updated": "2026-10-03T06:31:36.783029+00:00",
+  "record_count": 65,
   "data": [
+    {
+      "id": "RWi2n1SjMofku",
+      "title": "SOFULAR-CAMELI (DENIZLI)",
+      "magnitude": 2.2,
+      "depth_km": 2.8,
+      "date_utc": "2026-10-03 09:06:08",
+      "latitude": 36.9872,
+      "longitude": 29.304,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "tEL190_09LzYw",
+      "title": "GURSU-CAMELI (DENIZLI)",
+      "magnitude": 2.5,
+      "depth_km": 3.9,
+      "date_utc": "2026-10-03 08:48:30",
+      "latitude": 36.9558,
+      "longitude": 29.304,
+      "location_name": "Denizli"
+    },
     {
       "id": "3QRZeLQfnXE9f",
       "title": "GECITKOY-TEKMAN (ERZURUM)",
