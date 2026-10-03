@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T02:01:48.688806+00:00",
-  "record_count": 69,
+  "last_updated": "2026-10-03T02:25:25.059211+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "xXiqRAo437_up",
+      "title": "BUYUKGECIT-ASKALE (ERZURUM)",
+      "magnitude": 1.9,
+      "depth_km": 3.5,
+      "date_utc": "2026-10-03 05:04:33",
+      "latitude": 39.9792,
+      "longitude": 40.798,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "lKsbCEQw1g0xD",
+      "title": "KUCUKGECIT-ASKALE (ERZURUM)",
+      "magnitude": 2.2,
+      "depth_km": 2.2,
+      "date_utc": "2026-10-03 05:03:47",
+      "latitude": 39.9165,
+      "longitude": 40.7922,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "rEhFCSHd10XrI",
+      "title": "EFIR-SIMAV (KUTAHYA)",
+      "magnitude": 2.1,
+      "depth_km": 5.7,
+      "date_utc": "2026-10-03 05:00:46",
+      "latitude": 39.2527,
+      "longitude": 28.8025,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "1CIY3JhrSvc3B",
+      "title": "CUMHURIYET-YESILYURT (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 20.9,
+      "date_utc": "2026-10-03 04:57:38",
+      "latitude": 38.2513,
+      "longitude": 38.0482,
+      "location_name": "Malatya"
+    },
     {
       "id": "BaIbeU806IcIu",
       "title": "ABDALCIK-ASKALE (ERZURUM)",
