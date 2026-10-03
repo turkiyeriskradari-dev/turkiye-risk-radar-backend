@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T10:48:19.339105+00:00",
-  "record_count": 59,
+  "last_updated": "2026-10-03T11:24:51.325219+00:00",
+  "record_count": 56,
   "data": [
     {
       "id": "pEcz05d3hDP5M",
@@ -562,36 +562,6 @@
       "latitude": 39.2542,
       "longitude": 28.9527,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "PbRrJb6gZ9BMB",
-      "title": "BAHADIRLAR-AGIN (ELAZIG)",
-      "magnitude": 1.6,
-      "depth_km": 15.3,
-      "date_utc": "2026-10-02 14:09:40",
-      "latitude": 38.9507,
-      "longitude": 38.7593,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "5m0qKj_SxEhBS",
-      "title": "KARAKOY-NALLIHAN (ANKARA)",
-      "magnitude": 2.2,
-      "depth_km": 7.9,
-      "date_utc": "2026-10-02 14:08:43",
-      "latitude": 40.1857,
-      "longitude": 31.6752,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "EsL8QuYQR5Npg",
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "magnitude": 1.2,
-      "depth_km": 14.6,
-      "date_utc": "2026-10-02 14:08:04",
-      "latitude": 38.1442,
-      "longitude": 38.4488,
-      "location_name": "Adıyaman"
     }
   ]
 }
