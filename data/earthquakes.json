@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T03:33:23.421365+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-03T04:00:06.397728+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "jSEl32nH4vrDi",
+      "title": "SEREFLIKOCHISAR (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 6.9,
+      "date_utc": "2026-10-03 06:17:47",
+      "latitude": 38.9843,
+      "longitude": 33.4453,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "RvoRLo6lTyAxG",
+      "title": "BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 9.2,
+      "date_utc": "2026-10-03 05:10:51",
+      "latitude": 38.3403,
+      "longitude": 37.2655,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "xXiqRAo437_up",
       "title": "BUYUKGECIT-ASKALE (ERZURUM)",
@@ -642,46 +662,6 @@
       "latitude": 36.8978,
       "longitude": 28.8923,
       "location_name": "Muğla"
-    },
-    {
-      "id": "vUH0WCJDokB1G",
-      "title": "KALE-ARSUZ (HATAY)",
-      "magnitude": 2,
-      "depth_km": 12.1,
-      "date_utc": "2026-10-02 06:56:29",
-      "latitude": 36.2037,
-      "longitude": 35.826,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "MHLSYJ1A1YzVM",
-      "title": "PURSUNLER-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 8.6,
-      "date_utc": "2026-10-02 06:55:42",
-      "latitude": 39.2253,
-      "longitude": 28.1907,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "diVuLgQjSmiKF",
-      "title": "YESILYURT-(BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 23.3,
-      "date_utc": "2026-10-02 06:35:45",
-      "latitude": 39.608,
-      "longitude": 27.7592,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "umj15YaMLDwDX",
-      "title": "ANAMUR ACIKLARI-MERSIN (AKDENIZ)",
-      "magnitude": 1.6,
-      "depth_km": 26.1,
-      "date_utc": "2026-10-02 06:34:59",
-      "latitude": 35.976,
-      "longitude": 32.6553,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
