@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T09:51:03.199441+00:00",
+  "last_updated": "2026-10-03T10:01:50.959961+00:00",
   "record_count": 55,
   "data": [
+    {
+      "id": "2G5BF5aLr4Xfn",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.1,
+      "depth_km": 0,
+      "date_utc": "2026-10-03 12:09:23",
+      "latitude": 36.2458,
+      "longitude": 33.7785,
+      "location_name": "Mersin"
+    },
     {
       "id": "OeTKPGCkefbrt",
       "title": "YUREGIL-SINDIRGI (BALIKESIR)",
@@ -542,16 +552,6 @@
       "latitude": 38.1442,
       "longitude": 38.4488,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "IfeIbHek72ljs",
-      "title": "KARACAAGAC-MILAS (MUGLA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-10-02 12:56:35",
-      "latitude": 37.154,
-      "longitude": 27.924,
-      "location_name": "Muğla"
     }
   ]
 }
