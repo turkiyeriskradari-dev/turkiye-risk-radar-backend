@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T09:05:41.921199+00:00",
-  "record_count": 58,
+  "last_updated": "2026-10-03T09:24:58.238184+00:00",
+  "record_count": 56,
   "data": [
+    {
+      "id": "OeTKPGCkefbrt",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 10.3,
+      "date_utc": "2026-10-03 11:12:02",
+      "latitude": 39.1453,
+      "longitude": 28.271,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "RWi2n1SjMofku",
       "title": "SOFULAR-CAMELI (DENIZLI)",
@@ -552,36 +562,6 @@
       "latitude": 36.9853,
       "longitude": 27.4535,
       "location_name": "Muğla"
-    },
-    {
-      "id": "8sCa_MX4t11DU",
-      "title": "KARSIYAKA-PUTURGE (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 5.2,
-      "date_utc": "2026-10-02 12:19:20",
-      "latitude": 38.2822,
-      "longitude": 38.7887,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "LynIfMyZ9uFCG",
-      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 9.4,
-      "date_utc": "2026-10-02 12:19:02",
-      "latitude": 38.1345,
-      "longitude": 37.7982,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "ngEg4pe7zRO7s",
-      "title": "DUTLUCA-INONU (ESKISEHIR)",
-      "magnitude": 1.4,
-      "depth_km": 0,
-      "date_utc": "2026-10-02 12:07:19",
-      "latitude": 39.7783,
-      "longitude": 30.1763,
-      "location_name": "Eskişehir"
     }
   ]
 }
