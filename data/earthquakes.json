@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T07:40:14.002701+00:00",
-  "record_count": 64,
+  "last_updated": "2026-10-03T07:52:41.604675+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "RWi2n1SjMofku",
@@ -632,16 +632,6 @@
       "latitude": 38.8107,
       "longitude": 37.4473,
       "location_name": "Sivas"
-    },
-    {
-      "id": "4eqj_Z355K0lO",
-      "title": "TASEVI-YALVAC (ISPARTA)",
-      "magnitude": 2.3,
-      "depth_km": 14.7,
-      "date_utc": "2026-10-02 10:40:40",
-      "latitude": 38.2737,
-      "longitude": 30.7837,
-      "location_name": "Isparta"
     }
   ]
 }
