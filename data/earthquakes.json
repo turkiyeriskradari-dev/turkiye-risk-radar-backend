@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T00:54:30.499832+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-03T01:03:55.779909+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "Z7B2MfwNgBYRf",
+      "title": "EGE DENIZI",
+      "magnitude": 2.9,
+      "depth_km": 11.7,
+      "date_utc": "2026-10-03 03:52:41",
+      "latitude": 38.0377,
+      "longitude": 26.0285,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "8llm7hIxNwcHZ",
       "title": "ALINCIK-SIVRICE (ELAZIG)",
@@ -692,26 +702,6 @@
       "latitude": 39.1705,
       "longitude": 29.3878,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "8kye2dkcEocLh",
-      "title": "PINARBEYLI-ERBAA (TOKAT)",
-      "magnitude": 1,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-02 03:57:21",
-      "latitude": 40.6785,
-      "longitude": 36.7848,
-      "location_name": "Tokat"
-    },
-    {
-      "id": "fNyFFjw3sLhl0",
-      "title": "AKDENIZ",
-      "magnitude": 1.6,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-02 03:56:15",
-      "latitude": 35.9012,
-      "longitude": 28.1277,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
