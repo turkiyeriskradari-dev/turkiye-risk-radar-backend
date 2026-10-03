@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T05:32:49.418930+00:00",
-  "record_count": 65,
+  "last_updated": "2026-10-03T05:53:04.237972+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "3QRZeLQfnXE9f",
@@ -642,16 +642,6 @@
       "latitude": 38.2227,
       "longitude": 38.552,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "HTiYLHHVrXBQS",
-      "title": "GEMLIK KORFEZI (MARMARA DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 3.7,
-      "date_utc": "2026-10-02 08:43:51",
-      "latitude": 40.4147,
-      "longitude": 28.8788,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
