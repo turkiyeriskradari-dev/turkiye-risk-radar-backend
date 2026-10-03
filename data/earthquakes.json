@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T01:23:31.575362+00:00",
+  "last_updated": "2026-10-03T01:36:58.475044+00:00",
   "record_count": 69,
   "data": [
+    {
+      "id": "C5i_qyLfQzouU",
+      "title": "YENIKOY-(MUGLA)",
+      "magnitude": 2.4,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-03 04:19:36",
+      "latitude": 37.1892,
+      "longitude": 28.3797,
+      "location_name": "Muğla"
+    },
     {
       "id": "Z7B2MfwNgBYRf",
       "title": "EGE DENIZI",
@@ -682,16 +692,6 @@
       "latitude": 40.3863,
       "longitude": 26.8938,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "g_xa7VR2yR3Hp",
-      "title": "AKDENIZ",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-02 04:26:32",
-      "latitude": 35.9507,
-      "longitude": 28.048,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
