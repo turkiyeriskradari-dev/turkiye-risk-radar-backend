@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T08:38:20.713961+00:00",
-  "record_count": 61,
+  "last_updated": "2026-10-03T08:55:36.105937+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "RWi2n1SjMofku",
@@ -601,16 +601,6 @@
       "date_utc": "2026-10-02 11:56:00",
       "latitude": 36.4775,
       "longitude": 27.1507,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "bsRO2PnWNjwJF",
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "magnitude": 2.6,
-      "depth_km": 122.9,
-      "date_utc": "2026-10-02 11:43:06",
-      "latitude": 36.6022,
-      "longitude": 26.919,
       "location_name": "Ege Denizi"
     }
   ]
