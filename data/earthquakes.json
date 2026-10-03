@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T06:31:36.783029+00:00",
-  "record_count": 65,
+  "last_updated": "2026-10-03T07:03:41.584787+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "RWi2n1SjMofku",
@@ -642,16 +642,6 @@
       "latitude": 38.2737,
       "longitude": 30.7837,
       "location_name": "Isparta"
-    },
-    {
-      "id": "U9Y6vz8qO3P2W",
-      "title": "SARICALAR-SELCUKLU (KONYA)",
-      "magnitude": 1.1,
-      "depth_km": 0,
-      "date_utc": "2026-10-02 09:40:19",
-      "latitude": 38.108,
-      "longitude": 32.6077,
-      "location_name": "Konya"
     }
   ]
 }
