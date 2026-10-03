@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T05:53:04.237972+00:00",
-  "record_count": 64,
+  "last_updated": "2026-10-03T06:08:52.504944+00:00",
+  "record_count": 63,
   "data": [
     {
       "id": "3QRZeLQfnXE9f",
@@ -632,16 +632,6 @@
       "latitude": 38.108,
       "longitude": 32.6077,
       "location_name": "Konya"
-    },
-    {
-      "id": "OAO9PFcpjjUZQ",
-      "title": "GULUMUSAGI-(MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 19.3,
-      "date_utc": "2026-10-02 08:58:57",
-      "latitude": 38.2227,
-      "longitude": 38.552,
-      "location_name": "Adıyaman"
     }
   ]
 }
