@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T00:30:19.129694+00:00",
-  "record_count": 72,
+  "last_updated": "2026-10-03T00:54:30.499832+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "8llm7hIxNwcHZ",
+      "title": "ALINCIK-SIVRICE (ELAZIG)",
+      "magnitude": 1.5,
+      "depth_km": 4.9,
+      "date_utc": "2026-10-03 03:22:09",
+      "latitude": 38.467,
+      "longitude": 39.2705,
+      "location_name": "Elazığ"
+    },
     {
       "id": "c2RCctir_hn1Z",
       "title": "TORTULU-FEKE (ADANA)",
@@ -702,26 +712,6 @@
       "latitude": 35.9012,
       "longitude": 28.1277,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "jTVsSKissAZcm",
-      "title": "BUYUKGUMUSLU-ILIC (ERZINCAN)",
-      "magnitude": 1.4,
-      "depth_km": 8.8,
-      "date_utc": "2026-10-02 03:43:58",
-      "latitude": 39.6755,
-      "longitude": 38.3975,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "YUqLWWLYEigr3",
-      "title": "CANAKCI-KALE (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-02 03:40:55",
-      "latitude": 38.3345,
-      "longitude": 38.7738,
-      "location_name": "Malatya"
     }
   ]
 }
