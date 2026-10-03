@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T05:02:15.914140+00:00",
-  "record_count": 66,
+  "last_updated": "2026-10-03T05:32:49.418930+00:00",
+  "record_count": 65,
   "data": [
     {
       "id": "3QRZeLQfnXE9f",
@@ -652,16 +652,6 @@
       "latitude": 40.4147,
       "longitude": 28.8788,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "8D4M4mdRMV6BT",
-      "title": "KAVAKLIDERE-AZIZIYE (ERZURUM)",
-      "magnitude": 1.1,
-      "depth_km": 15.8,
-      "date_utc": "2026-10-02 08:27:37",
-      "latitude": 40.1247,
-      "longitude": 41.1677,
-      "location_name": "Erzurum"
     }
   ]
 }
