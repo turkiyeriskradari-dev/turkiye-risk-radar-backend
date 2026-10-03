@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T01:03:55.779909+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-03T01:23:31.575362+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "Z7B2MfwNgBYRf",
@@ -692,16 +692,6 @@
       "latitude": 35.9507,
       "longitude": 28.048,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "AWnBmAailZgj9",
-      "title": "SEYHLER-HISARCIK (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 8.5,
-      "date_utc": "2026-10-02 04:08:35",
-      "latitude": 39.1705,
-      "longitude": 29.3878,
-      "location_name": "Kütahya"
     }
   ]
 }
