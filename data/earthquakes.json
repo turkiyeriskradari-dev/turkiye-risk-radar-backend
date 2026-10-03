@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T01:50:18.621312+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-03T02:01:48.688806+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "BaIbeU806IcIu",
+      "title": "ABDALCIK-ASKALE (ERZURUM)",
+      "magnitude": 1.3,
+      "depth_km": 9,
+      "date_utc": "2026-10-03 04:53:20",
+      "latitude": 39.9127,
+      "longitude": 40.7807,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "M_QeRYlIUr1a5",
+      "title": "OTLUKDERE-BIGA (CANAKKALE)",
+      "magnitude": 1.7,
+      "depth_km": 17.9,
+      "date_utc": "2026-10-03 04:44:19",
+      "latitude": 40.3472,
+      "longitude": 27.0595,
+      "location_name": "Çanakkale"
+    },
     {
       "id": "C5i_qyLfQzouU",
       "title": "YENIKOY-(MUGLA)",
