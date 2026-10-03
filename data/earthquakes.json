@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T08:03:04.801808+00:00",
-  "record_count": 63,
+  "last_updated": "2026-10-03T08:25:21.223116+00:00",
+  "record_count": 61,
   "data": [
     {
       "id": "RWi2n1SjMofku",
@@ -612,26 +612,6 @@
       "latitude": 36.6022,
       "longitude": 26.919,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "i31nTfscugR15",
-      "title": "ARSLANTAS-BOZKIR (KONYA)",
-      "magnitude": 1.7,
-      "depth_km": 7.2,
-      "date_utc": "2026-10-02 11:24:35",
-      "latitude": 37.109,
-      "longitude": 32.2188,
-      "location_name": "Konya"
-    },
-    {
-      "id": "KjB1rFpcqyRjd",
-      "title": "KULAHLI-GURUN (SIVAS)",
-      "magnitude": 2.4,
-      "depth_km": 9.2,
-      "date_utc": "2026-10-02 11:12:02",
-      "latitude": 38.8107,
-      "longitude": 37.4473,
-      "location_name": "Sivas"
     }
   ]
 }
