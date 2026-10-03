@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T01:36:58.475044+00:00",
-  "record_count": 69,
+  "last_updated": "2026-10-03T01:50:18.621312+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "C5i_qyLfQzouU",
@@ -672,26 +672,6 @@
       "latitude": 37.8518,
       "longitude": 36.1903,
       "location_name": "Adana"
-    },
-    {
-      "id": "iEOMTw96LkKe9",
-      "title": "KUCUKDAGDERE-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 11.7,
-      "date_utc": "2026-10-02 04:39:59",
-      "latitude": 39.1718,
-      "longitude": 28.3257,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "JhZ4WadjFsbF1",
-      "title": "SEVKETIYE-LAPSEKI (CANAKKALE)",
-      "magnitude": 1.8,
-      "depth_km": 18.5,
-      "date_utc": "2026-10-02 04:39:27",
-      "latitude": 40.3863,
-      "longitude": 26.8938,
-      "location_name": "Çanakkale"
     }
   ]
 }
