@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T02:46:21.997437+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-03T03:13:03.329576+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "xXiqRAo437_up",
@@ -702,16 +702,6 @@
       "latitude": 34.4422,
       "longitude": 32.2245,
       "location_name": "Kıbrıs Açıkları"
-    },
-    {
-      "id": "jaMlIg64Pk2p4",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 3.4,
-      "depth_km": 10.4,
-      "date_utc": "2026-10-02 06:01:25",
-      "latitude": 35.6023,
-      "longitude": 26.1328,
-      "location_name": "Ege Denizi"
     }
   ]
 }
