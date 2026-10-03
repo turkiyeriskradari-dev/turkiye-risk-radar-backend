@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T04:00:06.397728+00:00",
+  "last_updated": "2026-10-03T04:14:27.636636+00:00",
   "record_count": 66,
   "data": [
+    {
+      "id": "3QRZeLQfnXE9f",
+      "title": "GECITKOY-TEKMAN (ERZURUM)",
+      "magnitude": 1.4,
+      "depth_km": 6.6,
+      "date_utc": "2026-10-03 06:19:32",
+      "latitude": 39.7978,
+      "longitude": 41.3445,
+      "location_name": "Erzurum"
+    },
     {
       "id": "jSEl32nH4vrDi",
       "title": "SEREFLIKOCHISAR (ANKARA)",
@@ -652,16 +662,6 @@
       "latitude": 40.1247,
       "longitude": 41.1677,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "38ObQuYr755P6",
-      "title": "KIZILKAYA-DALAMAN (MUGLA)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-10-02 07:01:24",
-      "latitude": 36.8978,
-      "longitude": 28.8923,
-      "location_name": "Muğla"
     }
   ]
 }
