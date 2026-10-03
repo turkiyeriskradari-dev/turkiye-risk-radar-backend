@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-03T00:02:53.653274+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-03T00:30:19.129694+00:00",
+  "record_count": 72,
   "data": [
     {
       "id": "c2RCctir_hn1Z",
@@ -721,16 +721,6 @@
       "date_utc": "2026-10-02 03:40:55",
       "latitude": 38.3345,
       "longitude": 38.7738,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "XJJScsYv1Gr13",
-      "title": "GUNDUZBEY-YESILYURT (MALATYA)",
-      "magnitude": 0.8,
-      "depth_km": 10.6,
-      "date_utc": "2026-10-02 03:08:09",
-      "latitude": 38.2918,
-      "longitude": 38.2675,
       "location_name": "Malatya"
     }
   ]
