@@ -1,8 +1,68 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T21:32:26.272686+00:00",
-  "record_count": 94,
+  "last_updated": "2026-10-04T21:53:57.213300+00:00",
+  "record_count": 97,
   "data": [
+    {
+      "id": "ItZf8UT6hzEhL",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.3,
+      "depth_km": 8.1,
+      "date_utc": "2026-10-05 00:42:48",
+      "latitude": 39.2073,
+      "longitude": 28.1677,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "q3OOaeVGNMMqH",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 6.1,
+      "date_utc": "2026-10-05 00:39:40",
+      "latitude": 37.7747,
+      "longitude": 36.0448,
+      "location_name": "Adana"
+    },
+    {
+      "id": "2Z1YYkIqogEYz",
+      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 5.7,
+      "date_utc": "2026-10-05 00:37:10",
+      "latitude": 39.5182,
+      "longitude": 25.9948,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "nluhYSXYxQODi",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 00:28:04",
+      "latitude": 37.7525,
+      "longitude": 36.1113,
+      "location_name": "Adana"
+    },
+    {
+      "id": "FiicRD8j9Vea4",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 00:25:32",
+      "latitude": 37.7823,
+      "longitude": 36.0303,
+      "location_name": "Adana"
+    },
+    {
+      "id": "I_bp1zf0K8EAX",
+      "title": "CONDU-FEKE (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 4.7,
+      "date_utc": "2026-10-05 00:19:36",
+      "latitude": 37.926,
+      "longitude": 35.62,
+      "location_name": "Adana"
+    },
     {
       "id": "FxqjjCtYIXooW",
       "title": "INCIRCI-FEKE (ADANA)",
@@ -912,36 +972,6 @@
       "latitude": 39.1748,
       "longitude": 28.2223,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "ETskw38W9xskw",
-      "title": "ASAGIERHACI-(IGDIR)",
-      "magnitude": 1.1,
-      "depth_km": 4.9,
-      "date_utc": "2026-10-04 00:46:02",
-      "latitude": 39.9037,
-      "longitude": 44.0717,
-      "location_name": "Iğdır"
-    },
-    {
-      "id": "NLeEkt6N5Ezmm",
-      "title": "DEMIRCI-(MANISA)",
-      "magnitude": 1.8,
-      "depth_km": 7.8,
-      "date_utc": "2026-10-04 00:44:32",
-      "latitude": 38.8383,
-      "longitude": 27.4022,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "8iH1YapoyaUYR",
-      "title": "DURMEPINAR-GURUN (SIVAS)",
-      "magnitude": 2.1,
-      "depth_km": 7,
-      "date_utc": "2026-10-04 00:39:21",
-      "latitude": 38.979,
-      "longitude": 37.381,
-      "location_name": "Sivas"
     }
   ]
 }
