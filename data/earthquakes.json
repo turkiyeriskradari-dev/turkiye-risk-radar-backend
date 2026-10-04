@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T23:36:39.614780+00:00",
+  "last_updated": "2026-10-04T23:50:05.317439+00:00",
   "record_count": 97,
   "data": [
+    {
+      "id": "yx3ANMxDvVeIx",
+      "title": "KURTULUS-SILIFKE (MERSIN)",
+      "magnitude": 1.5,
+      "depth_km": 6.6,
+      "date_utc": "2026-10-05 02:18:40",
+      "latitude": 36.3208,
+      "longitude": 34.0257,
+      "location_name": "Mersin"
+    },
     {
       "id": "OdPZIVeL_X2q0",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -962,16 +972,6 @@
       "latitude": 35.9782,
       "longitude": 27.2127,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "B2sElmqqHJv9n",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 12.5,
-      "date_utc": "2026-10-04 04:28:49",
-      "latitude": 39.1522,
-      "longitude": 28.215,
-      "location_name": "Balıkesir"
     }
   ]
 }
