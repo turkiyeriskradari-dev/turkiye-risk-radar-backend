@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T02:23:38.228256+00:00",
-  "record_count": 32,
+  "last_updated": "2026-10-04T04:16:24.045310+00:00",
+  "record_count": 33,
   "data": [
+    {
+      "id": "xgnjtksuZ09XZ",
+      "title": "DUZLEN-(MANISA)",
+      "magnitude": 2,
+      "depth_km": 8,
+      "date_utc": "2026-10-04 06:58:10",
+      "latitude": 38.7812,
+      "longitude": 27.1683,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "_Nt0nXxA7v35q",
+      "title": "ZIYARET-(AGRI)",
+      "magnitude": 1.8,
+      "depth_km": 7.7,
+      "date_utc": "2026-10-04 05:59:27",
+      "latitude": 39.8043,
+      "longitude": 42.9972,
+      "location_name": "Ağrı"
+    },
+    {
+      "id": "5NWbA9rAPSNjl",
+      "title": "MOLLAKASIM-(VAN)",
+      "magnitude": 1.1,
+      "depth_km": 9.6,
+      "date_utc": "2026-10-04 05:45:56",
+      "latitude": 38.6842,
+      "longitude": 43.2065,
+      "location_name": "Van"
+    },
     {
       "id": "zr4mqyYI9p0sY",
       "title": "EGE DENIZI",
@@ -302,26 +332,6 @@
       "latitude": 36.9558,
       "longitude": 29.304,
       "location_name": "Denizli"
-    },
-    {
-      "id": "3QRZeLQfnXE9f",
-      "title": "GECITKOY-TEKMAN (ERZURUM)",
-      "magnitude": 1.4,
-      "depth_km": 6.6,
-      "date_utc": "2026-10-03 06:19:32",
-      "latitude": 39.7978,
-      "longitude": 41.3445,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "jSEl32nH4vrDi",
-      "title": "SEREFLIKOCHISAR (ANKARA)",
-      "magnitude": 1.6,
-      "depth_km": 6.9,
-      "date_utc": "2026-10-03 06:17:47",
-      "latitude": 38.9843,
-      "longitude": 33.4453,
-      "location_name": "Ankara"
     }
   ]
 }
