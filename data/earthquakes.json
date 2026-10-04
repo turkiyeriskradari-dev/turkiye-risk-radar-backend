@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T21:53:57.213300+00:00",
+  "last_updated": "2026-10-04T22:03:20.880654+00:00",
   "record_count": 97,
   "data": [
+    {
+      "id": "vgimnuEhC_xxZ",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 13.6,
+      "date_utc": "2026-10-05 00:48:28",
+      "latitude": 37.7562,
+      "longitude": 36.0532,
+      "location_name": "Adana"
+    },
     {
       "id": "ItZf8UT6hzEhL",
       "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
@@ -21,6 +31,16 @@
       "date_utc": "2026-10-05 00:39:40",
       "latitude": 37.7747,
       "longitude": 36.0448,
+      "location_name": "Adana"
+    },
+    {
+      "id": "LwXvRzA64KnSt",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 7.8,
+      "date_utc": "2026-10-05 00:38:21",
+      "latitude": 37.7517,
+      "longitude": 36.116,
       "location_name": "Adana"
     },
     {
@@ -952,26 +972,6 @@
       "latitude": 40.8392,
       "longitude": 33.8142,
       "location_name": "Çankırı"
-    },
-    {
-      "id": "dZDcPNDeV1syr",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 10.1,
-      "date_utc": "2026-10-04 02:00:35",
-      "latitude": 39.1688,
-      "longitude": 28.2062,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "lfFwoJh6tc8bw",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.2,
-      "depth_km": 19,
-      "date_utc": "2026-10-04 01:34:37",
-      "latitude": 39.1748,
-      "longitude": 28.2223,
-      "location_name": "Balıkesir"
     }
   ]
 }
