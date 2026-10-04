@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T22:50:28.976789+00:00",
-  "record_count": 96,
+  "last_updated": "2026-10-04T23:01:54.326726+00:00",
+  "record_count": 97,
   "data": [
     {
       "id": "9qf59QuTX2ocA",
@@ -14,6 +14,16 @@
       "location_name": "Adana"
     },
     {
+      "id": "8vBtZ5LLmxdeH",
+      "title": "TOKMANAKLI-FEKE (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 9.5,
+      "date_utc": "2026-10-05 01:27:50",
+      "latitude": 37.723,
+      "longitude": 36.0547,
+      "location_name": "Adana"
+    },
+    {
       "id": "CbXUjIThqSHVY",
       "title": "AYVACIK-SAIMBEYLI (ADANA)",
       "magnitude": 1.6,
@@ -21,6 +31,16 @@
       "date_utc": "2026-10-05 01:23:39",
       "latitude": 37.7958,
       "longitude": 36.0858,
+      "location_name": "Adana"
+    },
+    {
+      "id": "isFv8fvrZToKP",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 01:16:22",
+      "latitude": 37.761,
+      "longitude": 36.0473,
       "location_name": "Adana"
     },
     {
@@ -952,16 +972,6 @@
       "latitude": 38.1198,
       "longitude": 38.5213,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "lahskWLcuPbjt",
-      "title": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "magnitude": 1.4,
-      "depth_km": 13.8,
-      "date_utc": "2026-10-04 03:26:59",
-      "latitude": 40.8032,
-      "longitude": 27.565,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
