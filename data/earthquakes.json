@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T22:36:22.889041+00:00",
-  "record_count": 97,
+  "last_updated": "2026-10-04T22:50:28.976789+00:00",
+  "record_count": 96,
   "data": [
+    {
+      "id": "9qf59QuTX2ocA",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 2,
+      "depth_km": 2.9,
+      "date_utc": "2026-10-05 01:29:02",
+      "latitude": 37.7517,
+      "longitude": 36.1008,
+      "location_name": "Adana"
+    },
+    {
+      "id": "CbXUjIThqSHVY",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 01:23:39",
+      "latitude": 37.7958,
+      "longitude": 36.0858,
+      "location_name": "Adana"
+    },
     {
       "id": "vgimnuEhC_xxZ",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -942,36 +962,6 @@
       "latitude": 40.8032,
       "longitude": 27.565,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "7k9wRKiJIX2cO",
-      "title": "EGE DENIZI",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 03:20:36",
-      "latitude": 35.9965,
-      "longitude": 27.1248,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "XPWJWh1MIi6nL",
-      "title": "KUCUKOTLUKBELI-OTLUKBELI (ERZINCAN)",
-      "magnitude": 1.6,
-      "depth_km": 16.6,
-      "date_utc": "2026-10-04 03:03:34",
-      "latitude": 40.0458,
-      "longitude": 40.0093,
-      "location_name": "Erzincan"
-    },
-    {
-      "id": "J4HYqAG2mQPzB",
-      "title": "YUKARIOZ-YAPRAKLI (CANKIRI)",
-      "magnitude": 1.9,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-04 02:05:24",
-      "latitude": 40.8392,
-      "longitude": 33.8142,
-      "location_name": "Çankırı"
     }
   ]
 }
