@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T23:01:54.326726+00:00",
+  "last_updated": "2026-10-04T23:22:18.654910+00:00",
   "record_count": 97,
   "data": [
+    {
+      "id": "OdPZIVeL_X2q0",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 4.1,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 01:51:29",
+      "latitude": 37.769,
+      "longitude": 36.0837,
+      "location_name": "Adana"
+    },
     {
       "id": "9qf59QuTX2ocA",
       "title": "AYVACIK-SAIMBEYLI (ADANA)",
@@ -962,16 +972,6 @@
       "latitude": 39.1522,
       "longitude": 28.215,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "z4PKoj1LanLJ0",
-      "title": "GECITLI-SINCIK (ADIYAMAN)",
-      "magnitude": 1.5,
-      "depth_km": 10.6,
-      "date_utc": "2026-10-04 04:26:20",
-      "latitude": 38.1198,
-      "longitude": 38.5213,
-      "location_name": "Adıyaman"
     }
   ]
 }
