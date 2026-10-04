@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-04T20:59:08.638281+00:00",
-  "record_count": 90,
+  "last_updated": "2026-10-04T21:32:26.272686+00:00",
+  "record_count": 94,
   "data": [
+    {
+      "id": "FxqjjCtYIXooW",
+      "title": "INCIRCI-FEKE (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 3.9,
+      "date_utc": "2026-10-05 00:14:29",
+      "latitude": 37.7228,
+      "longitude": 36.0052,
+      "location_name": "Adana"
+    },
+    {
+      "id": "RcqL1K0cszDv1",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.1,
+      "depth_km": 13.2,
+      "date_utc": "2026-10-05 00:12:57",
+      "latitude": 37.7422,
+      "longitude": 36.0328,
+      "location_name": "Adana"
+    },
+    {
+      "id": "PYFe5AGYE_m_R",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 00:08:12",
+      "latitude": 37.7835,
+      "longitude": 36.0442,
+      "location_name": "Adana"
+    },
+    {
+      "id": "EYeDrEUt56dlA",
+      "title": "TENKERLI-FEKE (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 16.9,
+      "date_utc": "2026-10-04 23:51:54",
+      "latitude": 37.7462,
+      "longitude": 35.9752,
+      "location_name": "Adana"
+    },
     {
       "id": "TttSpqG7Z3IwB",
       "title": "AKOLUK-FEKE (ADANA)",
