@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T11:55:23.375042+00:00",
+  "last_updated": "2026-10-05T12:05:06.736920+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "Ta4yvgKYFrSOu",
+      "title": "TENKERLI-FEKE (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 14:48:19",
+      "latitude": 37.7675,
+      "longitude": 35.958,
+      "location_name": "Adana"
+    },
+    {
+      "id": "2WUe6Cj2jpnU1",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 14:48:02",
+      "latitude": 37.7713,
+      "longitude": 36.0752,
+      "location_name": "Adana"
+    },
     {
       "id": "8U6_SuKZpFx0u",
       "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
@@ -962,26 +982,6 @@
       "latitude": 39.19,
       "longitude": 28.1197,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "6sMFxUMtd9Gmw",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 18:26:57",
-      "latitude": 37.7842,
-      "longitude": 36.0772,
-      "location_name": "Adana"
-    },
-    {
-      "id": "RKiYbscdFIw5_",
-      "title": "CELTIKCI-(DENIZLI)",
-      "magnitude": 1.2,
-      "depth_km": 11.6,
-      "date_utc": "2026-10-04 18:24:06",
-      "latitude": 37.853,
-      "longitude": 29.0888,
-      "location_name": "Denizli"
     }
   ]
 }
