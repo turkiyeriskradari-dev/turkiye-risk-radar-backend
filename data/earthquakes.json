@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T09:05:16.641070+00:00",
+  "last_updated": "2026-10-05T09:30:03.046190+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "MF1ECuFOzS39u",
+      "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 6.4,
+      "date_utc": "2026-10-05 12:00:05",
+      "latitude": 38.7768,
+      "longitude": 36.5163,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "KuYGs_Hh1BC7m",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-05 11:44:07",
+      "latitude": 38.2237,
+      "longitude": 37.7505,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "pVPK0wYOshkE9",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -961,26 +981,6 @@
       "date_utc": "2026-10-04 17:55:21",
       "latitude": 37.748,
       "longitude": 36.0625,
-      "location_name": "Adana"
-    },
-    {
-      "id": "n4_nZDaIazG4a",
-      "title": "EGE DENIZI",
-      "magnitude": 2.4,
-      "depth_km": 5.7,
-      "date_utc": "2026-10-04 17:42:02",
-      "latitude": 35.9693,
-      "longitude": 27.2102,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "uDbJALcEynmuE",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.7,
-      "depth_km": 2.2,
-      "date_utc": "2026-10-04 17:39:18",
-      "latitude": 37.7312,
-      "longitude": 36.0747,
       "location_name": "Adana"
     }
   ]
