@@ -1,7 +1,7 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-10-05T12:05:07.036266+00:00",
-  "record_count": 28,
+  "last_updated": "2026-10-05T12:32:33.149849+00:00",
+  "record_count": 37,
   "data": [
     {
       "latitude": 37.89063,
@@ -282,6 +282,96 @@
       "acquired_time": "102",
       "satellite": "N",
       "daynight": "N"
+    },
+    {
+      "latitude": 34.22666,
+      "longitude": 41.05672,
+      "brightness": 340.41,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.23017,
+      "longitude": 41.05606,
+      "brightness": 348.03,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.23911,
+      "longitude": 40.90277,
+      "brightness": 340.77,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.23912,
+      "longitude": 40.90529,
+      "brightness": 336.34,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.25739,
+      "longitude": 44.04987,
+      "brightness": 341.38,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.39367,
+      "longitude": 44.6617,
+      "brightness": 345.01,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.55767,
+      "longitude": 40.87061,
+      "brightness": 335.3,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.55778,
+      "longitude": 40.86756,
+      "brightness": 336.96,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.62359,
+      "longitude": 40.85033,
+      "brightness": 330.08,
+      "confidence": "n",
+      "acquired_date": "2026-10-05",
+      "acquired_time": "1043",
+      "satellite": "N",
+      "daynight": "D"
     }
   ],
   "meta": {
