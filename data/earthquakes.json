@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T08:54:14.233621+00:00",
+  "last_updated": "2026-10-05T09:05:16.641070+00:00",
   "record_count": 98,
   "data": [
     {
@@ -11,6 +11,16 @@
       "date_utc": "2026-10-05 11:37:31",
       "latitude": 37.7758,
       "longitude": 36.0235,
+      "location_name": "Adana"
+    },
+    {
+      "id": "yYiWUu6SuJTCS",
+      "title": "KOVUKCINAR-FEKE (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 3.9,
+      "date_utc": "2026-10-05 11:30:29",
+      "latitude": 37.8043,
+      "longitude": 35.9975,
       "location_name": "Adana"
     },
     {
@@ -972,16 +982,6 @@
       "latitude": 37.7312,
       "longitude": 36.0747,
       "location_name": "Adana"
-    },
-    {
-      "id": "ycTIq72OcEHpH",
-      "title": "KALEMOGLU-GORDES (MANISA)",
-      "magnitude": 1.1,
-      "depth_km": 17.5,
-      "date_utc": "2026-10-04 17:26:27",
-      "latitude": 39.0322,
-      "longitude": 28.2015,
-      "location_name": "Manisa"
     }
   ]
 }
