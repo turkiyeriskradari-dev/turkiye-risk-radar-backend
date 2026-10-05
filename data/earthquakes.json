@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T06:36:22.998296+00:00",
+  "last_updated": "2026-10-05T07:01:43.298968+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "PP5MwNzdXpt7k",
+      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.5,
+      "depth_km": 10.5,
+      "date_utc": "2026-10-05 09:29:50",
+      "latitude": 39.1347,
+      "longitude": 28.2538,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "6G3jz0yu4ilBZ",
       "title": "DENIZKOY-DIKILI (IZMIR)",
@@ -971,16 +981,6 @@
       "date_utc": "2026-10-04 15:24:04",
       "latitude": 37.7438,
       "longitude": 35.9357,
-      "location_name": "Adana"
-    },
-    {
-      "id": "fotOOK2lKP_7J",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 2.1,
-      "depth_km": 2,
-      "date_utc": "2026-10-04 15:18:43",
-      "latitude": 37.739,
-      "longitude": 36.1168,
       "location_name": "Adana"
     }
   ]
