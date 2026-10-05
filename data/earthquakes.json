@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T17:25:34.723759+00:00",
+  "last_updated": "2026-10-05T17:38:40.516150+00:00",
   "record_count": 99,
   "data": [
+    {
+      "id": "RQCamhHdII2sm",
+      "title": "PELITLI-(MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 6.9,
+      "date_utc": "2026-10-05 19:48:27",
+      "latitude": 38.2533,
+      "longitude": 38.5995,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "dfcdM_u8ABG7d",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "magnitude": 0.9,
+      "depth_km": 8.3,
+      "date_utc": "2026-10-05 19:47:15",
+      "latitude": 38.2073,
+      "longitude": 38.582,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "Z8D2VqNCgGi6r",
+      "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 3.8,
+      "date_utc": "2026-10-05 19:46:32",
+      "latitude": 38.2503,
+      "longitude": 38.614,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "i88aoDM8uMhw_",
+      "title": "AKDENIZ",
+      "magnitude": 2.6,
+      "depth_km": 10.4,
+      "date_utc": "2026-10-05 19:43:16",
+      "latitude": 35.431,
+      "longitude": 27.3073,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "EJJqqj4127zf_",
       "title": "KIRIKUSAGI-FEKE (ADANA)",
@@ -952,46 +992,6 @@
       "latitude": 38.1005,
       "longitude": 37.0133,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "Q_QcKZ6iffB_7",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 6,
-      "date_utc": "2026-10-04 21:43:21",
-      "latitude": 37.769,
-      "longitude": 36.0673,
-      "location_name": "Adana"
-    },
-    {
-      "id": "UCCTWwKwOxgMF",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.9,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 21:17:52",
-      "latitude": 37.7573,
-      "longitude": 36.0837,
-      "location_name": "Adana"
-    },
-    {
-      "id": "HWppupBtumviQ",
-      "title": "KIRIKUSAGI-FEKE (ADANA)",
-      "magnitude": 1.2,
-      "depth_km": 14.5,
-      "date_utc": "2026-10-04 21:13:28",
-      "latitude": 37.7933,
-      "longitude": 35.977,
-      "location_name": "Adana"
-    },
-    {
-      "id": "SoQ7jxwAJiGPb",
-      "title": "AKSU-SINCIK (ADIYAMAN)",
-      "magnitude": 1.1,
-      "depth_km": 12.9,
-      "date_utc": "2026-10-04 21:08:22",
-      "latitude": 38.1545,
-      "longitude": 38.495,
-      "location_name": "Adıyaman"
     }
   ]
 }
