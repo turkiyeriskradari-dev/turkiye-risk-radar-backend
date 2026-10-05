@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T01:26:34.035418+00:00",
+  "last_updated": "2026-10-05T01:40:06.978743+00:00",
   "record_count": 97,
   "data": [
+    {
+      "id": "vJSRyJKO8Rsd1",
+      "title": "AVCILAR-SAMANDAG (HATAY)",
+      "magnitude": 2.2,
+      "depth_km": 4.3,
+      "date_utc": "2026-10-05 04:20:51",
+      "latitude": 36.1925,
+      "longitude": 36.0562,
+      "location_name": "Hatay"
+    },
     {
       "id": "nV0mhHRp0vAsp",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -962,16 +972,6 @@
       "latitude": 38.7812,
       "longitude": 27.1683,
       "location_name": "Manisa"
-    },
-    {
-      "id": "_Nt0nXxA7v35q",
-      "title": "ZIYARET-(AGRI)",
-      "magnitude": 1.8,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-04 05:59:27",
-      "latitude": 39.8043,
-      "longitude": 42.9972,
-      "location_name": "Ağrı"
     }
   ]
 }
