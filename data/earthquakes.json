@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T04:15:42.667858+00:00",
+  "last_updated": "2026-10-05T04:55:33.262347+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "InQKD5_gI5IQe",
+      "title": "TOKMANAKLI-FEKE (ADANA)",
+      "magnitude": 2.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 07:31:28",
+      "latitude": 37.7212,
+      "longitude": 36.0692,
+      "location_name": "Adana"
+    },
+    {
+      "id": "CQqr9SCFws8dG",
+      "title": "CARDAK (DENIZLI)",
+      "magnitude": 1.9,
+      "depth_km": 13.2,
+      "date_utc": "2026-10-05 07:12:50",
+      "latitude": 37.8083,
+      "longitude": 29.6487,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "BdkVS7wrVcHKq",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 06:45:18",
+      "latitude": 37.7405,
+      "longitude": 36.0557,
+      "location_name": "Adana"
+    },
+    {
+      "id": "Z1KTsRV7r2Vxi",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 16.4,
+      "date_utc": "2026-10-05 06:37:59",
+      "latitude": 37.737,
+      "longitude": 36.125,
+      "location_name": "Adana"
+    },
+    {
+      "id": "N7eRE0KDSTfGR",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 06:18:46",
+      "latitude": 37.7467,
+      "longitude": 36.0573,
+      "location_name": "Adana"
+    },
     {
       "id": "Q5Zp8MOVu8MiC",
       "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
@@ -932,56 +982,6 @@
       "latitude": 37.7517,
       "longitude": 36.1297,
       "location_name": "Adana"
-    },
-    {
-      "id": "cRpUR8HKeb0zF",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 4.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 14:36:23",
-      "latitude": 37.7695,
-      "longitude": 36.0968,
-      "location_name": "Adana"
-    },
-    {
-      "id": "6CsKPgwRE_AJh",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2,
-      "depth_km": 5.3,
-      "date_utc": "2026-10-04 14:30:31",
-      "latitude": 37.7508,
-      "longitude": 36.0882,
-      "location_name": "Adana"
-    },
-    {
-      "id": "ipsEGfXdWdzTc",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 2.4,
-      "depth_km": 4.2,
-      "date_utc": "2026-10-04 14:26:51",
-      "latitude": 37.751,
-      "longitude": 36.1113,
-      "location_name": "Adana"
-    },
-    {
-      "id": "FKyTj3eQaRq5G",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 4.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 14:19:22",
-      "latitude": 37.753,
-      "longitude": 36.112,
-      "location_name": "Adana"
-    },
-    {
-      "id": "ThznQcwYF4gEr",
-      "title": "KUYUBASI-BUCAK (BURDUR)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 14:08:49",
-      "latitude": 37.3407,
-      "longitude": 30.6333,
-      "location_name": "Burdur"
     }
   ]
 }
