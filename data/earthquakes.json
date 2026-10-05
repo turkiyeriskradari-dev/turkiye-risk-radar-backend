@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T09:46:37.714208+00:00",
+  "last_updated": "2026-10-05T10:06:10.655123+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "JDsHLQOOvw68h",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.5,
+      "depth_km": 3.3,
+      "date_utc": "2026-10-05 12:52:27",
+      "latitude": 37.7703,
+      "longitude": 36.045,
+      "location_name": "Adana"
+    },
     {
       "id": "MF1ECuFOzS39u",
       "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
@@ -971,16 +981,6 @@
       "date_utc": "2026-10-04 17:57:04",
       "latitude": 37.73,
       "longitude": 36.115,
-      "location_name": "Adana"
-    },
-    {
-      "id": "VRUbCDt6uPRfM",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 5.8,
-      "date_utc": "2026-10-04 17:55:21",
-      "latitude": 37.748,
-      "longitude": 36.0625,
       "location_name": "Adana"
     }
   ]
