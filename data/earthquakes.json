@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T08:11:42.270700+00:00",
+  "last_updated": "2026-10-05T08:31:25.736384+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "5TsPSezZmBnWN",
+      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "magnitude": 3.1,
+      "depth_km": 14.8,
+      "date_utc": "2026-10-05 11:18:25",
+      "latitude": 40.7323,
+      "longitude": 27.4298,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "lHSIp991SIKl4",
+      "title": "ULUPINAR-YAHYALI (KAYSERI)",
+      "magnitude": 1.7,
+      "depth_km": 5.2,
+      "date_utc": "2026-10-05 11:12:45",
+      "latitude": 37.925,
+      "longitude": 35.3058,
+      "location_name": "Adana"
+    },
+    {
+      "id": "E7SkmFUeu8Q4K",
+      "title": "EGE DENIZI",
+      "magnitude": 2,
+      "depth_km": 7.4,
+      "date_utc": "2026-10-05 10:56:31",
+      "latitude": 36.1075,
+      "longitude": 25.6635,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "NVtc6RbLFZtI_",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -952,36 +982,6 @@
       "latitude": 37.6792,
       "longitude": 35.9917,
       "location_name": "Adana"
-    },
-    {
-      "id": "PU0IKYet5eqc0",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.9,
-      "depth_km": 2.2,
-      "date_utc": "2026-10-04 17:05:39",
-      "latitude": 37.7662,
-      "longitude": 36.0562,
-      "location_name": "Adana"
-    },
-    {
-      "id": "V72EqL9tSXvUr",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 13.4,
-      "date_utc": "2026-10-04 17:01:31",
-      "latitude": 37.7725,
-      "longitude": 36.0663,
-      "location_name": "Adana"
-    },
-    {
-      "id": "se_Z6k_rUgl0w",
-      "title": "ERDEK KORFEZI (MARMARA DENIZI)",
-      "magnitude": 2.3,
-      "depth_km": 8.5,
-      "date_utc": "2026-10-04 16:59:41",
-      "latitude": 40.3522,
-      "longitude": 27.5607,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
