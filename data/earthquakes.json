@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T02:53:40.890068+00:00",
+  "last_updated": "2026-10-05T03:04:08.301001+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "x8W2XlulfZYli",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 05:44:34",
+      "latitude": 37.7863,
+      "longitude": 36.0473,
+      "location_name": "Adana"
+    },
     {
       "id": "jy45XANeTQjdI",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -11,6 +21,16 @@
       "date_utc": "2026-10-05 05:42:20",
       "latitude": 37.762,
       "longitude": 36.0822,
+      "location_name": "Adana"
+    },
+    {
+      "id": "qfQAn4ULKE5Vn",
+      "title": "TOKMANAKLI-FEKE (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 05:29:08",
+      "latitude": 37.7188,
+      "longitude": 36.0543,
       "location_name": "Adana"
     },
     {
@@ -962,26 +982,6 @@
       "latitude": 38.2842,
       "longitude": 37.5985,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ree9g6hCLdz9Z",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1,
-      "depth_km": 15.8,
-      "date_utc": "2026-10-04 11:12:18",
-      "latitude": 36.9917,
-      "longitude": 28.1037,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "f7LpeVnT2ooCu",
-      "title": "EGE DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-04 11:02:23",
-      "latitude": 36.5595,
-      "longitude": 25.5398,
-      "location_name": "Ege Denizi"
     }
   ]
 }
