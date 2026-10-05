@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T02:39:27.891632+00:00",
-  "record_count": 97,
+  "last_updated": "2026-10-05T02:53:40.890068+00:00",
+  "record_count": 98,
   "data": [
+    {
+      "id": "jy45XANeTQjdI",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 3.4,
+      "depth_km": 1.7,
+      "date_utc": "2026-10-05 05:42:20",
+      "latitude": 37.762,
+      "longitude": 36.0822,
+      "location_name": "Adana"
+    },
     {
       "id": "1YX0kcd5BVDAf",
       "title": "KOVUKCINAR-FEKE (ADANA)",
