@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T05:43:06.704194+00:00",
+  "last_updated": "2026-10-05T05:56:29.442611+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "8q3citpkV_LkU",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.2,
+      "depth_km": 9.3,
+      "date_utc": "2026-10-05 08:48:30",
+      "latitude": 39.14,
+      "longitude": 28.2695,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "wx3_NiNojL7zL",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -972,16 +982,6 @@
       "latitude": 37.933,
       "longitude": 29.447,
       "location_name": "Denizli"
-    },
-    {
-      "id": "tGhiNPWIDij26",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.3,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 15:01:28",
-      "latitude": 37.783,
-      "longitude": 36.0797,
-      "location_name": "Adana"
     }
   ]
 }
