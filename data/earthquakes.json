@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T10:06:10.655123+00:00",
+  "last_updated": "2026-10-05T10:28:09.663988+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "aRk1gDhc5VPgh",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 7,
+      "date_utc": "2026-10-05 12:57:50",
+      "latitude": 37.7255,
+      "longitude": 36.09,
+      "location_name": "Adana"
+    },
+    {
+      "id": "psW28e6x_dcL6",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 2,
+      "depth_km": 5,
+      "date_utc": "2026-10-05 12:57:47",
+      "latitude": 37.7862,
+      "longitude": 36.0532,
+      "location_name": "Adana"
+    },
     {
       "id": "JDsHLQOOvw68h",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -12,6 +32,16 @@
       "latitude": 37.7703,
       "longitude": 36.045,
       "location_name": "Adana"
+    },
+    {
+      "id": "LHWUn2515Qs8w",
+      "title": "AKDENIZ",
+      "magnitude": 2,
+      "depth_km": 31,
+      "date_utc": "2026-10-05 12:28:25",
+      "latitude": 36.5918,
+      "longitude": 28.3275,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
     },
     {
       "id": "MF1ECuFOzS39u",
@@ -951,36 +981,6 @@
       "date_utc": "2026-10-04 18:08:53",
       "latitude": 37.7223,
       "longitude": 36.0707,
-      "location_name": "Adana"
-    },
-    {
-      "id": "kBBo1QoN1sJJp",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 2.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 18:02:20",
-      "latitude": 37.7845,
-      "longitude": 36.1323,
-      "location_name": "Adana"
-    },
-    {
-      "id": "OlyGLN7T22OgW",
-      "title": "AKCALIUSAGI-KOZAN (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 15.7,
-      "date_utc": "2026-10-04 17:58:38",
-      "latitude": 37.7068,
-      "longitude": 36.0838,
-      "location_name": "Adana"
-    },
-    {
-      "id": "B_id_ao178ed4",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 10.1,
-      "date_utc": "2026-10-04 17:57:04",
-      "latitude": 37.73,
-      "longitude": 36.115,
       "location_name": "Adana"
     }
   ]
