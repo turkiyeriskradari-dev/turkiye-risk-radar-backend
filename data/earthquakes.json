@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T07:28:42.371557+00:00",
+  "last_updated": "2026-10-05T07:45:03.407804+00:00",
   "record_count": 98,
   "data": [
+    {
+      "id": "KUDpB36Gnfr7y",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 13.6,
+      "date_utc": "2026-10-05 10:32:16",
+      "latitude": 37.7618,
+      "longitude": 36.1003,
+      "location_name": "Adana"
+    },
+    {
+      "id": "hjqFI9fypPVK6",
+      "title": "KUMARLI-(KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 16.1,
+      "date_utc": "2026-10-05 10:29:51",
+      "latitude": 37.8953,
+      "longitude": 36.542,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "1Wa5gtYnJz9Jb",
+      "title": "BOZLAR-BIGA (CANAKKALE)",
+      "magnitude": 2,
+      "depth_km": 4.7,
+      "date_utc": "2026-10-05 10:20:44",
+      "latitude": 40.3313,
+      "longitude": 27.4213,
+      "location_name": "Çanakkale"
+    },
+    {
+      "id": "EnJF2plKnb3w7",
+      "title": "CAVUSAGA-KOCASINAN (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 4.5,
+      "date_utc": "2026-10-05 10:20:17",
+      "latitude": 38.8405,
+      "longitude": 35.5892,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "95u9JsWE0OREl",
+      "title": "YENICE-PAZARLAR (KUTAHYA)",
+      "magnitude": 1.7,
+      "depth_km": 4.3,
+      "date_utc": "2026-10-05 10:19:40",
+      "latitude": 38.9517,
+      "longitude": 29.1202,
+      "location_name": "Kütahya"
+    },
     {
       "id": "PP5MwNzdXpt7k",
       "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
@@ -931,56 +981,6 @@
       "date_utc": "2026-10-04 16:53:18",
       "latitude": 37.8075,
       "longitude": 35.9575,
-      "location_name": "Adana"
-    },
-    {
-      "id": "UbLcpTTm5xpHn",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 16:29:27",
-      "latitude": 37.7475,
-      "longitude": 36.1103,
-      "location_name": "Adana"
-    },
-    {
-      "id": "ykYdACDl6H8L1",
-      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 16:21:08",
-      "latitude": 37.7365,
-      "longitude": 36.1397,
-      "location_name": "Adana"
-    },
-    {
-      "id": "4_cYChmrxCFi2",
-      "title": "KAYACIK-GORDES (MANISA)",
-      "magnitude": 1.3,
-      "depth_km": 5,
-      "date_utc": "2026-10-04 16:14:39",
-      "latitude": 38.9223,
-      "longitude": 28.1785,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "sqFN6QbUBan1U",
-      "title": "MISVAK-AYVACIK (CANAKKALE)",
-      "magnitude": 1.3,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-04 15:33:55",
-      "latitude": 39.669,
-      "longitude": 26.4725,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "hqaOpd2lPgFkI",
-      "title": "UGURLUBAG-FEKE (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 12.1,
-      "date_utc": "2026-10-04 15:24:04",
-      "latitude": 37.7438,
-      "longitude": 35.9357,
       "location_name": "Adana"
     }
   ]
