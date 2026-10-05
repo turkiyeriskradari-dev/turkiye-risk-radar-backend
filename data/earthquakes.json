@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T22:03:35.175368+00:00",
-  "record_count": 98,
+  "last_updated": "2026-10-05T22:23:58.695192+00:00",
+  "record_count": 97,
   "data": [
+    {
+      "id": "V5VHGFwoNOFAR",
+      "title": "YAZBASI-BULANIK (MUS)",
+      "magnitude": 1.9,
+      "depth_km": 7.3,
+      "date_utc": "2026-10-06 00:58:20",
+      "latitude": 39.2757,
+      "longitude": 42.209,
+      "location_name": "Muş"
+    },
     {
       "id": "dJTSGaxxPcPw2",
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
@@ -961,26 +971,6 @@
       "date_utc": "2026-10-05 01:27:50",
       "latitude": 37.723,
       "longitude": 36.0547,
-      "location_name": "Adana"
-    },
-    {
-      "id": "CbXUjIThqSHVY",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-10-05 01:23:39",
-      "latitude": 37.7958,
-      "longitude": 36.0858,
-      "location_name": "Adana"
-    },
-    {
-      "id": "isFv8fvrZToKP",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-10-05 01:16:22",
-      "latitude": 37.761,
-      "longitude": 36.0473,
       "location_name": "Adana"
     }
   ]
