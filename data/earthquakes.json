@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T10:56:05.302707+00:00",
+  "last_updated": "2026-10-05T11:05:49.474235+00:00",
   "record_count": 98,
   "data": [
     {
@@ -52,6 +52,16 @@
       "latitude": 36.5918,
       "longitude": 28.3275,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "G5WraP5Wf8tQt",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 14.5,
+      "date_utc": "2026-10-05 12:23:20",
+      "latitude": 37.907,
+      "longitude": 26.8647,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "MF1ECuFOzS39u",
@@ -972,16 +982,6 @@
       "latitude": 37.853,
       "longitude": 29.0888,
       "location_name": "Denizli"
-    },
-    {
-      "id": "1phWjShagKHXe",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 15.8,
-      "date_utc": "2026-10-04 18:22:59",
-      "latitude": 37.7815,
-      "longitude": 36.064,
-      "location_name": "Adana"
     }
   ]
 }
