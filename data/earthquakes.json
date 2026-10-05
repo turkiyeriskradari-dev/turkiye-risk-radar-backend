@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-05T17:38:40.516150+00:00",
+  "last_updated": "2026-10-05T17:53:23.098905+00:00",
   "record_count": 99,
   "data": [
     {
@@ -12,6 +12,16 @@
       "latitude": 38.2533,
       "longitude": 38.5995,
       "location_name": "Malatya"
+    },
+    {
+      "id": "X6eY0N0nNP5kp",
+      "title": "HALILKAYA-AZIZIYE (ERZURUM)",
+      "magnitude": 1.9,
+      "depth_km": 23.6,
+      "date_utc": "2026-10-05 19:47:55",
+      "latitude": 40.0815,
+      "longitude": 40.7002,
+      "location_name": "Erzurum"
     },
     {
       "id": "dfcdM_u8ABG7d",
@@ -982,16 +992,6 @@
       "latitude": 38.9407,
       "longitude": 35.632,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "hYtxvasDuKAYl",
-      "title": "CALIS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.9,
-      "depth_km": 15.6,
-      "date_utc": "2026-10-04 22:03:17",
-      "latitude": 38.1005,
-      "longitude": 37.0133,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
