@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T09:27:17.164536+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-06T09:41:49.725613+00:00",
+  "record_count": 80,
   "data": [
     {
       "id": "VvdvtDO372bWx",
@@ -802,26 +802,6 @@
       "latitude": 37.7703,
       "longitude": 36.045,
       "location_name": "Adana"
-    },
-    {
-      "id": "lxT8XQFL8iW1A",
-      "title": "CICEKLI-ANDIRIN (KAHRAMANMARAS)",
-      "magnitude": 1.1,
-      "depth_km": 29.5,
-      "date_utc": "2026-10-05 12:38:11",
-      "latitude": 37.568,
-      "longitude": 36.3238,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "LHWUn2515Qs8w",
-      "title": "AKDENIZ",
-      "magnitude": 2,
-      "depth_km": 31,
-      "date_utc": "2026-10-05 12:28:25",
-      "latitude": 36.5918,
-      "longitude": 28.3275,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
