@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T15:07:14.820223+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-06T15:26:27.966511+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "hgeX1WJi7ZZu4",
@@ -822,16 +822,6 @@
       "latitude": 39.452,
       "longitude": 26.434,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Uil64QFt9C8pl",
-      "title": "GOZENE-YESILYURT (MALATYA)",
-      "magnitude": 0.8,
-      "depth_km": 0,
-      "date_utc": "2026-10-05 18:22:11",
-      "latitude": 38.1992,
-      "longitude": 38.0247,
-      "location_name": "Malatya"
     }
   ]
 }
