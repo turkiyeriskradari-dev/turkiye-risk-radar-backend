@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-06T15:26:31.368034+00:00",
+  "last_updated": "2026-10-06T16:28:14.718241+00:00",
   "record_count": 121,
   "data": [
     {
@@ -87,7 +87,7 @@
       "name": "Elmalı Barajı",
       "havza": "Marmara",
       "province": "İSTANBUL",
-      "fill_percentage": 84.4,
+      "fill_percentage": 84.3,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -263,7 +263,7 @@
       "name": "Doğancı ve Nilüfer Barajı",
       "havza": "Susurluk",
       "province": "BURSA",
-      "fill_percentage": 61.7,
+      "fill_percentage": 61.6,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -279,7 +279,7 @@
       "name": "Darlık Barajı",
       "havza": "Marmara",
       "province": "İSTANBUL",
-      "fill_percentage": 60.7,
+      "fill_percentage": 60.8,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -311,7 +311,7 @@
       "name": "Eğrekkaya Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 59.8,
+      "fill_percentage": 59.5,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -335,7 +335,7 @@
       "name": "Ömerli Barajı",
       "havza": "Marmara",
       "province": "İSTANBUL",
-      "fill_percentage": 56.2,
+      "fill_percentage": 56.3,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -404,20 +404,20 @@
       "hes_capacity_mw": 56.4
     },
     {
-      "name": "Çubuk 2 Barajı",
-      "havza": "Sakarya",
-      "province": "ANKARA",
-      "fill_percentage": 52.9,
-      "measured_date": "06 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
       "name": "YAŞMAKLI",
       "havza": "Doğu Karadeniz",
       "province": "GÜMÜŞHANE",
       "fill_percentage": 52.9,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": 232.0
+    },
+    {
+      "name": "Çubuk 2 Barajı",
+      "havza": "Sakarya",
+      "province": "ANKARA",
+      "fill_percentage": 52.8,
+      "measured_date": "06 Ekim 2026",
+      "hes_capacity_mw": null
     },
     {
       "name": "ASLANTAŞ",
@@ -444,14 +444,6 @@
       "hes_capacity_mw": null
     },
     {
-      "name": "İhsaniye Barajı",
-      "havza": "Marmara",
-      "province": "KOCAELİ",
-      "fill_percentage": 52.0,
-      "measured_date": "06 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
       "name": "BOĞAZKÖY",
       "havza": "Sakarya",
       "province": "BURSA",
@@ -466,6 +458,14 @@
       "fill_percentage": 51.2,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": 128.0
+    },
+    {
+      "name": "İhsaniye Barajı",
+      "havza": "Marmara",
+      "province": "KOCAELİ",
+      "fill_percentage": 51.0,
+      "measured_date": "06 Ekim 2026",
+      "hes_capacity_mw": null
     },
     {
       "name": "BAHÇELİK",
@@ -535,7 +535,7 @@
       "name": "Kurtboğazı Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 46.2,
+      "fill_percentage": 46.3,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -551,7 +551,7 @@
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 45.4,
+      "fill_percentage": 45.0,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -599,7 +599,7 @@
       "name": "Kavşakkaya Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 43.1,
+      "fill_percentage": 42.8,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -660,14 +660,6 @@
       "hes_capacity_mw": 47.2
     },
     {
-      "name": "Alibey Barajı",
-      "havza": "Marmara",
-      "province": "İSTANBUL",
-      "fill_percentage": 35.9,
-      "measured_date": "06 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
       "name": "ÇINARCIK",
       "havza": "Susurluk",
       "province": "BURSA",
@@ -676,10 +668,18 @@
       "hes_capacity_mw": 100.0
     },
     {
+      "name": "Alibey Barajı",
+      "havza": "Marmara",
+      "province": "İSTANBUL",
+      "fill_percentage": 35.5,
+      "measured_date": "06 Ekim 2026",
+      "hes_capacity_mw": null
+    },
+    {
       "name": "Çamlıdere Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 34.4,
+      "fill_percentage": 34.3,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -687,7 +687,7 @@
       "name": "Terkos Barajı",
       "havza": "Marmara",
       "province": "İSTANBUL",
-      "fill_percentage": 31.6,
+      "fill_percentage": 31.5,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -751,7 +751,7 @@
       "name": "Büyükçekmece Barajı",
       "havza": "Marmara",
       "province": "İSTANBUL",
-      "fill_percentage": 26.2,
+      "fill_percentage": 26.0,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -796,20 +796,20 @@
       "hes_capacity_mw": null
     },
     {
-      "name": "Sazlıdere Barajı",
-      "havza": "Marmara",
-      "province": "İSTANBUL",
-      "fill_percentage": 20.5,
-      "measured_date": "06 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
       "name": "KÖPRÜ",
       "havza": "Seyhan",
       "province": "ADANA",
       "fill_percentage": 20.5,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": 155.8
+    },
+    {
+      "name": "Sazlıdere Barajı",
+      "havza": "Marmara",
+      "province": "İSTANBUL",
+      "fill_percentage": 20.4,
+      "measured_date": "06 Ekim 2026",
+      "hes_capacity_mw": null
     },
     {
       "name": "CİNDERE",
@@ -831,7 +831,7 @@
       "name": "Istrancalar Barajı",
       "havza": "Marmara",
       "province": "İSTANBUL",
-      "fill_percentage": 18.7,
+      "fill_percentage": 18.2,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -863,15 +863,7 @@
       "name": "Kargalı Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 10.7,
-      "measured_date": "06 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "Kazandere Barajı",
-      "havza": "Marmara",
-      "province": "İSTANBUL",
-      "fill_percentage": 10.4,
+      "fill_percentage": 10.2,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -880,6 +872,14 @@
       "havza": "Sakarya",
       "province": "ANKARA",
       "fill_percentage": 10.1,
+      "measured_date": "06 Ekim 2026",
+      "hes_capacity_mw": null
+    },
+    {
+      "name": "Kazandere Barajı",
+      "havza": "Marmara",
+      "province": "İSTANBUL",
+      "fill_percentage": 9.9,
       "measured_date": "06 Ekim 2026",
       "hes_capacity_mw": null
     },
