@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T07:09:02.900240+00:00",
-  "record_count": 94,
+  "last_updated": "2026-10-06T07:27:30.955387+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "9nNobYWfXQXnc",
+      "title": "DEREBOGAZI-(ELAZIG)",
+      "magnitude": 1.7,
+      "depth_km": 12.3,
+      "date_utc": "2026-10-06 09:44:38",
+      "latitude": 38.561,
+      "longitude": 39.3707,
+      "location_name": "Elazığ"
+    },
     {
       "id": "lTcVzOCmKJIQw",
       "title": "GOZEBASI-(ELAZIG)",
@@ -912,36 +922,6 @@
       "latitude": 37.8953,
       "longitude": 36.542,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "1Wa5gtYnJz9Jb",
-      "title": "BOZLAR-BIGA (CANAKKALE)",
-      "magnitude": 2,
-      "depth_km": 4.7,
-      "date_utc": "2026-10-05 10:20:44",
-      "latitude": 40.3313,
-      "longitude": 27.4213,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "EnJF2plKnb3w7",
-      "title": "CAVUSAGA-KOCASINAN (KAYSERI)",
-      "magnitude": 1.6,
-      "depth_km": 4.5,
-      "date_utc": "2026-10-05 10:20:17",
-      "latitude": 38.8405,
-      "longitude": 35.5892,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "95u9JsWE0OREl",
-      "title": "YENICE-PAZARLAR (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 4.3,
-      "date_utc": "2026-10-05 10:19:40",
-      "latitude": 38.9517,
-      "longitude": 29.1202,
-      "location_name": "Kütahya"
     }
   ]
 }
