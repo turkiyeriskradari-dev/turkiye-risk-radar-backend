@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T10:53:55.172126+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-06T11:04:23.258788+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "RKIO0_MeBbnGP",
+      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 1,
+      "depth_km": 4.3,
+      "date_utc": "2026-10-06 13:42:32",
+      "latitude": 39.513,
+      "longitude": 26.0127,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "X528cbBLVPYpk",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 10.8,
+      "date_utc": "2026-10-06 13:29:37",
+      "latitude": 39.2535,
+      "longitude": 29.0377,
+      "location_name": "Kütahya"
+    },
     {
       "id": "DHguFgMiRfdKO",
       "title": "ICADIYE-TOMARZA (KAYSERI)",
@@ -22,6 +42,16 @@
       "latitude": 37.1265,
       "longitude": 27.8872,
       "location_name": "Muğla"
+    },
+    {
+      "id": "FLjKxStewangT",
+      "title": "HIDIRUSAGI-FEKE (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 23.5,
+      "date_utc": "2026-10-06 11:49:52",
+      "latitude": 37.8737,
+      "longitude": 35.788,
+      "location_name": "Adana"
     },
     {
       "id": "kJypLxwVAGgAj",
