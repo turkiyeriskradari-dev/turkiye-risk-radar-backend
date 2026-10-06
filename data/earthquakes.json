@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T11:25:14.522981+00:00",
-  "record_count": 84,
+  "last_updated": "2026-10-06T11:38:09.995489+00:00",
+  "record_count": 87,
   "data": [
+    {
+      "id": "DgUyQv3yvT8jX",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 13.7,
+      "date_utc": "2026-10-06 14:20:52",
+      "latitude": 37.7748,
+      "longitude": 36.034,
+      "location_name": "Adana"
+    },
+    {
+      "id": "3WuDhSR9r67F4",
+      "title": "KARGAPAZARI-KARLIOVA (BINGOL)",
+      "magnitude": 1.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-10-06 14:18:49",
+      "latitude": 39.3217,
+      "longitude": 41.086,
+      "location_name": "Bingöl"
+    },
     {
       "id": "Dyc_wkd2AO8we",
       "title": "KARACAAGAC-MILAS (MUGLA)",
@@ -92,6 +112,16 @@
       "latitude": 37.1265,
       "longitude": 27.8872,
       "location_name": "Muğla"
+    },
+    {
+      "id": "A6dvNerig6Tpb",
+      "title": "EDIGE-ELMADAG (ANKARA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-10-06 11:53:38",
+      "latitude": 39.9175,
+      "longitude": 33.2867,
+      "location_name": "Ankara"
     },
     {
       "id": "FLjKxStewangT",
