@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T07:41:36.106562+00:00",
-  "record_count": 90,
+  "last_updated": "2026-10-06T07:54:26.344105+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "9nNobYWfXQXnc",
@@ -892,16 +892,6 @@
       "latitude": 36.1075,
       "longitude": 25.6635,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "NVtc6RbLFZtI_",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-05 10:53:59",
-      "latitude": 37.738,
-      "longitude": 36.0545,
-      "location_name": "Adana"
     }
   ]
 }
