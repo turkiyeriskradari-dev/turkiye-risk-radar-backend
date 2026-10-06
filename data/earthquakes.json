@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T08:04:46.890820+00:00",
+  "last_updated": "2026-10-06T08:27:50.126329+00:00",
   "record_count": 88,
   "data": [
+    {
+      "id": "kJypLxwVAGgAj",
+      "title": "PEYNIRLI-TORTUM (ERZURUM)",
+      "magnitude": 1.9,
+      "depth_km": 15.3,
+      "date_utc": "2026-10-06 11:12:19",
+      "latitude": 40.2167,
+      "longitude": 41.2762,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "QQLEKrUKV1d7s",
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 9.1,
+      "date_utc": "2026-10-06 11:09:39",
+      "latitude": 39.1758,
+      "longitude": 28.1952,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "9nNobYWfXQXnc",
       "title": "DEREBOGAZI-(ELAZIG)",
@@ -861,26 +881,6 @@
       "date_utc": "2026-10-05 11:30:29",
       "latitude": 37.8043,
       "longitude": 35.9975,
-      "location_name": "Adana"
-    },
-    {
-      "id": "5TsPSezZmBnWN",
-      "title": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-      "magnitude": 3.1,
-      "depth_km": 14.8,
-      "date_utc": "2026-10-05 11:18:25",
-      "latitude": 40.7323,
-      "longitude": 27.4298,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "lHSIp991SIKl4",
-      "title": "ULUPINAR-YAHYALI (KAYSERI)",
-      "magnitude": 1.7,
-      "depth_km": 5.2,
-      "date_utc": "2026-10-05 11:12:45",
-      "latitude": 37.925,
-      "longitude": 35.3058,
       "location_name": "Adana"
     }
   ]
