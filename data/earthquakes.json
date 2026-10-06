@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T10:03:55.002561+00:00",
-  "record_count": 77,
+  "last_updated": "2026-10-06T10:26:00.542661+00:00",
+  "record_count": 76,
   "data": [
     {
       "id": "DHguFgMiRfdKO",
@@ -762,16 +762,6 @@
       "latitude": 37.7713,
       "longitude": 36.0752,
       "location_name": "Adana"
-    },
-    {
-      "id": "8U6_SuKZpFx0u",
-      "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 15,
-      "date_utc": "2026-10-05 13:24:52",
-      "latitude": 37.9985,
-      "longitude": 37.5697,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
