@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T08:55:25.452375+00:00",
-  "record_count": 84,
+  "last_updated": "2026-10-06T09:04:35.458203+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "kJypLxwVAGgAj",
@@ -822,26 +822,6 @@
       "latitude": 37.907,
       "longitude": 26.8647,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "MF1ECuFOzS39u",
-      "title": "ASAGIBORANDERE-PINARBASI (KAYSERI)",
-      "magnitude": 1.6,
-      "depth_km": 6.4,
-      "date_utc": "2026-10-05 12:00:05",
-      "latitude": 38.7768,
-      "longitude": 36.5163,
-      "location_name": "Kayseri"
-    },
-    {
-      "id": "oZs58GoXzCtdt",
-      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 26.7,
-      "date_utc": "2026-10-05 11:59:14",
-      "latitude": 37.7133,
-      "longitude": 36.1775,
-      "location_name": "Adana"
     }
   ]
 }
