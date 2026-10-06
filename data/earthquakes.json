@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T15:54:13.083976+00:00",
-  "record_count": 80,
+  "last_updated": "2026-10-06T16:04:54.916288+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "lkz7fiA_7eeMB",
+      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 14.1,
+      "date_utc": "2026-10-06 17:55:50",
+      "latitude": 38.3707,
+      "longitude": 37.4427,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "BgZxLxa1T4prN",
+      "title": "KAPAKLIKUYU-SAIMBEYLI (ADANA)",
+      "magnitude": 2.6,
+      "depth_km": 4.9,
+      "date_utc": "2026-10-06 17:50:36",
+      "latitude": 37.83,
+      "longitude": 36.1798,
+      "location_name": "Adana"
+    },
+    {
+      "id": "cZqHQ65ezItLn",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 15.5,
+      "date_utc": "2026-10-06 17:38:54",
+      "latitude": 37.7708,
+      "longitude": 36.0737,
+      "location_name": "Adana"
+    },
     {
       "id": "hgeX1WJi7ZZu4",
       "title": "SOGUTLU-PUTURGE (MALATYA)",
