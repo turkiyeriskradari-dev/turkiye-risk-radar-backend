@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T21:02:15.629317+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-06T21:24:18.571706+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "0hsCN0nX3bA97",
@@ -682,36 +682,6 @@
       "latitude": 37.0737,
       "longitude": 28.9232,
       "location_name": "Muğla"
-    },
-    {
-      "id": "u36znH0BGinj6",
-      "title": "AKKAYA-DODURGA (CORUM)",
-      "magnitude": 1.6,
-      "depth_km": 8.2,
-      "date_utc": "2026-10-06 00:21:12",
-      "latitude": 40.864,
-      "longitude": 34.6168,
-      "location_name": "Çorum"
-    },
-    {
-      "id": "8PNAIdKGmMB_z",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 0.9,
-      "depth_km": 3.4,
-      "date_utc": "2026-10-06 00:06:09",
-      "latitude": 39.2383,
-      "longitude": 29.0215,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "DGWusUnGfTj6E",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.2,
-      "depth_km": 1.8,
-      "date_utc": "2026-10-06 00:05:34",
-      "latitude": 37.7707,
-      "longitude": 36.0787,
-      "location_name": "Adana"
     }
   ]
 }
