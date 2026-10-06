@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T02:52:48.789364+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-06T03:03:11.614517+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "RKQ7MCRW3QDTe",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 5.2,
+      "date_utc": "2026-10-06 02:40:23",
+      "latitude": 37.7522,
+      "longitude": 36.0965,
+      "location_name": "Adana"
+    },
+    {
+      "id": "Uew51SzciFwhv",
+      "title": "AKDENIZ",
+      "magnitude": 1.6,
+      "depth_km": 22,
+      "date_utc": "2026-10-06 02:39:43",
+      "latitude": 36.0535,
+      "longitude": 28.9102,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "USlyKZM2b1esI",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1,
+      "depth_km": 2.3,
+      "date_utc": "2026-10-06 02:01:00",
+      "latitude": 39.233,
+      "longitude": 29.075,
+      "location_name": "Kütahya"
+    },
     {
       "id": "0cVPACCrGNUEh",
       "title": "ESENLI-SUMBAS (OSMANIYE)",
@@ -811,26 +841,6 @@
       "date_utc": "2026-10-05 06:18:46",
       "latitude": 37.7467,
       "longitude": 36.0573,
-      "location_name": "Adana"
-    },
-    {
-      "id": "Q5Zp8MOVu8MiC",
-      "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-      "magnitude": 2.2,
-      "depth_km": 14.3,
-      "date_utc": "2026-10-05 06:01:53",
-      "latitude": 36.5012,
-      "longitude": 28.8843,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "iFlbRnOtaq3Xu",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.1,
-      "depth_km": 2.9,
-      "date_utc": "2026-10-05 05:52:40",
-      "latitude": 37.7828,
-      "longitude": 36.0687,
       "location_name": "Adana"
     }
   ]
