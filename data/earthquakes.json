@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T22:50:37.760660+00:00",
-  "record_count": 69,
+  "last_updated": "2026-10-06T23:02:09.685162+00:00",
+  "record_count": 68,
   "data": [
     {
       "id": "2ulEAJePkWP9B",
@@ -682,16 +682,6 @@
       "latitude": 36.0535,
       "longitude": 28.9102,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "USlyKZM2b1esI",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1,
-      "depth_km": 2.3,
-      "date_utc": "2026-10-06 02:01:00",
-      "latitude": 39.233,
-      "longitude": 29.075,
-      "location_name": "Kütahya"
     }
   ]
 }
