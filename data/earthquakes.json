@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T09:04:35.458203+00:00",
+  "last_updated": "2026-10-06T09:27:17.164536+00:00",
   "record_count": 82,
   "data": [
+    {
+      "id": "VvdvtDO372bWx",
+      "title": "SEKKOY-MILAS (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 0,
+      "date_utc": "2026-10-06 12:03:57",
+      "latitude": 37.1265,
+      "longitude": 27.8872,
+      "location_name": "Muğla"
+    },
     {
       "id": "kJypLxwVAGgAj",
       "title": "PEYNIRLI-TORTUM (ERZURUM)",
@@ -812,16 +822,6 @@
       "latitude": 36.5918,
       "longitude": 28.3275,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "G5WraP5Wf8tQt",
-      "title": "KUSADASI KORFEZI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 14.5,
-      "date_utc": "2026-10-05 12:23:20",
-      "latitude": 37.907,
-      "longitude": 26.8647,
-      "location_name": "Ege Denizi"
     }
   ]
 }
