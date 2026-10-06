@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T12:55:58.060237+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-06T13:06:49.443596+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "N2dJKg8qB2Lry",
+      "title": "CAMLIALAN-SENKAYA (ERZURUM)",
+      "magnitude": 1.7,
+      "depth_km": 12.4,
+      "date_utc": "2026-10-06 15:24:42",
+      "latitude": 40.7538,
+      "longitude": 42.4417,
+      "location_name": "Erzurum"
+    },
     {
       "id": "lwSvCNaIbOdwf",
       "title": "TURKIYE-IRAN SINIR BOLGESI",
