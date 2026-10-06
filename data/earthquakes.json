@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T01:37:20.293933+00:00",
-  "record_count": 88,
+  "last_updated": "2026-10-06T01:50:30.752941+00:00",
+  "record_count": 86,
   "data": [
     {
       "id": "V5VHGFwoNOFAR",
@@ -861,26 +861,6 @@
       "date_utc": "2026-10-05 04:52:09",
       "latitude": 37.8025,
       "longitude": 36.0495,
-      "location_name": "Adana"
-    },
-    {
-      "id": "z56EgB4KYqaDB",
-      "title": "COMLEKCI-BIGADIC (BALIKESIR)",
-      "magnitude": 1.7,
-      "depth_km": 7.1,
-      "date_utc": "2026-10-05 04:44:46",
-      "latitude": 39.4865,
-      "longitude": 28.0562,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "_PW2XZy8sx6Wo",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 5.5,
-      "date_utc": "2026-10-05 04:42:49",
-      "latitude": 37.784,
-      "longitude": 36.0493,
       "location_name": "Adana"
     }
   ]
