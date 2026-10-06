@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T02:39:00.732027+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-06T02:52:48.789364+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "0cVPACCrGNUEh",
+      "title": "ESENLI-SUMBAS (OSMANIYE)",
+      "magnitude": 0.9,
+      "depth_km": 21.2,
+      "date_utc": "2026-10-06 01:48:01",
+      "latitude": 37.6908,
+      "longitude": 36.1277,
+      "location_name": "Adana"
+    },
     {
       "id": "Emnd0aY2RBKum",
       "title": "INCIRCI-FEKE (ADANA)",
@@ -821,36 +831,6 @@
       "date_utc": "2026-10-05 05:52:40",
       "latitude": 37.7828,
       "longitude": 36.0687,
-      "location_name": "Adana"
-    },
-    {
-      "id": "MS60UAXAtkC9v",
-      "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-      "magnitude": 2.7,
-      "depth_km": 10.1,
-      "date_utc": "2026-10-05 05:47:53",
-      "latitude": 36.5152,
-      "longitude": 28.913,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "x8W2XlulfZYli",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-10-05 05:44:34",
-      "latitude": 37.7863,
-      "longitude": 36.0473,
-      "location_name": "Adana"
-    },
-    {
-      "id": "jy45XANeTQjdI",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 3.4,
-      "depth_km": 1.7,
-      "date_utc": "2026-10-05 05:42:20",
-      "latitude": 37.762,
-      "longitude": 36.0822,
       "location_name": "Adana"
     }
   ]
