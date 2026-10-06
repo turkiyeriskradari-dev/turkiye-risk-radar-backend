@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T21:50:49.974557+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-06T22:02:06.005567+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "726TDZpbeDwxz",
@@ -692,16 +692,6 @@
       "latitude": 37.7282,
       "longitude": 36.0198,
       "location_name": "Adana"
-    },
-    {
-      "id": "V5VHGFwoNOFAR",
-      "title": "YAZBASI-BULANIK (MUS)",
-      "magnitude": 1.9,
-      "depth_km": 7.3,
-      "date_utc": "2026-10-06 00:58:20",
-      "latitude": 39.2757,
-      "longitude": 42.209,
-      "location_name": "Muş"
     }
   ]
 }
