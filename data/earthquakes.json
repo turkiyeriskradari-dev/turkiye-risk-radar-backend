@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T03:24:49.000253+00:00",
-  "record_count": 88,
+  "last_updated": "2026-10-06T03:39:32.067720+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "BunCA_mCdDP9F",
+      "title": "BALYA (BALIKESIR)",
+      "magnitude": 2.4,
+      "depth_km": 3.6,
+      "date_utc": "2026-10-06 05:22:08",
+      "latitude": 39.7653,
+      "longitude": 27.5875,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "RsEVD9yjKWM0y",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 2.2,
+      "depth_km": 1.9,
+      "date_utc": "2026-10-06 04:52:30",
+      "latitude": 37.749,
+      "longitude": 36.0412,
+      "location_name": "Adana"
+    },
+    {
+      "id": "pSJbuh0xPvtMf",
+      "title": "DOGANYURT-BEYPAZARI (ANKARA)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-06 04:43:46",
+      "latitude": 40.2465,
+      "longitude": 31.8227,
+      "location_name": "Ankara"
+    },
     {
       "id": "qsEH7rCR_sM1O",
       "title": "EGE DENIZI",
@@ -871,16 +901,6 @@
       "date_utc": "2026-10-05 06:45:18",
       "latitude": 37.7405,
       "longitude": 36.0557,
-      "location_name": "Adana"
-    },
-    {
-      "id": "Z1KTsRV7r2Vxi",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 16.4,
-      "date_utc": "2026-10-05 06:37:59",
-      "latitude": 37.737,
-      "longitude": 36.125,
       "location_name": "Adana"
     }
   ]
