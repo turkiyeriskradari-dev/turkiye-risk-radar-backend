@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T19:24:23.445830+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-06T19:38:03.023895+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "o8shX0Kq42Xq6",
@@ -732,16 +732,6 @@
       "latitude": 38.2205,
       "longitude": 38.7313,
       "location_name": "Malatya"
-    },
-    {
-      "id": "IxRN9ubEVAwCY",
-      "title": "TOKMANAKLI-FEKE (ADANA)",
-      "magnitude": 1.2,
-      "depth_km": 13.8,
-      "date_utc": "2026-10-05 22:24:28",
-      "latitude": 37.7157,
-      "longitude": 36.0532,
-      "location_name": "Adana"
     }
   ]
 }
