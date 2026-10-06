@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T09:41:49.725613+00:00",
+  "last_updated": "2026-10-06T09:54:47.043888+00:00",
   "record_count": 80,
   "data": [
+    {
+      "id": "DHguFgMiRfdKO",
+      "title": "ICADIYE-TOMARZA (KAYSERI)",
+      "magnitude": 2.1,
+      "depth_km": 7,
+      "date_utc": "2026-10-06 12:31:19",
+      "latitude": 38.4702,
+      "longitude": 36.2318,
+      "location_name": "Kayseri"
+    },
     {
       "id": "VvdvtDO372bWx",
       "title": "SEKKOY-MILAS (MUGLA)",
@@ -791,16 +801,6 @@
       "date_utc": "2026-10-05 12:57:47",
       "latitude": 37.7862,
       "longitude": 36.0532,
-      "location_name": "Adana"
-    },
-    {
-      "id": "JDsHLQOOvw68h",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 3.3,
-      "date_utc": "2026-10-05 12:52:27",
-      "latitude": 37.7703,
-      "longitude": 36.045,
       "location_name": "Adana"
     }
   ]
