@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T11:53:21.894026+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-06T12:04:12.828635+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "Pdo_R_9b8c7Aw",
+      "title": "MARMARA DENIZI",
+      "magnitude": 1.7,
+      "depth_km": 7.6,
+      "date_utc": "2026-10-06 14:34:35",
+      "latitude": 40.7995,
+      "longitude": 27.835,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "DgUyQv3yvT8jX",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -832,26 +842,6 @@
       "latitude": 37.039,
       "longitude": 27.7378,
       "location_name": "Muğla"
-    },
-    {
-      "id": "namGtvgLsVktZ",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 3,
-      "date_utc": "2026-10-05 15:00:31",
-      "latitude": 37.7865,
-      "longitude": 36.0803,
-      "location_name": "Adana"
-    },
-    {
-      "id": "jexJ2j0NcvHET",
-      "title": "KOVUKCINAR-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 3.9,
-      "date_utc": "2026-10-05 14:58:51",
-      "latitude": 37.8047,
-      "longitude": 36.0543,
-      "location_name": "Adana"
     }
   ]
 }
