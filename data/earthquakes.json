@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T20:26:01.012618+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-06T20:40:20.742191+00:00",
+  "record_count": 71,
   "data": [
+    {
+      "id": "0hsCN0nX3bA97",
+      "title": "BARIS-NURHAK (KAHRAMANMARAS)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-10-06 23:28:33",
+      "latitude": 38.0228,
+      "longitude": 37.3857,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "o8shX0Kq42Xq6",
       "title": "UGURLUBAG-FEKE (ADANA)",
