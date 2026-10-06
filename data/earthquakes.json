@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T17:52:07.846416+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-06T18:03:04.421441+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "RreUDqLOws9pE",
@@ -712,26 +712,6 @@
       "latitude": 41.8143,
       "longitude": 43.4163,
       "location_name": "Gürcistan"
-    },
-    {
-      "id": "2PG6KbXkLY0_b",
-      "title": "KALEKOY-SELCUKLU (KONYA)",
-      "magnitude": 1.8,
-      "depth_km": 4.9,
-      "date_utc": "2026-10-05 21:01:17",
-      "latitude": 38.2732,
-      "longitude": 32.6865,
-      "location_name": "Konya"
-    },
-    {
-      "id": "pZW8AbPGqZawt",
-      "title": "ESENKOY-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 8.1,
-      "date_utc": "2026-10-05 20:58:46",
-      "latitude": 38.1698,
-      "longitude": 36.6722,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
