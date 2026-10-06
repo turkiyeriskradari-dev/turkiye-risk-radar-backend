@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T01:08:57.963230+00:00",
-  "record_count": 90,
+  "last_updated": "2026-10-06T01:25:47.805175+00:00",
+  "record_count": 89,
   "data": [
     {
       "id": "V5VHGFwoNOFAR",
@@ -892,16 +892,6 @@
       "latitude": 37.7858,
       "longitude": 35.9102,
       "location_name": "Adana"
-    },
-    {
-      "id": "vJSRyJKO8Rsd1",
-      "title": "AVCILAR-SAMANDAG (HATAY)",
-      "magnitude": 2.2,
-      "depth_km": 4.3,
-      "date_utc": "2026-10-05 04:20:51",
-      "latitude": 36.1925,
-      "longitude": 36.0562,
-      "location_name": "Hatay"
     }
   ]
 }
