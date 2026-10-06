@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T04:53:12.790402+00:00",
-  "record_count": 92,
+  "last_updated": "2026-10-06T05:03:44.633760+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "EPalpYLiq_qWr",
+      "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 6.4,
+      "date_utc": "2026-10-06 07:47:10",
+      "latitude": 38.0938,
+      "longitude": 37.2255,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "5GtJ5SrOcGsuW",
       "title": "AKCALIUSAGI-KOZAN (ADANA)",
