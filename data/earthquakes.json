@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T03:03:11.614517+00:00",
-  "record_count": 84,
+  "last_updated": "2026-10-06T03:24:49.000253+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "qsEH7rCR_sM1O",
+      "title": "EGE DENIZI",
+      "magnitude": 2.6,
+      "depth_km": 2.4,
+      "date_utc": "2026-10-06 04:40:10",
+      "latitude": 36.6337,
+      "longitude": 25.777,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "dwR1tADrzP6NF",
+      "title": "AKCALIUSAGI-KOZAN (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 7.7,
+      "date_utc": "2026-10-06 04:31:20",
+      "latitude": 37.7085,
+      "longitude": 36.0902,
+      "location_name": "Adana"
+    },
+    {
+      "id": "9TGpf2Y6kcmPt",
+      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.5,
+      "depth_km": 8.1,
+      "date_utc": "2026-10-06 04:06:55",
+      "latitude": 39.197,
+      "longitude": 28.1413,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "YH3zDSxGOO8OM",
+      "title": "BAGDASAN-(VAN)",
+      "magnitude": 1.9,
+      "depth_km": 10.1,
+      "date_utc": "2026-10-06 03:41:10",
+      "latitude": 38.8293,
+      "longitude": 43.5143,
+      "location_name": "Van"
+    },
+    {
+      "id": "ZfqwyEqvFkN8F",
+      "title": "INCIRCI-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-06 02:53:35",
+      "latitude": 37.7295,
+      "longitude": 36.035,
+      "location_name": "Adana"
+    },
     {
       "id": "RKQ7MCRW3QDTe",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -831,16 +881,6 @@
       "date_utc": "2026-10-05 06:37:59",
       "latitude": 37.737,
       "longitude": 36.125,
-      "location_name": "Adana"
-    },
-    {
-      "id": "N7eRE0KDSTfGR",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 5,
-      "date_utc": "2026-10-05 06:18:46",
-      "latitude": 37.7467,
-      "longitude": 36.0573,
       "location_name": "Adana"
     }
   ]
