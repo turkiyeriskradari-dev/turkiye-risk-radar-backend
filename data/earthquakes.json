@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T14:08:33.123255+00:00",
-  "record_count": 81,
+  "last_updated": "2026-10-06T14:27:58.426106+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "TGLSXIJeIpXta",
+      "title": "AKCALIUSAGI-KOZAN (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 2.2,
+      "date_utc": "2026-10-06 17:05:54",
+      "latitude": 37.704,
+      "longitude": 36.047,
+      "location_name": "Adana"
+    },
+    {
+      "id": "rSzxuAGlM83OC",
+      "title": "DUDAS-BEYPAZARI (ANKARA)",
+      "magnitude": 2.1,
+      "depth_km": 6.8,
+      "date_utc": "2026-10-06 16:41:59",
+      "latitude": 40.2608,
+      "longitude": 31.6847,
+      "location_name": "Ankara"
+    },
     {
       "id": "N2dJKg8qB2Lry",
       "title": "CAMLIALAN-SENKAYA (ERZURUM)",
