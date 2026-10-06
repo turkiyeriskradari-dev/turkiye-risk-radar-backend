@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T06:03:49.840239+00:00",
-  "record_count": 91,
+  "last_updated": "2026-10-06T06:30:40.664626+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "wp1dqm4K9ArzN",
+      "title": "PASALI-FEKE (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 15.5,
+      "date_utc": "2026-10-06 08:43:52",
+      "latitude": 37.7702,
+      "longitude": 35.9882,
+      "location_name": "Adana"
+    },
+    {
+      "id": "9d_vp35dvU_Ak",
+      "title": "KUYUCAK-BEYPAZARI (ANKARA)",
+      "magnitude": 2.3,
+      "depth_km": 8.2,
+      "date_utc": "2026-10-06 08:34:44",
+      "latitude": 40.1777,
+      "longitude": 31.806,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "DMZyx1_lJnFcf",
+      "title": "AKDENIZ",
+      "magnitude": 1.9,
+      "depth_km": 27.7,
+      "date_utc": "2026-10-06 08:20:34",
+      "latitude": 36.2372,
+      "longitude": 28.7642,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "rdcussP_g1jzH",
+      "title": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 6,
+      "date_utc": "2026-10-06 08:02:51",
+      "latitude": 38.3862,
+      "longitude": 26.2145,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "qE0ZMuPppyzmM",
       "title": "EKINOZU (KAHRAMANMARAS)",
@@ -892,26 +932,6 @@
       "latitude": 38.9517,
       "longitude": 29.1202,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "PP5MwNzdXpt7k",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.5,
-      "depth_km": 10.5,
-      "date_utc": "2026-10-05 09:29:50",
-      "latitude": 39.1347,
-      "longitude": 28.2538,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "6G3jz0yu4ilBZ",
-      "title": "DENIZKOY-DIKILI (IZMIR)",
-      "magnitude": 2.5,
-      "depth_km": 4.9,
-      "date_utc": "2026-10-05 09:11:24",
-      "latitude": 38.9218,
-      "longitude": 26.7633,
-      "location_name": "Ege Denizi"
     }
   ]
 }
