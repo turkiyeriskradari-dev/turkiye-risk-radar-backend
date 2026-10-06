@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T04:04:08.785556+00:00",
-  "record_count": 89,
+  "last_updated": "2026-10-06T04:26:17.452711+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "lshaLK7OgnAk8",
+      "title": "KAVUKLAR-AYRANCI (KARAMAN)",
+      "magnitude": 1.6,
+      "depth_km": 10.2,
+      "date_utc": "2026-10-06 06:02:24",
+      "latitude": 37.5577,
+      "longitude": 33.671,
+      "location_name": "Karaman"
+    },
+    {
+      "id": "VK_zMtSjNhBmE",
+      "title": "KAVUKLAR-AYRANCI (KARAMAN)",
+      "magnitude": 1.6,
+      "depth_km": 7.7,
+      "date_utc": "2026-10-06 06:02:24",
+      "latitude": 37.5602,
+      "longitude": 33.6622,
+      "location_name": "Karaman"
+    },
+    {
+      "id": "zhs9DHqiMb9WA",
+      "title": "BEKTAS-AYVACIK (CANAKKALE)",
+      "magnitude": 1.1,
+      "depth_km": 10.6,
+      "date_utc": "2026-10-06 05:33:48",
+      "latitude": 39.4488,
+      "longitude": 26.2252,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "BunCA_mCdDP9F",
       "title": "BALYA (BALIKESIR)",
@@ -12,6 +42,16 @@
       "latitude": 39.7653,
       "longitude": 27.5875,
       "location_name": "Balıkesir"
+    },
+    {
+      "id": "XYbZmJYNXwGQT",
+      "title": "ORTAKOY-AKCADAG (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 6.8,
+      "date_utc": "2026-10-06 05:10:41",
+      "latitude": 38.3098,
+      "longitude": 37.8278,
+      "location_name": "Malatya"
     },
     {
       "id": "RsEVD9yjKWM0y",
@@ -882,16 +922,6 @@
       "latitude": 37.7903,
       "longitude": 35.903,
       "location_name": "Adana"
-    },
-    {
-      "id": "CQqr9SCFws8dG",
-      "title": "CARDAK (DENIZLI)",
-      "magnitude": 1.9,
-      "depth_km": 13.2,
-      "date_utc": "2026-10-05 07:12:50",
-      "latitude": 37.8083,
-      "longitude": 29.6487,
-      "location_name": "Denizli"
     }
   ]
 }
