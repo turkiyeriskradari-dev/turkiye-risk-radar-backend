@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T23:36:59.991140+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-06T23:50:40.651673+00:00",
+  "record_count": 67,
   "data": [
+    {
+      "id": "rZePndPczsnrR",
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "magnitude": 1.5,
+      "depth_km": 5.2,
+      "date_utc": "2026-10-07 02:35:21",
+      "latitude": 40.4807,
+      "longitude": 29.191,
+      "location_name": "Bursa"
+    },
     {
       "id": "2ulEAJePkWP9B",
       "title": "ATALAR-YESILYURT (MALATYA)",
@@ -662,26 +672,6 @@
       "latitude": 37.7295,
       "longitude": 36.035,
       "location_name": "Adana"
-    },
-    {
-      "id": "RKQ7MCRW3QDTe",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 5.2,
-      "date_utc": "2026-10-06 02:40:23",
-      "latitude": 37.7522,
-      "longitude": 36.0965,
-      "location_name": "Adana"
-    },
-    {
-      "id": "Uew51SzciFwhv",
-      "title": "AKDENIZ",
-      "magnitude": 1.6,
-      "depth_km": 22,
-      "date_utc": "2026-10-06 02:39:43",
-      "latitude": 36.0535,
-      "longitude": 28.9102,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
