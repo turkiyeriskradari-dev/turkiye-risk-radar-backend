@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T16:28:12.297104+00:00",
+  "last_updated": "2026-10-06T16:43:06.651203+00:00",
   "record_count": 82,
   "data": [
+    {
+      "id": "RreUDqLOws9pE",
+      "title": "CALDERE-SELCUKLU (KONYA)",
+      "magnitude": 1.6,
+      "depth_km": 7.3,
+      "date_utc": "2026-10-06 19:27:04",
+      "latitude": 38.2752,
+      "longitude": 32.6498,
+      "location_name": "Konya"
+    },
+    {
+      "id": "qlQmdIMvMpurM",
+      "title": "CALDERE-SELCUKLU (KONYA)",
+      "magnitude": 1.4,
+      "depth_km": 4.5,
+      "date_utc": "2026-10-06 19:23:47",
+      "latitude": 38.2707,
+      "longitude": 32.6072,
+      "location_name": "Konya"
+    },
     {
       "id": "EYVzKNtfyiAfx",
       "title": "HASKIZILOREN-SERIK (ANTALYA)",
@@ -802,26 +822,6 @@
       "latitude": 35.431,
       "longitude": 27.3073,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "EJJqqj4127zf_",
-      "title": "KIRIKUSAGI-FEKE (ADANA)",
-      "magnitude": 1,
-      "depth_km": 15.8,
-      "date_utc": "2026-10-05 19:40:11",
-      "latitude": 37.7903,
-      "longitude": 35.992,
-      "location_name": "Adana"
-    },
-    {
-      "id": "5EgapRolZdsWk",
-      "title": "EGE DENIZI",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-10-05 19:35:08",
-      "latitude": 35.9823,
-      "longitude": 27.1702,
-      "location_name": "Ege Denizi"
     }
   ]
 }
