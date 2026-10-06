@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T18:03:04.421441+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-06T18:27:36.507606+00:00",
+  "record_count": 69,
   "data": [
     {
       "id": "RreUDqLOws9pE",
@@ -692,26 +692,6 @@
       "latitude": 37.7638,
       "longitude": 36.057,
       "location_name": "Adana"
-    },
-    {
-      "id": "Yuxyl3ydtCTdE",
-      "title": "GUNDEGER-PUTURGE (MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 10.7,
-      "date_utc": "2026-10-05 21:11:53",
-      "latitude": 38.3013,
-      "longitude": 38.8457,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "TbD2I9B2243JE",
-      "title": "GURCISTAN",
-      "magnitude": 2.1,
-      "depth_km": 10.3,
-      "date_utc": "2026-10-05 21:03:29",
-      "latitude": 41.8143,
-      "longitude": 43.4163,
-      "location_name": "Gürcistan"
     }
   ]
 }
