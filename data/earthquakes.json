@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T13:06:49.443596+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-06T13:28:13.363136+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "N2dJKg8qB2Lry",
@@ -821,16 +821,6 @@
       "date_utc": "2026-10-05 16:53:54",
       "latitude": 38.3295,
       "longitude": 38.8142,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "3An0f1TYbLfz9",
-      "title": "AKUSAGI-KALE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 19.6,
-      "date_utc": "2026-10-05 16:16:36",
-      "latitude": 38.348,
-      "longitude": 38.8152,
       "location_name": "Malatya"
     }
   ]

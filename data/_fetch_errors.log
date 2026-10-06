@@ -707,3 +707,4 @@
 2026-10-06T10:03:57.301198+00:00 | Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ | HATA: 525 Server Error: <none> for url: https://barajdolulukoranlari.com/
 2026-10-06T12:56:01.015265+00:00 | Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ | HATA: 525 Server Error: <none> for url: https://barajdolulukoranlari.com/
 2026-10-06T13:07:22.058069+00:00 | Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ | HATA: HTTPSConnectionPool(host='barajdolulukoranlari.com', port=443): Read timed out. (read timeout=30)
+2026-10-06T13:28:45.071831+00:00 | Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ | HATA: HTTPSConnectionPool(host='barajdolulukoranlari.com', port=443): Read timed out. (read timeout=30)
