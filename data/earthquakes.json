@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T16:43:06.651203+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-06T16:56:49.318714+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "RreUDqLOws9pE",
@@ -772,56 +772,6 @@
       "latitude": 37.7587,
       "longitude": 36.0717,
       "location_name": "Adana"
-    },
-    {
-      "id": "RQCamhHdII2sm",
-      "title": "PELITLI-(MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 6.9,
-      "date_utc": "2026-10-05 19:48:27",
-      "latitude": 38.2533,
-      "longitude": 38.5995,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "X6eY0N0nNP5kp",
-      "title": "HALILKAYA-AZIZIYE (ERZURUM)",
-      "magnitude": 1.9,
-      "depth_km": 23.6,
-      "date_utc": "2026-10-05 19:47:55",
-      "latitude": 40.0815,
-      "longitude": 40.7002,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "dfcdM_u8ABG7d",
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "magnitude": 0.9,
-      "depth_km": 8.3,
-      "date_utc": "2026-10-05 19:47:15",
-      "latitude": 38.2073,
-      "longitude": 38.582,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "Z8D2VqNCgGi6r",
-      "title": "KAVAKLIDERE-PUTURGE (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 3.8,
-      "date_utc": "2026-10-05 19:46:32",
-      "latitude": 38.2503,
-      "longitude": 38.614,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "i88aoDM8uMhw_",
-      "title": "AKDENIZ",
-      "magnitude": 2.6,
-      "depth_km": 10.4,
-      "date_utc": "2026-10-05 19:43:16",
-      "latitude": 35.431,
-      "longitude": 27.3073,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
