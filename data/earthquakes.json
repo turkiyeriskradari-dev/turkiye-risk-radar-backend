@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T06:30:40.664626+00:00",
-  "record_count": 93,
+  "last_updated": "2026-10-06T06:57:29.632113+00:00",
+  "record_count": 94,
   "data": [
+    {
+      "id": "lTcVzOCmKJIQw",
+      "title": "GOZEBASI-(ELAZIG)",
+      "magnitude": 1.6,
+      "depth_km": 13.6,
+      "date_utc": "2026-10-06 09:19:48",
+      "latitude": 38.5268,
+      "longitude": 39.245,
+      "location_name": "Elazığ"
+    },
     {
       "id": "wp1dqm4K9ArzN",
       "title": "PASALI-FEKE (ADANA)",
