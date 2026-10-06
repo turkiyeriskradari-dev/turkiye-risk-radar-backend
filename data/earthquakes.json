@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T17:37:29.829251+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-06T17:52:07.846416+00:00",
+  "record_count": 73,
   "data": [
     {
       "id": "RreUDqLOws9pE",
@@ -732,16 +732,6 @@
       "latitude": 38.1698,
       "longitude": 36.6722,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "wayl9KHghsawn",
-      "title": "MANDIRA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.9,
-      "depth_km": 13.6,
-      "date_utc": "2026-10-05 20:46:06",
-      "latitude": 39.2117,
-      "longitude": 28.1363,
-      "location_name": "Balıkesir"
     }
   ]
 }
