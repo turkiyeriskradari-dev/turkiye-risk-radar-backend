@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T18:45:16.323818+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-06T19:03:25.315769+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "kLv8_JkywKrWT",
+      "title": "MUREFTE ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 10,
+      "date_utc": "2026-10-06 19:42:16",
+      "latitude": 40.6288,
+      "longitude": 27.3355,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "rFLweZeKkhtJu",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 5.3,
+      "date_utc": "2026-10-06 19:35:36",
+      "latitude": 37.7615,
+      "longitude": 36.0327,
+      "location_name": "Adana"
+    },
     {
       "id": "RreUDqLOws9pE",
       "title": "CALDERE-SELCUKLU (KONYA)",
@@ -32,6 +52,36 @@
       "latitude": 37.2972,
       "longitude": 30.9872,
       "location_name": "Antalya"
+    },
+    {
+      "id": "SRXE_KTwGxZ3O",
+      "title": "YAPAK-ZARA (SIVAS)",
+      "magnitude": 2.1,
+      "depth_km": 7.8,
+      "date_utc": "2026-10-06 18:59:42",
+      "latitude": 39.9273,
+      "longitude": 37.6505,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "Z39ijwDHF4fBF",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.5,
+      "depth_km": 14.9,
+      "date_utc": "2026-10-06 18:36:32",
+      "latitude": 37.762,
+      "longitude": 36.1105,
+      "location_name": "Adana"
+    },
+    {
+      "id": "m3ye2xtSUcznY",
+      "title": "CAMPINAR-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.3,
+      "depth_km": 5,
+      "date_utc": "2026-10-06 18:34:26",
+      "latitude": 38.1063,
+      "longitude": 38.1998,
+      "location_name": "Adıyaman"
     },
     {
       "id": "lkz7fiA_7eeMB",
@@ -652,26 +702,6 @@
       "latitude": 37.7617,
       "longitude": 36.1058,
       "location_name": "Adana"
-    },
-    {
-      "id": "ipxCgiDwDrLVe",
-      "title": "BAHTILLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 11.9,
-      "date_utc": "2026-10-05 21:54:26",
-      "latitude": 39.1658,
-      "longitude": 28.813,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "kQGBYsWbnkZhv",
-      "title": "GOZSUZLU-(AFYONKARAHISAR)",
-      "magnitude": 1.2,
-      "depth_km": 5.3,
-      "date_utc": "2026-10-05 21:49:50",
-      "latitude": 38.6018,
-      "longitude": 30.858,
-      "location_name": "Afyon"
     }
   ]
 }
