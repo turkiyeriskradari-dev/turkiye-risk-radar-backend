@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T11:04:23.258788+00:00",
-  "record_count": 79,
+  "last_updated": "2026-10-06T11:25:14.522981+00:00",
+  "record_count": 84,
   "data": [
+    {
+      "id": "Dyc_wkd2AO8we",
+      "title": "KARACAAGAC-MILAS (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-10-06 14:05:55",
+      "latitude": 37.1645,
+      "longitude": 27.9005,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "FOZ5XDnD_XjyH",
+      "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.1,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-06 14:01:19",
+      "latitude": 39.1233,
+      "longitude": 28.3368,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "6sppoBYJuOSTe",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.4,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-06 13:59:28",
+      "latitude": 39.2555,
+      "longitude": 29.0335,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "bttxsN_AkO07v",
+      "title": "KATRANDAGI-EMET (KUTAHYA)",
+      "magnitude": 1.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-06 13:59:28",
+      "latitude": 39.2553,
+      "longitude": 29.0372,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "dPwmQTK_8kHwF",
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "magnitude": 2.1,
+      "depth_km": 10.1,
+      "date_utc": "2026-10-06 13:58:50",
+      "latitude": 39.277,
+      "longitude": 28.9937,
+      "location_name": "Kütahya"
+    },
     {
       "id": "RKIO0_MeBbnGP",
       "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
