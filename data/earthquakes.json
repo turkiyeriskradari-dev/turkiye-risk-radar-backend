@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T02:53:04.297237+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-07T03:03:49.733863+00:00",
+  "record_count": 70,
   "data": [
+    {
+      "id": "HCjx3ugP9zsAv",
+      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
+      "magnitude": 4,
+      "depth_km": 1.3,
+      "date_utc": "2026-10-07 05:56:37",
+      "latitude": 37.7727,
+      "longitude": 29.4222,
+      "location_name": "Denizli"
+    },
     {
       "id": "gMeXfPb6G2qP4",
       "title": "TUTENOCAK-SENKAYA (ERZURUM)",
@@ -692,26 +702,6 @@
       "latitude": 39.0227,
       "longitude": 27.0955,
       "location_name": "İzmir"
-    },
-    {
-      "id": "lshaLK7OgnAk8",
-      "title": "KAVUKLAR-AYRANCI (KARAMAN)",
-      "magnitude": 1.6,
-      "depth_km": 10.2,
-      "date_utc": "2026-10-06 06:02:24",
-      "latitude": 37.5577,
-      "longitude": 33.671,
-      "location_name": "Karaman"
-    },
-    {
-      "id": "VK_zMtSjNhBmE",
-      "title": "KAVUKLAR-AYRANCI (KARAMAN)",
-      "magnitude": 1.6,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-06 06:02:24",
-      "latitude": 37.5602,
-      "longitude": 33.6622,
-      "location_name": "Karaman"
     }
   ]
 }
