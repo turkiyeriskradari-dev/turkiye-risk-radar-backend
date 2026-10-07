@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T13:28:55.567063+00:00",
-  "record_count": 95,
+  "last_updated": "2026-10-07T13:43:30.617312+00:00",
+  "record_count": 94,
   "data": [
     {
       "id": "dfXbl_hgLIxCk",
@@ -942,16 +942,6 @@
       "latitude": 37.704,
       "longitude": 36.047,
       "location_name": "Adana"
-    },
-    {
-      "id": "rSzxuAGlM83OC",
-      "title": "DUDAS-BEYPAZARI (ANKARA)",
-      "magnitude": 2.1,
-      "depth_km": 6.8,
-      "date_utc": "2026-10-06 16:41:59",
-      "latitude": 40.2608,
-      "longitude": 31.6847,
-      "location_name": "Ankara"
     }
   ]
 }
