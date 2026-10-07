@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T05:26:41.848886+00:00",
+  "last_updated": "2026-10-07T05:40:55.512666+00:00",
   "record_count": 78,
   "data": [
     {
@@ -22,6 +22,16 @@
       "latitude": 38.036,
       "longitude": 37.8245,
       "location_name": "Malatya"
+    },
+    {
+      "id": "MWcBRqtq7YGRJ",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.2,
+      "depth_km": 2.7,
+      "date_utc": "2026-10-07 07:06:30",
+      "latitude": 35.4217,
+      "longitude": 26.5428,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "gdF7IXoGRBo73",
@@ -772,16 +782,6 @@
       "latitude": 37.7702,
       "longitude": 35.9882,
       "location_name": "Adana"
-    },
-    {
-      "id": "9d_vp35dvU_Ak",
-      "title": "KUYUCAK-BEYPAZARI (ANKARA)",
-      "magnitude": 2.3,
-      "depth_km": 8.2,
-      "date_utc": "2026-10-06 08:34:44",
-      "latitude": 40.1777,
-      "longitude": 31.806,
-      "location_name": "Ankara"
     }
   ]
 }
