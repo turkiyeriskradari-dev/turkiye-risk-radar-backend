@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T08:44:59.730844+00:00",
+  "last_updated": "2026-10-07T08:58:10.365317+00:00",
   "record_count": 88,
   "data": [
+    {
+      "id": "MnQkPxjKKo94R",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 5.4,
+      "date_utc": "2026-10-07 11:49:16",
+      "latitude": 37.7373,
+      "longitude": 36.1158,
+      "location_name": "Adana"
+    },
+    {
+      "id": "vvzj4SwrUYnpV",
+      "title": "AKTARLI-PUTURGE (MALATYA)",
+      "magnitude": 1.1,
+      "depth_km": 15.5,
+      "date_utc": "2026-10-07 11:38:06",
+      "latitude": 38.2778,
+      "longitude": 38.816,
+      "location_name": "Malatya"
+    },
     {
       "id": "_wpLGPdzVpnu1",
       "title": "AYVACIK-SAIMBEYLI (ADANA)",
@@ -862,26 +882,6 @@
       "latitude": 37.1265,
       "longitude": 27.8872,
       "location_name": "Muğla"
-    },
-    {
-      "id": "A6dvNerig6Tpb",
-      "title": "EDIGE-ELMADAG (ANKARA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-10-06 11:53:38",
-      "latitude": 39.9175,
-      "longitude": 33.2867,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "FLjKxStewangT",
-      "title": "HIDIRUSAGI-FEKE (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 23.5,
-      "date_utc": "2026-10-06 11:49:52",
-      "latitude": 37.8737,
-      "longitude": 35.788,
-      "location_name": "Adana"
     }
   ]
 }
