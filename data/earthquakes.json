@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T07:44:08.347266+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-07T07:57:04.094405+00:00",
+  "record_count": 87,
   "data": [
+    {
+      "id": "rZ_RKm0bqDRah",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 13.6,
+      "date_utc": "2026-10-07 10:49:09",
+      "latitude": 38.2525,
+      "longitude": 37.7545,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "e7cHq4yWHLLFl",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 3.2,
+      "depth_km": 7.5,
+      "date_utc": "2026-10-07 10:27:18",
+      "latitude": 35.3825,
+      "longitude": 26.5788,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "sd8HfJ9IPhPtR",
       "title": "ULUKOY-(MALATYA)",
