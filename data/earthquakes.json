@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T05:40:55.512666+00:00",
+  "last_updated": "2026-10-07T05:54:08.128075+00:00",
   "record_count": 78,
   "data": [
+    {
+      "id": "1knSsVXmC2AGd",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 0.8,
+      "depth_km": 15.7,
+      "date_utc": "2026-10-07 08:40:45",
+      "latitude": 39.1957,
+      "longitude": 28.969,
+      "location_name": "Kütahya"
+    },
     {
       "id": "75OO3a9XE0Hda",
       "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
@@ -772,16 +782,6 @@
       "latitude": 38.5268,
       "longitude": 39.245,
       "location_name": "Elazığ"
-    },
-    {
-      "id": "wp1dqm4K9ArzN",
-      "title": "PASALI-FEKE (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 15.5,
-      "date_utc": "2026-10-06 08:43:52",
-      "latitude": 37.7702,
-      "longitude": 35.9882,
-      "location_name": "Adana"
     }
   ]
 }
