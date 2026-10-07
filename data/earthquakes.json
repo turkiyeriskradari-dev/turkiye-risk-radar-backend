@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T01:30:23.380864+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-07T01:52:38.426876+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "yG7M3jv6oCCeH",
@@ -12,6 +12,16 @@
       "latitude": 40.702,
       "longitude": 42.345,
       "location_name": "Erzurum"
+    },
+    {
+      "id": "B8M0QBrmvgC7c",
+      "title": "EGE DENIZI",
+      "magnitude": 2,
+      "depth_km": 5.7,
+      "date_utc": "2026-10-07 04:02:41",
+      "latitude": 39.5183,
+      "longitude": 25.2362,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "MhPH0jcGPo7eA",
@@ -731,36 +741,6 @@
       "date_utc": "2026-10-06 04:52:30",
       "latitude": 37.749,
       "longitude": 36.0412,
-      "location_name": "Adana"
-    },
-    {
-      "id": "pSJbuh0xPvtMf",
-      "title": "DOGANYURT-BEYPAZARI (ANKARA)",
-      "magnitude": 1.6,
-      "depth_km": 5,
-      "date_utc": "2026-10-06 04:43:46",
-      "latitude": 40.2465,
-      "longitude": 31.8227,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "qsEH7rCR_sM1O",
-      "title": "EGE DENIZI",
-      "magnitude": 2.6,
-      "depth_km": 2.4,
-      "date_utc": "2026-10-06 04:40:10",
-      "latitude": 36.6337,
-      "longitude": 25.777,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "dwR1tADrzP6NF",
-      "title": "AKCALIUSAGI-KOZAN (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-06 04:31:20",
-      "latitude": 37.7085,
-      "longitude": 36.0902,
       "location_name": "Adana"
     }
   ]
