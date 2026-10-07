@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T00:36:26.933500+00:00",
+  "last_updated": "2026-10-07T01:00:04.330676+00:00",
   "record_count": 73,
   "data": [
+    {
+      "id": "vKw43XSLKtA3v",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 3,
+      "depth_km": 7.7,
+      "date_utc": "2026-10-07 03:18:26",
+      "latitude": 35.4627,
+      "longitude": 26.5605,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "c30POu8JpDNaX",
       "title": "GIRIT ADASI (AKDENIZ)",
@@ -722,16 +732,6 @@
       "latitude": 39.197,
       "longitude": 28.1413,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "YH3zDSxGOO8OM",
-      "title": "BAGDASAN-(VAN)",
-      "magnitude": 1.9,
-      "depth_km": 10.1,
-      "date_utc": "2026-10-06 03:41:10",
-      "latitude": 38.8293,
-      "longitude": 43.5143,
-      "location_name": "Van"
     }
   ]
 }
