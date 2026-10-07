@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T00:03:06.624194+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-07T00:36:26.933500+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "c30POu8JpDNaX",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 4.2,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 02:50:34",
+      "latitude": 35.422,
+      "longitude": 26.595,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "P68TJoOrGyn1I",
+      "title": "CEVIZLI-ADAKLI (BINGOL)",
+      "magnitude": 1.4,
+      "depth_km": 2.4,
+      "date_utc": "2026-10-07 02:46:20",
+      "latitude": 39.372,
+      "longitude": 40.444,
+      "location_name": "Bingöl"
+    },
     {
       "id": "YyuXXDZTigAUf",
       "title": "GIRIT ADASI (AKDENIZ)",
@@ -32,6 +52,36 @@
       "latitude": 38.9497,
       "longitude": 27.2958,
       "location_name": "İzmir"
+    },
+    {
+      "id": "8qn2lAXiJd71f",
+      "title": "BEKIRLER-BERGAMA (IZMIR)",
+      "magnitude": 1.2,
+      "depth_km": 14.9,
+      "date_utc": "2026-10-07 02:21:33",
+      "latitude": 38.9523,
+      "longitude": 27.28,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "jdMr7_TKiwnp4",
+      "title": "KAYNARPINAR-KARLIOVA (BINGOL)",
+      "magnitude": 1.4,
+      "depth_km": 7.5,
+      "date_utc": "2026-10-07 02:16:47",
+      "latitude": 39.3563,
+      "longitude": 40.7632,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "ezmvIhbWZaaRN",
+      "title": "KURUCAN-SARAY (VAN)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 02:00:59",
+      "latitude": 38.61,
+      "longitude": 44.2693,
+      "location_name": "Van"
     },
     {
       "id": "2ulEAJePkWP9B",
