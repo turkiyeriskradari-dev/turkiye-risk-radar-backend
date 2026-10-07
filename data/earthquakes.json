@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T08:08:55.835995+00:00",
+  "last_updated": "2026-10-07T08:29:24.351873+00:00",
   "record_count": 88,
   "data": [
+    {
+      "id": "_wpLGPdzVpnu1",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 12.6,
+      "date_utc": "2026-10-07 11:22:43",
+      "latitude": 37.7443,
+      "longitude": 36.1248,
+      "location_name": "Adana"
+    },
+    {
+      "id": "TMFT7AAggE9fu",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 3.7,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 11:16:18",
+      "latitude": 35.4455,
+      "longitude": 26.5435,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "tOCh_mCl0hnqr",
       "title": "KARAAGAC-KALE (MALATYA)",
@@ -862,26 +882,6 @@
       "latitude": 37.8737,
       "longitude": 35.788,
       "location_name": "Adana"
-    },
-    {
-      "id": "kJypLxwVAGgAj",
-      "title": "PEYNIRLI-TORTUM (ERZURUM)",
-      "magnitude": 1.9,
-      "depth_km": 15.3,
-      "date_utc": "2026-10-06 11:12:19",
-      "latitude": 40.2167,
-      "longitude": 41.2762,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "QQLEKrUKV1d7s",
-      "title": "AKTAS-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 9.1,
-      "date_utc": "2026-10-06 11:09:39",
-      "latitude": 39.1758,
-      "longitude": 28.1952,
-      "location_name": "Balıkesir"
     }
   ]
 }
