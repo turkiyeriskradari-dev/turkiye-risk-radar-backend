@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T07:57:04.094405+00:00",
-  "record_count": 87,
+  "last_updated": "2026-10-07T08:08:55.835995+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "tOCh_mCl0hnqr",
+      "title": "KARAAGAC-KALE (MALATYA)",
+      "magnitude": 1.4,
+      "depth_km": 4.2,
+      "date_utc": "2026-10-07 10:53:10",
+      "latitude": 38.3968,
+      "longitude": 38.8372,
+      "location_name": "Elazığ"
+    },
     {
       "id": "rZ_RKm0bqDRah",
       "title": "CEVIRME-AKCADAG (MALATYA)",
