@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T20:26:14.506221+00:00",
-  "record_count": 91,
+  "last_updated": "2026-10-07T20:39:40.519712+00:00",
+  "record_count": 93,
   "data": [
+    {
+      "id": "t71ZFbYj7XY3T",
+      "title": "HONAZ (DENIZLI)",
+      "magnitude": 1.1,
+      "depth_km": 13.5,
+      "date_utc": "2026-10-07 23:29:13",
+      "latitude": 37.7293,
+      "longitude": 29.2767,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "XUu1k_zrZ2p29",
+      "title": "AGILLI-KULP (DIYARBAKIR)",
+      "magnitude": 1.5,
+      "depth_km": 7.3,
+      "date_utc": "2026-10-07 23:17:25",
+      "latitude": 38.5842,
+      "longitude": 40.8628,
+      "location_name": "Diyarbakır"
+    },
     {
       "id": "b0KCDQ1zlKWYF",
       "title": "AKOLUK-FEKE (ADANA)",
@@ -22,6 +42,16 @@
       "latitude": 35.924,
       "longitude": 29.2342,
       "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "NaFAAfvofcoil",
+      "title": "TOPALLI-ELBISTAN (KAHRAMANMARAS)",
+      "magnitude": 1.2,
+      "depth_km": 15.4,
+      "date_utc": "2026-10-07 22:13:26",
+      "latitude": 38.2907,
+      "longitude": 37.6123,
+      "location_name": "Kahramanmaraş"
     },
     {
       "id": "5ulky0xfdIjhC",
@@ -902,16 +932,6 @@
       "latitude": 35.5117,
       "longitude": 26.5212,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "0hsCN0nX3bA97",
-      "title": "BARIS-NURHAK (KAHRAMANMARAS)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-10-06 23:28:33",
-      "latitude": 38.0228,
-      "longitude": 37.3857,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
