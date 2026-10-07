@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T02:04:05.248436+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-07T02:25:31.727072+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "yG7M3jv6oCCeH",
@@ -712,26 +712,6 @@
       "latitude": 39.4488,
       "longitude": 26.2252,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "BunCA_mCdDP9F",
-      "title": "BALYA (BALIKESIR)",
-      "magnitude": 2.4,
-      "depth_km": 3.6,
-      "date_utc": "2026-10-06 05:22:08",
-      "latitude": 39.7653,
-      "longitude": 27.5875,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "XYbZmJYNXwGQT",
-      "title": "ORTAKOY-AKCADAG (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 6.8,
-      "date_utc": "2026-10-06 05:10:41",
-      "latitude": 38.3098,
-      "longitude": 37.8278,
-      "location_name": "Malatya"
     }
   ]
 }
