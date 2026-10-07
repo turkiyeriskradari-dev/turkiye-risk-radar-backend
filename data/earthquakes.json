@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T21:39:57.127045+00:00",
-  "record_count": 94,
+  "last_updated": "2026-10-07T21:53:32.190985+00:00",
+  "record_count": 95,
   "data": [
+    {
+      "id": "1a1xCZXqCfCNi",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.3,
+      "depth_km": 6,
+      "date_utc": "2026-10-08 00:04:29",
+      "latitude": 35.4458,
+      "longitude": 26.5615,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "7qvmVJviQyjM9",
       "title": "MARMARA DENIZI",
