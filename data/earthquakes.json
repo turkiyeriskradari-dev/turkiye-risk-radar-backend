@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T23:02:05.461552+00:00",
-  "record_count": 90,
+  "last_updated": "2026-10-07T23:21:57.496148+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "rQUXShKWFYEJc",
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "magnitude": 2.4,
+      "depth_km": 9.7,
+      "date_utc": "2026-10-08 01:35:15",
+      "latitude": 40.1507,
+      "longitude": 31.7172,
+      "location_name": "Ankara"
+    },
     {
       "id": "1a1xCZXqCfCNi",
       "title": "GIRIT ADASI (AKDENIZ)",
@@ -882,26 +892,6 @@
       "latitude": 38.9497,
       "longitude": 27.2958,
       "location_name": "İzmir"
-    },
-    {
-      "id": "8qn2lAXiJd71f",
-      "title": "BEKIRLER-BERGAMA (IZMIR)",
-      "magnitude": 1.2,
-      "depth_km": 14.9,
-      "date_utc": "2026-10-07 02:21:33",
-      "latitude": 38.9523,
-      "longitude": 27.28,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "jdMr7_TKiwnp4",
-      "title": "KAYNARPINAR-KARLIOVA (BINGOL)",
-      "magnitude": 1.4,
-      "depth_km": 7.5,
-      "date_utc": "2026-10-07 02:16:47",
-      "latitude": 39.3563,
-      "longitude": 40.7632,
-      "location_name": "Bingöl"
     }
   ]
 }
