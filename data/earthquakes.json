@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T06:30:27.371779+00:00",
-  "record_count": 79,
+  "last_updated": "2026-10-07T06:57:47.217994+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "jUeZew_opUmeS",
+      "title": "ARITOPRAK-PUTURGE (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 5.4,
+      "date_utc": "2026-10-07 09:37:54",
+      "latitude": 38.1753,
+      "longitude": 38.6552,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "NY6OtCN6mdhb2",
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 8.6,
+      "date_utc": "2026-10-07 09:32:55",
+      "latitude": 36.4055,
+      "longitude": 27.5783,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "PgFiDEdE8qvj6",
       "title": "KOCAHALILLER-BERGAMA (IZMIR)",
@@ -782,16 +802,6 @@
       "latitude": 39.1758,
       "longitude": 28.1952,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "9nNobYWfXQXnc",
-      "title": "DEREBOGAZI-(ELAZIG)",
-      "magnitude": 1.7,
-      "depth_km": 12.3,
-      "date_utc": "2026-10-06 09:44:38",
-      "latitude": 38.561,
-      "longitude": 39.3707,
-      "location_name": "Elazığ"
     }
   ]
 }
