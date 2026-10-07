@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T11:25:50.422131+00:00",
-  "record_count": 88,
+  "last_updated": "2026-10-07T11:39:31.608771+00:00",
+  "record_count": 90,
   "data": [
     {
       "id": "ELTovjfNTFnFf",
@@ -54,6 +54,16 @@
       "location_name": "Adıyaman"
     },
     {
+      "id": "opH5gzDaBmZyD",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-10-07 13:21:09",
+      "latitude": 36.2342,
+      "longitude": 33.7705,
+      "location_name": "Mersin"
+    },
+    {
       "id": "SCZd7mx_EeF_o",
       "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
       "magnitude": 1.6,
@@ -94,6 +104,16 @@
       "location_name": "Malatya"
     },
     {
+      "id": "MnTCxBm7PQTXs",
+      "title": "EGE DENIZI",
+      "magnitude": 1.8,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-07 12:17:16",
+      "latitude": 36.6673,
+      "longitude": 25.677,
+      "location_name": "Ege Denizi"
+    },
+    {
       "id": "SXVH7oNT3MlK7",
       "title": "AKDERE-SILIFKE (MERSIN)",
       "magnitude": 1.2,
@@ -102,6 +122,16 @@
       "latitude": 36.2697,
       "longitude": 33.7522,
       "location_name": "Mersin"
+    },
+    {
+      "id": "IspRM1Y7rNCio",
+      "title": "BASAK-HEKIMHAN (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 6,
+      "date_utc": "2026-10-07 12:01:24",
+      "latitude": 38.933,
+      "longitude": 37.9505,
+      "location_name": "Malatya"
     },
     {
       "id": "MnQkPxjKKo94R",
@@ -872,16 +902,6 @@
       "latitude": 38.6422,
       "longitude": 44.541,
       "location_name": "İran"
-    },
-    {
-      "id": "Pdo_R_9b8c7Aw",
-      "title": "MARMARA DENIZI",
-      "magnitude": 1.7,
-      "depth_km": 7.6,
-      "date_utc": "2026-10-06 14:34:35",
-      "latitude": 40.7995,
-      "longitude": 27.835,
-      "location_name": "Marmara Denizi"
     }
   ]
 }
