@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T13:57:29.407783+00:00",
-  "record_count": 94,
+  "last_updated": "2026-10-07T14:08:44.743443+00:00",
+  "record_count": 93,
   "data": [
     {
       "id": "dfXbl_hgLIxCk",
@@ -932,16 +932,6 @@
       "latitude": 38.1968,
       "longitude": 38.5785,
       "location_name": "Adıyaman"
-    },
-    {
-      "id": "TGLSXIJeIpXta",
-      "title": "AKCALIUSAGI-KOZAN (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 2.2,
-      "date_utc": "2026-10-06 17:05:54",
-      "latitude": 37.704,
-      "longitude": 36.047,
-      "location_name": "Adana"
     }
   ]
 }
