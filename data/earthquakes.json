@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T05:09:34.500826+00:00",
-  "record_count": 77,
+  "last_updated": "2026-10-07T05:26:41.848886+00:00",
+  "record_count": 78,
   "data": [
     {
       "id": "75OO3a9XE0Hda",
@@ -12,6 +12,16 @@
       "latitude": 37.7683,
       "longitude": 29.4298,
       "location_name": "Denizli"
+    },
+    {
+      "id": "QIqqE5AW2zzOW",
+      "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
+      "magnitude": 1,
+      "depth_km": 28.5,
+      "date_utc": "2026-10-07 07:16:25",
+      "latitude": 38.036,
+      "longitude": 37.8245,
+      "location_name": "Malatya"
     },
     {
       "id": "gdF7IXoGRBo73",
@@ -122,6 +132,16 @@
       "latitude": 39.8658,
       "longitude": 41.264,
       "location_name": "Erzurum"
+    },
+    {
+      "id": "D89kyChVmaFNT",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 04:37:55",
+      "latitude": 35.3862,
+      "longitude": 26.6148,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "yG7M3jv6oCCeH",
@@ -762,16 +782,6 @@
       "latitude": 40.1777,
       "longitude": 31.806,
       "location_name": "Ankara"
-    },
-    {
-      "id": "DMZyx1_lJnFcf",
-      "title": "AKDENIZ",
-      "magnitude": 1.9,
-      "depth_km": 27.7,
-      "date_utc": "2026-10-06 08:20:34",
-      "latitude": 36.2372,
-      "longitude": 28.7642,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
