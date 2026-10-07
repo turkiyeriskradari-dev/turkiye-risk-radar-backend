@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T22:03:11.323104+00:00",
-  "record_count": 95,
+  "last_updated": "2026-10-07T22:23:11.008974+00:00",
+  "record_count": 94,
   "data": [
     {
       "id": "1a1xCZXqCfCNi",
@@ -942,16 +942,6 @@
       "latitude": 38.222,
       "longitude": 38.1427,
       "location_name": "Malatya"
-    },
-    {
-      "id": "wmkukIW3o8iFP",
-      "title": "BADEMALANI-KINIK (IZMIR)",
-      "magnitude": 1.6,
-      "depth_km": 17.2,
-      "date_utc": "2026-10-07 01:19:44",
-      "latitude": 38.9778,
-      "longitude": 27.2893,
-      "location_name": "İzmir"
     }
   ]
 }
