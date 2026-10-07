@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T01:14:51.655460+00:00",
-  "record_count": 74,
+  "last_updated": "2026-10-07T01:30:23.380864+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "yG7M3jv6oCCeH",
+      "title": "OZYURT-SENKAYA (ERZURUM)",
+      "magnitude": 2.7,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 04:15:01",
+      "latitude": 40.702,
+      "longitude": 42.345,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "MhPH0jcGPo7eA",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 03:52:05",
+      "latitude": 35.4463,
+      "longitude": 26.5048,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "vKw43XSLKtA3v",
       "title": "GIRIT ADASI (AKDENIZ)",
