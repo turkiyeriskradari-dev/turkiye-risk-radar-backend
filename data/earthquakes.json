@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T18:30:03.786231+00:00",
-  "record_count": 84,
+  "last_updated": "2026-10-07T18:49:08.184104+00:00",
+  "record_count": 85,
   "data": [
+    {
+      "id": "PP5oWEmFcgxLZ",
+      "title": "AYDINKAVAK-TURKOGLU (KAHRAMANMARAS)",
+      "magnitude": 1.4,
+      "depth_km": 8,
+      "date_utc": "2026-10-07 21:12:47",
+      "latitude": 37.4038,
+      "longitude": 36.8187,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "uIx3HtIsLKNZw",
       "title": "ABIDE ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -42,6 +52,16 @@
       "latitude": 39.2485,
       "longitude": 29.0543,
       "location_name": "Kütahya"
+    },
+    {
+      "id": "3FxeoRTp6Jm13",
+      "title": "KOYUNCU-SARUHANLI (MANISA)",
+      "magnitude": 1.5,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 19:11:37",
+      "latitude": 38.7808,
+      "longitude": 27.6513,
+      "location_name": "Manisa"
     },
     {
       "id": "K6tWPn01UPyFp",
@@ -832,16 +852,6 @@
       "latitude": 37.4608,
       "longitude": 33.4487,
       "location_name": "Karaman"
-    },
-    {
-      "id": "o8shX0Kq42Xq6",
-      "title": "UGURLUBAG-FEKE (ADANA)",
-      "magnitude": 1,
-      "depth_km": 10.1,
-      "date_utc": "2026-10-06 21:41:31",
-      "latitude": 37.7375,
-      "longitude": 35.9377,
-      "location_name": "Adana"
     }
   ]
 }
