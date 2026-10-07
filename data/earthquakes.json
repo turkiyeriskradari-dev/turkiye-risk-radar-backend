@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T06:57:47.217994+00:00",
-  "record_count": 80,
+  "last_updated": "2026-10-07T07:10:17.217696+00:00",
+  "record_count": 81,
   "data": [
+    {
+      "id": "fGr7JpfczkGJf",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 09:58:46",
+      "latitude": 37.7397,
+      "longitude": 36.0857,
+      "location_name": "Adana"
+    },
     {
       "id": "jUeZew_opUmeS",
       "title": "ARITOPRAK-PUTURGE (MALATYA)",
