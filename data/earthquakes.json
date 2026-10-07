@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T04:27:01.154605+00:00",
-  "record_count": 78,
+  "last_updated": "2026-10-07T04:44:20.547422+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "75OO3a9XE0Hda",
+      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
+      "magnitude": 2,
+      "depth_km": 10.3,
+      "date_utc": "2026-10-07 07:27:22",
+      "latitude": 37.7683,
+      "longitude": 29.4298,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "gdF7IXoGRBo73",
+      "title": "DERINBOGAZ-AKCADAG (MALATYA)",
+      "magnitude": 1.2,
+      "depth_km": 4.4,
+      "date_utc": "2026-10-07 06:37:13",
+      "latitude": 38.487,
+      "longitude": 37.934,
+      "location_name": "Malatya"
+    },
     {
       "id": "AZ9EXVF1oGNGs",
       "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
