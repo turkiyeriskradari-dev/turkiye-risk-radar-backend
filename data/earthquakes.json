@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T22:51:48.401473+00:00",
-  "record_count": 91,
+  "last_updated": "2026-10-07T23:02:05.461552+00:00",
+  "record_count": 90,
   "data": [
     {
       "id": "1a1xCZXqCfCNi",
@@ -902,16 +902,6 @@
       "latitude": 39.3563,
       "longitude": 40.7632,
       "location_name": "Bingöl"
-    },
-    {
-      "id": "ezmvIhbWZaaRN",
-      "title": "KURUCAN-SARAY (VAN)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 02:00:59",
-      "latitude": 38.61,
-      "longitude": 44.2693,
-      "location_name": "Van"
     }
   ]
 }
