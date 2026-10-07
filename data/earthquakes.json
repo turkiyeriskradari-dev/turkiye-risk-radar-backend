@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T02:25:31.727072+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-07T02:39:34.434018+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "yG7M3jv6oCCeH",
@@ -702,16 +702,6 @@
       "latitude": 37.5602,
       "longitude": 33.6622,
       "location_name": "Karaman"
-    },
-    {
-      "id": "zhs9DHqiMb9WA",
-      "title": "BEKTAS-AYVACIK (CANAKKALE)",
-      "magnitude": 1.1,
-      "depth_km": 10.6,
-      "date_utc": "2026-10-06 05:33:48",
-      "latitude": 39.4488,
-      "longitude": 26.2252,
-      "location_name": "Ege Denizi"
     }
   ]
 }
