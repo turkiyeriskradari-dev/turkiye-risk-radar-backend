@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T18:49:08.184104+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-07T19:06:10.166247+00:00",
+  "record_count": 89,
   "data": [
+    {
+      "id": "Uar8sdjqCH0If",
+      "title": "AKCALIUSAGI-KOZAN (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 11.6,
+      "date_utc": "2026-10-07 21:54:02",
+      "latitude": 37.699,
+      "longitude": 36.0865,
+      "location_name": "Adana"
+    },
+    {
+      "id": "Ermx17BR728Qs",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 2.6,
+      "depth_km": 6.3,
+      "date_utc": "2026-10-07 21:51:01",
+      "latitude": 35.4528,
+      "longitude": 26.5808,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "iM8AvJBUZaB09",
+      "title": "ARIKONAK-SINCIK (ADIYAMAN)",
+      "magnitude": 1.6,
+      "depth_km": 6.9,
+      "date_utc": "2026-10-07 21:48:57",
+      "latitude": 38.1368,
+      "longitude": 38.5753,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "D_SKKZjYWpzhD",
+      "title": "SOGUTLU-PUTURGE (MALATYA)",
+      "magnitude": 0.9,
+      "depth_km": 14.6,
+      "date_utc": "2026-10-07 21:21:40",
+      "latitude": 38.218,
+      "longitude": 38.5927,
+      "location_name": "Malatya"
+    },
     {
       "id": "PP5oWEmFcgxLZ",
       "title": "AYDINKAVAK-TURKOGLU (KAHRAMANMARAS)",
