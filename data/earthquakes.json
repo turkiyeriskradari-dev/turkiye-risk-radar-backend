@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T22:37:47.374431+00:00",
-  "record_count": 93,
+  "last_updated": "2026-10-07T22:51:48.401473+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "1a1xCZXqCfCNi",
@@ -912,26 +912,6 @@
       "latitude": 38.61,
       "longitude": 44.2693,
       "location_name": "Van"
-    },
-    {
-      "id": "sjFWC46XGvOWP",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 13.3,
-      "date_utc": "2026-10-07 01:41:06",
-      "latitude": 37.745,
-      "longitude": 36.0648,
-      "location_name": "Adana"
-    },
-    {
-      "id": "oqD_YbOzG0ZTI",
-      "title": "FILIKLI-KARAISALI (ADANA)",
-      "magnitude": 1.3,
-      "depth_km": 8.5,
-      "date_utc": "2026-10-07 01:38:21",
-      "latitude": 37.3677,
-      "longitude": 35.2532,
-      "location_name": "Adana"
     }
   ]
 }
