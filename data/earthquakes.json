@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T04:03:49.579585+00:00",
-  "record_count": 77,
+  "last_updated": "2026-10-07T04:27:01.154605+00:00",
+  "record_count": 78,
   "data": [
     {
       "id": "AZ9EXVF1oGNGs",
@@ -132,6 +132,16 @@
       "latitude": 35.4463,
       "longitude": 26.5048,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "xMUYhYs0yiVAs",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 0.7,
+      "depth_km": 13.6,
+      "date_utc": "2026-10-07 03:46:53",
+      "latitude": 39.217,
+      "longitude": 28.9833,
+      "location_name": "Kütahya"
     },
     {
       "id": "PZml6s_uRoMGt",
