@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T05:54:08.128075+00:00",
-  "record_count": 78,
+  "last_updated": "2026-10-07T06:03:21.093015+00:00",
+  "record_count": 79,
   "data": [
+    {
+      "id": "WlOFy0xLGxss5",
+      "title": "SAHINYURDU-GEMLIK (BURSA)",
+      "magnitude": 2.1,
+      "depth_km": 0,
+      "date_utc": "2026-10-07 08:46:02",
+      "latitude": 40.485,
+      "longitude": 29.1752,
+      "location_name": "Bursa"
+    },
     {
       "id": "1knSsVXmC2AGd",
       "title": "EGIRLER-SIMAV (KUTAHYA)",
