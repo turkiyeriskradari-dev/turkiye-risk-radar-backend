@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T07:28:53.244871+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-07T07:44:08.347266+00:00",
+  "record_count": 85,
   "data": [
+    {
+      "id": "sd8HfJ9IPhPtR",
+      "title": "ULUKOY-(MALATYA)",
+      "magnitude": 1.6,
+      "depth_km": 5.2,
+      "date_utc": "2026-10-07 10:24:44",
+      "latitude": 38.152,
+      "longitude": 38.5658,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "4OiArC0Ymgejt",
+      "title": "YAYLACIK-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 12.3,
+      "date_utc": "2026-10-07 10:19:14",
+      "latitude": 39.2147,
+      "longitude": 28.174,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "d_apxHJVShi9d",
       "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
