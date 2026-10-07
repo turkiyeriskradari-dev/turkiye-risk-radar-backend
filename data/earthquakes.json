@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T09:10:32.679611+00:00",
-  "record_count": 87,
+  "last_updated": "2026-10-07T09:27:42.239024+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "SXVH7oNT3MlK7",
+      "title": "AKDERE-SILIFKE (MERSIN)",
+      "magnitude": 1.2,
+      "depth_km": 0,
+      "date_utc": "2026-10-07 12:16:48",
+      "latitude": 36.2697,
+      "longitude": 33.7522,
+      "location_name": "Mersin"
+    },
     {
       "id": "MnQkPxjKKo94R",
       "title": "AYVACIK-SAIMBEYLI (ADANA)",
