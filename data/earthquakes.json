@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T03:03:49.733863+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-07T03:26:19.122448+00:00",
+  "record_count": 73,
   "data": [
+    {
+      "id": "kYjNDroFEvFda",
+      "title": "AKBAS-HONAZ (DENIZLI)",
+      "magnitude": 2.2,
+      "depth_km": 7.6,
+      "date_utc": "2026-10-07 06:05:13",
+      "latitude": 37.7492,
+      "longitude": 29.4627,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "A8xQGArUK7CoZ",
+      "title": "SALKONAK-YESILYURT (MALATYA)",
+      "magnitude": 2.5,
+      "depth_km": 3.1,
+      "date_utc": "2026-10-07 06:02:43",
+      "latitude": 38.1453,
+      "longitude": 38.3988,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "YNtDdtG3W0_lW",
+      "title": "AKBAS-HONAZ (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 15.3,
+      "date_utc": "2026-10-07 05:58:49",
+      "latitude": 37.748,
+      "longitude": 29.4648,
+      "location_name": "Denizli"
+    },
     {
       "id": "HCjx3ugP9zsAv",
       "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
@@ -22,6 +52,16 @@
       "latitude": 40.504,
       "longitude": 42.3512,
       "location_name": "Erzurum"
+    },
+    {
+      "id": "EJwWoAKza9Tzd",
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "magnitude": 0.9,
+      "depth_km": 18.4,
+      "date_utc": "2026-10-07 05:21:56",
+      "latitude": 38.4597,
+      "longitude": 26.717,
+      "location_name": "Ege Denizi"
     },
     {
       "id": "yG7M3jv6oCCeH",
@@ -692,16 +732,6 @@
       "latitude": 37.6867,
       "longitude": 36.085,
       "location_name": "Adana"
-    },
-    {
-      "id": "4hppUhr7e7ZZN",
-      "title": "SARIDERE-BERGAMA (IZMIR)",
-      "magnitude": 1.2,
-      "depth_km": 9.3,
-      "date_utc": "2026-10-06 06:12:10",
-      "latitude": 39.0227,
-      "longitude": 27.0955,
-      "location_name": "İzmir"
     }
   ]
 }
