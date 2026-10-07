@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T10:08:36.527185+00:00",
-  "record_count": 88,
+  "last_updated": "2026-10-07T10:27:24.005842+00:00",
+  "record_count": 90,
   "data": [
+    {
+      "id": "SCZd7mx_EeF_o",
+      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
+      "magnitude": 1.6,
+      "depth_km": 7.6,
+      "date_utc": "2026-10-07 13:02:44",
+      "latitude": 37.7733,
+      "longitude": 29.4037,
+      "location_name": "Denizli"
+    },
+    {
+      "id": "DCXt0WHan_Zeb",
+      "title": "YAYLADAMI-KEMALIYE (ERZINCAN)",
+      "magnitude": 2,
+      "depth_km": 25.6,
+      "date_utc": "2026-10-07 12:38:15",
+      "latitude": 39.2777,
+      "longitude": 38.5877,
+      "location_name": "Erzincan"
+    },
     {
       "id": "XLgJoMainpHYC",
       "title": "CAYIRKOY-YESILYURT (MALATYA)",
