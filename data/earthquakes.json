@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T10:27:24.005842+00:00",
-  "record_count": 90,
+  "last_updated": "2026-10-07T10:41:15.016755+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "0UQxCyVp_qzX2",
+      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
+      "magnitude": 3.1,
+      "depth_km": 8.2,
+      "date_utc": "2026-10-07 13:29:37",
+      "latitude": 38.0805,
+      "longitude": 38.4163,
+      "location_name": "Adıyaman"
+    },
     {
       "id": "SCZd7mx_EeF_o",
       "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
@@ -22,6 +32,16 @@
       "latitude": 39.2777,
       "longitude": 38.5877,
       "location_name": "Erzincan"
+    },
+    {
+      "id": "69DQw5RlRreen",
+      "title": "PIREDEDE-IMRANLI (SIVAS)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-07 12:32:47",
+      "latitude": 39.8552,
+      "longitude": 38.2162,
+      "location_name": "Sivas"
     },
     {
       "id": "XLgJoMainpHYC",
@@ -52,6 +72,16 @@
       "latitude": 37.7373,
       "longitude": 36.1158,
       "location_name": "Adana"
+    },
+    {
+      "id": "8YRqiTVuY4Xkb",
+      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
+      "magnitude": 1.6,
+      "depth_km": 27.3,
+      "date_utc": "2026-10-07 11:47:29",
+      "latitude": 37.7682,
+      "longitude": 29.3948,
+      "location_name": "Denizli"
     },
     {
       "id": "vvzj4SwrUYnpV",
@@ -892,16 +922,6 @@
       "latitude": 39.513,
       "longitude": 26.0127,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "X528cbBLVPYpk",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 10.8,
-      "date_utc": "2026-10-06 13:29:37",
-      "latitude": 39.2535,
-      "longitude": 29.0377,
-      "location_name": "Kütahya"
     }
   ]
 }
