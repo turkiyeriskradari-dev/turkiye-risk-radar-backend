@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T12:05:14.484258+00:00",
-  "record_count": 91,
+  "last_updated": "2026-10-07T12:33:54.494895+00:00",
+  "record_count": 92,
   "data": [
+    {
+      "id": "atJpvDjtUlZD8",
+      "title": "FEKE (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 21.6,
+      "date_utc": "2026-10-07 15:03:55",
+      "latitude": 37.8192,
+      "longitude": 35.8788,
+      "location_name": "Adana"
+    },
+    {
+      "id": "oXDPQvLOOcJHD",
+      "title": "TEKEDERESI-PUTURGE (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 19.2,
+      "date_utc": "2026-10-07 15:02:29",
+      "latitude": 38.1648,
+      "longitude": 38.5858,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "Q8ZATudkZWkp3",
+      "title": "AKDENIZ",
+      "magnitude": 2,
+      "depth_km": 9.9,
+      "date_utc": "2026-10-07 15:01:44",
+      "latitude": 36.263,
+      "longitude": 28.9718,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
     {
       "id": "J0VI4bZBoP6yL",
       "title": "KAYABEYI-CILDIR (ARDAHAN)",
@@ -892,26 +922,6 @@
       "latitude": 40.2608,
       "longitude": 31.6847,
       "location_name": "Ankara"
-    },
-    {
-      "id": "N2dJKg8qB2Lry",
-      "title": "CAMLIALAN-SENKAYA (ERZURUM)",
-      "magnitude": 1.7,
-      "depth_km": 12.4,
-      "date_utc": "2026-10-06 15:24:42",
-      "latitude": 40.7538,
-      "longitude": 42.4417,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "lwSvCNaIbOdwf",
-      "title": "TURKIYE-IRAN SINIR BOLGESI",
-      "magnitude": 2.4,
-      "depth_km": 9,
-      "date_utc": "2026-10-06 15:07:45",
-      "latitude": 38.6422,
-      "longitude": 44.541,
-      "location_name": "İran"
     }
   ]
 }
