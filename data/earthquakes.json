@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T06:03:21.093015+00:00",
+  "last_updated": "2026-10-07T06:30:27.371779+00:00",
   "record_count": 79,
   "data": [
+    {
+      "id": "PgFiDEdE8qvj6",
+      "title": "KOCAHALILLER-BERGAMA (IZMIR)",
+      "magnitude": 2.6,
+      "depth_km": 6.6,
+      "date_utc": "2026-10-07 09:10:16",
+      "latitude": 38.9378,
+      "longitude": 27.2815,
+      "location_name": "İzmir"
+    },
     {
       "id": "WlOFy0xLGxss5",
       "title": "SAHINYURDU-GEMLIK (BURSA)",
@@ -781,16 +791,6 @@
       "date_utc": "2026-10-06 09:44:38",
       "latitude": 38.561,
       "longitude": 39.3707,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "lTcVzOCmKJIQw",
-      "title": "GOZEBASI-(ELAZIG)",
-      "magnitude": 1.6,
-      "depth_km": 13.6,
-      "date_utc": "2026-10-06 09:19:48",
-      "latitude": 38.5268,
-      "longitude": 39.245,
       "location_name": "Elazığ"
     }
   ]
