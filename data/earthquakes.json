@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T23:21:57.496148+00:00",
-  "record_count": 89,
+  "last_updated": "2026-10-07T23:36:09.224131+00:00",
+  "record_count": 87,
   "data": [
     {
       "id": "rQUXShKWFYEJc",
@@ -872,26 +872,6 @@
       "latitude": 35.4022,
       "longitude": 26.5855,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "rZePndPczsnrR",
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "magnitude": 1.5,
-      "depth_km": 5.2,
-      "date_utc": "2026-10-07 02:35:21",
-      "latitude": 40.4807,
-      "longitude": 29.191,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "Sm55qXC3CnHeN",
-      "title": "KOCAKOY-BERGAMA (IZMIR)",
-      "magnitude": 1.5,
-      "depth_km": 5.3,
-      "date_utc": "2026-10-07 02:25:39",
-      "latitude": 38.9497,
-      "longitude": 27.2958,
-      "location_name": "İzmir"
     }
   ]
 }
