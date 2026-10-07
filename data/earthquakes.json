@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T03:55:03.448416+00:00",
-  "record_count": 76,
+  "last_updated": "2026-10-07T04:03:49.579585+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "AZ9EXVF1oGNGs",
@@ -132,6 +132,16 @@
       "latitude": 35.4463,
       "longitude": 26.5048,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "PZml6s_uRoMGt",
+      "title": "CIRALI-(TUNCELI)",
+      "magnitude": 1.4,
+      "depth_km": 7.9,
+      "date_utc": "2026-10-07 03:29:57",
+      "latitude": 39.2197,
+      "longitude": 39.591,
+      "location_name": "Tunceli"
     },
     {
       "id": "vKw43XSLKtA3v",
