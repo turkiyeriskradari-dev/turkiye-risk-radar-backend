@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-06T23:50:40.651673+00:00",
-  "record_count": 67,
+  "last_updated": "2026-10-07T00:03:06.624194+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "YyuXXDZTigAUf",
+      "title": "GIRIT ADASI (AKDENIZ)",
+      "magnitude": 4.1,
+      "depth_km": 2.1,
+      "date_utc": "2026-10-07 02:43:56",
+      "latitude": 35.4022,
+      "longitude": 26.5855,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "rZePndPczsnrR",
       "title": "SAHINYURDU-GEMLIK (BURSA)",
@@ -12,6 +22,16 @@
       "latitude": 40.4807,
       "longitude": 29.191,
       "location_name": "Bursa"
+    },
+    {
+      "id": "Sm55qXC3CnHeN",
+      "title": "KOCAKOY-BERGAMA (IZMIR)",
+      "magnitude": 1.5,
+      "depth_km": 5.3,
+      "date_utc": "2026-10-07 02:25:39",
+      "latitude": 38.9497,
+      "longitude": 27.2958,
+      "location_name": "İzmir"
     },
     {
       "id": "2ulEAJePkWP9B",
@@ -662,16 +682,6 @@
       "latitude": 38.8293,
       "longitude": 43.5143,
       "location_name": "Van"
-    },
-    {
-      "id": "ZfqwyEqvFkN8F",
-      "title": "INCIRCI-FEKE (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-10-06 02:53:35",
-      "latitude": 37.7295,
-      "longitude": 36.035,
-      "location_name": "Adana"
     }
   ]
 }
