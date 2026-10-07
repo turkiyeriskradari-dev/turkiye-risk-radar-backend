@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T22:23:11.008974+00:00",
-  "record_count": 94,
+  "last_updated": "2026-10-07T22:37:47.374431+00:00",
+  "record_count": 93,
   "data": [
     {
       "id": "1a1xCZXqCfCNi",
@@ -932,16 +932,6 @@
       "latitude": 37.3677,
       "longitude": 35.2532,
       "location_name": "Adana"
-    },
-    {
-      "id": "2ulEAJePkWP9B",
-      "title": "ATALAR-YESILYURT (MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 14,
-      "date_utc": "2026-10-07 01:30:35",
-      "latitude": 38.222,
-      "longitude": 38.1427,
-      "location_name": "Malatya"
     }
   ]
 }
