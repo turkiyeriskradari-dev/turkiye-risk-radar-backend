@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T23:36:09.224131+00:00",
-  "record_count": 87,
+  "last_updated": "2026-10-07T23:50:35.250586+00:00",
+  "record_count": 85,
   "data": [
     {
       "id": "rQUXShKWFYEJc",
@@ -851,26 +851,6 @@
       "date_utc": "2026-10-07 02:50:34",
       "latitude": 35.422,
       "longitude": 26.595,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "P68TJoOrGyn1I",
-      "title": "CEVIZLI-ADAKLI (BINGOL)",
-      "magnitude": 1.4,
-      "depth_km": 2.4,
-      "date_utc": "2026-10-07 02:46:20",
-      "latitude": 39.372,
-      "longitude": 40.444,
-      "location_name": "Bingöl"
-    },
-    {
-      "id": "YyuXXDZTigAUf",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 4.1,
-      "depth_km": 2.1,
-      "date_utc": "2026-10-07 02:43:56",
-      "latitude": 35.4022,
-      "longitude": 26.5855,
       "location_name": "Ege Denizi"
     }
   ]
