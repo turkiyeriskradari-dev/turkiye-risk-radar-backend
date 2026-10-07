@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T03:26:19.122448+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-07T03:41:32.151736+00:00",
+  "record_count": 76,
   "data": [
+    {
+      "id": "9Rcx7OtrGJxaq",
+      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
+      "magnitude": 3.8,
+      "depth_km": 6.3,
+      "date_utc": "2026-10-07 06:26:51",
+      "latitude": 37.7768,
+      "longitude": 29.4127,
+      "location_name": "Denizli"
+    },
     {
       "id": "kYjNDroFEvFda",
       "title": "AKBAS-HONAZ (DENIZLI)",
@@ -44,6 +54,16 @@
       "location_name": "Denizli"
     },
     {
+      "id": "njsTH0sDfB4qI",
+      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 5.4,
+      "date_utc": "2026-10-07 05:44:36",
+      "latitude": 37.7547,
+      "longitude": 36.2163,
+      "location_name": "Adana"
+    },
+    {
       "id": "gMeXfPb6G2qP4",
       "title": "TUTENOCAK-SENKAYA (ERZURUM)",
       "magnitude": 1.6,
@@ -62,6 +82,16 @@
       "latitude": 38.4597,
       "longitude": 26.717,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "MmlwOyjU8xzYj",
+      "title": "PALANDOKEN (ERZURUM)",
+      "magnitude": 0.6,
+      "depth_km": 3.3,
+      "date_utc": "2026-10-07 04:44:52",
+      "latitude": 39.8658,
+      "longitude": 41.264,
+      "location_name": "Erzurum"
     },
     {
       "id": "yG7M3jv6oCCeH",
