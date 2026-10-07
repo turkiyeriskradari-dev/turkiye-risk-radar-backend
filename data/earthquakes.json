@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T16:12:07.783674+00:00",
-  "record_count": 87,
+  "last_updated": "2026-10-07T16:30:57.186667+00:00",
+  "record_count": 86,
   "data": [
+    {
+      "id": "dGw91dEsQT4lM",
+      "title": "ASAGICOBANISA-(MANISA)",
+      "magnitude": 2.4,
+      "depth_km": 9.8,
+      "date_utc": "2026-10-07 19:10:26",
+      "latitude": 38.5893,
+      "longitude": 27.5648,
+      "location_name": "Manisa"
+    },
     {
       "id": "T9J8Glrn55l3j",
       "title": "KUSLAR-SERIK (ANTALYA)",
@@ -852,26 +862,6 @@
       "latitude": 37.7615,
       "longitude": 36.0327,
       "location_name": "Adana"
-    },
-    {
-      "id": "RreUDqLOws9pE",
-      "title": "CALDERE-SELCUKLU (KONYA)",
-      "magnitude": 1.6,
-      "depth_km": 7.3,
-      "date_utc": "2026-10-06 19:27:04",
-      "latitude": 38.2752,
-      "longitude": 32.6498,
-      "location_name": "Konya"
-    },
-    {
-      "id": "qlQmdIMvMpurM",
-      "title": "CALDERE-SELCUKLU (KONYA)",
-      "magnitude": 1.4,
-      "depth_km": 4.5,
-      "date_utc": "2026-10-06 19:23:47",
-      "latitude": 38.2707,
-      "longitude": 32.6072,
-      "location_name": "Konya"
     }
   ]
 }
