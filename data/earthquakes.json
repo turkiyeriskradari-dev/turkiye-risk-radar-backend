@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T11:04:37.021541+00:00",
-  "record_count": 89,
+  "last_updated": "2026-10-07T11:25:50.422131+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "ELTovjfNTFnFf",
+      "title": "HIDIRUSAGI-FEKE (ADANA)",
+      "magnitude": 1.5,
+      "depth_km": 21.7,
+      "date_utc": "2026-10-07 14:10:09",
+      "latitude": 37.8718,
+      "longitude": 35.7802,
+      "location_name": "Adana"
+    },
+    {
+      "id": "ccUXxeBPv2CqR",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 3.1,
+      "depth_km": 2.5,
+      "date_utc": "2026-10-07 13:58:23",
+      "latitude": 37.7243,
+      "longitude": 36.1147,
+      "location_name": "Adana"
+    },
     {
       "id": "UXNJzHZ3I950D",
       "title": "MIDILLI ADASI (EGE DENIZI)",
@@ -862,36 +882,6 @@
       "latitude": 40.7995,
       "longitude": 27.835,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "DgUyQv3yvT8jX",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 13.7,
-      "date_utc": "2026-10-06 14:20:52",
-      "latitude": 37.7748,
-      "longitude": 36.034,
-      "location_name": "Adana"
-    },
-    {
-      "id": "3WuDhSR9r67F4",
-      "title": "KARGAPAZARI-KARLIOVA (BINGOL)",
-      "magnitude": 1.4,
-      "depth_km": 5.3,
-      "date_utc": "2026-10-06 14:18:49",
-      "latitude": 39.3217,
-      "longitude": 41.086,
-      "location_name": "Bingöl"
-    },
-    {
-      "id": "Dyc_wkd2AO8we",
-      "title": "KARACAAGAC-MILAS (MUGLA)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-10-06 14:05:55",
-      "latitude": 37.1645,
-      "longitude": 27.9005,
-      "location_name": "Muğla"
     }
   ]
 }
