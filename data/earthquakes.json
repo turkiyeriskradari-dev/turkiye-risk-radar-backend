@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T14:28:19.187238+00:00",
-  "record_count": 93,
+  "last_updated": "2026-10-07T14:42:48.007901+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "dfXbl_hgLIxCk",
@@ -912,26 +912,6 @@
       "latitude": 37.83,
       "longitude": 36.1798,
       "location_name": "Adana"
-    },
-    {
-      "id": "cZqHQ65ezItLn",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 15.5,
-      "date_utc": "2026-10-06 17:38:54",
-      "latitude": 37.7708,
-      "longitude": 36.0737,
-      "location_name": "Adana"
-    },
-    {
-      "id": "hgeX1WJi7ZZu4",
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "magnitude": 2.2,
-      "depth_km": 5.2,
-      "date_utc": "2026-10-06 17:36:10",
-      "latitude": 38.1968,
-      "longitude": 38.5785,
-      "location_name": "Adıyaman"
     }
   ]
 }
