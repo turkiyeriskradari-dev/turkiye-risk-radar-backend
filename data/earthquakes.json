@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T07:10:17.217696+00:00",
-  "record_count": 81,
+  "last_updated": "2026-10-07T07:28:53.244871+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "d_apxHJVShi9d",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.7,
+      "depth_km": 9.5,
+      "date_utc": "2026-10-07 10:18:45",
+      "latitude": 39.2433,
+      "longitude": 28.112,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "sII3PMjNjlL5Z",
+      "title": "GENISLER-ALTINTAS (KUTAHYA)",
+      "magnitude": 2.1,
+      "depth_km": 4.3,
+      "date_utc": "2026-10-07 10:00:38",
+      "latitude": 39.0078,
+      "longitude": 30.1065,
+      "location_name": "Kütahya"
+    },
     {
       "id": "fGr7JpfczkGJf",
       "title": "AKOLUK-FEKE (ADANA)",
