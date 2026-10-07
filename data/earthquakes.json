@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T08:58:10.365317+00:00",
-  "record_count": 88,
+  "last_updated": "2026-10-07T09:10:32.679611+00:00",
+  "record_count": 87,
   "data": [
     {
       "id": "MnQkPxjKKo94R",
@@ -872,16 +872,6 @@
       "latitude": 38.4702,
       "longitude": 36.2318,
       "location_name": "Kayseri"
-    },
-    {
-      "id": "VvdvtDO372bWx",
-      "title": "SEKKOY-MILAS (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 0,
-      "date_utc": "2026-10-06 12:03:57",
-      "latitude": 37.1265,
-      "longitude": 27.8872,
-      "location_name": "Muğla"
     }
   ]
 }
