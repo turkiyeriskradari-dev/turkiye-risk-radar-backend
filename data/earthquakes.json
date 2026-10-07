@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T10:41:15.016755+00:00",
-  "record_count": 92,
+  "last_updated": "2026-10-07T10:54:58.014047+00:00",
+  "record_count": 91,
   "data": [
     {
       "id": "0UQxCyVp_qzX2",
@@ -912,16 +912,6 @@
       "latitude": 39.277,
       "longitude": 28.9937,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "RKIO0_MeBbnGP",
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1,
-      "depth_km": 4.3,
-      "date_utc": "2026-10-06 13:42:32",
-      "latitude": 39.513,
-      "longitude": 26.0127,
-      "location_name": "Ege Denizi"
     }
   ]
 }
