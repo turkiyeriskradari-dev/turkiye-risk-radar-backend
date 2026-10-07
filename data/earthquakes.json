@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T01:00:04.330676+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-07T01:14:51.655460+00:00",
+  "record_count": 74,
   "data": [
     {
       "id": "vKw43XSLKtA3v",
@@ -92,6 +92,26 @@
       "latitude": 38.61,
       "longitude": 44.2693,
       "location_name": "Van"
+    },
+    {
+      "id": "sjFWC46XGvOWP",
+      "title": "AKOLUK-FEKE (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 13.3,
+      "date_utc": "2026-10-07 01:41:06",
+      "latitude": 37.745,
+      "longitude": 36.0648,
+      "location_name": "Adana"
+    },
+    {
+      "id": "oqD_YbOzG0ZTI",
+      "title": "FILIKLI-KARAISALI (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 8.5,
+      "date_utc": "2026-10-07 01:38:21",
+      "latitude": 37.3677,
+      "longitude": 35.2532,
+      "location_name": "Adana"
     },
     {
       "id": "2ulEAJePkWP9B",
@@ -722,16 +742,6 @@
       "latitude": 37.7085,
       "longitude": 36.0902,
       "location_name": "Adana"
-    },
-    {
-      "id": "9TGpf2Y6kcmPt",
-      "title": "ORMANICI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 8.1,
-      "date_utc": "2026-10-06 04:06:55",
-      "latitude": 39.197,
-      "longitude": 28.1413,
-      "location_name": "Balıkesir"
     }
   ]
 }
