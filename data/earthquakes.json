@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T04:57:55.755054+00:00",
-  "record_count": 78,
+  "last_updated": "2026-10-07T05:09:34.500826+00:00",
+  "record_count": 77,
   "data": [
     {
       "id": "75OO3a9XE0Hda",
@@ -772,16 +772,6 @@
       "latitude": 36.2372,
       "longitude": 28.7642,
       "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "rdcussP_g1jzH",
-      "title": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
-      "magnitude": 1.9,
-      "depth_km": 6,
-      "date_utc": "2026-10-06 08:02:51",
-      "latitude": 38.3862,
-      "longitude": 26.2145,
-      "location_name": "Ege Denizi"
     }
   ]
 }
