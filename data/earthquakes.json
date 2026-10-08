@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-07T23:50:35.250586+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-08T00:02:39.435342+00:00",
+  "record_count": 86,
   "data": [
+    {
+      "id": "yyrR6syN1LBkF",
+      "title": "AKCALIUSAGI-KOZAN (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-08 02:40:36",
+      "latitude": 37.7177,
+      "longitude": 36.113,
+      "location_name": "Adana"
+    },
+    {
+      "id": "PJQdq1LDwuUSS",
+      "title": "CIHATLI-GEMLIK (BURSA)",
+      "magnitude": 1.1,
+      "depth_km": 5.5,
+      "date_utc": "2026-10-08 02:38:12",
+      "latitude": 40.4535,
+      "longitude": 29.1977,
+      "location_name": "Bursa"
+    },
     {
       "id": "rQUXShKWFYEJc",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
@@ -841,16 +861,6 @@
       "date_utc": "2026-10-07 03:18:26",
       "latitude": 35.4627,
       "longitude": 26.5605,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "c30POu8JpDNaX",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 4.2,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 02:50:34",
-      "latitude": 35.422,
-      "longitude": 26.595,
       "location_name": "Ege Denizi"
     }
   ]
