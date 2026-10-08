@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T12:33:57.438935+00:00",
-  "record_count": 57,
+  "last_updated": "2026-10-08T13:00:42.096311+00:00",
+  "record_count": 55,
   "data": [
     {
       "id": "BxKq5juCRL9VS",
@@ -552,26 +552,6 @@
       "latitude": 41.124,
       "longitude": 28.9782,
       "location_name": "İstanbul"
-    },
-    {
-      "id": "dfXbl_hgLIxCk",
-      "title": "AKCAKOY-ESME (USAK)",
-      "magnitude": 1.1,
-      "depth_km": 27.6,
-      "date_utc": "2026-10-07 15:39:10",
-      "latitude": 38.5483,
-      "longitude": 29.115,
-      "location_name": "Uşak"
-    },
-    {
-      "id": "W6C_06KHDEAAv",
-      "title": "AHMETLER-ESME (USAK)",
-      "magnitude": 1.4,
-      "depth_km": 18.2,
-      "date_utc": "2026-10-07 15:35:09",
-      "latitude": 38.468,
-      "longitude": 29.0848,
-      "location_name": "Uşak"
     }
   ]
 }
