@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T09:57:36.210722+00:00",
-  "record_count": 65,
+  "last_updated": "2026-10-08T10:10:02.421539+00:00",
+  "record_count": 64,
   "data": [
     {
       "id": "lUA1NwSUmNmo0",
@@ -642,16 +642,6 @@
       "latitude": 36.2342,
       "longitude": 33.7705,
       "location_name": "Mersin"
-    },
-    {
-      "id": "SCZd7mx_EeF_o",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 1.6,
-      "depth_km": 7.6,
-      "date_utc": "2026-10-07 13:02:44",
-      "latitude": 37.7733,
-      "longitude": 29.4037,
-      "location_name": "Denizli"
     }
   ]
 }
