@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T09:05:09.063221+00:00",
-  "record_count": 69,
+  "last_updated": "2026-10-08T09:27:37.660658+00:00",
+  "record_count": 67,
   "data": [
     {
       "id": "0GqzWd2nK_FCt",
@@ -672,26 +672,6 @@
       "latitude": 38.3623,
       "longitude": 38.1043,
       "location_name": "Malatya"
-    },
-    {
-      "id": "MnTCxBm7PQTXs",
-      "title": "EGE DENIZI",
-      "magnitude": 1.8,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-07 12:17:16",
-      "latitude": 36.6673,
-      "longitude": 25.677,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "SXVH7oNT3MlK7",
-      "title": "AKDERE-SILIFKE (MERSIN)",
-      "magnitude": 1.2,
-      "depth_km": 0,
-      "date_utc": "2026-10-07 12:16:48",
-      "latitude": 36.2697,
-      "longitude": 33.7522,
-      "location_name": "Mersin"
     }
   ]
 }
