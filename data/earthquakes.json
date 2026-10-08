@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T02:04:06.486215+00:00",
+  "last_updated": "2026-10-08T02:24:20.725078+00:00",
   "record_count": 87,
   "data": [
+    {
+      "id": "O3lZRtsVAeUwf",
+      "title": "EGE DENIZI",
+      "magnitude": 1.7,
+      "depth_km": 48.8,
+      "date_utc": "2026-10-08 04:49:36",
+      "latitude": 36.0047,
+      "longitude": 27.3783,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "qrc08zr5UtTJG",
       "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
@@ -862,16 +872,6 @@
       "latitude": 40.504,
       "longitude": 42.3512,
       "location_name": "Erzurum"
-    },
-    {
-      "id": "EJwWoAKza9Tzd",
-      "title": "IZMIR KORFEZI (EGE DENIZI)",
-      "magnitude": 0.9,
-      "depth_km": 18.4,
-      "date_utc": "2026-10-07 05:21:56",
-      "latitude": 38.4597,
-      "longitude": 26.717,
-      "location_name": "Ege Denizi"
     }
   ]
 }
