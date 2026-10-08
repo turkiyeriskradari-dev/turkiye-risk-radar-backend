@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T08:45:24.313242+00:00",
-  "record_count": 70,
+  "last_updated": "2026-10-08T09:05:09.063221+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "0GqzWd2nK_FCt",
+      "title": "USTUNLER-BEYSEHIR (KONYA)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-10-08 10:12:57",
+      "latitude": 37.6087,
+      "longitude": 31.5352,
+      "location_name": "Konya"
+    },
     {
       "id": "XVh5tuBNRzdCj",
       "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
@@ -12,6 +22,16 @@
       "latitude": 39.6063,
       "longitude": 26.0023,
       "location_name": "Ege Denizi"
+    },
+    {
+      "id": "pcsYozFz3dTU9",
+      "title": "SOGUKYURT-ALASEHIR (MANISA)",
+      "magnitude": 1.5,
+      "depth_km": 15.5,
+      "date_utc": "2026-10-08 08:52:44",
+      "latitude": 38.369,
+      "longitude": 28.4115,
+      "location_name": "Manisa"
     },
     {
       "id": "mwQWOKY49gY5x",
@@ -672,36 +692,6 @@
       "latitude": 36.2697,
       "longitude": 33.7522,
       "location_name": "Mersin"
-    },
-    {
-      "id": "IspRM1Y7rNCio",
-      "title": "BASAK-HEKIMHAN (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 6,
-      "date_utc": "2026-10-07 12:01:24",
-      "latitude": 38.933,
-      "longitude": 37.9505,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "MnQkPxjKKo94R",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-07 11:49:16",
-      "latitude": 37.7373,
-      "longitude": 36.1158,
-      "location_name": "Adana"
-    },
-    {
-      "id": "8YRqiTVuY4Xkb",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 1.6,
-      "depth_km": 27.3,
-      "date_utc": "2026-10-07 11:47:29",
-      "latitude": 37.7682,
-      "longitude": 29.3948,
-      "location_name": "Denizli"
     }
   ]
 }
