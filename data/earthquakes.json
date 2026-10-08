@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T11:54:25.823339+00:00",
-  "record_count": 56,
+  "last_updated": "2026-10-08T12:04:56.620948+00:00",
+  "record_count": 53,
   "data": [
     {
       "id": "lUA1NwSUmNmo0",
@@ -532,36 +532,6 @@
       "latitude": 38.468,
       "longitude": 29.0848,
       "location_name": "Uşak"
-    },
-    {
-      "id": "atJpvDjtUlZD8",
-      "title": "FEKE (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 21.6,
-      "date_utc": "2026-10-07 15:03:55",
-      "latitude": 37.8192,
-      "longitude": 35.8788,
-      "location_name": "Adana"
-    },
-    {
-      "id": "oXDPQvLOOcJHD",
-      "title": "TEKEDERESI-PUTURGE (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 19.2,
-      "date_utc": "2026-10-07 15:02:29",
-      "latitude": 38.1648,
-      "longitude": 38.5858,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "Q8ZATudkZWkp3",
-      "title": "AKDENIZ",
-      "magnitude": 2,
-      "depth_km": 9.9,
-      "date_utc": "2026-10-07 15:01:44",
-      "latitude": 36.263,
-      "longitude": 28.9718,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
