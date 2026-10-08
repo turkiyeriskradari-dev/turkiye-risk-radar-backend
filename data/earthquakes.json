@@ -1,8 +1,38 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T03:26:36.789093+00:00",
+  "last_updated": "2026-10-08T03:42:02.132277+00:00",
   "record_count": 81,
   "data": [
+    {
+      "id": "Qw9UBIVoQMxCo",
+      "title": "DURHASANDEDE-CEYHAN (ADANA)",
+      "magnitude": 2.4,
+      "depth_km": 6.2,
+      "date_utc": "2026-10-08 06:17:45",
+      "latitude": 36.896,
+      "longitude": 35.7238,
+      "location_name": "Adana"
+    },
+    {
+      "id": "w_uknaF4ffXv_",
+      "title": "YENILER-SIMAV (KUTAHYA)",
+      "magnitude": 0.9,
+      "depth_km": 10.5,
+      "date_utc": "2026-10-08 06:07:15",
+      "latitude": 39.2292,
+      "longitude": 28.9427,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "HPiImBPprMY7F",
+      "title": "AKDENIZ",
+      "magnitude": 1.8,
+      "depth_km": 8,
+      "date_utc": "2026-10-08 05:14:10",
+      "latitude": 35.3707,
+      "longitude": 28.5245,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
     {
       "id": "O3lZRtsVAeUwf",
       "title": "EGE DENIZI",
@@ -782,36 +812,6 @@
       "latitude": 35.4217,
       "longitude": 26.5428,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "gdF7IXoGRBo73",
-      "title": "DERINBOGAZ-AKCADAG (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 4.4,
-      "date_utc": "2026-10-07 06:37:13",
-      "latitude": 38.487,
-      "longitude": 37.934,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "AZ9EXVF1oGNGs",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 9.1,
-      "date_utc": "2026-10-07 06:32:18",
-      "latitude": 37.7893,
-      "longitude": 29.3847,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "9Rcx7OtrGJxaq",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 3.8,
-      "depth_km": 6.3,
-      "date_utc": "2026-10-07 06:26:51",
-      "latitude": 37.7768,
-      "longitude": 29.4127,
-      "location_name": "Denizli"
     }
   ]
 }
