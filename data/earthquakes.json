@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T04:05:19.142637+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-08T04:27:05.918712+00:00",
+  "record_count": 80,
   "data": [
     {
       "id": "5MWGm9vuLRJSN",
@@ -802,26 +802,6 @@
       "latitude": 37.7683,
       "longitude": 29.4298,
       "location_name": "Denizli"
-    },
-    {
-      "id": "QIqqE5AW2zzOW",
-      "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
-      "magnitude": 1,
-      "depth_km": 28.5,
-      "date_utc": "2026-10-07 07:16:25",
-      "latitude": 38.036,
-      "longitude": 37.8245,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "MWcBRqtq7YGRJ",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 2.2,
-      "depth_km": 2.7,
-      "date_utc": "2026-10-07 07:06:30",
-      "latitude": 35.4217,
-      "longitude": 26.5428,
-      "location_name": "Ege Denizi"
     }
   ]
 }
