@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T03:03:51.497380+00:00",
-  "record_count": 82,
+  "last_updated": "2026-10-08T03:26:36.789093+00:00",
+  "record_count": 81,
   "data": [
     {
       "id": "O3lZRtsVAeUwf",
@@ -811,16 +811,6 @@
       "date_utc": "2026-10-07 06:26:51",
       "latitude": 37.7768,
       "longitude": 29.4127,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "kYjNDroFEvFda",
-      "title": "AKBAS-HONAZ (DENIZLI)",
-      "magnitude": 2.2,
-      "depth_km": 7.6,
-      "date_utc": "2026-10-07 06:05:13",
-      "latitude": 37.7492,
-      "longitude": 29.4627,
       "location_name": "Denizli"
     }
   ]
