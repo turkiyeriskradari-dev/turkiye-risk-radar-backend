@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T08:05:06.858501+00:00",
-  "record_count": 73,
+  "last_updated": "2026-10-08T08:29:11.863513+00:00",
+  "record_count": 71,
   "data": [
     {
       "id": "XVh5tuBNRzdCj",
@@ -712,26 +712,6 @@
       "latitude": 38.2778,
       "longitude": 38.816,
       "location_name": "Malatya"
-    },
-    {
-      "id": "_wpLGPdzVpnu1",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 12.6,
-      "date_utc": "2026-10-07 11:22:43",
-      "latitude": 37.7443,
-      "longitude": 36.1248,
-      "location_name": "Adana"
-    },
-    {
-      "id": "TMFT7AAggE9fu",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 3.7,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 11:16:18",
-      "latitude": 35.4455,
-      "longitude": 26.5435,
-      "location_name": "Ege Denizi"
     }
   ]
 }
