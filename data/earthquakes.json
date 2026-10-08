@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T06:33:04.633695+00:00",
-  "record_count": 83,
+  "last_updated": "2026-10-08T07:00:05.634791+00:00",
+  "record_count": 80,
   "data": [
     {
       "id": "XVh5tuBNRzdCj",
@@ -802,36 +802,6 @@
       "latitude": 39.0078,
       "longitude": 30.1065,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "fGr7JpfczkGJf",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 09:58:46",
-      "latitude": 37.7397,
-      "longitude": 36.0857,
-      "location_name": "Adana"
-    },
-    {
-      "id": "jUeZew_opUmeS",
-      "title": "ARITOPRAK-PUTURGE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-07 09:37:54",
-      "latitude": 38.1753,
-      "longitude": 38.6552,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "NY6OtCN6mdhb2",
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "magnitude": 1.9,
-      "depth_km": 8.6,
-      "date_utc": "2026-10-07 09:32:55",
-      "latitude": 36.4055,
-      "longitude": 27.5783,
-      "location_name": "Ege Denizi"
     }
   ]
 }
