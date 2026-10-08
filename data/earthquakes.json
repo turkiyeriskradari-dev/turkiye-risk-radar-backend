@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T01:15:15.405426+00:00",
-  "record_count": 89,
+  "last_updated": "2026-10-08T01:39:25.137280+00:00",
+  "record_count": 88,
   "data": [
+    {
+      "id": "qrc08zr5UtTJG",
+      "title": "SINANDEDE-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 9.6,
+      "date_utc": "2026-10-08 04:04:08",
+      "latitude": 39.1627,
+      "longitude": 28.1295,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "kWiug0LohXFvE",
       "title": "TURGUTKOY-MARMARIS (MUGLA)",
@@ -871,26 +881,6 @@
       "date_utc": "2026-10-07 04:44:52",
       "latitude": 39.8658,
       "longitude": 41.264,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "D89kyChVmaFNT",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 2.2,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 04:37:55",
-      "latitude": 35.3862,
-      "longitude": 26.6148,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "yG7M3jv6oCCeH",
-      "title": "OZYURT-SENKAYA (ERZURUM)",
-      "magnitude": 2.7,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 04:15:01",
-      "latitude": 40.702,
-      "longitude": 42.345,
       "location_name": "Erzurum"
     }
   ]
