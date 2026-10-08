@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T02:52:17.204581+00:00",
-  "record_count": 85,
+  "last_updated": "2026-10-08T03:03:51.497380+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "O3lZRtsVAeUwf",
@@ -821,36 +821,6 @@
       "date_utc": "2026-10-07 06:05:13",
       "latitude": 37.7492,
       "longitude": 29.4627,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "A8xQGArUK7CoZ",
-      "title": "SALKONAK-YESILYURT (MALATYA)",
-      "magnitude": 2.5,
-      "depth_km": 3.1,
-      "date_utc": "2026-10-07 06:02:43",
-      "latitude": 38.1453,
-      "longitude": 38.3988,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "YNtDdtG3W0_lW",
-      "title": "AKBAS-HONAZ (DENIZLI)",
-      "magnitude": 1.4,
-      "depth_km": 15.3,
-      "date_utc": "2026-10-07 05:58:49",
-      "latitude": 37.748,
-      "longitude": 29.4648,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "HCjx3ugP9zsAv",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 4,
-      "depth_km": 1.3,
-      "date_utc": "2026-10-07 05:56:37",
-      "latitude": 37.7727,
-      "longitude": 29.4222,
       "location_name": "Denizli"
     }
   ]
