@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T07:00:05.634791+00:00",
-  "record_count": 80,
+  "last_updated": "2026-10-08T07:15:59.156818+00:00",
+  "record_count": 79,
   "data": [
     {
       "id": "XVh5tuBNRzdCj",
@@ -792,16 +792,6 @@
       "latitude": 39.2433,
       "longitude": 28.112,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "sII3PMjNjlL5Z",
-      "title": "GENISLER-ALTINTAS (KUTAHYA)",
-      "magnitude": 2.1,
-      "depth_km": 4.3,
-      "date_utc": "2026-10-07 10:00:38",
-      "latitude": 39.0078,
-      "longitude": 30.1065,
-      "location_name": "Kütahya"
     }
   ]
 }
