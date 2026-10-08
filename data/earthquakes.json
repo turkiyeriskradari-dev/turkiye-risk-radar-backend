@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T10:28:53.367265+00:00",
-  "record_count": 63,
+  "last_updated": "2026-10-08T10:44:18.756703+00:00",
+  "record_count": 62,
   "data": [
     {
       "id": "lUA1NwSUmNmo0",
@@ -622,16 +622,6 @@
       "latitude": 38.9955,
       "longitude": 41.5945,
       "location_name": "Muş"
-    },
-    {
-      "id": "0UQxCyVp_qzX2",
-      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
-      "magnitude": 3.1,
-      "depth_km": 8.2,
-      "date_utc": "2026-10-07 13:29:37",
-      "latitude": 38.0805,
-      "longitude": 38.4163,
-      "location_name": "Adıyaman"
     }
   ]
 }
