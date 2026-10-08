@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T00:34:52.730924+00:00",
-  "record_count": 86,
+  "last_updated": "2026-10-08T01:00:11.438871+00:00",
+  "record_count": 88,
   "data": [
     {
       "id": "yyrR6syN1LBkF",
@@ -34,6 +34,36 @@
       "location_name": "Ege Denizi"
     },
     {
+      "id": "pyfYDApp7Sj1Y",
+      "title": "SIDE ACIKLARI-ANTALYA (AKDENIZ)",
+      "magnitude": 1.4,
+      "depth_km": 23.2,
+      "date_utc": "2026-10-08 02:16:25",
+      "latitude": 36.7142,
+      "longitude": 31.2968,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "uQ1zPXCyh4c9p",
+      "title": "INCIRCI-FEKE (ADANA)",
+      "magnitude": 1.2,
+      "depth_km": 18.9,
+      "date_utc": "2026-10-08 01:49:47",
+      "latitude": 37.7287,
+      "longitude": 36.0078,
+      "location_name": "Adana"
+    },
+    {
+      "id": "jUEKlX4wdyp3H",
+      "title": "AYVACIK-SAIMBEYLI (ADANA)",
+      "magnitude": 1.2,
+      "depth_km": 12.6,
+      "date_utc": "2026-10-08 01:43:01",
+      "latitude": 37.7693,
+      "longitude": 36.1047,
+      "location_name": "Adana"
+    },
+    {
       "id": "rQUXShKWFYEJc",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
       "magnitude": 2.4,
@@ -42,6 +72,16 @@
       "latitude": 40.1507,
       "longitude": 31.7172,
       "location_name": "Ankara"
+    },
+    {
+      "id": "Oat4F44rZ2psj",
+      "title": "KIBRIS-BESPARMAK",
+      "magnitude": 1.4,
+      "depth_km": 20.3,
+      "date_utc": "2026-10-08 01:34:40",
+      "latitude": 35.321,
+      "longitude": 33.6132,
+      "location_name": "Kıbrıs"
     },
     {
       "id": "vakbXKNuLgVCw",
@@ -842,26 +882,6 @@
       "latitude": 39.5183,
       "longitude": 25.2362,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "MhPH0jcGPo7eA",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-10-07 03:52:05",
-      "latitude": 35.4463,
-      "longitude": 26.5048,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "xMUYhYs0yiVAs",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 0.7,
-      "depth_km": 13.6,
-      "date_utc": "2026-10-07 03:46:53",
-      "latitude": 39.217,
-      "longitude": 28.9833,
-      "location_name": "Kütahya"
     }
   ]
 }
