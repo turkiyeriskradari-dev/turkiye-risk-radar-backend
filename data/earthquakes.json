@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T08:29:11.863513+00:00",
-  "record_count": 71,
+  "last_updated": "2026-10-08T08:45:24.313242+00:00",
+  "record_count": 70,
   "data": [
     {
       "id": "XVh5tuBNRzdCj",
@@ -702,16 +702,6 @@
       "latitude": 37.7682,
       "longitude": 29.3948,
       "location_name": "Denizli"
-    },
-    {
-      "id": "vvzj4SwrUYnpV",
-      "title": "AKTARLI-PUTURGE (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 15.5,
-      "date_utc": "2026-10-07 11:38:06",
-      "latitude": 38.2778,
-      "longitude": 38.816,
-      "location_name": "Malatya"
     }
   ]
 }
