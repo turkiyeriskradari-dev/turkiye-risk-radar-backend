@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T01:39:25.137280+00:00",
-  "record_count": 88,
+  "last_updated": "2026-10-08T01:54:01.397091+00:00",
+  "record_count": 87,
   "data": [
     {
       "id": "qrc08zr5UtTJG",
@@ -872,16 +872,6 @@
       "latitude": 38.4597,
       "longitude": 26.717,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "MmlwOyjU8xzYj",
-      "title": "PALANDOKEN (ERZURUM)",
-      "magnitude": 0.6,
-      "depth_km": 3.3,
-      "date_utc": "2026-10-07 04:44:52",
-      "latitude": 39.8658,
-      "longitude": 41.264,
-      "location_name": "Erzurum"
     }
   ]
 }
