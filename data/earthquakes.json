@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T04:55:57.071328+00:00",
-  "record_count": 79,
+  "last_updated": "2026-10-08T05:05:37.811994+00:00",
+  "record_count": 80,
   "data": [
+    {
+      "id": "T4ArjuvfsSUyu",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 15.8,
+      "date_utc": "2026-10-08 07:05:01",
+      "latitude": 38.253,
+      "longitude": 37.7755,
+      "location_name": "Malatya"
+    },
     {
       "id": "5MWGm9vuLRJSN",
       "title": "MARMARA DENIZI",
