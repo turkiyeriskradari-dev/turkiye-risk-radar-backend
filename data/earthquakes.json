@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T11:08:38.316026+00:00",
-  "record_count": 59,
+  "last_updated": "2026-10-08T11:41:20.432647+00:00",
+  "record_count": 57,
   "data": [
     {
       "id": "lUA1NwSUmNmo0",
@@ -572,26 +572,6 @@
       "latitude": 41.2067,
       "longitude": 43.137,
       "location_name": "Ardahan"
-    },
-    {
-      "id": "BkLuALn6ZXB05",
-      "title": "HARUNUSAGI-AKCADAG (MALATYA)",
-      "magnitude": 1.5,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-07 14:35:30",
-      "latitude": 38.2767,
-      "longitude": 37.7055,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "ELTovjfNTFnFf",
-      "title": "HIDIRUSAGI-FEKE (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 21.7,
-      "date_utc": "2026-10-07 14:10:09",
-      "latitude": 37.8718,
-      "longitude": 35.7802,
-      "location_name": "Adana"
     }
   ]
 }
