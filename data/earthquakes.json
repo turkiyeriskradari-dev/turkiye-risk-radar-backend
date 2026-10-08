@@ -1,6 +1,6 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T00:02:39.435342+00:00",
+  "last_updated": "2026-10-08T00:34:52.730924+00:00",
   "record_count": 86,
   "data": [
     {
@@ -24,6 +24,16 @@
       "location_name": "Bursa"
     },
     {
+      "id": "WArdDQufZl2Fm",
+      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 0.9,
+      "depth_km": 17.1,
+      "date_utc": "2026-10-08 02:33:42",
+      "latitude": 39.5448,
+      "longitude": 26.0027,
+      "location_name": "Ege Denizi"
+    },
+    {
       "id": "rQUXShKWFYEJc",
       "title": "SEKLI-BEYPAZARI (ANKARA)",
       "magnitude": 2.4,
@@ -32,6 +42,16 @@
       "latitude": 40.1507,
       "longitude": 31.7172,
       "location_name": "Ankara"
+    },
+    {
+      "id": "vakbXKNuLgVCw",
+      "title": "AKDENIZ",
+      "magnitude": 2.1,
+      "depth_km": 7,
+      "date_utc": "2026-10-08 01:16:56",
+      "latitude": 35.3332,
+      "longitude": 27.4802,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     },
     {
       "id": "1a1xCZXqCfCNi",
@@ -842,26 +862,6 @@
       "latitude": 39.217,
       "longitude": 28.9833,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "PZml6s_uRoMGt",
-      "title": "CIRALI-(TUNCELI)",
-      "magnitude": 1.4,
-      "depth_km": 7.9,
-      "date_utc": "2026-10-07 03:29:57",
-      "latitude": 39.2197,
-      "longitude": 39.591,
-      "location_name": "Tunceli"
-    },
-    {
-      "id": "vKw43XSLKtA3v",
-      "title": "GIRIT ADASI (AKDENIZ)",
-      "magnitude": 3,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-07 03:18:26",
-      "latitude": 35.4627,
-      "longitude": 26.5605,
-      "location_name": "Ege Denizi"
     }
   ]
 }
