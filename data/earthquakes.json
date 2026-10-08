@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T10:44:18.756703+00:00",
-  "record_count": 62,
+  "last_updated": "2026-10-08T10:57:26.553766+00:00",
+  "record_count": 60,
   "data": [
     {
       "id": "lUA1NwSUmNmo0",
@@ -602,26 +602,6 @@
       "latitude": 37.7243,
       "longitude": 36.1147,
       "location_name": "Adana"
-    },
-    {
-      "id": "UXNJzHZ3I950D",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 11.4,
-      "date_utc": "2026-10-07 13:47:08",
-      "latitude": 39.3673,
-      "longitude": 26.2542,
-      "location_name": "Yunanistan"
-    },
-    {
-      "id": "XGYbRkjVvcQjV",
-      "title": "DUMLUSU-(MUS)",
-      "magnitude": 2,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-07 13:44:17",
-      "latitude": 38.9955,
-      "longitude": 41.5945,
-      "location_name": "Muş"
     }
   ]
 }
