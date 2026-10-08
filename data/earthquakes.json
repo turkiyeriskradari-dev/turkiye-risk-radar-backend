@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T06:04:41.357078+00:00",
+  "last_updated": "2026-10-08T06:33:04.633695+00:00",
   "record_count": 83,
   "data": [
+    {
+      "id": "XVh5tuBNRzdCj",
+      "title": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
+      "magnitude": 3.4,
+      "depth_km": 6.6,
+      "date_utc": "2026-10-08 09:10:15",
+      "latitude": 39.6063,
+      "longitude": 26.0023,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "mwQWOKY49gY5x",
       "title": "RIFATIYE-ANDIRIN (KAHRAMANMARAS)",
@@ -822,16 +832,6 @@
       "latitude": 36.4055,
       "longitude": 27.5783,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "PgFiDEdE8qvj6",
-      "title": "KOCAHALILLER-BERGAMA (IZMIR)",
-      "magnitude": 2.6,
-      "depth_km": 6.6,
-      "date_utc": "2026-10-07 09:10:16",
-      "latitude": 38.9378,
-      "longitude": 27.2815,
-      "location_name": "İzmir"
     }
   ]
 }
