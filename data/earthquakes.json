@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T12:04:56.620948+00:00",
-  "record_count": 53,
+  "last_updated": "2026-10-08T12:33:57.438935+00:00",
+  "record_count": 57,
   "data": [
+    {
+      "id": "BxKq5juCRL9VS",
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.3,
+      "depth_km": 15.5,
+      "date_utc": "2026-10-08 14:53:42",
+      "latitude": 39.2207,
+      "longitude": 28.0387,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "8UozUQyBLB_By",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 5.3,
+      "date_utc": "2026-10-08 14:34:31",
+      "latitude": 37.9735,
+      "longitude": 27.1945,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "Ogp27Q4IkeeKk",
+      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
+      "magnitude": 2.1,
+      "depth_km": 8.4,
+      "date_utc": "2026-10-08 14:22:34",
+      "latitude": 40.1662,
+      "longitude": 32.95,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "Q3mvFvJkz6plf",
+      "title": "KANGALLI-PULUMUR (TUNCELI)",
+      "magnitude": 1.8,
+      "depth_km": 3.7,
+      "date_utc": "2026-10-08 13:18:15",
+      "latitude": 39.4638,
+      "longitude": 39.8655,
+      "location_name": "Tunceli"
+    },
     {
       "id": "lUA1NwSUmNmo0",
       "title": "AKOLUK-FEKE (ADANA)",
