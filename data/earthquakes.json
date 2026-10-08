@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T10:57:26.553766+00:00",
-  "record_count": 60,
+  "last_updated": "2026-10-08T11:08:38.316026+00:00",
+  "record_count": 59,
   "data": [
     {
       "id": "lUA1NwSUmNmo0",
@@ -591,16 +591,6 @@
       "date_utc": "2026-10-07 14:10:09",
       "latitude": 37.8718,
       "longitude": 35.7802,
-      "location_name": "Adana"
-    },
-    {
-      "id": "ccUXxeBPv2CqR",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 3.1,
-      "depth_km": 2.5,
-      "date_utc": "2026-10-07 13:58:23",
-      "latitude": 37.7243,
-      "longitude": 36.1147,
       "location_name": "Adana"
     }
   ]
