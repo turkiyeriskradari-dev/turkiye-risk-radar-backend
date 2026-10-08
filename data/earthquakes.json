@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T05:40:31.296452+00:00",
-  "record_count": 84,
+  "last_updated": "2026-10-08T05:54:03.611788+00:00",
+  "record_count": 83,
   "data": [
+    {
+      "id": "mwQWOKY49gY5x",
+      "title": "RIFATIYE-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 2,
+      "depth_km": 15,
+      "date_utc": "2026-10-08 08:31:53",
+      "latitude": 37.7052,
+      "longitude": 36.1895,
+      "location_name": "Adana"
+    },
     {
       "id": "yGJ_d5jIH97Ar",
       "title": "MEZRAA-DOGANYOL (MALATYA)",
@@ -822,26 +832,6 @@
       "latitude": 38.9378,
       "longitude": 27.2815,
       "location_name": "İzmir"
-    },
-    {
-      "id": "WlOFy0xLGxss5",
-      "title": "SAHINYURDU-GEMLIK (BURSA)",
-      "magnitude": 2.1,
-      "depth_km": 0,
-      "date_utc": "2026-10-07 08:46:02",
-      "latitude": 40.485,
-      "longitude": 29.1752,
-      "location_name": "Bursa"
-    },
-    {
-      "id": "1knSsVXmC2AGd",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 0.8,
-      "depth_km": 15.7,
-      "date_utc": "2026-10-07 08:40:45",
-      "latitude": 39.1957,
-      "longitude": 28.969,
-      "location_name": "Kütahya"
     }
   ]
 }
