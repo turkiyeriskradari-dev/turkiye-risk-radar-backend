@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-08T04:27:05.918712+00:00",
-  "record_count": 80,
+  "last_updated": "2026-10-08T04:42:35.851604+00:00",
+  "record_count": 79,
   "data": [
     {
       "id": "5MWGm9vuLRJSN",
@@ -792,16 +792,6 @@
       "latitude": 39.1957,
       "longitude": 28.969,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "75OO3a9XE0Hda",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 2,
-      "depth_km": 10.3,
-      "date_utc": "2026-10-07 07:27:22",
-      "latitude": 37.7683,
-      "longitude": 29.4298,
-      "location_name": "Denizli"
     }
   ]
 }
