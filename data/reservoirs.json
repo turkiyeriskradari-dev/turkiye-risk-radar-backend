@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-14T15:17:09.277790+00:00",
+  "last_updated": "2026-10-14T19:31:30.131888+00:00",
   "record_count": 121,
   "data": [
     {
@@ -303,7 +303,7 @@
       "name": "Eğrekkaya Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 58.0,
+      "fill_percentage": 57.8,
       "measured_date": "14 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -423,15 +423,7 @@
       "name": "Çubuk 2 Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 51.4,
-      "measured_date": "14 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "Yuvacık Barajı",
-      "havza": "Marmara",
-      "province": "KOCAELİ",
-      "fill_percentage": 51.0,
+      "fill_percentage": 51.1,
       "measured_date": "14 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -442,6 +434,14 @@
       "fill_percentage": 50.1,
       "measured_date": "14 Ekim 2026",
       "hes_capacity_mw": 48.5
+    },
+    {
+      "name": "Yuvacık Barajı",
+      "havza": "Marmara",
+      "province": "KOCAELİ",
+      "fill_percentage": 50.0,
+      "measured_date": "14 Ekim 2026",
+      "hes_capacity_mw": null
     },
     {
       "name": "ALAÇATI KUTLU AKTAŞ BARAJI",
@@ -575,7 +575,7 @@
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 42.9,
+      "fill_percentage": 42.6,
       "measured_date": "14 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -591,7 +591,7 @@
       "name": "Kavşakkaya Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 41.5,
+      "fill_percentage": 41.4,
       "measured_date": "14 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -687,7 +687,7 @@
       "name": "Çamlıdere Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 33.8,
+      "fill_percentage": 33.7,
       "measured_date": "14 Ekim 2026",
       "hes_capacity_mw": null
     },
