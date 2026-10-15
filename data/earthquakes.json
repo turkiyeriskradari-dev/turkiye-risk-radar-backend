@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-15T21:51:51.626234+00:00",
-  "record_count": 56,
+  "last_updated": "2026-10-15T23:57:23.465947+00:00",
+  "record_count": 51,
   "data": [
+    {
+      "id": "cEmJKfb0xYeX6",
+      "title": "YUKARICOPLU-GOLBASI (ADIYAMAN)",
+      "magnitude": 1.3,
+      "depth_km": 7.9,
+      "date_utc": "2026-10-16 02:43:30",
+      "latitude": 37.7723,
+      "longitude": 37.7058,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "62xBGYzaoZhuU",
+      "title": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 6.7,
+      "date_utc": "2026-10-16 02:38:49",
+      "latitude": 37.7873,
+      "longitude": 36.3862,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "4xoXg0QYOIbBw",
       "title": "HEKIMHAN (MALATYA)",
@@ -492,76 +512,6 @@
       "latitude": 36.9142,
       "longitude": 27.4963,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "2SlT3O7rIBWqe",
-      "title": "INLICE-FETHIYE (MUGLA)",
-      "magnitude": 2.6,
-      "depth_km": 20.7,
-      "date_utc": "2026-10-15 02:36:15",
-      "latitude": 36.7508,
-      "longitude": 28.9698,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "VxEvaqo6FaSG7",
-      "title": "EGE DENIZI",
-      "magnitude": 2.9,
-      "depth_km": 142.4,
-      "date_utc": "2026-10-15 02:19:46",
-      "latitude": 36.626,
-      "longitude": 26.75,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "gP49kQxXb3aH8",
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "magnitude": 2.2,
-      "depth_km": 1.1,
-      "date_utc": "2026-10-15 02:13:35",
-      "latitude": 40.1853,
-      "longitude": 31.7725,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "LOtFGb3Xf7jxf",
-      "title": "BEKTAS-AYVACIK (CANAKKALE)",
-      "magnitude": 1.3,
-      "depth_km": 22.8,
-      "date_utc": "2026-10-15 01:58:30",
-      "latitude": 39.4352,
-      "longitude": 26.2278,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "s5br0Akkuw6bR",
-      "title": "DEDEPINARI-(ELAZIG)",
-      "magnitude": 1.7,
-      "depth_km": 2.1,
-      "date_utc": "2026-10-15 01:15:08",
-      "latitude": 38.4842,
-      "longitude": 39.1728,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "xuFnHaj_RHS1t",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.9,
-      "depth_km": 12.6,
-      "date_utc": "2026-10-15 01:11:21",
-      "latitude": 37.7408,
-      "longitude": 36.0497,
-      "location_name": "Adana"
-    },
-    {
-      "id": "aiPNUvGwrDQbc",
-      "title": "CIFTLIK-SAVSAT (ARTVIN)",
-      "magnitude": 1.4,
-      "depth_km": 24.5,
-      "date_utc": "2026-10-15 01:02:37",
-      "latitude": 41.2252,
-      "longitude": 42.2643,
-      "location_name": "Artvin"
     }
   ]
 }
