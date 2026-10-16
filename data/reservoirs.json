@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-16T12:43:12.038206+00:00",
+  "last_updated": "2026-10-16T16:57:24.429830+00:00",
   "record_count": 121,
   "data": [
     {
@@ -42,6 +42,14 @@
       "fill_percentage": 89.9,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": 510.0
+    },
+    {
+      "name": "Namazgah Barajı",
+      "havza": "Marmara",
+      "province": "KOCAELİ",
+      "fill_percentage": 87.0,
+      "measured_date": "16 Ekim 2026",
+      "hes_capacity_mw": null
     },
     {
       "name": "ATAKÖY",
@@ -100,6 +108,14 @@
       "hes_capacity_mw": 16.4
     },
     {
+      "name": "Yuvacık Barajı",
+      "havza": "Marmara",
+      "province": "KOCAELİ",
+      "fill_percentage": 80.0,
+      "measured_date": "16 Ekim 2026",
+      "hes_capacity_mw": null
+    },
+    {
       "name": "KARACAÖREN II",
       "havza": "Antalya",
       "province": "BURDUR",
@@ -122,14 +138,6 @@
       "fill_percentage": 77.1,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": 185.8
-    },
-    {
-      "name": "Namazgah Barajı",
-      "havza": "Marmara",
-      "province": "KOCAELİ",
-      "fill_percentage": 77.0,
-      "measured_date": "16 Ekim 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "MORGEDİK",
@@ -220,20 +228,20 @@
       "hes_capacity_mw": 95.0
     },
     {
+      "name": "Doğancı ve Nilüfer Barajı",
+      "havza": "Susurluk",
+      "province": "BURSA",
+      "fill_percentage": 62.1,
+      "measured_date": "16 Ekim 2026",
+      "hes_capacity_mw": null
+    },
+    {
       "name": "GÜMÜŞÖREN",
       "havza": "Seyhan",
       "province": "KAYSERİ",
       "fill_percentage": 61.1,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": 5.0
-    },
-    {
-      "name": "Doğancı ve Nilüfer Barajı",
-      "havza": "Susurluk",
-      "province": "BURSA",
-      "fill_percentage": 61.0,
-      "measured_date": "16 Ekim 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "Darlık Barajı",
@@ -300,6 +308,14 @@
       "hes_capacity_mw": 48.5
     },
     {
+      "name": "İhsaniye Barajı",
+      "havza": "Marmara",
+      "province": "KOCAELİ",
+      "fill_percentage": 58.0,
+      "measured_date": "16 Ekim 2026",
+      "hes_capacity_mw": null
+    },
+    {
       "name": "H.UĞURLU",
       "havza": "Yeşilırmak",
       "province": "SAMSUN",
@@ -330,14 +346,6 @@
       "fill_percentage": 57.2,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": 159.4
-    },
-    {
-      "name": "Yuvacık Barajı",
-      "havza": "Marmara",
-      "province": "KOCAELİ",
-      "fill_percentage": 57.0,
-      "measured_date": "16 Ekim 2026",
-      "hes_capacity_mw": null
     },
     {
       "name": "KOZAN",
@@ -452,18 +460,10 @@
       "hes_capacity_mw": 69.3
     },
     {
-      "name": "İhsaniye Barajı",
-      "havza": "Marmara",
-      "province": "KOCAELİ",
-      "fill_percentage": 51.0,
-      "measured_date": "16 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
       "name": "Çubuk 2 Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 50.9,
+      "fill_percentage": 50.8,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -591,7 +591,7 @@
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 42.3,
+      "fill_percentage": 42.1,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -599,7 +599,7 @@
       "name": "Kavşakkaya Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 41.4,
+      "fill_percentage": 41.3,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -895,7 +895,7 @@
       "name": "Kargalı Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 7.9,
+      "fill_percentage": 8.5,
       "measured_date": "16 Ekim 2026",
       "hes_capacity_mw": null
     },
