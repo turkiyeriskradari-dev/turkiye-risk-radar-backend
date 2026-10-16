@@ -1,8 +1,59 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-10-16T02:43:06.183005+00:00",
-  "record_count": 0,
-  "data": [],
+  "last_updated": "2026-10-16T07:31:14.951191+00:00",
+  "record_count": 5,
+  "data": [
+    {
+      "latitude": 38.42615,
+      "longitude": 27.21852,
+      "brightness": 296.08,
+      "confidence": "n",
+      "acquired_date": "2026-10-16",
+      "acquired_time": "56",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 38.42625,
+      "longitude": 27.21865,
+      "brightness": 297.07,
+      "confidence": "n",
+      "acquired_date": "2026-10-16",
+      "acquired_time": "56",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 38.73699,
+      "longitude": 26.94687,
+      "brightness": 325.27,
+      "confidence": "n",
+      "acquired_date": "2026-10-16",
+      "acquired_time": "56",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 38.75357,
+      "longitude": 26.94016,
+      "brightness": 301.79,
+      "confidence": "n",
+      "acquired_date": "2026-10-16",
+      "acquired_time": "56",
+      "satellite": "N",
+      "daynight": "N"
+    },
+    {
+      "latitude": 41.79541,
+      "longitude": 26.70355,
+      "brightness": 295.48,
+      "confidence": "n",
+      "acquired_date": "2026-10-16",
+      "acquired_time": "56",
+      "satellite": "N",
+      "daynight": "N"
+    }
+  ],
   "meta": {
     "day_range": 1,
     "area_bbox": "25,34,45,43"
