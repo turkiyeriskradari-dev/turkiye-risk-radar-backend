@@ -1,8 +1,48 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-17T15:55:55.237562+00:00",
+  "last_updated": "2026-10-17T18:02:25.287041+00:00",
   "record_count": 81,
   "data": [
+    {
+      "id": "zJ8SUQcnLsnNs",
+      "title": "GURCISTAN",
+      "magnitude": 2.8,
+      "depth_km": 15.3,
+      "date_utc": "2026-10-17 19:43:33",
+      "latitude": 41.9938,
+      "longitude": 43.769,
+      "location_name": "Gürcistan"
+    },
+    {
+      "id": "3SRCj6AY9dnh5",
+      "title": "BOLAT-LADIK (SAMSUN)",
+      "magnitude": 1.7,
+      "depth_km": 10.3,
+      "date_utc": "2026-10-17 19:40:17",
+      "latitude": 40.8942,
+      "longitude": 35.971,
+      "location_name": "Samsun"
+    },
+    {
+      "id": "cTujcgwz9xYy_",
+      "title": "ILICA-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.6,
+      "depth_km": 8.8,
+      "date_utc": "2026-10-17 19:18:50",
+      "latitude": 39.214,
+      "longitude": 28.2552,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "cTMdRsmduAbtI",
+      "title": "DERECIFTLIK-HONAZ (DENIZLI)",
+      "magnitude": 1.4,
+      "depth_km": 23.8,
+      "date_utc": "2026-10-17 18:18:35",
+      "latitude": 37.8117,
+      "longitude": 29.3502,
+      "location_name": "Denizli"
+    },
     {
       "id": "Kx8yBKOISDjOO",
       "title": "KATRANDAGI-EMET (KUTAHYA)",
@@ -772,46 +812,6 @@
       "latitude": 37.7647,
       "longitude": 29.4525,
       "location_name": "Denizli"
-    },
-    {
-      "id": "s38rZHV97TM31",
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "magnitude": 1.3,
-      "depth_km": 1.8,
-      "date_utc": "2026-10-16 20:35:00",
-      "latitude": 39.2055,
-      "longitude": 29.089,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "JBmnrW_ZJm2dv",
-      "title": "ORDEKDEDE-PAZARCIK (KAHRAMANMARAS)",
-      "magnitude": 2,
-      "depth_km": 4.1,
-      "date_utc": "2026-10-16 19:43:00",
-      "latitude": 37.307,
-      "longitude": 37.0887,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "4nqY9npxn3Fr2",
-      "title": "SARICALAR-SELCUKLU (KONYA)",
-      "magnitude": 1.6,
-      "depth_km": 7.1,
-      "date_utc": "2026-10-16 19:31:31",
-      "latitude": 38.087,
-      "longitude": 32.5958,
-      "location_name": "Konya"
-    },
-    {
-      "id": "cr6roL0XYmkOR",
-      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
-      "magnitude": 1.3,
-      "depth_km": 16.5,
-      "date_utc": "2026-10-16 19:01:29",
-      "latitude": 37.743,
-      "longitude": 36.1582,
-      "location_name": "Adana"
     }
   ]
 }
