@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-17T08:58:49.029525+00:00",
+  "last_updated": "2026-10-17T12:41:17.415918+00:00",
   "record_count": 121,
   "data": [
     {
@@ -316,18 +316,18 @@
       "hes_capacity_mw": null
     },
     {
-      "name": "İhsaniye Barajı",
-      "havza": "Marmara",
-      "province": "KOCAELİ",
-      "fill_percentage": 58.0,
+      "name": "Eğrekkaya Barajı",
+      "havza": "Sakarya",
+      "province": "ANKARA",
+      "fill_percentage": 58.6,
       "measured_date": "17 Ekim 2026",
       "hes_capacity_mw": null
     },
     {
-      "name": "Eğrekkaya Barajı",
-      "havza": "Sakarya",
-      "province": "ANKARA",
-      "fill_percentage": 57.8,
+      "name": "İhsaniye Barajı",
+      "havza": "Marmara",
+      "province": "KOCAELİ",
+      "fill_percentage": 58.0,
       "measured_date": "17 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -479,7 +479,7 @@
       "name": "Kurtboğazı Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 47.6,
+      "fill_percentage": 47.8,
       "measured_date": "17 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -583,7 +583,7 @@
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 42.1,
+      "fill_percentage": 41.9,
       "measured_date": "17 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -671,7 +671,7 @@
       "name": "Çamlıdere Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 33.6,
+      "fill_percentage": 33.5,
       "measured_date": "17 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -887,7 +887,7 @@
       "name": "Kargalı Barajı",
       "havza": "Sakarya",
       "province": "ANKARA",
-      "fill_percentage": 8.5,
+      "fill_percentage": 8.7,
       "measured_date": "17 Ekim 2026",
       "hes_capacity_mw": null
     },
