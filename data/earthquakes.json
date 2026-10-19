@@ -1,7 +1,7 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-18T23:06:11.554256+00:00",
-  "record_count": 91,
+  "last_updated": "2026-10-19T01:10:20.888235+00:00",
+  "record_count": 82,
   "data": [
     {
       "id": "W9lD_1V5ClBfj",
@@ -822,96 +822,6 @@
       "latitude": 38.0947,
       "longitude": 37.441,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "3dmz6TRUSmc2o",
-      "title": "SEYHCAKIR-HISARCIK (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 12.1,
-      "date_utc": "2026-10-18 04:08:52",
-      "latitude": 39.2533,
-      "longitude": 29.3785,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "NQRZvAO_2m7fB",
-      "title": "KAPUZBASI-YAHYALI (KAYSERI)",
-      "magnitude": 1.8,
-      "depth_km": 6.4,
-      "date_utc": "2026-10-18 04:08:13",
-      "latitude": 37.7328,
-      "longitude": 35.3402,
-      "location_name": "Adana"
-    },
-    {
-      "id": "byj88eoDTEwJo",
-      "title": "TATKINIK-ARGUVAN (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 16.2,
-      "date_utc": "2026-10-18 03:50:07",
-      "latitude": 38.7575,
-      "longitude": 38.197,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "CdKthkyq5Xo4S",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 11.2,
-      "date_utc": "2026-10-18 03:31:39",
-      "latitude": 39.2435,
-      "longitude": 29.0188,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "UrQX4aDXFnAM4",
-      "title": "GULLUK-KULP (DIYARBAKIR)",
-      "magnitude": 1.3,
-      "depth_km": 6.5,
-      "date_utc": "2026-10-18 03:25:12",
-      "latitude": 38.4768,
-      "longitude": 40.92,
-      "location_name": "Diyarbakır"
-    },
-    {
-      "id": "rXiGqnEi5AnR1",
-      "title": "KULTAK-MILAS (MUGLA)",
-      "magnitude": 1.3,
-      "depth_km": 8.1,
-      "date_utc": "2026-10-18 03:22:02",
-      "latitude": 37.0303,
-      "longitude": 28.0868,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "FSIqfjHJ9wvqi",
-      "title": "KARAGOL-CELIKHAN (ADIYAMAN)",
-      "magnitude": 1.1,
-      "depth_km": 17.3,
-      "date_utc": "2026-10-18 02:39:52",
-      "latitude": 38.1163,
-      "longitude": 38.408,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "Jh7hoVLiDBiKp",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 0.9,
-      "depth_km": 15,
-      "date_utc": "2026-10-18 02:18:24",
-      "latitude": 39.2935,
-      "longitude": 28.9735,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "qEGJ8avbTul8x",
-      "title": "EGE DENIZI",
-      "magnitude": 2.4,
-      "depth_km": 151.8,
-      "date_utc": "2026-10-18 02:17:08",
-      "latitude": 36.7558,
-      "longitude": 26.345,
-      "location_name": "Ege Denizi"
     }
   ]
 }
