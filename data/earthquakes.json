@@ -1,8 +1,108 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-19T22:56:38.629014+00:00",
-  "record_count": 60,
+  "last_updated": "2026-10-20T01:23:29.053937+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "xGUBXtIzE07Il",
+      "title": "BASPINAR-NURDAGI (GAZIANTEP)",
+      "magnitude": 1.5,
+      "depth_km": 5,
+      "date_utc": "2026-10-20 04:10:20",
+      "latitude": 37.197,
+      "longitude": 36.7452,
+      "location_name": "Gaziantep"
+    },
+    {
+      "id": "QlJLEGVatQ1gU",
+      "title": "KERTIL-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 11.9,
+      "date_utc": "2026-10-20 03:40:38",
+      "latitude": 39.2115,
+      "longitude": 28.101,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "8SZNapWHj9WEw",
+      "title": "GERLENGEC-BIGA (CANAKKALE)",
+      "magnitude": 2,
+      "depth_km": 8,
+      "date_utc": "2026-10-20 03:36:27",
+      "latitude": 40.3243,
+      "longitude": 27.4265,
+      "location_name": "Çanakkale"
+    },
+    {
+      "id": "cBKsUnNXlXcIe",
+      "title": "COLAKLI-SARIKAMIS (KARS)",
+      "magnitude": 1.6,
+      "depth_km": 11.6,
+      "date_utc": "2026-10-20 03:23:57",
+      "latitude": 40.042,
+      "longitude": 42.6208,
+      "location_name": "Kars"
+    },
+    {
+      "id": "I30hDe12SMOPW",
+      "title": "KAYNAKDUZU-ADAKLI (BINGOL)",
+      "magnitude": 2.3,
+      "depth_km": 5,
+      "date_utc": "2026-10-20 03:11:28",
+      "latitude": 39.195,
+      "longitude": 40.6927,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "_Z61UieGH9h0z",
+      "title": "COPLER-ILIC (ERZINCAN)",
+      "magnitude": 2.4,
+      "depth_km": 5,
+      "date_utc": "2026-10-20 03:04:52",
+      "latitude": 39.4025,
+      "longitude": 38.5223,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "Gq9WwIMf6IkwB",
+      "title": "EGE DENIZI",
+      "magnitude": 2.3,
+      "depth_km": 4.2,
+      "date_utc": "2026-10-20 01:30:41",
+      "latitude": 38.3938,
+      "longitude": 25.2605,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "sfFdxxy21ujpz",
+      "title": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.8,
+      "depth_km": 8.3,
+      "date_utc": "2026-10-20 01:28:31",
+      "latitude": 37.8327,
+      "longitude": 36.409,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "DRaaTxVInMLBu",
+      "title": "HACIVELIOBA-GONEN (BALIKESIR)",
+      "magnitude": 1.4,
+      "depth_km": 15.3,
+      "date_utc": "2026-10-20 01:11:55",
+      "latitude": 40.0747,
+      "longitude": 27.6495,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "CtUHuWcIxcxFX",
+      "title": "HACIVELIOBA-GONEN (BALIKESIR)",
+      "magnitude": 2.1,
+      "depth_km": 13.9,
+      "date_utc": "2026-10-20 01:07:03",
+      "latitude": 40.0662,
+      "longitude": 27.6467,
+      "location_name": "Balıkesir"
+    },
     {
       "id": "FcJNl4R_C5eh4",
       "title": "GULUMUSAGI-(MALATYA)",
@@ -591,16 +691,6 @@
       "date_utc": "2026-10-19 04:26:23",
       "latitude": 37.729,
       "longitude": 36.5997,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "QFYkFJCdlKr4k",
-      "title": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 3.5,
-      "date_utc": "2026-10-19 04:07:12",
-      "latitude": 38.3623,
-      "longitude": 37.3773,
       "location_name": "Kahramanmaraş"
     }
   ]
