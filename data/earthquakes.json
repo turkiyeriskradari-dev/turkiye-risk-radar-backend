@@ -1,8 +1,18 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-21T15:26:40.443819+00:00",
-  "record_count": 47,
+  "last_updated": "2026-10-21T19:26:05.450242+00:00",
+  "record_count": 39,
   "data": [
+    {
+      "id": "MVgDHsqSfe7H6",
+      "title": "BIYIKLI-DOSEMEALTI (ANTALYA)",
+      "magnitude": 1.5,
+      "depth_km": 8.5,
+      "date_utc": "2026-10-21 18:08:30",
+      "latitude": 37.1055,
+      "longitude": 30.5965,
+      "location_name": "Antalya"
+    },
     {
       "id": "L3sStlr7X8s_d",
       "title": "KOMURCULER-DOSEMEALTI (ANTALYA)",
@@ -382,96 +392,6 @@
       "latitude": 40.2283,
       "longitude": 26.9573,
       "location_name": "Çanakkale"
-    },
-    {
-      "id": "ZORUFfe07e4Wd",
-      "title": "ILICA-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-20 21:44:55",
-      "latitude": 39.1965,
-      "longitude": 28.2093,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "u6d_ceWgc3gCC",
-      "title": "BEKIRLER-YIGILCA (DUZCE)",
-      "magnitude": 1.3,
-      "depth_km": 12.2,
-      "date_utc": "2026-10-20 21:38:19",
-      "latitude": 40.8927,
-      "longitude": 31.5442,
-      "location_name": "Düzce"
-    },
-    {
-      "id": "xrVXU_GMF6cyn",
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "magnitude": 1,
-      "depth_km": 8.4,
-      "date_utc": "2026-10-20 21:32:43",
-      "latitude": 39.2287,
-      "longitude": 28.0842,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "NWbM6eUcfDha_",
-      "title": "CICEKTEPE-KIGI (BINGOL)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-10-20 20:48:48",
-      "latitude": 39.2915,
-      "longitude": 40.2757,
-      "location_name": "Bingöl"
-    },
-    {
-      "id": "0oFi9RC7YfNcj",
-      "title": "ICIKLI-BAKLAN (DENIZLI)",
-      "magnitude": 1.5,
-      "depth_km": 2,
-      "date_utc": "2026-10-20 20:35:55",
-      "latitude": 38.0527,
-      "longitude": 29.5415,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "eDCY7G5bLQEBr",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 1.6,
-      "depth_km": 8,
-      "date_utc": "2026-10-20 20:32:18",
-      "latitude": 39.2473,
-      "longitude": 26.116,
-      "location_name": "Yunanistan"
-    },
-    {
-      "id": "gm77pG5SkPHzP",
-      "title": "ICIKLI-BAKLAN (DENIZLI)",
-      "magnitude": 2.2,
-      "depth_km": 6,
-      "date_utc": "2026-10-20 19:44:25",
-      "latitude": 38.0753,
-      "longitude": 29.5547,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "Izql83WkrWseO",
-      "title": "KOSEYAHYA-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 5,
-      "date_utc": "2026-10-20 19:27:26",
-      "latitude": 38.2022,
-      "longitude": 37.3958,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "X9iRvEqCvU831",
-      "title": "HALILBEYLI-SAIMBEYLI (ADANA)",
-      "magnitude": 2.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-20 18:50:20",
-      "latitude": 37.802,
-      "longitude": 36.2058,
-      "location_name": "Adana"
     }
   ]
 }
