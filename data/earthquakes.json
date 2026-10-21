@@ -1,8 +1,28 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-21T10:26:11.366892+00:00",
-  "record_count": 58,
+  "last_updated": "2026-10-21T15:26:40.443819+00:00",
+  "record_count": 47,
   "data": [
+    {
+      "id": "L3sStlr7X8s_d",
+      "title": "KOMURCULER-DOSEMEALTI (ANTALYA)",
+      "magnitude": 3,
+      "depth_km": 2.9,
+      "date_utc": "2026-10-21 17:32:40",
+      "latitude": 37.0773,
+      "longitude": 30.5897,
+      "location_name": "Antalya"
+    },
+    {
+      "id": "ny8ddE3pc4lbq",
+      "title": "AKSAAGAC-SAIMBEYLI (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 18.4,
+      "date_utc": "2026-10-21 15:28:20",
+      "latitude": 37.8957,
+      "longitude": 36.1913,
+      "location_name": "Adana"
+    },
     {
       "id": "AcBlAr7GwfLIk",
       "title": "KERTIL-SINDIRGI (BALIKESIR)",
@@ -452,136 +472,6 @@
       "latitude": 37.802,
       "longitude": 36.2058,
       "location_name": "Adana"
-    },
-    {
-      "id": "6BG8x63gCP2D3",
-      "title": "KARAKESE-DORTYOL (HATAY)",
-      "magnitude": 2.1,
-      "depth_km": 8.2,
-      "date_utc": "2026-10-20 18:22:40",
-      "latitude": 36.815,
-      "longitude": 36.2443,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "CJOO85BtLAl4x",
-      "title": "GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 18.2,
-      "date_utc": "2026-10-20 18:14:19",
-      "latitude": 38.0815,
-      "longitude": 37.241,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "UxlsNhr5npUqK",
-      "title": "ATAKOY-BAKLAN (DENIZLI)",
-      "magnitude": 1.7,
-      "depth_km": 5,
-      "date_utc": "2026-10-20 17:10:46",
-      "latitude": 38.0865,
-      "longitude": 29.5738,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "1FZyRkXVc3nZy",
-      "title": "AKCALIUSAGI-KOZAN (ADANA)",
-      "magnitude": 2.2,
-      "depth_km": 5.5,
-      "date_utc": "2026-10-20 16:37:23",
-      "latitude": 37.7095,
-      "longitude": 36.0868,
-      "location_name": "Adana"
-    },
-    {
-      "id": "8KFTT74bQhOu3",
-      "title": "AKYAKA-DEMIROZU (BAYBURT)",
-      "magnitude": 2,
-      "depth_km": 13.4,
-      "date_utc": "2026-10-20 16:32:40",
-      "latitude": 40.025,
-      "longitude": 39.8828,
-      "location_name": "Bayburt"
-    },
-    {
-      "id": "GweFfWd3o1KXW",
-      "title": "GOKOVA KORFEZI (EGE DENIZI)",
-      "magnitude": 1.9,
-      "depth_km": 5.9,
-      "date_utc": "2026-10-20 16:12:57",
-      "latitude": 36.9608,
-      "longitude": 27.5605,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "92s7vRg8pRh9q",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 2.1,
-      "depth_km": 4.9,
-      "date_utc": "2026-10-20 15:33:31",
-      "latitude": 39.227,
-      "longitude": 29.0625,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "rVi2wJOnfHRBq",
-      "title": "KAPUZBASI-YAHYALI (KAYSERI)",
-      "magnitude": 2.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-20 15:20:38",
-      "latitude": 37.7285,
-      "longitude": 35.331,
-      "location_name": "Adana"
-    },
-    {
-      "id": "41jT_5ojvX5hU",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 15.6,
-      "date_utc": "2026-10-20 14:48:19",
-      "latitude": 39.2273,
-      "longitude": 29.0703,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "AudqBWuFgpB0f",
-      "title": "TUZLA-AYVACIK (CANAKKALE)",
-      "magnitude": 1.3,
-      "depth_km": 10,
-      "date_utc": "2026-10-20 14:44:17",
-      "latitude": 39.5883,
-      "longitude": 26.1127,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "M9fi3fQZa52Lg",
-      "title": "CANAKCI-KALE (MALATYA)",
-      "magnitude": 1.8,
-      "depth_km": 4.1,
-      "date_utc": "2026-10-20 14:39:04",
-      "latitude": 38.3147,
-      "longitude": 38.782,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "b2pQU1jG36rSj",
-      "title": "KICI-BELEN (HATAY)",
-      "magnitude": 2.1,
-      "depth_km": 7.2,
-      "date_utc": "2026-10-20 14:35:50",
-      "latitude": 36.4875,
-      "longitude": 36.2727,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "evBxzjvuqIV1h",
-      "title": "HAYDARLAR-HASSA (HATAY)",
-      "magnitude": 2,
-      "depth_km": 26.4,
-      "date_utc": "2026-10-20 14:29:04",
-      "latitude": 36.7088,
-      "longitude": 36.562,
-      "location_name": "Hatay"
     }
   ]
 }
