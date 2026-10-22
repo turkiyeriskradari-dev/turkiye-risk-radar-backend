@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-22T15:38:06.894560+00:00",
+  "last_updated": "2026-10-22T19:28:17.088712+00:00",
   "record_count": 121,
   "data": [
     {
@@ -55,7 +55,7 @@
       "name": "Namazgah Barajı",
       "havza": "Marmara",
       "province": null,
-      "fill_percentage": 90.0,
+      "fill_percentage": 88.0,
       "measured_date": "22 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -207,7 +207,7 @@
       "name": "Doğancı ve Nilüfer Barajı",
       "havza": "Susurluk",
       "province": null,
-      "fill_percentage": 66.1,
+      "fill_percentage": 66.4,
       "measured_date": "22 Ekim 2026",
       "hes_capacity_mw": null
     },
