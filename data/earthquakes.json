@@ -1,8 +1,68 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-24T05:10:01.806048+00:00",
+  "last_updated": "2026-10-24T09:28:43.092027+00:00",
   "record_count": 68,
   "data": [
+    {
+      "id": "fVlewDL_IwiXF",
+      "title": "KAMAN (KIRSEHIR)",
+      "magnitude": 1.3,
+      "depth_km": 4.6,
+      "date_utc": "2026-10-24 11:25:53",
+      "latitude": 39.349,
+      "longitude": 33.7367,
+      "location_name": "Kırşehir"
+    },
+    {
+      "id": "6xsTaVAzp9jj0",
+      "title": "KAHYALI-AKCADAG (MALATYA)",
+      "magnitude": 2,
+      "depth_km": 13.1,
+      "date_utc": "2026-10-24 11:07:34",
+      "latitude": 38.3163,
+      "longitude": 37.8355,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "lEAhodHXmSJ8R",
+      "title": "GULUMUSAGI-(MALATYA)",
+      "magnitude": 2.5,
+      "depth_km": 5,
+      "date_utc": "2026-10-24 09:35:51",
+      "latitude": 38.2272,
+      "longitude": 38.5008,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "fdgS5Cp5XNphU",
+      "title": "MUREFTE-SARKOY (TEKIRDAG)",
+      "magnitude": 0.5,
+      "depth_km": 3.9,
+      "date_utc": "2026-10-24 09:31:23",
+      "latitude": 40.665,
+      "longitude": 27.2408,
+      "location_name": "Tekirdağ"
+    },
+    {
+      "id": "g1xFQaxHa9uCx",
+      "title": "OSMANCIK-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 18.7,
+      "date_utc": "2026-10-24 08:58:30",
+      "latitude": 37.7128,
+      "longitude": 36.3023,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "YNXDcOdisyfFD",
+      "title": "MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)",
+      "magnitude": 1.2,
+      "depth_km": 24.7,
+      "date_utc": "2026-10-24 08:45:28",
+      "latitude": 40.9027,
+      "longitude": 28.0137,
+      "location_name": "Marmara Denizi"
+    },
     {
       "id": "dJ10ff2oVUJ5l",
       "title": "YEMISLI-SIMAV (KUTAHYA)",
@@ -622,66 +682,6 @@
       "latitude": 37.1058,
       "longitude": 27.9022,
       "location_name": "Muğla"
-    },
-    {
-      "id": "BV2k91BqXP6yM",
-      "title": "KAGITHANE (ISTANBUL)",
-      "magnitude": 0.8,
-      "depth_km": 0,
-      "date_utc": "2026-10-23 11:52:20",
-      "latitude": 41.1265,
-      "longitude": 28.9577,
-      "location_name": "İstanbul"
-    },
-    {
-      "id": "5Jtm4IXZNQ7CM",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.8,
-      "depth_km": 14.4,
-      "date_utc": "2026-10-23 10:16:28",
-      "latitude": 39.249,
-      "longitude": 28.9835,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "plW7fbDFhLdhb",
-      "title": "ASLANDEDE-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.3,
-      "depth_km": 16.1,
-      "date_utc": "2026-10-23 09:50:11",
-      "latitude": 39.2053,
-      "longitude": 28.3038,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "UFlVitlEobzWE",
-      "title": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
-      "magnitude": 3,
-      "depth_km": 25.3,
-      "date_utc": "2026-10-23 09:38:05",
-      "latitude": 36.2343,
-      "longitude": 33.8665,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "ZU8Yj1A9KlAjq",
-      "title": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
-      "magnitude": 2.7,
-      "depth_km": 25.3,
-      "date_utc": "2026-10-23 09:38:05",
-      "latitude": 36.2343,
-      "longitude": 33.8665,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "nE1rx_64Q3dKy",
-      "title": "GULUMBE-(BILECIK)",
-      "magnitude": 1.4,
-      "depth_km": 0,
-      "date_utc": "2026-10-23 08:34:35",
-      "latitude": 40.1907,
-      "longitude": 29.9797,
-      "location_name": "Bilecik"
     }
   ]
 }
