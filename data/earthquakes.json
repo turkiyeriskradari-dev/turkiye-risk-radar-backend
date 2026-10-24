@@ -1,8 +1,88 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-24T16:47:06.583959+00:00",
-  "record_count": 65,
+  "last_updated": "2026-10-24T19:07:24.309303+00:00",
+  "record_count": 68,
   "data": [
+    {
+      "id": "Y9UzwSVXAavrP",
+      "title": "AKDENIZ",
+      "magnitude": 3.5,
+      "depth_km": 23.1,
+      "date_utc": "2026-10-24 20:34:48",
+      "latitude": 35.4162,
+      "longitude": 27.1017,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "Oi03kTjXs1mA2",
+      "title": "HANLI-(SIVAS)",
+      "magnitude": 3.2,
+      "depth_km": 5,
+      "date_utc": "2026-10-24 20:29:18",
+      "latitude": 39.4393,
+      "longitude": 36.6538,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "dEobSg6TqLAg3",
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "magnitude": 1.2,
+      "depth_km": 12.9,
+      "date_utc": "2026-10-24 20:10:59",
+      "latitude": 39.2597,
+      "longitude": 28.998,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "IuoqMdr3awOKi",
+      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 14.8,
+      "date_utc": "2026-10-24 20:01:09",
+      "latitude": 38.2022,
+      "longitude": 37.7842,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "2qbCpTckmeThy",
+      "title": "YESILDERE-SIMAV (KUTAHYA)",
+      "magnitude": 1.5,
+      "depth_km": 12.1,
+      "date_utc": "2026-10-24 19:59:15",
+      "latitude": 39.2693,
+      "longitude": 29.0007,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "fiRDnlWoADAJi",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 2.4,
+      "depth_km": 12.5,
+      "date_utc": "2026-10-24 19:57:46",
+      "latitude": 39.217,
+      "longitude": 29.0218,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "6dpoA3cx7uIBI",
+      "title": "EGIRLER-SIMAV (KUTAHYA)",
+      "magnitude": 1.5,
+      "depth_km": 15.8,
+      "date_utc": "2026-10-24 19:56:54",
+      "latitude": 39.2152,
+      "longitude": 29.0357,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "xrlvnxblCfQoP",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 1.9,
+      "depth_km": 9.1,
+      "date_utc": "2026-10-24 19:49:48",
+      "latitude": 38.2718,
+      "longitude": 37.7757,
+      "location_name": "Malatya"
+    },
     {
       "id": "142aKCUhoikHp",
       "title": "UCMAKDERE-SARKOY (TEKIRDAG)",
@@ -602,56 +682,6 @@
       "latitude": 36.57,
       "longitude": 29.2562,
       "location_name": "Muğla"
-    },
-    {
-      "id": "_mA5u4thCWwUO",
-      "title": "HUYUKLU-AFSIN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 4,
-      "date_utc": "2026-10-23 21:40:25",
-      "latitude": 38.1892,
-      "longitude": 36.9078,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "9pKMm5tLEoodB",
-      "title": "DEDEPINARI-(ELAZIG)",
-      "magnitude": 1.6,
-      "depth_km": 10.4,
-      "date_utc": "2026-10-23 20:39:35",
-      "latitude": 38.4953,
-      "longitude": 39.177,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "IULjM7lHSBMXl",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 9.1,
-      "date_utc": "2026-10-23 20:27:35",
-      "latitude": 39.2295,
-      "longitude": 28.968,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "SAILFF5RI88_b",
-      "title": "KARACAKAS-SOMA (MANISA)",
-      "magnitude": 2.2,
-      "depth_km": 0,
-      "date_utc": "2026-10-23 20:13:24",
-      "latitude": 39.2022,
-      "longitude": 27.8065,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "HrP1dWhJVz47K",
-      "title": "TEKEDERESI-PUTURGE (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 15.4,
-      "date_utc": "2026-10-23 20:11:19",
-      "latitude": 38.1477,
-      "longitude": 38.6035,
-      "location_name": "Malatya"
     }
   ]
 }
