@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-24T19:07:24.309303+00:00",
-  "record_count": 68,
+  "last_updated": "2026-10-24T21:34:53.844243+00:00",
+  "record_count": 69,
   "data": [
+    {
+      "id": "vCvFCkVP8wAII",
+      "title": "KARACAKAS-SOMA (MANISA)",
+      "magnitude": 3,
+      "depth_km": 8.4,
+      "date_utc": "2026-10-24 23:42:42",
+      "latitude": 39.2073,
+      "longitude": 27.8032,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "MTrYVIPyBecfE",
+      "title": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 1.6,
+      "depth_km": 5,
+      "date_utc": "2026-10-24 23:26:58",
+      "latitude": 38.117,
+      "longitude": 37.204,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "GsDOUAQ1DRJoB",
+      "title": "EGE DENIZI",
+      "magnitude": 1.4,
+      "depth_km": 12.9,
+      "date_utc": "2026-10-24 22:36:57",
+      "latitude": 35.9415,
+      "longitude": 25.4737,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "JiZynYRPwvqR2",
+      "title": "ILIC (ERZINCAN)",
+      "magnitude": 1.5,
+      "depth_km": 10.8,
+      "date_utc": "2026-10-24 22:36:24",
+      "latitude": 39.475,
+      "longitude": 38.5725,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "mPJgMSShxWbaG",
+      "title": "KAPUZBASI-YAHYALI (KAYSERI)",
+      "magnitude": 1.6,
+      "depth_km": 4.5,
+      "date_utc": "2026-10-24 22:04:36",
+      "latitude": 37.7305,
+      "longitude": 35.3732,
+      "location_name": "Adana"
+    },
     {
       "id": "Y9UzwSVXAavrP",
       "title": "AKDENIZ",
@@ -642,46 +692,6 @@
       "latitude": 36.6967,
       "longitude": 25.505,
       "location_name": "Ege Denizi"
-    },
-    {
-      "id": "yRJdnnMAQbxZR",
-      "title": "KATRANDAGI-EMET (KUTAHYA)",
-      "magnitude": 1.9,
-      "depth_km": 5,
-      "date_utc": "2026-10-23 23:48:08",
-      "latitude": 39.2313,
-      "longitude": 29.067,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "82jm19KYdy9Ku",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 1.8,
-      "depth_km": 5,
-      "date_utc": "2026-10-23 23:11:14",
-      "latitude": 40.2058,
-      "longitude": 31.6888,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "KwERhYglsJ9jS",
-      "title": "KARABIGA ACIKLARI-CANAKKALE (MARMARA DENIZI)",
-      "magnitude": 0.9,
-      "depth_km": 3.6,
-      "date_utc": "2026-10-23 22:52:40",
-      "latitude": 40.536,
-      "longitude": 27.288,
-      "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "OAq61dsL1Krhg",
-      "title": "GOKBEN-FETHIYE (MUGLA)",
-      "magnitude": 2.1,
-      "depth_km": 25.3,
-      "date_utc": "2026-10-23 22:50:48",
-      "latitude": 36.57,
-      "longitude": 29.2562,
-      "location_name": "Muğla"
     }
   ]
 }
