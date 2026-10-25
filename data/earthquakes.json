@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-25T16:08:27.219254+00:00",
-  "record_count": 48,
+  "last_updated": "2026-10-25T18:59:17.820289+00:00",
+  "record_count": 44,
   "data": [
+    {
+      "id": "kzht_PoQb4wkD",
+      "title": "NARLI-PAZARCIK (KAHRAMANMARAS)",
+      "magnitude": 1.3,
+      "depth_km": 4.9,
+      "date_utc": "2026-10-25 20:51:43",
+      "latitude": 37.3933,
+      "longitude": 37.1477,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "rbMkNKPfhC2t4",
+      "title": "YEMISLI-SIMAV (KUTAHYA)",
+      "magnitude": 1.8,
+      "depth_km": 11.2,
+      "date_utc": "2026-10-25 20:46:27",
+      "latitude": 39.2493,
+      "longitude": 29.0017,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "zb8T2jIHJOgsX",
+      "title": "SIRLI-AZIZIYE (ERZURUM)",
+      "magnitude": 1.7,
+      "depth_km": 9.6,
+      "date_utc": "2026-10-25 20:42:03",
+      "latitude": 40.1587,
+      "longitude": 41.1958,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "brKIbNOvkvy4H",
+      "title": "ESENLI-SUMBAS (OSMANIYE)",
+      "magnitude": 1.6,
+      "depth_km": 9.6,
+      "date_utc": "2026-10-25 19:46:48",
+      "latitude": 37.7127,
+      "longitude": 36.1195,
+      "location_name": "Adana"
+    },
+    {
+      "id": "hlthHlyXjIaia",
+      "title": "CEVIRME-AKCADAG (MALATYA)",
+      "magnitude": 1.8,
+      "depth_km": 16.8,
+      "date_utc": "2026-10-25 19:34:41",
+      "latitude": 38.2768,
+      "longitude": 37.7383,
+      "location_name": "Kahramanmaraş"
+    },
     {
       "id": "DqZuEfuU1yXEG",
       "title": "KOZLU-SINDIRGI (BALIKESIR)",
@@ -392,96 +442,6 @@
       "latitude": 37.7305,
       "longitude": 35.3732,
       "location_name": "Adana"
-    },
-    {
-      "id": "Y9UzwSVXAavrP",
-      "title": "AKDENIZ",
-      "magnitude": 3.5,
-      "depth_km": 23.1,
-      "date_utc": "2026-10-24 20:34:48",
-      "latitude": 35.4162,
-      "longitude": 27.1017,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "Oi03kTjXs1mA2",
-      "title": "HANLI-(SIVAS)",
-      "magnitude": 3.2,
-      "depth_km": 5,
-      "date_utc": "2026-10-24 20:29:18",
-      "latitude": 39.4393,
-      "longitude": 36.6538,
-      "location_name": "Sivas"
-    },
-    {
-      "id": "dEobSg6TqLAg3",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1.2,
-      "depth_km": 12.9,
-      "date_utc": "2026-10-24 20:10:59",
-      "latitude": 39.2597,
-      "longitude": 28.998,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "IuoqMdr3awOKi",
-      "title": "CAVUSLU-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 14.8,
-      "date_utc": "2026-10-24 20:01:09",
-      "latitude": 38.2022,
-      "longitude": 37.7842,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "2qbCpTckmeThy",
-      "title": "YESILDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 12.1,
-      "date_utc": "2026-10-24 19:59:15",
-      "latitude": 39.2693,
-      "longitude": 29.0007,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "fiRDnlWoADAJi",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 2.4,
-      "depth_km": 12.5,
-      "date_utc": "2026-10-24 19:57:46",
-      "latitude": 39.217,
-      "longitude": 29.0218,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "6dpoA3cx7uIBI",
-      "title": "EGIRLER-SIMAV (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 15.8,
-      "date_utc": "2026-10-24 19:56:54",
-      "latitude": 39.2152,
-      "longitude": 29.0357,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "xrlvnxblCfQoP",
-      "title": "CEVIRME-AKCADAG (MALATYA)",
-      "magnitude": 1.9,
-      "depth_km": 9.1,
-      "date_utc": "2026-10-24 19:49:48",
-      "latitude": 38.2718,
-      "longitude": 37.7757,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "142aKCUhoikHp",
-      "title": "UCMAKDERE-SARKOY (TEKIRDAG)",
-      "magnitude": 0.4,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-24 19:13:26",
-      "latitude": 40.7565,
-      "longitude": 27.4013,
-      "location_name": "Marmara Denizi"
     }
   ]
 }

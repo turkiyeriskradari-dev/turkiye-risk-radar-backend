@@ -1,6 +1,6 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-10-25T16:08:28.926738+00:00",
+  "last_updated": "2026-10-25T18:59:19.037255+00:00",
   "record_count": 81,
   "data": [
     {
@@ -88,7 +88,7 @@
       "province": "Balıkesir",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.3,
+      "wind_speed_max_kmh": 7.4,
       "temperature_max_c": 20.5,
       "temperature_min_c": 10.0,
       "alerts": []
@@ -117,7 +117,7 @@
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 14.3,
       "temperature_max_c": 16.7,
-      "temperature_min_c": 7.7,
+      "temperature_min_c": 7.4,
       "alerts": []
     },
     {
@@ -169,7 +169,7 @@
       "province": "Çorum",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.6,
+      "wind_speed_max_kmh": 10.1,
       "temperature_max_c": 20.1,
       "temperature_min_c": 7.3,
       "alerts": []
@@ -196,7 +196,7 @@
       "province": "Edirne",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.0,
+      "wind_speed_max_kmh": 6.2,
       "temperature_max_c": 18.5,
       "temperature_min_c": 8.0,
       "alerts": []
@@ -214,7 +214,7 @@
       "province": "Erzincan",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.0,
+      "wind_speed_max_kmh": 7.1,
       "temperature_max_c": 20.1,
       "temperature_min_c": 9.3,
       "alerts": []
@@ -331,9 +331,9 @@
       "province": "Kastamonu",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.0,
+      "wind_speed_max_kmh": 7.1,
       "temperature_max_c": 19.2,
-      "temperature_min_c": 8.9,
+      "temperature_min_c": 8.8,
       "alerts": []
     },
     {
@@ -349,7 +349,7 @@
       "province": "Kırklareli",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.0,
+      "wind_speed_max_kmh": 10.8,
       "temperature_max_c": 18.3,
       "temperature_min_c": 7.2,
       "alerts": []
@@ -385,7 +385,7 @@
       "province": "Kütahya",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.9,
+      "wind_speed_max_kmh": 8.7,
       "temperature_max_c": 20.8,
       "temperature_min_c": 6.4,
       "alerts": []
@@ -412,7 +412,7 @@
       "province": "Kahramanmaraş",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 10.0,
+      "wind_speed_max_kmh": 11.0,
       "temperature_max_c": 26.8,
       "temperature_min_c": 14.0,
       "alerts": []
@@ -448,7 +448,7 @@
       "province": "Nevşehir",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.1,
+      "wind_speed_max_kmh": 9.7,
       "temperature_max_c": 22.9,
       "temperature_min_c": 6.4,
       "alerts": []
@@ -468,16 +468,16 @@
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 8.9,
       "temperature_max_c": 19.6,
-      "temperature_min_c": 13.0,
+      "temperature_min_c": 13.1,
       "alerts": []
     },
     {
       "province": "Rize",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 5.9,
+      "wind_speed_max_kmh": 6.3,
       "temperature_max_c": 17.7,
-      "temperature_min_c": 14.8,
+      "temperature_min_c": 13.8,
       "alerts": []
     },
     {
@@ -528,7 +528,7 @@
     {
       "province": "Tekirdağ",
       "forecast_date": "2026-10-25",
-      "precipitation_mm": 0.4,
+      "precipitation_mm": 0.6,
       "wind_speed_max_kmh": 13.3,
       "temperature_max_c": 18.5,
       "temperature_min_c": 10.4,
@@ -585,7 +585,7 @@
       "precipitation_mm": 4.8,
       "wind_speed_max_kmh": 10.9,
       "temperature_max_c": 14.3,
-      "temperature_min_c": 7.4,
+      "temperature_min_c": 7.2,
       "alerts": []
     },
     {
@@ -637,7 +637,7 @@
       "province": "Kırıkkale",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.2,
+      "wind_speed_max_kmh": 6.4,
       "temperature_max_c": 22.0,
       "temperature_min_c": 7.4,
       "alerts": []
@@ -700,7 +700,7 @@
       "province": "Karabük",
       "forecast_date": "2026-10-25",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 8.1,
+      "wind_speed_max_kmh": 8.9,
       "temperature_max_c": 23.1,
       "temperature_min_c": 9.9,
       "alerts": []
