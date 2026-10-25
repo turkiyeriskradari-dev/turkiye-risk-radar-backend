@@ -1,8 +1,78 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-25T21:27:06.823614+00:00",
-  "record_count": 48,
+  "last_updated": "2026-10-25T23:24:33.221741+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "6cHt9RGjHwHGY",
+      "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 12.3,
+      "date_utc": "2026-10-26 01:50:30",
+      "latitude": 37.0373,
+      "longitude": 28.9082,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "K2V0v1JztA9l9",
+      "title": "AYSAKLI-ADAKLI (BINGOL)",
+      "magnitude": 1.4,
+      "depth_km": 1.2,
+      "date_utc": "2026-10-26 01:38:27",
+      "latitude": 39.3477,
+      "longitude": 40.4963,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "v4sO4141_h7RV",
+      "title": "BUGDAYHUYUK-(SANLIURFA)",
+      "magnitude": 1.7,
+      "depth_km": 2.3,
+      "date_utc": "2026-10-26 01:25:58",
+      "latitude": 37.4485,
+      "longitude": 38.6302,
+      "location_name": "Şanlıurfa"
+    },
+    {
+      "id": "14spOTVyuJ1el",
+      "title": "EGE DENIZI",
+      "magnitude": 1.8,
+      "depth_km": 21.9,
+      "date_utc": "2026-10-26 01:15:23",
+      "latitude": 36.005,
+      "longitude": 26.8235,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "IvWFAibmvtOl3",
+      "title": "KARACAM-KOYCEGIZ (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 15.4,
+      "date_utc": "2026-10-26 01:13:48",
+      "latitude": 37.0313,
+      "longitude": 28.9948,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "RYQaomjmV6INE",
+      "title": "HARUNUSAGI-AKCADAG (MALATYA)",
+      "magnitude": 1.5,
+      "depth_km": 18.1,
+      "date_utc": "2026-10-26 00:44:59",
+      "latitude": 38.2512,
+      "longitude": 37.7078,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "O2eMVGxgKZg2C",
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "magnitude": 1.9,
+      "depth_km": 5,
+      "date_utc": "2026-10-26 00:24:39",
+      "latitude": 40.1762,
+      "longitude": 31.76,
+      "location_name": "Ankara"
+    },
     {
       "id": "K_vkWCBeT6mAg",
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
@@ -422,66 +492,6 @@
       "latitude": 38.147,
       "longitude": 36.6238,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "njtmpWlylu3MA",
-      "title": "OVAKOY-SILOPI (SIRNAK)",
-      "magnitude": 1.8,
-      "depth_km": 4.1,
-      "date_utc": "2026-10-25 02:24:08",
-      "latitude": 37.1353,
-      "longitude": 42.4752,
-      "location_name": "Şırnak"
-    },
-    {
-      "id": "Ff0MGNcisCnBn",
-      "title": "AKCALIUSAGI-KOZAN (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 10,
-      "date_utc": "2026-10-25 01:57:04",
-      "latitude": 37.7012,
-      "longitude": 36.0598,
-      "location_name": "Adana"
-    },
-    {
-      "id": "fuKMiGHkPAYwB",
-      "title": "HANLI-(SIVAS)",
-      "magnitude": 2.5,
-      "depth_km": 4.1,
-      "date_utc": "2026-10-25 01:27:25",
-      "latitude": 39.448,
-      "longitude": 36.6395,
-      "location_name": "Sivas"
-    },
-    {
-      "id": "iLMEbGoBPY9xu",
-      "title": "YUKARIDAGDERE-HONAZ (DENIZLI)",
-      "magnitude": 2.4,
-      "depth_km": 4.2,
-      "date_utc": "2026-10-25 01:13:01",
-      "latitude": 37.7717,
-      "longitude": 29.4183,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "xeNQWLRp_kOV6",
-      "title": "ORHANIYE-ANDIRIN (KAHRAMANMARAS)",
-      "magnitude": 1.1,
-      "depth_km": 9.6,
-      "date_utc": "2026-10-25 01:09:55",
-      "latitude": 37.6837,
-      "longitude": 36.3878,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "WUNx7wNid_pfv",
-      "title": "TOKAT-HISARCIK (KUTAHYA)",
-      "magnitude": 1,
-      "depth_km": 12.2,
-      "date_utc": "2026-10-25 00:31:36",
-      "latitude": 39.1773,
-      "longitude": 29.1032,
-      "location_name": "Kütahya"
     }
   ]
 }
