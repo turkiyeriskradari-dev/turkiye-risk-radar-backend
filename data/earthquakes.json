@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-25T23:24:33.221741+00:00",
-  "record_count": 49,
+  "last_updated": "2026-10-26T01:24:03.736451+00:00",
+  "record_count": 46,
   "data": [
+    {
+      "id": "yiA6kyYPKICxH",
+      "title": "AKDENIZ",
+      "magnitude": 1.7,
+      "depth_km": 7.3,
+      "date_utc": "2026-10-26 02:41:29",
+      "latitude": 35.698,
+      "longitude": 29.357,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "pIBRqOU1oeiZe",
+      "title": "EGE DENIZI",
+      "magnitude": 1.2,
+      "depth_km": 5.3,
+      "date_utc": "2026-10-26 02:28:57",
+      "latitude": 39.944,
+      "longitude": 25.941,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "AnDQNBPnyGBJ_",
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "magnitude": 1.4,
+      "depth_km": 4.8,
+      "date_utc": "2026-10-26 02:10:41",
+      "latitude": 38.509,
+      "longitude": 26.7853,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "om9U7nadl8XhZ",
+      "title": "MORDOGAN-KARABURUN (IZMIR)",
+      "magnitude": 1.4,
+      "depth_km": 12.3,
+      "date_utc": "2026-10-26 02:09:36",
+      "latitude": 38.5018,
+      "longitude": 26.7058,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "Y8SIQLPMtXZaY",
+      "title": "IZMIR KORFEZI (EGE DENIZI)",
+      "magnitude": 1.5,
+      "depth_km": 17.8,
+      "date_utc": "2026-10-26 02:05:09",
+      "latitude": 38.4703,
+      "longitude": 26.6497,
+      "location_name": "Ege Denizi"
+    },
     {
       "id": "6cHt9RGjHwHGY",
       "title": "OTMANLAR-KOYCEGIZ (MUGLA)",
@@ -412,86 +462,6 @@
       "latitude": 40.1857,
       "longitude": 27.515,
       "location_name": "Balıkesir"
-    },
-    {
-      "id": "N3o0tZJu9Wf9V",
-      "title": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.5,
-      "depth_km": 2.3,
-      "date_utc": "2026-10-25 04:20:55",
-      "latitude": 38.3918,
-      "longitude": 37.455,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "M9ONeS4sAfhWG",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.5,
-      "depth_km": 5,
-      "date_utc": "2026-10-25 04:12:14",
-      "latitude": 37.7702,
-      "longitude": 36.0362,
-      "location_name": "Adana"
-    },
-    {
-      "id": "X4fdZYLNqf1pJ",
-      "title": "CALTILI-VARTO (MUS)",
-      "magnitude": 1.9,
-      "depth_km": 7.2,
-      "date_utc": "2026-10-25 04:11:56",
-      "latitude": 39.208,
-      "longitude": 41.499,
-      "location_name": "Muş"
-    },
-    {
-      "id": "mVz8NdzbHyPTb",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 1.4,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-25 03:57:51",
-      "latitude": 37.7577,
-      "longitude": 36.0078,
-      "location_name": "Adana"
-    },
-    {
-      "id": "JIfdJZohzVBZk",
-      "title": "HISARKAVAK-MECITOZU (CORUM)",
-      "magnitude": 1.2,
-      "depth_km": 11.2,
-      "date_utc": "2026-10-25 03:47:55",
-      "latitude": 40.4757,
-      "longitude": 35.3393,
-      "location_name": "Çorum"
-    },
-    {
-      "id": "QxPbndkN8d7XV",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 1.5,
-      "depth_km": 8.8,
-      "date_utc": "2026-10-25 03:35:52",
-      "latitude": 39.2508,
-      "longitude": 25.806,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "FoRyk4HECX0rj",
-      "title": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 5.4,
-      "date_utc": "2026-10-25 03:35:19",
-      "latitude": 38.1168,
-      "longitude": 37.4698,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "VbbWSm1lEg_OP",
-      "title": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 7.7,
-      "date_utc": "2026-10-25 02:51:36",
-      "latitude": 38.147,
-      "longitude": 36.6238,
-      "location_name": "Kahramanmaraş"
     }
   ]
 }
