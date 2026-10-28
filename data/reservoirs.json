@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-10-28T14:28:57.285766+00:00",
+  "last_updated": "2026-10-28T19:44:30.824154+00:00",
   "record_count": 30,
   "data": [
     {
@@ -23,15 +23,7 @@
       "name": "Yuvacık Barajı",
       "havza": "Marmara",
       "province": null,
-      "fill_percentage": 82.0,
-      "measured_date": "28 Ekim 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "Namazgah Barajı",
-      "havza": "Marmara",
-      "province": null,
-      "fill_percentage": 76.0,
+      "fill_percentage": 81.0,
       "measured_date": "28 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -44,10 +36,18 @@
       "hes_capacity_mw": null
     },
     {
+      "name": "Namazgah Barajı",
+      "havza": "Marmara",
+      "province": null,
+      "fill_percentage": 75.0,
+      "measured_date": "28 Ekim 2026",
+      "hes_capacity_mw": null
+    },
+    {
       "name": "İhsaniye Barajı",
       "havza": "Marmara",
       "province": null,
-      "fill_percentage": 73.0,
+      "fill_percentage": 74.0,
       "measured_date": "28 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -55,7 +55,7 @@
       "name": "Doğancı Ve Nilüfer Barajı",
       "havza": "Susurluk",
       "province": null,
-      "fill_percentage": 66.9,
+      "fill_percentage": 67.2,
       "measured_date": "28 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -111,7 +111,7 @@
       "name": "Kurtboğazı Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 48.3,
+      "fill_percentage": 48.5,
       "measured_date": "28 Ekim 2026",
       "hes_capacity_mw": null
     },
@@ -127,7 +127,7 @@
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 39.5,
+      "fill_percentage": 39.2,
       "measured_date": "28 Ekim 2026",
       "hes_capacity_mw": null
     },
