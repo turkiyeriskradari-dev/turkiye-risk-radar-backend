@@ -1,8 +1,78 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-29T09:01:45.245498+00:00",
-  "record_count": 45,
+  "last_updated": "2026-10-29T16:02:53.344145+00:00",
+  "record_count": 38,
   "data": [
+    {
+      "id": "wwS45sTEWTfiz",
+      "title": "SARICAM (ADANA)",
+      "magnitude": 1.7,
+      "depth_km": 22.4,
+      "date_utc": "2026-10-29 18:08:48",
+      "latitude": 36.9348,
+      "longitude": 35.4915,
+      "location_name": "Adana"
+    },
+    {
+      "id": "cE7druwc3XoHl",
+      "title": "ALAKIR-SINDIRGI (BALIKESIR)",
+      "magnitude": 2.8,
+      "depth_km": 5.5,
+      "date_utc": "2026-10-29 17:24:02",
+      "latitude": 39.2158,
+      "longitude": 28.0597,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "zkVgJuzQF6smu",
+      "title": "CAKALTEPE-MENDERES (IZMIR)",
+      "magnitude": 1.4,
+      "depth_km": 15.3,
+      "date_utc": "2026-10-29 15:12:48",
+      "latitude": 38.0932,
+      "longitude": 27.2142,
+      "location_name": "İzmir"
+    },
+    {
+      "id": "5O2JgxDgHiebf",
+      "title": "SIGIRLIHACI-CUBUK (ANKARA)",
+      "magnitude": 1.8,
+      "depth_km": 7.5,
+      "date_utc": "2026-10-29 14:34:07",
+      "latitude": 40.149,
+      "longitude": 32.9673,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "ORV46_rcpdbAt",
+      "title": "ILICAK-AKCADAG (MALATYA)",
+      "magnitude": 2.1,
+      "depth_km": 7.7,
+      "date_utc": "2026-10-29 14:05:33",
+      "latitude": 38.5112,
+      "longitude": 38.0393,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "ZnVRYcLcuYaty",
+      "title": "EGE DENIZI",
+      "magnitude": 1.8,
+      "depth_km": 7.3,
+      "date_utc": "2026-10-29 12:41:37",
+      "latitude": 38.8207,
+      "longitude": 26.4362,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "xUgX37G5b1w7t",
+      "title": "PINARBASI-EZINE (CANAKKALE)",
+      "magnitude": 1,
+      "depth_km": 5.1,
+      "date_utc": "2026-10-29 12:37:56",
+      "latitude": 39.8807,
+      "longitude": 26.277,
+      "location_name": "Çanakkale"
+    },
     {
       "id": "qkYWJIwHNQ7pc",
       "title": "TURNALI-KANGAL (SIVAS)",
@@ -312,146 +382,6 @@
       "latitude": 36.9668,
       "longitude": 28.3277,
       "location_name": "Muğla"
-    },
-    {
-      "id": "w9kGxCmnXcJ_N",
-      "title": "ANTALYA KORFEZI (AKDENIZ)",
-      "magnitude": 2,
-      "depth_km": 8.9,
-      "date_utc": "2026-10-28 18:50:19",
-      "latitude": 36.5197,
-      "longitude": 30.9137,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "Z7Tl4vC8wasAt",
-      "title": "AKDAG-GELENDOST (ISPARTA)",
-      "magnitude": 1.9,
-      "depth_km": 13.5,
-      "date_utc": "2026-10-28 18:10:48",
-      "latitude": 38.1622,
-      "longitude": 30.9003,
-      "location_name": "Isparta"
-    },
-    {
-      "id": "zPtouC9xbDiXG",
-      "title": "YAYLABAYIR-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.5,
-      "depth_km": 11.8,
-      "date_utc": "2026-10-28 17:25:17",
-      "latitude": 39.1287,
-      "longitude": 28.3577,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "28TBjs22kg3rO",
-      "title": "CALDERE-BIGADIC (BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 20,
-      "date_utc": "2026-10-28 17:21:26",
-      "latitude": 39.5262,
-      "longitude": 28.2035,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "x82W4cmxFNe9h",
-      "title": "UCUYUK-ALTINTAS (KUTAHYA)",
-      "magnitude": 2.1,
-      "depth_km": 5,
-      "date_utc": "2026-10-28 15:57:12",
-      "latitude": 39.1063,
-      "longitude": 30.0347,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "forxiX9RHgTZk",
-      "title": "GUNEDOGRU-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 4.9,
-      "date_utc": "2026-10-28 15:46:19",
-      "latitude": 38.0725,
-      "longitude": 37.8318,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "rpC7JYgNmEyhx",
-      "title": "AKDENIZ",
-      "magnitude": 2,
-      "depth_km": 36.9,
-      "date_utc": "2026-10-28 15:35:07",
-      "latitude": 36.2052,
-      "longitude": 28.8473,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "yNnnf5aMEyRri",
-      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-      "magnitude": 1.3,
-      "depth_km": 8.6,
-      "date_utc": "2026-10-28 15:23:20",
-      "latitude": 38.1008,
-      "longitude": 37.813,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "psW9zECPvQrE9",
-      "title": "DIKENLI-KORGUN (CANKIRI)",
-      "magnitude": 1.6,
-      "depth_km": 1.5,
-      "date_utc": "2026-10-28 15:21:08",
-      "latitude": 40.7882,
-      "longitude": 33.5127,
-      "location_name": "Çankırı"
-    },
-    {
-      "id": "vktJlnchlMxXF",
-      "title": "EGRIBUK-YAZIHAN (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 5.1,
-      "date_utc": "2026-10-28 15:05:03",
-      "latitude": 38.5632,
-      "longitude": 38.3702,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "rUzE8zOPzAMW6",
-      "title": "CAYAGZI-ERDEK (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 11.4,
-      "date_utc": "2026-10-28 14:18:46",
-      "latitude": 40.4712,
-      "longitude": 27.9292,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "NbI7YzwLvLtye",
-      "title": "ESENCELI-SILE (ISTANBUL)",
-      "magnitude": 1.3,
-      "depth_km": 0,
-      "date_utc": "2026-10-28 13:45:07",
-      "latitude": 41.045,
-      "longitude": 29.3915,
-      "location_name": "İstanbul"
-    },
-    {
-      "id": "5Btbg7bHa6J24",
-      "title": "CAYAGZI-(KIRSEHIR)",
-      "magnitude": 1.3,
-      "depth_km": 16.8,
-      "date_utc": "2026-10-28 12:19:08",
-      "latitude": 39.253,
-      "longitude": 34.0673,
-      "location_name": "Kırşehir"
-    },
-    {
-      "id": "kFCZE9rf9L1ka",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2.5,
-      "depth_km": 5,
-      "date_utc": "2026-10-28 12:02:45",
-      "latitude": 37.7475,
-      "longitude": 36.0915,
-      "location_name": "Adana"
     }
   ]
 }
