@@ -1,8 +1,58 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-10-28T23:34:28.252764+00:00",
-  "record_count": 56,
+  "last_updated": "2026-10-29T02:49:58.126762+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "nkIYDxukxpPc3",
+      "title": "YESILDAG-BEYSEHIR (KONYA)",
+      "magnitude": 2.6,
+      "depth_km": 4.3,
+      "date_utc": "2026-10-29 04:25:00",
+      "latitude": 37.5773,
+      "longitude": 31.4448,
+      "location_name": "Konya"
+    },
+    {
+      "id": "exyFnYsYgpXUP",
+      "title": "KAYALIOGLU-AKHISAR (MANISA)",
+      "magnitude": 1.9,
+      "depth_km": 5.4,
+      "date_utc": "2026-10-29 03:25:11",
+      "latitude": 38.8802,
+      "longitude": 27.7783,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "9w2GjaF0hK700",
+      "title": "KARAKOLKOY-(BALIKESIR)",
+      "magnitude": 2,
+      "depth_km": 13.8,
+      "date_utc": "2026-10-29 02:57:13",
+      "latitude": 39.7542,
+      "longitude": 27.8727,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "L5_abtYhieKWV",
+      "title": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 4.2,
+      "date_utc": "2026-10-29 02:55:55",
+      "latitude": 37.2872,
+      "longitude": 36.8095,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "A1QS8MtvurKEq",
+      "title": "DURULDU-(MALATYA)",
+      "magnitude": 2.6,
+      "depth_km": 4.9,
+      "date_utc": "2026-10-29 02:39:40",
+      "latitude": 38.3092,
+      "longitude": 38.1588,
+      "location_name": "Malatya"
+    },
     {
       "id": "ag31PUh9zV4Lt",
       "title": "ERICEK-GOKSUN (KAHRAMANMARAS)",
@@ -472,96 +522,6 @@
       "latitude": 40.774,
       "longitude": 27.4515,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "y0NMcYdrhBpzh",
-      "title": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.3,
-      "depth_km": 12.3,
-      "date_utc": "2026-10-28 05:27:31",
-      "latitude": 38.4778,
-      "longitude": 37.285,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "8hcWCC7ILa0G0",
-      "title": "EGE DENIZI",
-      "magnitude": 2.2,
-      "depth_km": 100.3,
-      "date_utc": "2026-10-28 05:16:00",
-      "latitude": 36.4157,
-      "longitude": 26.4415,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "BU_9OlLYDNnWr",
-      "title": "TATARUSAGI-AKCADAG (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 15.6,
-      "date_utc": "2026-10-28 05:00:38",
-      "latitude": 38.3943,
-      "longitude": 37.8268,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "5l6g3hEj0oTVo",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 0.6,
-      "depth_km": 11,
-      "date_utc": "2026-10-28 04:47:30",
-      "latitude": 39.2383,
-      "longitude": 29.0102,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "yVNbfyHxvuFvu",
-      "title": "CAMUR-KELKIT (GUMUSHANE)",
-      "magnitude": 2.1,
-      "depth_km": 8.4,
-      "date_utc": "2026-10-28 04:35:43",
-      "latitude": 39.968,
-      "longitude": 39.7135,
-      "location_name": "Gümüşhane"
-    },
-    {
-      "id": "itddP8riIbF33",
-      "title": "COMLECIK-KELKIT (GUMUSHANE)",
-      "magnitude": 1.9,
-      "depth_km": 9.3,
-      "date_utc": "2026-10-28 04:33:43",
-      "latitude": 39.9423,
-      "longitude": 39.715,
-      "location_name": "Gümüşhane"
-    },
-    {
-      "id": "WkZAKXDekgC67",
-      "title": "COMLECIK-KELKIT (GUMUSHANE)",
-      "magnitude": 2,
-      "depth_km": 16.5,
-      "date_utc": "2026-10-28 04:17:46",
-      "latitude": 39.9548,
-      "longitude": 39.6772,
-      "location_name": "Gümüşhane"
-    },
-    {
-      "id": "S_P9G2kfAbUV1",
-      "title": "SIGILLI-KESAN (EDIRNE)",
-      "magnitude": 2.3,
-      "depth_km": 16.8,
-      "date_utc": "2026-10-28 03:54:31",
-      "latitude": 40.8223,
-      "longitude": 26.6207,
-      "location_name": "Edirne"
-    },
-    {
-      "id": "yT3qgA5yG093S",
-      "title": "AKOLUK-FEKE (ADANA)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-10-28 03:45:39",
-      "latitude": 37.7887,
-      "longitude": 36.0628,
-      "location_name": "Adana"
     }
   ]
 }
