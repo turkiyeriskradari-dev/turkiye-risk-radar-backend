@@ -1,7 +1,7 @@
 {
   "source": "NASA FIRMS (VIIRS_SNPP_NRT)",
-  "last_updated": "2026-10-31T07:38:43.204132+00:00",
-  "record_count": 3,
+  "last_updated": "2026-10-31T13:51:58.935688+00:00",
+  "record_count": 7,
   "data": [
     {
       "latitude": 38.74762,
@@ -32,6 +32,46 @@
       "acquired_time": "113",
       "satellite": "N",
       "daynight": "N"
+    },
+    {
+      "latitude": 34.86338,
+      "longitude": 44.02383,
+      "brightness": 340.89,
+      "confidence": "n",
+      "acquired_date": "2026-10-31",
+      "acquired_time": "913",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.89259,
+      "longitude": 43.80581,
+      "brightness": 367.0,
+      "confidence": "h",
+      "acquired_date": "2026-10-31",
+      "acquired_time": "913",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.8929,
+      "longitude": 43.80421,
+      "brightness": 367.0,
+      "confidence": "h",
+      "acquired_date": "2026-10-31",
+      "acquired_time": "913",
+      "satellite": "N",
+      "daynight": "D"
+    },
+    {
+      "latitude": 34.89914,
+      "longitude": 43.80304,
+      "brightness": 355.47,
+      "confidence": "n",
+      "acquired_date": "2026-10-31",
+      "acquired_time": "913",
+      "satellite": "N",
+      "daynight": "D"
     }
   ],
   "meta": {
