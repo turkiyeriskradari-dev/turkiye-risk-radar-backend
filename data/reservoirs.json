@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-11-05T04:03:46.877270+00:00",
+  "last_updated": "2026-11-05T12:13:53.262750+00:00",
   "record_count": 30,
   "data": [
     {
@@ -8,7 +8,7 @@
       "havza": "Kızılırmak",
       "province": null,
       "fill_percentage": 100.0,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -16,7 +16,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 84.3,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -24,7 +24,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 81.0,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -32,15 +32,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 75.0,
-      "measured_date": "04 Kasım 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "Morgedik",
-      "havza": "Van Gölü",
-      "province": null,
-      "fill_percentage": 74.2,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -48,7 +40,15 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 74.0,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
+      "hes_capacity_mw": null
+    },
+    {
+      "name": "Morgedik",
+      "havza": "Van Gölü",
+      "province": null,
+      "fill_percentage": 73.9,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -56,23 +56,15 @@
       "havza": "Susurluk",
       "province": null,
       "fill_percentage": 68.4,
-      "measured_date": "04 Kasım 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "Tepekışla",
-      "havza": "Yeşilırmak",
-      "province": null,
-      "fill_percentage": 64.2,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Boyabat",
       "havza": "Kızılırmak",
       "province": null,
-      "fill_percentage": 61.8,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 62.0,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -80,7 +72,15 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 60.8,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
+      "hes_capacity_mw": null
+    },
+    {
+      "name": "Tepekışla",
+      "havza": "Yeşilırmak",
+      "province": null,
+      "fill_percentage": 60.2,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -88,7 +88,7 @@
       "havza": "Sakarya",
       "province": null,
       "fill_percentage": 58.2,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -96,39 +96,39 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 56.3,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Kurtboğazı Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 49.6,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 49.8,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Çubuk 2 Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 49.4,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 49.3,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Kavşakkaya Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 40.5,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 40.4,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 37.3,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 37.0,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -136,15 +136,15 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 35.5,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Çamlıdere Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 32.7,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 32.6,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -152,7 +152,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 31.5,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -160,7 +160,7 @@
       "havza": "Gediz",
       "province": null,
       "fill_percentage": 29.2,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -168,7 +168,7 @@
       "havza": "Sakarya",
       "province": null,
       "fill_percentage": 27.3,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -176,7 +176,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 26.0,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -184,7 +184,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 20.4,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -192,15 +192,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 18.2,
-      "measured_date": "04 Kasım 2026",
-      "hes_capacity_mw": null
-    },
-    {
-      "name": "Yalnızardıç",
-      "havza": "Doğu Akdeniz",
-      "province": null,
-      "fill_percentage": 11.8,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -208,15 +200,23 @@
       "havza": "Sakarya",
       "province": null,
       "fill_percentage": 11.7,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
+      "hes_capacity_mw": null
+    },
+    {
+      "name": "Yalnızardıç",
+      "havza": "Doğu Akdeniz",
+      "province": null,
+      "fill_percentage": 11.2,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Kargalı Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 10.0,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 10.2,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -224,15 +224,15 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 9.9,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
       "name": "Balkusan",
       "havza": "Doğu Akdeniz",
       "province": null,
-      "fill_percentage": 2.8,
-      "measured_date": "04 Kasım 2026",
+      "fill_percentage": 3.0,
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     },
     {
@@ -240,7 +240,7 @@
       "havza": "Marmara",
       "province": null,
       "fill_percentage": 2.6,
-      "measured_date": "04 Kasım 2026",
+      "measured_date": "05 Kasım 2026",
       "hes_capacity_mw": null
     }
   ],
