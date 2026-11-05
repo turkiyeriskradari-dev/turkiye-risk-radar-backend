@@ -1,8 +1,158 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-04T23:55:31.604395+00:00",
-  "record_count": 50,
+  "last_updated": "2026-11-05T04:03:44.987262+00:00",
+  "record_count": 61,
   "data": [
+    {
+      "id": "Ysfvu15Fe81aJ",
+      "title": "KARACAKAS-SOMA (MANISA)",
+      "magnitude": 2.8,
+      "depth_km": 5.1,
+      "date_utc": "2026-11-05 05:19:20",
+      "latitude": 39.2168,
+      "longitude": 27.8005,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "Y992DLD4yuVcK",
+      "title": "KARACAKAS-SOMA (MANISA)",
+      "magnitude": 3,
+      "depth_km": 7.2,
+      "date_utc": "2026-11-05 05:01:57",
+      "latitude": 39.2163,
+      "longitude": 27.809,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "tn3HkTxf13ToN",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 11.5,
+      "date_utc": "2026-11-05 04:56:25",
+      "latitude": 37.5462,
+      "longitude": 35.6088,
+      "location_name": "Adana"
+    },
+    {
+      "id": "JxybEdam9VMqX",
+      "title": "CAMLICA-GURUN (SIVAS)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-11-05 04:41:19",
+      "latitude": 38.7823,
+      "longitude": 37.2628,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "cxe09XSfIn0Hb",
+      "title": "ASIT-(VAN)",
+      "magnitude": 2.3,
+      "depth_km": 1.1,
+      "date_utc": "2026-11-05 04:37:49",
+      "latitude": 38.6215,
+      "longitude": 43.4178,
+      "location_name": "Van"
+    },
+    {
+      "id": "VhlG6YKWVMtkr",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 3.2,
+      "depth_km": 7.5,
+      "date_utc": "2026-11-05 04:34:47",
+      "latitude": 37.5417,
+      "longitude": 35.6135,
+      "location_name": "Adana"
+    },
+    {
+      "id": "1tupKrMNTjGwL",
+      "title": "POSTKABASAKAL-KOZAN (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 11.2,
+      "date_utc": "2026-11-05 04:25:00",
+      "latitude": 37.5003,
+      "longitude": 35.6212,
+      "location_name": "Adana"
+    },
+    {
+      "id": "dGXBW2JKnvDiZ",
+      "title": "EGE DENIZI",
+      "magnitude": 2.2,
+      "depth_km": 2,
+      "date_utc": "2026-11-05 04:24:46",
+      "latitude": 36.6528,
+      "longitude": 25.7155,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "do7W17db0Kb3g",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 7.1,
+      "date_utc": "2026-11-05 04:03:58",
+      "latitude": 37.5432,
+      "longitude": 35.6292,
+      "location_name": "Adana"
+    },
+    {
+      "id": "7hIaXzNw52E9q",
+      "title": "POSTKABASAKAL-KOZAN (ADANA)",
+      "magnitude": 2.3,
+      "depth_km": 12.8,
+      "date_utc": "2026-11-05 04:00:41",
+      "latitude": 37.4812,
+      "longitude": 35.6452,
+      "location_name": "Adana"
+    },
+    {
+      "id": "z_qz3JeMXN3zX",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 3.9,
+      "depth_km": 5.5,
+      "date_utc": "2026-11-05 03:41:51",
+      "latitude": 37.5367,
+      "longitude": 35.6253,
+      "location_name": "Adana"
+    },
+    {
+      "id": "mVMKaePioXN42",
+      "title": "GENCALI-DINAR (AFYONKARAHISAR)",
+      "magnitude": 4,
+      "depth_km": 6,
+      "date_utc": "2026-11-05 03:23:16",
+      "latitude": 37.998,
+      "longitude": 30.0728,
+      "location_name": "Afyon"
+    },
+    {
+      "id": "CTiH4S8C5yrjd",
+      "title": "TURKIYE-IRAN SINIR BOLGESI",
+      "magnitude": 2.3,
+      "depth_km": 5,
+      "date_utc": "2026-11-05 02:50:43",
+      "latitude": 38.6452,
+      "longitude": 44.57,
+      "location_name": "İran"
+    },
+    {
+      "id": "oQGt1DHHDzhdu",
+      "title": "KIZILAGIL-(BOLU)",
+      "magnitude": 1.6,
+      "depth_km": 5.4,
+      "date_utc": "2026-11-05 02:32:28",
+      "latitude": 40.799,
+      "longitude": 31.5183,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "yMmikX4cFxWLD",
+      "title": "KARAAGAC-SALIHLI (MANISA)",
+      "magnitude": 1.4,
+      "depth_km": 10.1,
+      "date_utc": "2026-11-05 02:21:20",
+      "latitude": 38.4482,
+      "longitude": 28.1472,
+      "location_name": "Manisa"
+    },
     {
       "id": "tA5h7j4Xm9ktU",
       "title": "DONGEL-(KAHRAMANMARAS)",
@@ -462,46 +612,6 @@
       "latitude": 38.3835,
       "longitude": 37.444,
       "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "fPQ7z7R327x9a",
-      "title": "SELENDI (MANISA)",
-      "magnitude": 2.2,
-      "depth_km": 5.4,
-      "date_utc": "2026-11-04 06:20:51",
-      "latitude": 38.737,
-      "longitude": 28.8492,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "Jm6ZIyyNf6Fl0",
-      "title": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-      "magnitude": 2,
-      "depth_km": 5,
-      "date_utc": "2026-11-04 04:33:58",
-      "latitude": 38.0897,
-      "longitude": 37.8063,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "g7_GZsO6p49Um",
-      "title": "AKDENIZ",
-      "magnitude": 2.1,
-      "depth_km": 63.2,
-      "date_utc": "2026-11-04 04:24:53",
-      "latitude": 36.0577,
-      "longitude": 29.2185,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "I8H0tLtS5JcKk",
-      "title": "AKDENIZ",
-      "magnitude": 1.6,
-      "depth_km": 1.4,
-      "date_utc": "2026-11-04 04:11:14",
-      "latitude": 36.0853,
-      "longitude": 30.633,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
     }
   ]
 }
