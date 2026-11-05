@@ -1,8 +1,188 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-05T12:13:50.082321+00:00",
-  "record_count": 71,
+  "last_updated": "2026-11-05T19:55:54.867359+00:00",
+  "record_count": 66,
   "data": [
+    {
+      "id": "QzMxlghs38IDA",
+      "title": "SALMANLI-KOZAN (ADANA)",
+      "magnitude": 2.7,
+      "depth_km": 8.1,
+      "date_utc": "2026-11-05 21:24:47",
+      "latitude": 37.6098,
+      "longitude": 35.645,
+      "location_name": "Adana"
+    },
+    {
+      "id": "kxGiXZ3p3T73o",
+      "title": "GECITLI-SINCIK (ADIYAMAN)",
+      "magnitude": 2.2,
+      "depth_km": 1.8,
+      "date_utc": "2026-11-05 20:29:25",
+      "latitude": 38.1087,
+      "longitude": 38.493,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "nNvdxFC600iCB",
+      "title": "YUCEBELEN-KEMAH (ERZINCAN)",
+      "magnitude": 1.8,
+      "depth_km": 12.6,
+      "date_utc": "2026-11-05 20:04:59",
+      "latitude": 39.462,
+      "longitude": 38.9375,
+      "location_name": "Erzincan"
+    },
+    {
+      "id": "zOY8qTPw2r6oq",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.4,
+      "depth_km": 5.3,
+      "date_utc": "2026-11-05 19:19:28",
+      "latitude": 37.709,
+      "longitude": 27.146,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "6RM2Et8WhHz8t",
+      "title": "BAYIRLI-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.7,
+      "depth_km": 11.2,
+      "date_utc": "2026-11-05 19:06:38",
+      "latitude": 39.215,
+      "longitude": 28.1203,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "hOrp5dK_H9QlV",
+      "title": "GAZIKOY-SARKOY (TEKIRDAG)",
+      "magnitude": 0.6,
+      "depth_km": 10.9,
+      "date_utc": "2026-11-05 18:49:44",
+      "latitude": 40.7183,
+      "longitude": 27.3645,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "jVBcBI0KgWa8P",
+      "title": "CEVIZLI-ADAKLI (BINGOL)",
+      "magnitude": 1.1,
+      "depth_km": 15.5,
+      "date_utc": "2026-11-05 18:30:35",
+      "latitude": 39.3523,
+      "longitude": 40.4323,
+      "location_name": "Bingöl"
+    },
+    {
+      "id": "Sx2d_D09eUTk2",
+      "title": "SARIGUL-(ELAZIG)",
+      "magnitude": 1.4,
+      "depth_km": 11.9,
+      "date_utc": "2026-11-05 17:36:25",
+      "latitude": 38.6233,
+      "longitude": 38.9178,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "q3VwT6Bo0RXxy",
+      "title": "EGE DENIZI",
+      "magnitude": 2.6,
+      "depth_km": 8.6,
+      "date_utc": "2026-11-05 16:41:39",
+      "latitude": 36.5963,
+      "longitude": 25.7622,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "P8nTeRMS_i88G",
+      "title": "IGDEBAGLARI-SARKOY (TEKIRDAG)",
+      "magnitude": 1.2,
+      "depth_km": 5,
+      "date_utc": "2026-11-05 16:30:42",
+      "latitude": 40.6687,
+      "longitude": 27.126,
+      "location_name": "Tekirdağ"
+    },
+    {
+      "id": "rGeVKWIYoJ9tR",
+      "title": "YEDIPINAR-SIVRICE (ELAZIG)",
+      "magnitude": 1.9,
+      "depth_km": 6.3,
+      "date_utc": "2026-11-05 16:00:20",
+      "latitude": 38.421,
+      "longitude": 39.2055,
+      "location_name": "Elazığ"
+    },
+    {
+      "id": "gjfva7ymscraU",
+      "title": "ALACALAR-KIRKAGAC (MANISA)",
+      "magnitude": 1.9,
+      "depth_km": 6,
+      "date_utc": "2026-11-05 15:53:38",
+      "latitude": 39.2178,
+      "longitude": 27.8183,
+      "location_name": "Manisa"
+    },
+    {
+      "id": "o6034JiM3Hla4",
+      "title": "CANDARLI KORFEZI (EGE DENIZI)",
+      "magnitude": 2.2,
+      "depth_km": 7.1,
+      "date_utc": "2026-11-05 15:51:51",
+      "latitude": 38.8618,
+      "longitude": 26.8405,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "uTflhftiU3MaW",
+      "title": "AKTAS-SINDIRGI (BALIKESIR)",
+      "magnitude": 1.9,
+      "depth_km": 9.2,
+      "date_utc": "2026-11-05 15:47:24",
+      "latitude": 39.176,
+      "longitude": 28.2198,
+      "location_name": "Balıkesir"
+    },
+    {
+      "id": "jixGWddbcRiZI",
+      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+      "magnitude": 2.7,
+      "depth_km": 1.4,
+      "date_utc": "2026-11-05 15:36:10",
+      "latitude": 34.9042,
+      "longitude": 26.1403,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "6IgMuSv8_EROc",
+      "title": "GOKGOZ-KOZAN (ADANA)",
+      "magnitude": 1.9,
+      "depth_km": 6.8,
+      "date_utc": "2026-11-05 15:18:55",
+      "latitude": 37.593,
+      "longitude": 35.6205,
+      "location_name": "Adana"
+    },
+    {
+      "id": "qpxPSjP43cJxW",
+      "title": "SIRMALI-CATAK (VAN)",
+      "magnitude": 2.8,
+      "depth_km": 5,
+      "date_utc": "2026-11-05 14:42:44",
+      "latitude": 37.8285,
+      "longitude": 43.2128,
+      "location_name": "Van"
+    },
+    {
+      "id": "bP7hVfbhJfU_6",
+      "title": "DOGANALANI-KOZAN (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 14.4,
+      "date_utc": "2026-11-05 14:33:22",
+      "latitude": 37.4812,
+      "longitude": 35.5597,
+      "location_name": "Adana"
+    },
     {
       "id": "mTIGogbkiA7xB",
       "title": "CELENUSAGI-KOZAN (ADANA)",
@@ -482,236 +662,6 @@
       "latitude": 39.262,
       "longitude": 28.878,
       "location_name": "Kütahya"
-    },
-    {
-      "id": "HrV5IvbwaDSqG",
-      "title": "TURGUT-ULA (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 13.5,
-      "date_utc": "2026-11-04 22:50:20",
-      "latitude": 37.1448,
-      "longitude": 28.7605,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "kU9IDIGZxQj6I",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 2.9,
-      "depth_km": 11.8,
-      "date_utc": "2026-11-04 22:39:34",
-      "latitude": 34.4868,
-      "longitude": 25.0205,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "2_uKMgaz_fv_C",
-      "title": "BURUNUCU-SILIFKE (MERSIN)",
-      "magnitude": 0.9,
-      "depth_km": 7.3,
-      "date_utc": "2026-11-04 22:33:26",
-      "latitude": 36.35,
-      "longitude": 33.9188,
-      "location_name": "Mersin"
-    },
-    {
-      "id": "Bk81SiarCEi_y",
-      "title": "BASKOY-TIRE (IZMIR)",
-      "magnitude": 1.5,
-      "depth_km": 6.4,
-      "date_utc": "2026-11-04 22:32:09",
-      "latitude": 37.984,
-      "longitude": 27.6365,
-      "location_name": "Aydın"
-    },
-    {
-      "id": "wVOcHv0s6RTLu",
-      "title": "AKDENIZ",
-      "magnitude": 2.8,
-      "depth_km": 5.7,
-      "date_utc": "2026-11-04 22:19:32",
-      "latitude": 35.8688,
-      "longitude": 28.0753,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "v0eW5Jln7zgtj",
-      "title": "KAYALIDERE-SIMAV (KUTAHYA)",
-      "magnitude": 1.6,
-      "depth_km": 8.6,
-      "date_utc": "2026-11-04 21:54:57",
-      "latitude": 39.266,
-      "longitude": 28.905,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "ilf2nH6jGZ0Mm",
-      "title": "YEMISLI-SIMAV (KUTAHYA)",
-      "magnitude": 1.7,
-      "depth_km": 8.2,
-      "date_utc": "2026-11-04 21:53:28",
-      "latitude": 39.2508,
-      "longitude": 28.9687,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "jJndnF5JiSqup",
-      "title": "KARAKOCA-SIMAV (KUTAHYA)",
-      "magnitude": 1.5,
-      "depth_km": 8.5,
-      "date_utc": "2026-11-04 21:47:35",
-      "latitude": 39.2635,
-      "longitude": 28.9568,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "6fJ9CBzAFM8yT",
-      "title": "COBANLAR (AFYONKARAHISAR)",
-      "magnitude": 1.4,
-      "depth_km": 9.1,
-      "date_utc": "2026-11-04 21:37:07",
-      "latitude": 38.6745,
-      "longitude": 30.7867,
-      "location_name": "Afyon"
-    },
-    {
-      "id": "rXVVhpeMFdM9E",
-      "title": "KARAPINAR-CAL (DENIZLI)",
-      "magnitude": 1.5,
-      "depth_km": 12.2,
-      "date_utc": "2026-11-04 21:20:30",
-      "latitude": 37.8642,
-      "longitude": 29.3538,
-      "location_name": "Denizli"
-    },
-    {
-      "id": "Y6X9dfwXyLxeH",
-      "title": "KIRLIAKCA-YAPRAKLI (CANKIRI)",
-      "magnitude": 2.4,
-      "depth_km": 5,
-      "date_utc": "2026-11-04 21:18:08",
-      "latitude": 40.6118,
-      "longitude": 33.9247,
-      "location_name": "Çankırı"
-    },
-    {
-      "id": "VquPIu5qm4GO1",
-      "title": "TASLIYURT-PASINLER (ERZURUM)",
-      "magnitude": 1.4,
-      "depth_km": 4,
-      "date_utc": "2026-11-04 21:13:52",
-      "latitude": 39.8683,
-      "longitude": 41.7653,
-      "location_name": "Erzurum"
-    },
-    {
-      "id": "2qejmfg3sDtxz",
-      "title": "NASA-SIMAV (KUTAHYA)",
-      "magnitude": 2.2,
-      "depth_km": 16.2,
-      "date_utc": "2026-11-04 20:13:24",
-      "latitude": 39.1752,
-      "longitude": 28.9757,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "IKUTvF4JybCz6",
-      "title": "ARIKONAK-SINCIK (ADIYAMAN)",
-      "magnitude": 1.7,
-      "depth_km": 6.4,
-      "date_utc": "2026-11-04 19:05:05",
-      "latitude": 38.128,
-      "longitude": 38.562,
-      "location_name": "Adıyaman"
-    },
-    {
-      "id": "XU9rJvCiyGsEw",
-      "title": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-      "magnitude": 2.1,
-      "depth_km": 1.6,
-      "date_utc": "2026-11-04 18:46:12",
-      "latitude": 34.7052,
-      "longitude": 26.134,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "krnhP9znlStei",
-      "title": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-      "magnitude": 1.7,
-      "depth_km": 4.8,
-      "date_utc": "2026-11-04 18:04:42",
-      "latitude": 38.2148,
-      "longitude": 37.2795,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "L3bohL3HRudxB",
-      "title": "EGE DENIZI",
-      "magnitude": 2.1,
-      "depth_km": 7.5,
-      "date_utc": "2026-11-04 17:52:30",
-      "latitude": 36.682,
-      "longitude": 25.7207,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "TwVVxyRPIHpxH",
-      "title": "YAKACIK-FETHIYE (MUGLA)",
-      "magnitude": 2.2,
-      "depth_km": 6.9,
-      "date_utc": "2026-11-04 17:47:20",
-      "latitude": 36.673,
-      "longitude": 29.2695,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "P3_HOyWexNrUw",
-      "title": "EYUPLU-SAIMBEYLI (ADANA)",
-      "magnitude": 1.3,
-      "depth_km": 15.5,
-      "date_utc": "2026-11-04 17:39:58",
-      "latitude": 37.9,
-      "longitude": 36.1683,
-      "location_name": "Adana"
-    },
-    {
-      "id": "h0zZNxoPjM7_L",
-      "title": "MIDILLI ADASI (EGE DENIZI)",
-      "magnitude": 1.8,
-      "depth_km": 15.8,
-      "date_utc": "2026-11-04 17:15:07",
-      "latitude": 39.3115,
-      "longitude": 26.0757,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "6o3QDxpTDEXuI",
-      "title": "YENIDOGAN-ARALIK (IGDIR)",
-      "magnitude": 2.1,
-      "depth_km": 8.2,
-      "date_utc": "2026-11-04 17:14:02",
-      "latitude": 39.6872,
-      "longitude": 44.3753,
-      "location_name": "Iğdır"
-    },
-    {
-      "id": "lhl96BeLXbyFh",
-      "title": "EGE DENIZI",
-      "magnitude": 1.7,
-      "depth_km": 3.2,
-      "date_utc": "2026-11-04 17:11:27",
-      "latitude": 39.2867,
-      "longitude": 25.7283,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "s0AAjPuyeAXJV",
-      "title": "ONIKI ADALAR (EGE DENIZI)",
-      "magnitude": 2.2,
-      "depth_km": 5.4,
-      "date_utc": "2026-11-04 15:22:37",
-      "latitude": 36.8433,
-      "longitude": 26.966,
-      "location_name": "Ege Denizi"
     }
   ]
 }
