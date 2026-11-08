@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-11-08T13:56:57.739368+00:00",
+  "last_updated": "2026-11-08T18:36:28.572678+00:00",
   "record_count": 30,
   "data": [
     {
@@ -103,7 +103,7 @@
       "name": "Kurtboğazı Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 50.1,
+      "fill_percentage": 50.2,
       "measured_date": "08 Kasım 2026",
       "hes_capacity_mw": null
     },
@@ -119,7 +119,7 @@
       "name": "Kavşakkaya Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 40.4,
+      "fill_percentage": 40.3,
       "measured_date": "08 Kasım 2026",
       "hes_capacity_mw": null
     },
@@ -127,7 +127,7 @@
       "name": "Akyar Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 36.6,
+      "fill_percentage": 36.4,
       "measured_date": "08 Kasım 2026",
       "hes_capacity_mw": null
     },
@@ -215,7 +215,7 @@
       "name": "Kargalı Barajı",
       "havza": "Sakarya",
       "province": null,
-      "fill_percentage": 10.5,
+      "fill_percentage": 10.3,
       "measured_date": "08 Kasım 2026",
       "hes_capacity_mw": null
     },
