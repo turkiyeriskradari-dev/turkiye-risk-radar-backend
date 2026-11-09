@@ -1,14 +1,14 @@
 {
   "source": "Hava Durumu Risk Gostergesi (Open-Meteo tahminine dayali, bagimsiz hesaplama)",
-  "last_updated": "2026-11-09T08:47:49.200436+00:00",
+  "last_updated": "2026-11-09T19:16:21.642299+00:00",
   "record_count": 81,
   "data": [
     {
       "province": "Adana",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 10.3,
-      "temperature_max_c": 17.0,
+      "wind_speed_max_kmh": 10.7,
+      "temperature_max_c": 17.7,
       "temperature_min_c": 6.2,
       "alerts": []
     },
@@ -17,7 +17,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 9.4,
-      "temperature_max_c": 11.6,
+      "temperature_max_c": 12.3,
       "temperature_min_c": 2.6,
       "alerts": []
     },
@@ -25,8 +25,8 @@
       "province": "Afyonkarahisar",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 12.1,
-      "temperature_max_c": 8.3,
+      "wind_speed_max_kmh": 12.6,
+      "temperature_max_c": 9.4,
       "temperature_min_c": -4.1,
       "alerts": [
         {
@@ -39,8 +39,8 @@
       "province": "Ağrı",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 17.6,
-      "temperature_max_c": 1.7,
+      "wind_speed_max_kmh": 16.2,
+      "temperature_max_c": 2.1,
       "temperature_min_c": -3.6,
       "alerts": [
         {
@@ -53,9 +53,9 @@
       "province": "Amasya",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.2,
-      "temperature_max_c": 8.2,
-      "temperature_min_c": -0.6,
+      "wind_speed_max_kmh": 7.6,
+      "temperature_max_c": 8.7,
+      "temperature_min_c": -0.7,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -67,9 +67,9 @@
       "province": "Ankara",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 5.0,
-      "temperature_max_c": 7.0,
-      "temperature_min_c": -3.8,
+      "wind_speed_max_kmh": 5.4,
+      "temperature_max_c": 7.5,
+      "temperature_min_c": -3.9,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -82,7 +82,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 12.2,
-      "temperature_max_c": 18.0,
+      "temperature_max_c": 18.6,
       "temperature_min_c": 7.6,
       "alerts": []
     },
@@ -90,26 +90,26 @@
       "province": "Artvin",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 2.6,
-      "wind_speed_max_kmh": 8.9,
-      "temperature_max_c": 3.8,
-      "temperature_min_c": 1.8,
+      "wind_speed_max_kmh": 10.5,
+      "temperature_max_c": 4.6,
+      "temperature_min_c": 1.7,
       "alerts": []
     },
     {
       "province": "Aydın",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.0,
-      "temperature_max_c": 17.0,
+      "wind_speed_max_kmh": 8.9,
+      "temperature_max_c": 18.1,
       "temperature_min_c": 6.0,
       "alerts": []
     },
     {
       "province": "Balıkesir",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 1.6,
-      "wind_speed_max_kmh": 4.6,
-      "temperature_max_c": 10.9,
+      "precipitation_mm": 1.9,
+      "wind_speed_max_kmh": 5.6,
+      "temperature_max_c": 12.0,
       "temperature_min_c": 0.8,
       "alerts": []
     },
@@ -117,9 +117,9 @@
       "province": "Bilecik",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 16.3,
-      "temperature_max_c": 10.6,
-      "temperature_min_c": -1.0,
+      "wind_speed_max_kmh": 16.1,
+      "temperature_max_c": 11.7,
+      "temperature_min_c": -1.1,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -132,16 +132,16 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 22.0,
-      "temperature_max_c": 6.6,
-      "temperature_min_c": 0.7,
+      "temperature_max_c": 7.2,
+      "temperature_min_c": 0.6,
       "alerts": []
     },
     {
       "province": "Bitlis",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 21.0,
-      "temperature_max_c": 3.3,
+      "wind_speed_max_kmh": 25.8,
+      "temperature_max_c": 3.4,
       "temperature_min_c": -1.7,
       "alerts": [
         {
@@ -154,8 +154,8 @@
       "province": "Bolu",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 11.2,
-      "temperature_max_c": 3.4,
+      "wind_speed_max_kmh": 12.2,
+      "temperature_max_c": 3.9,
       "temperature_min_c": -5.7,
       "alerts": [
         {
@@ -168,9 +168,9 @@
       "province": "Burdur",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.9,
-      "temperature_max_c": 10.6,
-      "temperature_min_c": -1.1,
+      "wind_speed_max_kmh": 7.0,
+      "temperature_max_c": 11.4,
+      "temperature_min_c": -1.2,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -183,16 +183,16 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 6.9,
-      "temperature_max_c": 12.3,
+      "temperature_max_c": 13.4,
       "temperature_min_c": 0.1,
       "alerts": []
     },
     {
       "province": "Çanakkale",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 1.2,
-      "wind_speed_max_kmh": 7.3,
-      "temperature_max_c": 12.6,
+      "precipitation_mm": 1.5,
+      "wind_speed_max_kmh": 5.2,
+      "temperature_max_c": 12.9,
       "temperature_min_c": 5.9,
       "alerts": []
     },
@@ -201,7 +201,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 8.4,
-      "temperature_max_c": 6.4,
+      "temperature_max_c": 6.8,
       "temperature_min_c": -3.9,
       "alerts": [
         {
@@ -214,9 +214,9 @@
       "province": "Çorum",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.4,
-      "temperature_max_c": 5.7,
-      "temperature_min_c": -2.5,
+      "wind_speed_max_kmh": 8.9,
+      "temperature_max_c": 6.5,
+      "temperature_min_c": -2.6,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -229,7 +229,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 7.3,
-      "temperature_max_c": 13.5,
+      "temperature_max_c": 14.3,
       "temperature_min_c": 0.4,
       "alerts": []
     },
@@ -237,17 +237,17 @@
       "province": "Diyarbakır",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 20.6,
-      "temperature_max_c": 10.8,
+      "wind_speed_max_kmh": 19.6,
+      "temperature_max_c": 12.0,
       "temperature_min_c": 3.1,
       "alerts": []
     },
     {
       "province": "Edirne",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 4.5,
-      "wind_speed_max_kmh": 8.2,
-      "temperature_max_c": 11.2,
+      "precipitation_mm": 8.8,
+      "wind_speed_max_kmh": 8.0,
+      "temperature_max_c": 11.4,
       "temperature_min_c": -1.5,
       "alerts": [
         {
@@ -261,16 +261,16 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 19.5,
-      "temperature_max_c": 5.9,
-      "temperature_min_c": 0.2,
+      "temperature_max_c": 6.7,
+      "temperature_min_c": 0.1,
       "alerts": []
     },
     {
       "province": "Erzincan",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 14.2,
-      "temperature_max_c": 5.4,
+      "wind_speed_max_kmh": 16.3,
+      "temperature_max_c": 5.8,
       "temperature_min_c": -2.6,
       "alerts": [
         {
@@ -297,8 +297,8 @@
       "province": "Eskişehir",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 16.8,
-      "temperature_max_c": 8.1,
+      "wind_speed_max_kmh": 17.5,
+      "temperature_max_c": 8.9,
       "temperature_min_c": -3.1,
       "alerts": [
         {
@@ -311,8 +311,8 @@
       "province": "Gaziantep",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 13.9,
-      "temperature_max_c": 10.2,
+      "wind_speed_max_kmh": 15.5,
+      "temperature_max_c": 10.9,
       "temperature_min_c": 2.2,
       "alerts": []
     },
@@ -320,17 +320,17 @@
       "province": "Giresun",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 5.0,
-      "wind_speed_max_kmh": 11.2,
-      "temperature_max_c": 11.3,
-      "temperature_min_c": 5.8,
+      "wind_speed_max_kmh": 12.0,
+      "temperature_max_c": 11.8,
+      "temperature_min_c": 5.6,
       "alerts": []
     },
     {
       "province": "Gümüşhane",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 1.7,
-      "wind_speed_max_kmh": 10.1,
-      "temperature_max_c": 3.3,
+      "precipitation_mm": 1.8,
+      "wind_speed_max_kmh": 9.9,
+      "temperature_max_c": 3.6,
       "temperature_min_c": -2.1,
       "alerts": [
         {
@@ -344,7 +344,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 9.2,
-      "temperature_max_c": 5.0,
+      "temperature_max_c": 5.3,
       "temperature_min_c": -0.6,
       "alerts": [
         {
@@ -357,8 +357,8 @@
       "province": "Hatay",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 10.1,
-      "temperature_max_c": 15.3,
+      "wind_speed_max_kmh": 11.8,
+      "temperature_max_c": 16.1,
       "temperature_min_c": 3.9,
       "alerts": []
     },
@@ -367,7 +367,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 6.0,
-      "temperature_max_c": 10.1,
+      "temperature_max_c": 10.9,
       "temperature_min_c": -2.3,
       "alerts": [
         {
@@ -380,26 +380,26 @@
       "province": "Mersin",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.0,
-      "temperature_max_c": 16.2,
+      "wind_speed_max_kmh": 10.5,
+      "temperature_max_c": 16.7,
       "temperature_min_c": 6.4,
       "alerts": []
     },
     {
       "province": "İstanbul",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 0.1,
-      "wind_speed_max_kmh": 6.4,
-      "temperature_max_c": 12.4,
-      "temperature_min_c": 1.8,
+      "precipitation_mm": 0.4,
+      "wind_speed_max_kmh": 7.2,
+      "temperature_max_c": 13.3,
+      "temperature_min_c": 1.7,
       "alerts": []
     },
     {
       "province": "İzmir",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 0.3,
-      "wind_speed_max_kmh": 6.3,
-      "temperature_max_c": 16.5,
+      "precipitation_mm": 1.6,
+      "wind_speed_max_kmh": 6.8,
+      "temperature_max_c": 17.9,
       "temperature_min_c": 4.1,
       "alerts": []
     },
@@ -407,9 +407,9 @@
       "province": "Kars",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 25.5,
-      "temperature_max_c": 0.4,
-      "temperature_min_c": -4.3,
+      "wind_speed_max_kmh": 24.9,
+      "temperature_max_c": 0.8,
+      "temperature_min_c": -4.1,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -421,8 +421,8 @@
       "province": "Kastamonu",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.4,
-      "temperature_max_c": 9.0,
+      "wind_speed_max_kmh": 7.2,
+      "temperature_max_c": 9.1,
       "temperature_min_c": -4.4,
       "alerts": [
         {
@@ -436,7 +436,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 5.1,
-      "temperature_max_c": 5.9,
+      "temperature_max_c": 6.3,
       "temperature_min_c": -3.9,
       "alerts": [
         {
@@ -448,9 +448,9 @@
     {
       "province": "Kırklareli",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 5.5,
-      "wind_speed_max_kmh": 9.1,
-      "temperature_max_c": 10.3,
+      "precipitation_mm": 4.9,
+      "wind_speed_max_kmh": 9.0,
+      "temperature_max_c": 10.7,
       "temperature_min_c": -0.4,
       "alerts": [
         {
@@ -463,8 +463,8 @@
       "province": "Kırşehir",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.4,
-      "temperature_max_c": 6.1,
+      "wind_speed_max_kmh": 5.9,
+      "temperature_max_c": 6.3,
       "temperature_min_c": -4.5,
       "alerts": [
         {
@@ -477,8 +477,8 @@
       "province": "Kocaeli",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 4.7,
-      "temperature_max_c": 10.4,
+      "wind_speed_max_kmh": 6.5,
+      "temperature_max_c": 11.1,
       "temperature_min_c": -0.6,
       "alerts": [
         {
@@ -491,9 +491,9 @@
       "province": "Konya",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 5.7,
-      "temperature_max_c": 7.4,
-      "temperature_min_c": -3.2,
+      "wind_speed_max_kmh": 6.8,
+      "temperature_max_c": 8.0,
+      "temperature_min_c": -3.3,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -506,7 +506,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 10.2,
-      "temperature_max_c": 9.4,
+      "temperature_max_c": 10.3,
       "temperature_min_c": -3.1,
       "alerts": [
         {
@@ -520,16 +520,16 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 15.9,
-      "temperature_max_c": 7.2,
+      "temperature_max_c": 7.8,
       "temperature_min_c": 0.8,
       "alerts": []
     },
     {
       "province": "Manisa",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 0.7,
+      "precipitation_mm": 1.5,
       "wind_speed_max_kmh": 4.4,
-      "temperature_max_c": 13.0,
+      "temperature_max_c": 13.9,
       "temperature_min_c": 0.7,
       "alerts": []
     },
@@ -537,8 +537,8 @@
       "province": "Kahramanmaraş",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.8,
-      "temperature_max_c": 13.0,
+      "wind_speed_max_kmh": 7.1,
+      "temperature_max_c": 13.7,
       "temperature_min_c": 1.5,
       "alerts": []
     },
@@ -546,8 +546,8 @@
       "province": "Mardin",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 28.7,
-      "temperature_max_c": 8.9,
+      "wind_speed_max_kmh": 29.1,
+      "temperature_max_c": 9.6,
       "temperature_min_c": 2.3,
       "alerts": []
     },
@@ -556,7 +556,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 12.7,
-      "temperature_max_c": 14.0,
+      "temperature_max_c": 14.6,
       "temperature_min_c": 3.8,
       "alerts": []
     },
@@ -564,8 +564,8 @@
       "province": "Muş",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 10.5,
-      "temperature_max_c": -1.3,
+      "wind_speed_max_kmh": 10.7,
+      "temperature_max_c": -1.2,
       "temperature_min_c": -6.4,
       "alerts": [
         {
@@ -578,8 +578,8 @@
       "province": "Nevşehir",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.5,
-      "temperature_max_c": 6.0,
+      "wind_speed_max_kmh": 6.2,
+      "temperature_max_c": 6.4,
       "temperature_min_c": -3.8,
       "alerts": [
         {
@@ -593,7 +593,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 13.6,
-      "temperature_max_c": 6.5,
+      "temperature_max_c": 6.7,
       "temperature_min_c": -3.7,
       "alerts": [
         {
@@ -606,26 +606,26 @@
       "province": "Ordu",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 1.2,
-      "wind_speed_max_kmh": 10.8,
-      "temperature_max_c": 12.5,
-      "temperature_min_c": 4.1,
+      "wind_speed_max_kmh": 10.6,
+      "temperature_max_c": 12.6,
+      "temperature_min_c": 4.2,
       "alerts": []
     },
     {
       "province": "Rize",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 18.9,
-      "wind_speed_max_kmh": 17.0,
-      "temperature_max_c": 8.7,
-      "temperature_min_c": 5.8,
+      "precipitation_mm": 16.7,
+      "wind_speed_max_kmh": 16.6,
+      "temperature_max_c": 9.4,
+      "temperature_min_c": 5.9,
       "alerts": []
     },
     {
       "province": "Sakarya",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 5.9,
-      "temperature_max_c": 13.4,
+      "wind_speed_max_kmh": 6.8,
+      "temperature_max_c": 14.0,
       "temperature_min_c": 1.2,
       "alerts": []
     },
@@ -633,8 +633,8 @@
       "province": "Samsun",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 16.1,
-      "temperature_max_c": 13.0,
+      "wind_speed_max_kmh": 16.8,
+      "temperature_max_c": 13.5,
       "temperature_min_c": 4.3,
       "alerts": []
     },
@@ -642,8 +642,8 @@
       "province": "Siirt",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 17.3,
-      "temperature_max_c": 9.8,
+      "wind_speed_max_kmh": 12.2,
+      "temperature_max_c": 10.4,
       "temperature_min_c": 1.5,
       "alerts": []
     },
@@ -652,7 +652,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 11.2,
-      "temperature_max_c": 12.1,
+      "temperature_max_c": 12.5,
       "temperature_min_c": 5.3,
       "alerts": []
     },
@@ -660,8 +660,8 @@
       "province": "Sivas",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.8,
-      "temperature_max_c": 3.2,
+      "wind_speed_max_kmh": 6.5,
+      "temperature_max_c": 3.4,
       "temperature_min_c": -5.1,
       "alerts": [
         {
@@ -673,9 +673,9 @@
     {
       "province": "Tekirdağ",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 1.9,
-      "wind_speed_max_kmh": 10.7,
-      "temperature_max_c": 12.0,
+      "precipitation_mm": 4.0,
+      "wind_speed_max_kmh": 11.0,
+      "temperature_max_c": 12.5,
       "temperature_min_c": 2.6,
       "alerts": []
     },
@@ -683,8 +683,8 @@
       "province": "Tokat",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.3,
-      "temperature_max_c": 6.9,
+      "wind_speed_max_kmh": 7.1,
+      "temperature_max_c": 7.5,
       "temperature_min_c": -1.6,
       "alerts": [
         {
@@ -696,18 +696,18 @@
     {
       "province": "Trabzon",
       "forecast_date": "2026-11-09",
-      "precipitation_mm": 1.5,
+      "precipitation_mm": 1.8,
       "wind_speed_max_kmh": 15.1,
-      "temperature_max_c": 10.7,
-      "temperature_min_c": 6.4,
+      "temperature_max_c": 11.0,
+      "temperature_min_c": 6.5,
       "alerts": []
     },
     {
       "province": "Tunceli",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 10.6,
-      "temperature_max_c": 7.9,
+      "wind_speed_max_kmh": 10.2,
+      "temperature_max_c": 8.5,
       "temperature_min_c": 0.8,
       "alerts": []
     },
@@ -715,18 +715,18 @@
       "province": "Şanlıurfa",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 20.2,
-      "temperature_max_c": 12.4,
-      "temperature_min_c": 4.4,
+      "wind_speed_max_kmh": 20.1,
+      "temperature_max_c": 13.4,
+      "temperature_min_c": 4.5,
       "alerts": []
     },
     {
       "province": "Uşak",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.9,
-      "temperature_max_c": 10.0,
-      "temperature_min_c": -1.1,
+      "wind_speed_max_kmh": 7.6,
+      "temperature_max_c": 11.1,
+      "temperature_min_c": -1.2,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -738,8 +738,8 @@
       "province": "Van",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.6,
-      "wind_speed_max_kmh": 13.2,
-      "temperature_max_c": 1.8,
+      "wind_speed_max_kmh": 12.4,
+      "temperature_max_c": 1.5,
       "temperature_min_c": -2.3,
       "alerts": [
         {
@@ -752,8 +752,8 @@
       "province": "Yozgat",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.8,
-      "temperature_max_c": 2.7,
+      "wind_speed_max_kmh": 8.5,
+      "temperature_max_c": 3.2,
       "temperature_min_c": -4.1,
       "alerts": [
         {
@@ -766,8 +766,8 @@
       "province": "Zonguldak",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.7,
-      "temperature_max_c": 11.8,
+      "wind_speed_max_kmh": 9.9,
+      "temperature_max_c": 12.2,
       "temperature_min_c": 1.1,
       "alerts": []
     },
@@ -776,8 +776,8 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 5.2,
-      "temperature_max_c": 7.4,
-      "temperature_min_c": -2.8,
+      "temperature_max_c": 8.0,
+      "temperature_min_c": -2.9,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -789,9 +789,9 @@
       "province": "Bayburt",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 22.7,
-      "temperature_max_c": 0.9,
-      "temperature_min_c": -4.1,
+      "wind_speed_max_kmh": 23.9,
+      "temperature_max_c": 1.3,
+      "temperature_min_c": -3.9,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -803,9 +803,9 @@
       "province": "Karaman",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.1,
-      "temperature_max_c": 7.1,
-      "temperature_min_c": -2.6,
+      "wind_speed_max_kmh": 7.2,
+      "temperature_max_c": 7.6,
+      "temperature_min_c": -2.7,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -817,8 +817,8 @@
       "province": "Kırıkkale",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.5,
-      "temperature_max_c": 7.3,
+      "wind_speed_max_kmh": 5.0,
+      "temperature_max_c": 7.9,
       "temperature_min_c": -3.6,
       "alerts": [
         {
@@ -831,8 +831,8 @@
       "province": "Batman",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.8,
-      "temperature_max_c": 11.8,
+      "wind_speed_max_kmh": 7.4,
+      "temperature_max_c": 12.5,
       "temperature_min_c": 1.8,
       "alerts": []
     },
@@ -840,8 +840,8 @@
       "province": "Şırnak",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 13.3,
-      "temperature_max_c": 9.0,
+      "wind_speed_max_kmh": 11.8,
+      "temperature_max_c": 9.4,
       "temperature_min_c": 1.4,
       "alerts": []
     },
@@ -850,7 +850,7 @@
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
       "wind_speed_max_kmh": 9.2,
-      "temperature_max_c": 9.5,
+      "temperature_max_c": 10.2,
       "temperature_min_c": -1.4,
       "alerts": [
         {
@@ -863,9 +863,9 @@
       "province": "Ardahan",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 20.0,
-      "temperature_max_c": -1.1,
-      "temperature_min_c": -5.8,
+      "wind_speed_max_kmh": 21.6,
+      "temperature_max_c": -0.6,
+      "temperature_min_c": -5.9,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
@@ -877,17 +877,17 @@
       "province": "Iğdır",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 21.1,
-      "temperature_max_c": 9.0,
-      "temperature_min_c": 0.3,
+      "wind_speed_max_kmh": 21.9,
+      "temperature_max_c": 9.4,
+      "temperature_min_c": 0.6,
       "alerts": []
     },
     {
       "province": "Yalova",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 9.5,
-      "temperature_max_c": 14.2,
+      "wind_speed_max_kmh": 11.5,
+      "temperature_max_c": 15.1,
       "temperature_min_c": 3.4,
       "alerts": []
     },
@@ -895,8 +895,8 @@
       "province": "Karabük",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.1,
-      "temperature_max_c": 10.8,
+      "wind_speed_max_kmh": 6.0,
+      "temperature_max_c": 11.1,
       "temperature_min_c": -1.7,
       "alerts": [
         {
@@ -909,8 +909,8 @@
       "province": "Kilis",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 8.1,
-      "temperature_max_c": 12.2,
+      "wind_speed_max_kmh": 10.2,
+      "temperature_max_c": 12.8,
       "temperature_min_c": 3.6,
       "alerts": []
     },
@@ -918,8 +918,8 @@
       "province": "Osmaniye",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 7.6,
-      "temperature_max_c": 16.2,
+      "wind_speed_max_kmh": 8.0,
+      "temperature_max_c": 17.4,
       "temperature_min_c": 3.5,
       "alerts": []
     },
@@ -927,9 +927,9 @@
       "province": "Düzce",
       "forecast_date": "2026-11-09",
       "precipitation_mm": 0.0,
-      "wind_speed_max_kmh": 6.1,
-      "temperature_max_c": 11.7,
-      "temperature_min_c": -2.0,
+      "wind_speed_max_kmh": 7.2,
+      "temperature_max_c": 12.5,
+      "temperature_min_c": -2.1,
       "alerts": [
         {
           "type": "Aşırı Soğuk",
