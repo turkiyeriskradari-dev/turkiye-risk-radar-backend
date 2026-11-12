@@ -1,6 +1,6 @@
 {
   "source": "Türkiye Barajlar (barajdolulukoranlari.com) - ÜÇÜNCÜ TARAF, GAYRİRESMİ",
-  "last_updated": "2026-11-12T12:39:45.622410+00:00",
+  "last_updated": "2026-11-12T20:25:49.862932+00:00",
   "record_count": 30,
   "data": [
     {
@@ -55,7 +55,7 @@
       "name": "Doğancı Ve Nilüfer Barajı",
       "havza": "Susurluk",
       "province": null,
-      "fill_percentage": 71.1,
+      "fill_percentage": 71.4,
       "measured_date": "12 Kasım 2026",
       "hes_capacity_mw": null
     },
