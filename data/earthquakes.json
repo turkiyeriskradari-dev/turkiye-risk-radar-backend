@@ -1,8 +1,68 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-12T20:25:45.911419+00:00",
-  "record_count": 52,
+  "last_updated": "2026-11-13T01:16:29.440657+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "IQo5xIg3aa0JT",
+      "title": "YETIMLI-ALADAG (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 7.3,
+      "date_utc": "2026-11-13 03:14:53",
+      "latitude": 37.6377,
+      "longitude": 35.3695,
+      "location_name": "Adana"
+    },
+    {
+      "id": "hQe1kmOzf2jcj",
+      "title": "AKDENIZ",
+      "magnitude": 3,
+      "depth_km": 22.6,
+      "date_utc": "2026-11-13 02:01:49",
+      "latitude": 36.0622,
+      "longitude": 28.689,
+      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
+    },
+    {
+      "id": "JC3zesjQrE3lK",
+      "title": "KULAHLI-GURUN (SIVAS)",
+      "magnitude": 1.9,
+      "depth_km": 7.1,
+      "date_utc": "2026-11-13 00:24:28",
+      "latitude": 38.8217,
+      "longitude": 37.4462,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "vXgr8REQazE5x",
+      "title": "SEKLI-BEYPAZARI (ANKARA)",
+      "magnitude": 2.5,
+      "depth_km": 8.6,
+      "date_utc": "2026-11-12 23:38:51",
+      "latitude": 40.1785,
+      "longitude": 31.7338,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "kJU1EZleekCKn",
+      "title": "KALE-ARSUZ (HATAY)",
+      "magnitude": 1.9,
+      "depth_km": 5.5,
+      "date_utc": "2026-11-12 23:24:30",
+      "latitude": 36.2427,
+      "longitude": 35.7803,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "UUElHC2ZlrXxW",
+      "title": "KARASAZ-(ELAZIG)",
+      "magnitude": 2.8,
+      "depth_km": 5,
+      "date_utc": "2026-11-12 23:12:21",
+      "latitude": 38.5712,
+      "longitude": 39.4423,
+      "location_name": "Elazığ"
+    },
     {
       "id": "haksxpJTWrY4i",
       "title": "OGULDERE-(BINGOL)",
@@ -432,96 +492,6 @@
       "latitude": 34.6805,
       "longitude": 28.2638,
       "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
-    },
-    {
-      "id": "aI9pmDgJqSfn5",
-      "title": "KURTDERE-HISARCIK (KUTAHYA)",
-      "magnitude": 1.4,
-      "depth_km": 7,
-      "date_utc": "2026-11-12 02:36:30",
-      "latitude": 39.1752,
-      "longitude": 29.1528,
-      "location_name": "Kütahya"
-    },
-    {
-      "id": "avczSHsf0Zhng",
-      "title": "NIKSAR (TOKAT)",
-      "magnitude": 3,
-      "depth_km": 2.1,
-      "date_utc": "2026-11-12 02:31:55",
-      "latitude": 40.604,
-      "longitude": 36.9455,
-      "location_name": "Tokat"
-    },
-    {
-      "id": "olwcrO5p06J5k",
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.1,
-      "depth_km": 9.5,
-      "date_utc": "2026-11-12 01:51:22",
-      "latitude": 39.2238,
-      "longitude": 28.0905,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "7KLnIGA8ccRXR",
-      "title": "AKDAM-KOZAN (ADANA)",
-      "magnitude": 2.7,
-      "depth_km": 7.3,
-      "date_utc": "2026-11-12 01:13:12",
-      "latitude": 37.5225,
-      "longitude": 35.6183,
-      "location_name": "Adana"
-    },
-    {
-      "id": "rAjQTOx89PT5q",
-      "title": "KUSHANE-(ELAZIG)",
-      "magnitude": 2.2,
-      "depth_km": 3,
-      "date_utc": "2026-11-12 00:57:04",
-      "latitude": 38.5782,
-      "longitude": 39.7088,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "hVSNYSwgDAEOb",
-      "title": "KARACURUN-YAYLADAGI (HATAY)",
-      "magnitude": 1.7,
-      "depth_km": 2.5,
-      "date_utc": "2026-11-12 00:29:38",
-      "latitude": 36.036,
-      "longitude": 36.0553,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "ldzPkDVX0nO_O",
-      "title": "ENIZCAKIRI-KOZAN (ADANA)",
-      "magnitude": 1.6,
-      "depth_km": 5.3,
-      "date_utc": "2026-11-12 00:23:01",
-      "latitude": 37.5183,
-      "longitude": 35.6115,
-      "location_name": "Adana"
-    },
-    {
-      "id": "ysJkWuEjFJAT7",
-      "title": "ENIZCAKIRI-KOZAN (ADANA)",
-      "magnitude": 2,
-      "depth_km": 2.7,
-      "date_utc": "2026-11-12 00:22:30",
-      "latitude": 37.515,
-      "longitude": 35.605,
-      "location_name": "Adana"
-    },
-    {
-      "id": "9mIdFrYgdKKN9",
-      "title": "KOYUNGOLU-OVACIK (TUNCELI)",
-      "magnitude": 1.7,
-      "depth_km": 3.7,
-      "date_utc": "2026-11-11 23:32:16",
-      "latitude": 39.3977,
-      "longitude": 39.1012,
-      "location_name": "Tunceli"
     }
   ]
 }
