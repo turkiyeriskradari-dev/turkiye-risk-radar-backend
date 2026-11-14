@@ -1,8 +1,98 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-14T15:45:53.611939+00:00",
-  "record_count": 52,
+  "last_updated": "2026-11-14T20:11:50.026588+00:00",
+  "record_count": 49,
   "data": [
+    {
+      "id": "CCeRzc7JG9dw_",
+      "title": "KARATERZI-DOGANSEHIR (MALATYA)",
+      "magnitude": 1.3,
+      "depth_km": 12.6,
+      "date_utc": "2026-11-14 22:42:01",
+      "latitude": 38.1855,
+      "longitude": 37.9105,
+      "location_name": "Malatya"
+    },
+    {
+      "id": "hXfoo5waWQauG",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 1.6,
+      "depth_km": 5.2,
+      "date_utc": "2026-11-14 20:48:21",
+      "latitude": 37.537,
+      "longitude": 35.5987,
+      "location_name": "Adana"
+    },
+    {
+      "id": "E01qrXwT5uleS",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 2.4,
+      "depth_km": 5.4,
+      "date_utc": "2026-11-14 20:44:32",
+      "latitude": 37.5515,
+      "longitude": 35.6212,
+      "location_name": "Adana"
+    },
+    {
+      "id": "C1MNGkU4LduHL",
+      "title": "ENIZCAKIRI-KOZAN (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 9.4,
+      "date_utc": "2026-11-14 20:27:45",
+      "latitude": 37.5282,
+      "longitude": 35.5975,
+      "location_name": "Adana"
+    },
+    {
+      "id": "spakf3IUPD02k",
+      "title": "AKDENIZ",
+      "magnitude": 2.6,
+      "depth_km": 18.2,
+      "date_utc": "2026-11-14 20:12:58",
+      "latitude": 34.8853,
+      "longitude": 32.9225,
+      "location_name": "Kıbrıs"
+    },
+    {
+      "id": "zRZrePqdDP6Q3",
+      "title": "BABAKALE-AYVACIK (CANAKKALE)",
+      "magnitude": 2,
+      "depth_km": 7.5,
+      "date_utc": "2026-11-14 20:02:22",
+      "latitude": 39.4303,
+      "longitude": 26.1068,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "KoioiFbj6dIma",
+      "title": "BABAKALE-AYVACIK (CANAKKALE)",
+      "magnitude": 1.7,
+      "depth_km": 5.2,
+      "date_utc": "2026-11-14 20:01:39",
+      "latitude": 39.4277,
+      "longitude": 26.0922,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "I6IP1taWNSXLi",
+      "title": "KUYTUCAK-KOZAN (ADANA)",
+      "magnitude": 1.3,
+      "depth_km": 24.1,
+      "date_utc": "2026-11-14 19:48:32",
+      "latitude": 37.582,
+      "longitude": 35.6822,
+      "location_name": "Adana"
+    },
+    {
+      "id": "vq8NJWFaan0cs",
+      "title": "AKARCA-KOZAN (ADANA)",
+      "magnitude": 2.3,
+      "depth_km": 5,
+      "date_utc": "2026-11-14 19:33:38",
+      "latitude": 37.5655,
+      "longitude": 35.6217,
+      "location_name": "Adana"
+    },
     {
       "id": "ZarOVNKESp1w3",
       "title": "YETIMLI-ALADAG (ADANA)",
@@ -402,126 +492,6 @@
       "latitude": 39.1955,
       "longitude": 27.9898,
       "location_name": "Manisa"
-    },
-    {
-      "id": "xiKYQ2LFg0otI",
-      "title": "YENIDAMLAR-KALE (MALATYA)",
-      "magnitude": 1.4,
-      "depth_km": 19.8,
-      "date_utc": "2026-11-13 22:49:20",
-      "latitude": 38.3703,
-      "longitude": 38.8533,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "sBOmmDoKZ2NnA",
-      "title": "TOKMANAKLI-FEKE (ADANA)",
-      "magnitude": 1.7,
-      "depth_km": 2.2,
-      "date_utc": "2026-11-13 22:34:12",
-      "latitude": 37.7233,
-      "longitude": 36.0413,
-      "location_name": "Adana"
-    },
-    {
-      "id": "JFqRfUBZLpQoc",
-      "title": "AKDENIZ",
-      "magnitude": 1.5,
-      "depth_km": 21.4,
-      "date_utc": "2026-11-13 22:20:13",
-      "latitude": 36.0402,
-      "longitude": 29.1853,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "QasRQ3fQ0J55s",
-      "title": "KUCUKBUKU-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.6,
-      "depth_km": 7.5,
-      "date_utc": "2026-11-13 22:18:35",
-      "latitude": 39.2832,
-      "longitude": 28.0817,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "NEfIM0OianBC7",
-      "title": "KOZLU-SINDIRGI (BALIKESIR)",
-      "magnitude": 2,
-      "depth_km": 8.6,
-      "date_utc": "2026-11-13 22:17:52",
-      "latitude": 39.245,
-      "longitude": 28.0838,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "AJVyavRKQk4jP",
-      "title": "ORMANICI-PUTURGE (MALATYA)",
-      "magnitude": 1.1,
-      "depth_km": 23.7,
-      "date_utc": "2026-11-13 21:56:58",
-      "latitude": 38.2313,
-      "longitude": 38.7593,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "sIMlWRBt6yfMt",
-      "title": "TERZIKOY-(KASTAMONU)",
-      "magnitude": 1.5,
-      "depth_km": 7.4,
-      "date_utc": "2026-11-13 21:41:22",
-      "latitude": 41.2282,
-      "longitude": 33.8093,
-      "location_name": "Kastamonu"
-    },
-    {
-      "id": "262LXW37JGzZ2",
-      "title": "YUVALAR-CAN (CANAKKALE)",
-      "magnitude": 1.7,
-      "depth_km": 25.2,
-      "date_utc": "2026-11-13 21:31:08",
-      "latitude": 40.0778,
-      "longitude": 27.0765,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "9bitgM3LJJVCw",
-      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
-      "magnitude": 1.9,
-      "depth_km": 10.9,
-      "date_utc": "2026-11-13 21:26:12",
-      "latitude": 40.1785,
-      "longitude": 31.7415,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "4nBz6tEJGU7r7",
-      "title": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 3.2,
-      "date_utc": "2026-11-13 20:36:43",
-      "latitude": 37.9658,
-      "longitude": 36.325,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "m81S6QHzoRFz3",
-      "title": "AYVACIK-SAIMBEYLI (ADANA)",
-      "magnitude": 1.3,
-      "depth_km": 16.5,
-      "date_utc": "2026-11-13 20:34:11",
-      "latitude": 37.7838,
-      "longitude": 36.1478,
-      "location_name": "Adana"
-    },
-    {
-      "id": "6fnmgSgMBbTv2",
-      "title": "YEMISENDERE-(MUGLA)",
-      "magnitude": 1.1,
-      "depth_km": 19.3,
-      "date_utc": "2026-11-13 20:03:43",
-      "latitude": 37.2397,
-      "longitude": 28.5772,
-      "location_name": "Muğla"
     }
   ]
 }
