@@ -1,8 +1,128 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-13T22:02:16.764531+00:00",
-  "record_count": 43,
+  "last_updated": "2026-11-14T02:21:07.632031+00:00",
+  "record_count": 52,
   "data": [
+    {
+      "id": "nBY_MicgI9LRd",
+      "title": "YETIMLI-ALADAG (ADANA)",
+      "magnitude": 1.8,
+      "depth_km": 3.2,
+      "date_utc": "2026-11-14 04:47:43",
+      "latitude": 37.6457,
+      "longitude": 35.3623,
+      "location_name": "Adana"
+    },
+    {
+      "id": "Z2QEmGhQwH_be",
+      "title": "YAYLAKENT-ZILE (TOKAT)",
+      "magnitude": 1.3,
+      "depth_km": 14.5,
+      "date_utc": "2026-11-14 04:13:39",
+      "latitude": 40.1157,
+      "longitude": 36.0903,
+      "location_name": "Tokat"
+    },
+    {
+      "id": "1MK0SvSxzfwnp",
+      "title": "EGE DENIZI",
+      "magnitude": 2.7,
+      "depth_km": 135,
+      "date_utc": "2026-11-14 04:12:09",
+      "latitude": 36.6147,
+      "longitude": 26.6627,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "gVCHBPW3pGQYv",
+      "title": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+      "magnitude": 1.7,
+      "depth_km": 9.1,
+      "date_utc": "2026-11-14 03:56:53",
+      "latitude": 38.1175,
+      "longitude": 36.623,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "NltXdn6h8Le2c",
+      "title": "HAMZABEY-SIMAV (KUTAHYA)",
+      "magnitude": 1.9,
+      "depth_km": 15.2,
+      "date_utc": "2026-11-14 03:55:46",
+      "latitude": 39.1933,
+      "longitude": 28.933,
+      "location_name": "Kütahya"
+    },
+    {
+      "id": "Hmdtyab9wicuo",
+      "title": "KOPRUYOLU-BULANIK (MUS)",
+      "magnitude": 1.6,
+      "depth_km": 7.3,
+      "date_utc": "2026-11-14 03:52:30",
+      "latitude": 39.1375,
+      "longitude": 42.0373,
+      "location_name": "Muş"
+    },
+    {
+      "id": "zi2ZXYD9le_Jg",
+      "title": "KUMYAKA-MUDANYA (BURSA)",
+      "magnitude": 4,
+      "depth_km": 19.6,
+      "date_utc": "2026-11-14 03:43:58",
+      "latitude": 40.4105,
+      "longitude": 28.8412,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "pdlBDH6nC5i39",
+      "title": "BELPINAR-ZILE (TOKAT)",
+      "magnitude": 1.7,
+      "depth_km": 2.9,
+      "date_utc": "2026-11-14 03:08:11",
+      "latitude": 40.1977,
+      "longitude": 35.9617,
+      "location_name": "Tokat"
+    },
+    {
+      "id": "QyA6JRTLEeDgb",
+      "title": "MARMARA DENIZI",
+      "magnitude": 0.9,
+      "depth_km": 8.6,
+      "date_utc": "2026-11-14 03:06:53",
+      "latitude": 40.7848,
+      "longitude": 27.6608,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "_z46BzoNDFP_Y",
+      "title": "YETIMLI-ALADAG (ADANA)",
+      "magnitude": 1.1,
+      "depth_km": 14.3,
+      "date_utc": "2026-11-14 02:06:16",
+      "latitude": 37.6398,
+      "longitude": 35.38,
+      "location_name": "Adana"
+    },
+    {
+      "id": "gktqYmqZfFWsq",
+      "title": "ESKIYOL-KELKIT (GUMUSHANE)",
+      "magnitude": 1.7,
+      "depth_km": 7.6,
+      "date_utc": "2026-11-14 01:56:29",
+      "latitude": 39.9545,
+      "longitude": 39.5925,
+      "location_name": "Gümüşhane"
+    },
+    {
+      "id": "7y2Eqtflf6lVB",
+      "title": "ZORLAR-FETHIYE (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 3.1,
+      "date_utc": "2026-11-14 01:37:13",
+      "latitude": 36.6728,
+      "longitude": 29.3245,
+      "location_name": "Muğla"
+    },
     {
       "id": "AzHi6w8XnIrSk",
       "title": "CUKURBAG-CAMARDI (NIGDE)",
@@ -402,36 +522,6 @@
       "latitude": 37.5382,
       "longitude": 35.636,
       "location_name": "Adana"
-    },
-    {
-      "id": "KgMfzAAkXgZsG",
-      "title": "BAGKOY-AKCADAG (MALATYA)",
-      "magnitude": 1.7,
-      "depth_km": 11.5,
-      "date_utc": "2026-11-13 03:35:33",
-      "latitude": 38.4607,
-      "longitude": 37.8977,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "IQo5xIg3aa0JT",
-      "title": "YETIMLI-ALADAG (ADANA)",
-      "magnitude": 1.8,
-      "depth_km": 7.3,
-      "date_utc": "2026-11-13 03:14:53",
-      "latitude": 37.6377,
-      "longitude": 35.3695,
-      "location_name": "Adana"
-    },
-    {
-      "id": "hQe1kmOzf2jcj",
-      "title": "AKDENIZ",
-      "magnitude": 3,
-      "depth_km": 22.6,
-      "date_utc": "2026-11-13 02:01:49",
-      "latitude": 36.0622,
-      "longitude": 28.689,
-      "location_name": "Akdeniz Açıkları (Türkiye - Yunanistan)"
     }
   ]
 }
