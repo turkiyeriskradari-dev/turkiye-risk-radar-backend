@@ -1,8 +1,68 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-14T20:11:50.026588+00:00",
+  "last_updated": "2026-11-14T23:53:13.366427+00:00",
   "record_count": 49,
   "data": [
+    {
+      "id": "xwPPf5GT22mDS",
+      "title": "RECEPKOY-CELIKHAN (ADIYAMAN)",
+      "magnitude": 1.4,
+      "depth_km": 7.9,
+      "date_utc": "2026-11-15 01:29:16",
+      "latitude": 37.9922,
+      "longitude": 38.3713,
+      "location_name": "Adıyaman"
+    },
+    {
+      "id": "I_hrvh86HVxYr",
+      "title": "KOSELER-OVACIK (TUNCELI)",
+      "magnitude": 3.3,
+      "depth_km": 5,
+      "date_utc": "2026-11-15 01:22:41",
+      "latitude": 39.4082,
+      "longitude": 39.1153,
+      "location_name": "Tunceli"
+    },
+    {
+      "id": "0dhVMHJYKMeO_",
+      "title": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
+      "magnitude": 2.3,
+      "depth_km": 9,
+      "date_utc": "2026-11-15 01:01:14",
+      "latitude": 38.7232,
+      "longitude": 36.5557,
+      "location_name": "Kayseri"
+    },
+    {
+      "id": "CTH_NwAIMs8ZT",
+      "title": "ETYEMEZ-KANGAL (SIVAS)",
+      "magnitude": 1.6,
+      "depth_km": 10,
+      "date_utc": "2026-11-15 00:52:22",
+      "latitude": 39.0148,
+      "longitude": 37.4225,
+      "location_name": "Sivas"
+    },
+    {
+      "id": "cYEUW8NMBmK7z",
+      "title": "KALEBOGAZI-OLTU (ERZURUM)",
+      "magnitude": 1.4,
+      "depth_km": 10.7,
+      "date_utc": "2026-11-15 00:13:31",
+      "latitude": 40.5225,
+      "longitude": 41.8995,
+      "location_name": "Erzurum"
+    },
+    {
+      "id": "aKjHHHHkgYTiB",
+      "title": "AKDAM-KOZAN (ADANA)",
+      "magnitude": 1.4,
+      "depth_km": 8,
+      "date_utc": "2026-11-14 23:19:24",
+      "latitude": 37.5368,
+      "longitude": 35.6252,
+      "location_name": "Adana"
+    },
     {
       "id": "CCeRzc7JG9dw_",
       "title": "KARATERZI-DOGANSEHIR (MALATYA)",
@@ -432,66 +492,6 @@
       "latitude": 40.7848,
       "longitude": 27.6608,
       "location_name": "Marmara Denizi"
-    },
-    {
-      "id": "_z46BzoNDFP_Y",
-      "title": "YETIMLI-ALADAG (ADANA)",
-      "magnitude": 1.1,
-      "depth_km": 14.3,
-      "date_utc": "2026-11-14 02:06:16",
-      "latitude": 37.6398,
-      "longitude": 35.38,
-      "location_name": "Adana"
-    },
-    {
-      "id": "gktqYmqZfFWsq",
-      "title": "ESKIYOL-KELKIT (GUMUSHANE)",
-      "magnitude": 1.7,
-      "depth_km": 7.6,
-      "date_utc": "2026-11-14 01:56:29",
-      "latitude": 39.9545,
-      "longitude": 39.5925,
-      "location_name": "Gümüşhane"
-    },
-    {
-      "id": "7y2Eqtflf6lVB",
-      "title": "ZORLAR-FETHIYE (MUGLA)",
-      "magnitude": 1.7,
-      "depth_km": 3.1,
-      "date_utc": "2026-11-14 01:37:13",
-      "latitude": 36.6728,
-      "longitude": 29.3245,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "AzHi6w8XnIrSk",
-      "title": "CUKURBAG-CAMARDI (NIGDE)",
-      "magnitude": 1,
-      "depth_km": 5.2,
-      "date_utc": "2026-11-14 00:36:19",
-      "latitude": 37.8125,
-      "longitude": 35.109,
-      "location_name": "Niğde"
-    },
-    {
-      "id": "M6H4dBxRIxwbN",
-      "title": "SOGUTLU-PUTURGE (MALATYA)",
-      "magnitude": 1.9,
-      "depth_km": 4.2,
-      "date_utc": "2026-11-14 00:12:54",
-      "latitude": 38.2215,
-      "longitude": 38.606,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "PpsJKuGuaS_Pk",
-      "title": "AKKOCALI-AKHISAR (MANISA)",
-      "magnitude": 1.5,
-      "depth_km": 11.4,
-      "date_utc": "2026-11-13 23:59:47",
-      "latitude": 39.1955,
-      "longitude": 27.9898,
-      "location_name": "Manisa"
     }
   ]
 }
