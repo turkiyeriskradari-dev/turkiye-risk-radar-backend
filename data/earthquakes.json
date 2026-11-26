@@ -1,8 +1,378 @@
 {
   "source": "Kandilli Rasathanesi (api.orhanaydogdu.com.tr uzerinden)",
-  "last_updated": "2026-11-26T02:56:18.247696+00:00",
-  "record_count": 97,
+  "last_updated": "2026-11-26T11:42:21.636602+00:00",
+  "record_count": 100,
   "data": [
+    {
+      "id": "lEvXbRO2KJ8Vs",
+      "title": "KUSADASI KORFEZI (EGE DENIZI)",
+      "magnitude": 1.9,
+      "depth_km": 12.4,
+      "date_utc": "2026-11-26 14:11:15",
+      "latitude": 37.853,
+      "longitude": 26.8772,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "3tFQ9o9ghb_Gt",
+      "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+      "magnitude": 2.2,
+      "depth_km": 5,
+      "date_utc": "2026-11-26 13:40:43",
+      "latitude": 40.1807,
+      "longitude": 31.761,
+      "location_name": "Ankara"
+    },
+    {
+      "id": "mcaS0EpfgEKfz",
+      "title": "YANIKLAR-FETHIYE (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 13.4,
+      "date_utc": "2026-11-26 13:32:33",
+      "latitude": 36.7022,
+      "longitude": 28.9992,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "ouEGsgA0UIqJA",
+      "title": "MIDILLI ADASI (EGE DENIZI)",
+      "magnitude": 1.6,
+      "depth_km": 10.2,
+      "date_utc": "2026-11-26 13:07:04",
+      "latitude": 39.1805,
+      "longitude": 26.4315,
+      "location_name": "Yunanistan"
+    },
+    {
+      "id": "2k7JW_0NgkQGP",
+      "title": "ONIKI ADALAR (EGE DENIZI)",
+      "magnitude": 1.8,
+      "depth_km": 8.3,
+      "date_utc": "2026-11-26 12:58:07",
+      "latitude": 36.1517,
+      "longitude": 27.3037,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "M99DIGM4F1ipS",
+      "title": "DORTYOL (HATAY)",
+      "magnitude": 1.3,
+      "depth_km": 25.4,
+      "date_utc": "2026-11-26 12:14:47",
+      "latitude": 36.8282,
+      "longitude": 36.212,
+      "location_name": "Hatay"
+    },
+    {
+      "id": "exmJZwaiibgrR",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 2,
+      "depth_km": 0,
+      "date_utc": "2026-11-26 12:06:51",
+      "latitude": 37.1248,
+      "longitude": 27.8613,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "zug7Og1lJwnpH",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 5.1,
+      "date_utc": "2026-11-26 11:45:25",
+      "latitude": 37.1385,
+      "longitude": 27.8753,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "3243MQM5gB5oj",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 14.8,
+      "date_utc": "2026-11-26 11:35:18",
+      "latitude": 37.1388,
+      "longitude": 27.8745,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "Yfniq4UyBN_xs",
+      "title": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
+      "magnitude": 1.7,
+      "depth_km": 35.2,
+      "date_utc": "2026-11-26 10:58:04",
+      "latitude": 36.5098,
+      "longitude": 28.9028,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "cn36veigu6AYB",
+      "title": "AKDENIZ",
+      "magnitude": 1.5,
+      "depth_km": 15.8,
+      "date_utc": "2026-11-26 10:27:26",
+      "latitude": 36.476,
+      "longitude": 28.598,
+      "location_name": "Akdeniz Açıkları (Türkiye)"
+    },
+    {
+      "id": "UOYXcmMaHbqyS",
+      "title": "BAYIRKOY-MILAS (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 5.3,
+      "date_utc": "2026-11-26 09:51:48",
+      "latitude": 37.1175,
+      "longitude": 27.881,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "UyPGT0uGVNQq5",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.3,
+      "depth_km": 4,
+      "date_utc": "2026-11-26 09:41:32",
+      "latitude": 37.1357,
+      "longitude": 27.8792,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "u_8JemWVSDVYP",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.9,
+      "depth_km": 9,
+      "date_utc": "2026-11-26 09:20:09",
+      "latitude": 37.13,
+      "longitude": 27.8715,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "F_Y0_ibh48YPO",
+      "title": "AKDENIZ",
+      "magnitude": 2.3,
+      "depth_km": 18.7,
+      "date_utc": "2026-11-26 09:06:00",
+      "latitude": 34.7492,
+      "longitude": 32.5647,
+      "location_name": "Kıbrıs"
+    },
+    {
+      "id": "t0Y1Lfr0PW7Nl",
+      "title": "BAYIRKOY-MILAS (MUGLA)",
+      "magnitude": 2.7,
+      "depth_km": 11.9,
+      "date_utc": "2026-11-26 08:10:42",
+      "latitude": 37.1155,
+      "longitude": 27.8765,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "ZyHrRVMn8J9Up",
+      "title": "KOZLU-(BOLU)",
+      "magnitude": 1.9,
+      "depth_km": 5.3,
+      "date_utc": "2026-11-26 08:10:26",
+      "latitude": 40.8323,
+      "longitude": 31.5835,
+      "location_name": "Bolu"
+    },
+    {
+      "id": "Aa4sjv8Qsz28A",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 11.9,
+      "date_utc": "2026-11-26 07:57:25",
+      "latitude": 37.1367,
+      "longitude": 27.8863,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "HaqKiiiS7BDrR",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 5.3,
+      "date_utc": "2026-11-26 07:55:40",
+      "latitude": 37.1328,
+      "longitude": 27.8848,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "PIyf5s2DA_Zdu",
+      "title": "SEKKOY-MILAS (MUGLA)",
+      "magnitude": 1.5,
+      "depth_km": 11.5,
+      "date_utc": "2026-11-26 07:54:04",
+      "latitude": 37.1437,
+      "longitude": 27.9028,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "6x50nIfR4uNCa",
+      "title": "SEKKOY-MILAS (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 11.3,
+      "date_utc": "2026-11-26 07:51:21",
+      "latitude": 37.1392,
+      "longitude": 27.9093,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "lBOdSLDpQ6blv",
+      "title": "EGE DENIZI",
+      "magnitude": 2.4,
+      "depth_km": 9.2,
+      "date_utc": "2026-11-26 07:50:43",
+      "latitude": 35.8698,
+      "longitude": 25.4517,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "QEl3APjXxVWMs",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.8,
+      "depth_km": 13.8,
+      "date_utc": "2026-11-26 07:46:29",
+      "latitude": 37.1313,
+      "longitude": 27.8748,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "LpsA9lZGhJDIz",
+      "title": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
+      "magnitude": 1,
+      "depth_km": 16.4,
+      "date_utc": "2026-11-26 07:26:17",
+      "latitude": 38.0873,
+      "longitude": 37.1392,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "0IX6KA4fx1M_Q",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 2.1,
+      "depth_km": 12.8,
+      "date_utc": "2026-11-26 07:24:07",
+      "latitude": 37.1283,
+      "longitude": 27.8733,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "xbWAPOz2c4cGw",
+      "title": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
+      "magnitude": 2,
+      "depth_km": 5.4,
+      "date_utc": "2026-11-26 07:10:24",
+      "latitude": 37.848,
+      "longitude": 36.4383,
+      "location_name": "Kahramanmaraş"
+    },
+    {
+      "id": "DSj2SawjLyllZ",
+      "title": "KORU-CINARCIK (YALOVA)",
+      "magnitude": 1.3,
+      "depth_km": 8.7,
+      "date_utc": "2026-11-26 07:09:39",
+      "latitude": 40.7573,
+      "longitude": 29.1192,
+      "location_name": "Marmara Denizi"
+    },
+    {
+      "id": "JOjgAiQVQWW30",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 14.1,
+      "date_utc": "2026-11-26 07:01:31",
+      "latitude": 37.1208,
+      "longitude": 27.8775,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "fJgRgWpSEmpnB",
+      "title": "KAYADERE-MILAS (MUGLA)",
+      "magnitude": 1.4,
+      "depth_km": 25,
+      "date_utc": "2026-11-26 06:55:58",
+      "latitude": 37.2105,
+      "longitude": 27.8882,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "7lp6KKOgspM6W",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.5,
+      "depth_km": 15.4,
+      "date_utc": "2026-11-26 06:41:44",
+      "latitude": 37.1467,
+      "longitude": 27.8608,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "Ux9iF0fJpmNuy",
+      "title": "DENIZKOY-DIKILI (IZMIR)",
+      "magnitude": 1.9,
+      "depth_km": 6.9,
+      "date_utc": "2026-11-26 06:37:47",
+      "latitude": 38.9327,
+      "longitude": 26.7438,
+      "location_name": "Ege Denizi"
+    },
+    {
+      "id": "9ypvCXF4jKI8Q",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.1,
+      "depth_km": 1.9,
+      "date_utc": "2026-11-26 06:35:03",
+      "latitude": 37.1402,
+      "longitude": 27.8642,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "2axsGUiXRtjJH",
+      "title": "SEKKOY-MILAS (MUGLA)",
+      "magnitude": 1.6,
+      "depth_km": 11.8,
+      "date_utc": "2026-11-26 06:32:44",
+      "latitude": 37.1228,
+      "longitude": 27.8873,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "WteZPh_jA4kTO",
+      "title": "BAYIRKOY-MILAS (MUGLA)",
+      "magnitude": 1.7,
+      "depth_km": 14.3,
+      "date_utc": "2026-11-26 06:23:00",
+      "latitude": 37.1198,
+      "longitude": 27.8807,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "BSqTDrAy5Oyfx",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.8,
+      "depth_km": 11.7,
+      "date_utc": "2026-11-26 05:58:45",
+      "latitude": 37.1235,
+      "longitude": 27.8648,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "nwBTGLYM9L_TT",
+      "title": "BAGDAMLARI-MILAS (MUGLA)",
+      "magnitude": 1.2,
+      "depth_km": 11,
+      "date_utc": "2026-11-26 05:55:34",
+      "latitude": 37.1373,
+      "longitude": 27.8803,
+      "location_name": "Muğla"
+    },
+    {
+      "id": "TibP1sJW38Jmf",
+      "title": "KAYADERE-MILAS (MUGLA)",
+      "magnitude": 1,
+      "depth_km": 15.8,
+      "date_utc": "2026-11-26 05:50:04",
+      "latitude": 37.202,
+      "longitude": 27.903,
+      "location_name": "Muğla"
+    },
     {
       "id": "jUuIomag6yyy9",
       "title": "GURKAYNAK-AKCADAG (MALATYA)",
@@ -632,346 +1002,6 @@
       "latitude": 37.1415,
       "longitude": 27.8587,
       "location_name": "Muğla"
-    },
-    {
-      "id": "E7eSxJ8DUwmjP",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 2.8,
-      "depth_km": 12.7,
-      "date_utc": "2026-11-26 00:32:43",
-      "latitude": 39.1683,
-      "longitude": 28.2292,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "dFRNWOKIeRtxa",
-      "title": "TANYOLU-TASLICAY (AGRI)",
-      "magnitude": 1.7,
-      "depth_km": 5.7,
-      "date_utc": "2026-11-26 00:32:05",
-      "latitude": 39.7853,
-      "longitude": 43.5037,
-      "location_name": "Ağrı"
-    },
-    {
-      "id": "ane60z1nZBarF",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 2.7,
-      "date_utc": "2026-11-26 00:31:57",
-      "latitude": 37.1412,
-      "longitude": 27.8627,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "ebZ851F9UxxAe",
-      "title": "BAYRAKLI-SINDIRGI (BALIKESIR)",
-      "magnitude": 1.4,
-      "depth_km": 13.1,
-      "date_utc": "2026-11-26 00:14:34",
-      "latitude": 39.1453,
-      "longitude": 28.2322,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "lHojfac298_ec",
-      "title": "EGE DENIZI",
-      "magnitude": 1.8,
-      "depth_km": 3.9,
-      "date_utc": "2026-11-26 00:14:16",
-      "latitude": 36.1062,
-      "longitude": 27.1083,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "rtw9IxS626gU7",
-      "title": "EGE DENIZI",
-      "magnitude": 2.3,
-      "depth_km": 7,
-      "date_utc": "2026-11-26 00:06:30",
-      "latitude": 36.1227,
-      "longitude": 27.0143,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "P0LHQ6aEFYR9t",
-      "title": "YUREKKAYA-SIVRICE (ELAZIG)",
-      "magnitude": 3.1,
-      "depth_km": 5.6,
-      "date_utc": "2026-11-26 00:05:28",
-      "latitude": 38.3543,
-      "longitude": 38.9435,
-      "location_name": "Elazığ"
-    },
-    {
-      "id": "jUAbZXtXvrRvb",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 4.3,
-      "date_utc": "2026-11-25 23:46:06",
-      "latitude": 37.121,
-      "longitude": 27.8705,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "yLKlO91HzjC3_",
-      "title": "AKDENIZ",
-      "magnitude": 1.1,
-      "depth_km": 22.3,
-      "date_utc": "2026-11-25 23:35:05",
-      "latitude": 36.591,
-      "longitude": 28.3233,
-      "location_name": "Akdeniz Açıkları (Türkiye)"
-    },
-    {
-      "id": "bzYCnLtliU4Bt",
-      "title": "ORLEMIS-BERGAMA (IZMIR)",
-      "magnitude": 1.6,
-      "depth_km": 9.1,
-      "date_utc": "2026-11-25 23:29:11",
-      "latitude": 38.944,
-      "longitude": 27.1017,
-      "location_name": "İzmir"
-    },
-    {
-      "id": "rCVSEbXPV_Sr0",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 5.3,
-      "date_utc": "2026-11-25 23:17:43",
-      "latitude": 37.1375,
-      "longitude": 27.867,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "hFcfxRAfxd6OH",
-      "title": "TANYOLU-TASLICAY (AGRI)",
-      "magnitude": 2.4,
-      "depth_km": 2.4,
-      "date_utc": "2026-11-25 23:15:25",
-      "latitude": 39.738,
-      "longitude": 43.5195,
-      "location_name": "Ağrı"
-    },
-    {
-      "id": "H_lKjtQd05Q9H",
-      "title": "CANBAZLI-AHMETLI (MANISA)",
-      "magnitude": 2,
-      "depth_km": 14,
-      "date_utc": "2026-11-25 22:45:37",
-      "latitude": 38.5642,
-      "longitude": 27.8297,
-      "location_name": "Manisa"
-    },
-    {
-      "id": "jPLA_CN10viL6",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 10.6,
-      "date_utc": "2026-11-25 22:35:21",
-      "latitude": 37.147,
-      "longitude": 27.88,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "dl5aiGgjV3HQD",
-      "title": "SUBASI-(HATAY)",
-      "magnitude": 1.5,
-      "depth_km": 8.1,
-      "date_utc": "2026-11-25 22:32:09",
-      "latitude": 36.1837,
-      "longitude": 36.1222,
-      "location_name": "Hatay"
-    },
-    {
-      "id": "4Z6ynpCFgwGN8",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.9,
-      "depth_km": 4,
-      "date_utc": "2026-11-25 22:29:29",
-      "latitude": 37.1265,
-      "longitude": 27.8688,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "GHJyY_1KDpOfr",
-      "title": "IKIZKOY-MILAS (MUGLA)",
-      "magnitude": 1.6,
-      "depth_km": 11.3,
-      "date_utc": "2026-11-25 22:23:22",
-      "latitude": 37.1618,
-      "longitude": 27.8402,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "TPN_iY1o9Upk7",
-      "title": "PINARARASI-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 5.3,
-      "date_utc": "2026-11-25 22:22:02",
-      "latitude": 37.1342,
-      "longitude": 27.8182,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "oMrUSFEkfEP8K",
-      "title": "CAMKOY-MILAS (MUGLA)",
-      "magnitude": 1.5,
-      "depth_km": 11.9,
-      "date_utc": "2026-11-25 22:21:47",
-      "latitude": 37.2072,
-      "longitude": 27.8567,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "uqJY58k6l4XBi",
-      "title": "GUNDEGER-PUTURGE (MALATYA)",
-      "magnitude": 1.2,
-      "depth_km": 1.1,
-      "date_utc": "2026-11-25 22:14:41",
-      "latitude": 38.3143,
-      "longitude": 38.8298,
-      "location_name": "Malatya"
-    },
-    {
-      "id": "uw8wnlSMAzRxy",
-      "title": "ARMUTALAN-(BALIKESIR)",
-      "magnitude": 1.3,
-      "depth_km": 2.8,
-      "date_utc": "2026-11-25 22:06:43",
-      "latitude": 39.827,
-      "longitude": 27.7882,
-      "location_name": "Balıkesir"
-    },
-    {
-      "id": "Sk7CAJbflHmFm",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 5.2,
-      "date_utc": "2026-11-25 21:48:37",
-      "latitude": 37.1477,
-      "longitude": 27.8678,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "U6wOZgXJ7WNlm",
-      "title": "PINARARASI-MILAS (MUGLA)",
-      "magnitude": 1.4,
-      "depth_km": 5.1,
-      "date_utc": "2026-11-25 21:48:04",
-      "latitude": 37.1148,
-      "longitude": 27.8522,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "Qu52hTk8xDf46",
-      "title": "KEMALPASA-GOKSUN (KAHRAMANMARAS)",
-      "magnitude": 1.6,
-      "depth_km": 5.1,
-      "date_utc": "2026-11-25 21:47:27",
-      "latitude": 38.128,
-      "longitude": 36.9153,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "hF5382T0NfUqN",
-      "title": "PINARARASI-MILAS (MUGLA)",
-      "magnitude": 1.7,
-      "depth_km": 10.6,
-      "date_utc": "2026-11-25 21:46:00",
-      "latitude": 37.1317,
-      "longitude": 27.8498,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "3E42mHF1pSRbZ",
-      "title": "SEKLI-BEYPAZARI (ANKARA)",
-      "magnitude": 2,
-      "depth_km": 8.3,
-      "date_utc": "2026-11-25 21:45:22",
-      "latitude": 40.2075,
-      "longitude": 31.7018,
-      "location_name": "Ankara"
-    },
-    {
-      "id": "5qA4Zb_VHZYSr",
-      "title": "BAGDAMLARI-MILAS (MUGLA)",
-      "magnitude": 2.1,
-      "depth_km": 11.3,
-      "date_utc": "2026-11-25 21:42:35",
-      "latitude": 37.1332,
-      "longitude": 27.8613,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "sdG_2v_rRiyKG",
-      "title": "EGE DENIZI",
-      "magnitude": 1.5,
-      "depth_km": 9.6,
-      "date_utc": "2026-11-25 21:34:38",
-      "latitude": 38.8103,
-      "longitude": 25.9837,
-      "location_name": "Ege Denizi"
-    },
-    {
-      "id": "PNcQvzK_aoe_l",
-      "title": "KAYALAR-GEVAS (VAN)",
-      "magnitude": 1.6,
-      "depth_km": 3.3,
-      "date_utc": "2026-11-25 21:32:39",
-      "latitude": 38.202,
-      "longitude": 42.9683,
-      "location_name": "Van"
-    },
-    {
-      "id": "qJ6vcDQp4LmMq",
-      "title": "TURKIYE-ERMENISTAN SINIR BOLGESI",
-      "magnitude": 1.8,
-      "depth_km": 16.2,
-      "date_utc": "2026-11-25 21:23:44",
-      "latitude": 40.0473,
-      "longitude": 44.5773,
-      "location_name": "Ermenistan"
-    },
-    {
-      "id": "nHvi66cNzD6VK",
-      "title": "KULLAR-NURHAK (KAHRAMANMARAS)",
-      "magnitude": 1.4,
-      "depth_km": 4.2,
-      "date_utc": "2026-11-25 21:21:35",
-      "latitude": 37.9697,
-      "longitude": 37.5108,
-      "location_name": "Kahramanmaraş"
-    },
-    {
-      "id": "_7Q4l0IWftEaN",
-      "title": "AYITDERE-BIGA (CANAKKALE)",
-      "magnitude": 1.2,
-      "depth_km": 12.1,
-      "date_utc": "2026-11-25 21:17:20",
-      "latitude": 40.3717,
-      "longitude": 27.0152,
-      "location_name": "Çanakkale"
-    },
-    {
-      "id": "p4jXUFXDt86jM",
-      "title": "PINARARASI-MILAS (MUGLA)",
-      "magnitude": 1.3,
-      "depth_km": 3.4,
-      "date_utc": "2026-11-25 21:12:21",
-      "latitude": 37.1165,
-      "longitude": 27.8607,
-      "location_name": "Muğla"
-    },
-    {
-      "id": "trtGEczMuriBA",
-      "title": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-      "magnitude": 1.7,
-      "depth_km": 10.6,
-      "date_utc": "2026-11-25 21:10:12",
-      "latitude": 39.514,
-      "longitude": 25.9887,
-      "location_name": "Ege Denizi"
     }
   ]
 }
